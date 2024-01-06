@@ -1,0 +1,7 @@
+{
+    "description": "Standard Template for inference on multilingual QA val dataset.",
+    "instruction_use": true,
+    "persona_info": "You are an excellent question responder.",
+    "instruction": "Please correctly answer the following questions.\n\n",
+    "prompt_input": "{}# Question #: {}\n# Answer #: "
+}

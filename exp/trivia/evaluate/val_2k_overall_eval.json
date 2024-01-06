@@ -1,0 +1,19 @@
+{"Langauge": "English", "EM score": 63.6, "F1 score": 73.12, "NLI score": 74.6}
+{"Langauge": "French English", "EM score": 33.9, "F1 score": 50.11, "NLI score": 48.25}
+{"Langauge": "French", "EM score": 33.9, "F1 score": 50.11, "NLI score": 54.65}
+{"Langauge": "Chinese English", "EM score": 19.86, "F1 score": 20.05, "NLI score": 25.26}
+{"Langauge": "Chinese", "EM score": 19.85, "F1 score": 20.04, "NLI score": 28.6}
+{"Langauge": "Korean English", "EM score": 15.7, "F1 score": 21.48, "NLI score": 20.75}
+{"Langauge": "Korean", "EM score": 15.7, "F1 score": 21.48, "NLI score": 21.35}
+{"Langauge": "German English", "EM score": 44.55, "F1 score": 53.33, "NLI score": 51.65}
+{"Langauge": "German", "EM score": 44.55, "F1 score": 53.33, "NLI score": 59.6}
+{"Langauge": "Japenese English", "EM score": 29.45, "F1 score": 29.75, "NLI score": 35.55}
+{"Langauge": "Japenese", "EM score": 29.45, "F1 score": 29.75, "NLI score": 37.4}
+{"Langauge": "Arabic English", "EM score": 17.95, "F1 score": 25.3, "NLI score": 22.05}
+{"Langauge": "Arabic", "EM score": 17.95, "F1 score": 25.3, "NLI score": 32.55}
+{"Langauge": "Indonesian English", "EM score": 36.1, "F1 score": 47.11, "NLI score": 43.4}
+{"Langauge": "Indonesian", "EM score": 36.1, "F1 score": 47.11, "NLI score": 42.95}
+{"Langauge": "Italian English", "EM score": 39.15, "F1 score": 51.86, "NLI score": 49.0}
+{"Langauge": "Italian", "EM score": 39.15, "F1 score": 51.86, "NLI score": 47.0}
+{"Langauge": "Thai English", "EM score": 4.85, "F1 score": 6.12, "NLI score": 8.45}
+{"Langauge": "Thai", "EM score": 4.85, "F1 score": 6.12, "NLI score": 9.7}
