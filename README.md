@@ -1,2 +1,2 @@
-# MlingUQ
-MlingUQ: Advanced Uncertainty Quantification for Large Language Model Generations over Multilingual Queries
+# MlingConf
+MlingConf: Advanced Confidence Estimation for Large Language Model Generations over Multilingual Queries
