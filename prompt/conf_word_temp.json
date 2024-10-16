@@ -1,0 +1,10 @@
+{
+    "description": "Standard Template to obtain self-estimated verbalized confidence the generated answer on multilingual QA val dataset correct or not.",
+    "instruction_use": false,
+    "persona_info": {
+        "en": "You are an excellent estimator.\n"
+    },
+    "prompt_input": {
+        "en": "Provide your best estimated confidence degree that the proposed answer is correct using one given word in [ lowest low medium high highest ] for the following question. Give ONLY one word, no other words or explanation.\n# Question #: {}\n# Proposed Answer #: {}\n# Your estimated confidence degree #: "
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "description": "Standard Template to get the P(True) of the generated answer on multilingual QA val dataset.",
+    "instruction_use": false,
+    "persona_info": {
+        "en": "You are an excellent referee to judge the answer correct or not.\n",
+        "zh": "你是一个出色的判断者来评判问题的回答正确还是错误。\n",
+        "ja": "あなたは、答えが正しいかどうかを判断する優れた審判です。\n",
+        "ko": "정답 여부를 판단할 수 있는 훌륭한 심판입니다.\n",
+        "fr": "Vous êtes un excellent arbitre pour juger la réponse correcte ou non.\n",
+        "de": "Sie sind ein hervorragender Schiedsrichter, um zu beurteilen, ob die Antwort richtig ist oder nicht.\n",
+        "id": "Anda adalah wasit yang sangat baik untuk menilai jawaban yang benar atau tidak.\n",
+        "it": "Sei un ottimo arbitro per giudicare la risposta corretta o meno.\n",
+        "ar": "أنت حكم ممتاز للحكم على الإجابة صحيحة أم لا.\n",
+        "th": "คุณเป็นผู้ตัดสินที่ยอดเยี่ยมในการตัดสินว่าคำตอบถูกหรือไม่\n"
+    },
+    "prompt_input": {
+        "en": "# Question #: {}\n# Proposed Answer #: {}\n\nIs the proposed answer:\nTrue\nFalse\nThe possible answer is: ",
+        "zh": "# 问题 #: {}\n# 模型回答 #: {}\n\n请判断这个问题的回答是正确的吗:\n正确\n错误\n你的判断是:",
+        "ja": "# 質問 #: {}\n# 提案された回答 #: {}\n\n提案された答えは\n真\n誤り\n可能な答えは:",
+        "ko": "# 질문 #: {}\n# 제안된 답변 #: {}\n\n제안된 답변이:\n참\n거짓\n가능한 대답은 다음과 같습니다:",
+        "fr": "# Question # : {}\n# Réponse proposée : {}\n\nEst la réponse proposée :\nVrai\nFaux\nLa réponse possible est :",
+        "de": "# Frage #: {}\n# Vorgeschlagene Antwort #: {}\n\nIst die vorgeschlagene Antwort:\nRichtig\nFalsch\nDie mögliche Antwort ist:",
+        "id": "# Pertanyaan #: {}\n# Jawaban yang Diusulkan #: {}\n\nApakah jawaban yang diusulkan:\nBenar\nSalah\nJawaban yang mungkin adalah:",
+        "it": "# Domanda #: {}\n# Risposta proposta #: {}\n\nLa risposta proposta è:\nVero\nFalso\nLa risposta possibile è:",
+        "ar": "# سؤال #: {}\n# الإجابة المقترحة #: {}\n\nهل الإجابة المقترحة:\nصحيح\nخطأ\nالإجابة المحتملة هي:",
+        "th": "# คำถาม #: {}\n# คำตอบที่เสนอ #: {}\n\nคำตอบที่เสนอคือ:\nจริง\nเท็จ\nคำตอบที่เป็นไปได้คือ:"
+    }
+}

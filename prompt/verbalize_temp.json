@@ -1,0 +1,10 @@
+{
+    "description": "Standard Template to obtain self-estimated verbalized confidence the generated answer on multilingual QA val dataset correct or not.",
+    "instruction_use": false,
+    "persona_info": {
+        "en": "You are an excellent estimator.\n"
+    },
+    "prompt_input": {
+        "en": "Provide your best estimated probability that the proposed answer is correct (0.0 to 1.0) for the following question. Give ONLY the probability, no other words or explanation.\n# Question #: {}\n# Proposed Answer #: {}\n# Your estimated probability #: "
+    }
+}

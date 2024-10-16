@@ -1,0 +1,1058 @@
+[
+    {
+        "question": {
+            "en": "What is the capital of the United Kingdom?",
+            "zh": "英国的首都是什么？",
+            "th": "กรุงเทพฯ ของสหราชอาณาจักรคืออะไร?",
+            "ja": "イギリスの首都は何ですか？",
+            "fr": "Quelle est la capitale du Royaume-Uni ?"
+        },
+        "answer": {
+            "en": "The capital of the United Kingdom is London.",
+            "zh": "英国的首都是伦敦。",
+            "th": "กรุงเทพฯ ของสหราชอาณาจักรคือลอนดอน",
+            "ja": "イギリスの首都はロンドンです。",
+            "fr": "La capitale du Royaume-Uni est Londres."
+        }
+    },
+    {
+        "question": {
+            "en": "Who is the current monarch of the United Kingdom?",
+            "zh": "当前英国的君主是谁？",
+            "th": "ปัจจุบันใครคือกษัตริย์ของสหราชอาณาจักร?",
+            "ja": "現在のイギリスの君主は誰ですか？",
+            "fr": "Qui est l'actuel monarque du Royaume-Uni ?"
+        },
+        "answer": {
+            "en": "The current monarch of the United Kingdom is King Charles III.",
+            "zh": "当前英国的君主是查尔斯三世国王。",
+            "th": "ปัจจุบันกษัตริย์ของสหราชอาณาจักรคือพระเจ้าชาร์ลส์ที่ 3",
+            "ja": "現在のイギリスの君主はチャールズ3世です。",
+            "fr": "L'actuel monarque du Royaume-Uni est le roi Charles III."
+        }
+    },
+    {
+        "question": {
+            "en": "What is the traditional dish of the United Kingdom known as?",
+            "zh": "英国的传统菜肴是什么？",
+            "th": "อาหารดั้งเดิมของสหราชอาณาจักรคืออะไร?",
+            "ja": "イギリスの伝統料理は何ですか？",
+            "fr": "Quel est le plat traditionnel du Royaume-Uni ?"
+        },
+        "answer": {
+            "en": "The traditional dish of the United Kingdom is fish and chips.",
+            "zh": "英国的传统菜肴是炸鱼薯条。",
+            "th": "อาหารดั้งเดิมของสหราชอาณาจักรคือปลาทอดกับมันฝรั่งทอด",
+            "ja": "イギリスの伝統料理はフィッシュアンドチップスです。",
+            "fr": "Le plat traditionnel du Royaume-Uni est le fish and chips."
+        }
+    },
+    {
+        "question": {
+            "en": "Which famous clock is located in London?",
+            "zh": "伦敦有哪个著名的钟表？",
+            "th": "นาฬิกาที่มีชื่อเสียงตั้งอยู่ที่ลอนดอนคืออะไร?",
+            "ja": "ロンドンにある有名な時計は何ですか？",
+            "fr": "Quelle célèbre horloge se trouve à Londres ?"
+        },
+        "answer": {
+            "en": "The famous clock located in London is Big Ben.",
+            "zh": "伦敦的著名钟表是大本钟。",
+            "th": "นาฬิกาที่มีชื่อเสียงที่ลอนดอนคือบิ๊กเบน",
+            "ja": "ロンドンにある有名な時計はビッグベンです。",
+            "fr": "L'horloge célèbre située à Londres est Big Ben."
+        }
+    },
+    {
+        "question": {
+            "en": "What is the name of the river that flows through London?",
+            "zh": "流经伦敦的河流叫什么名字？",
+            "th": "ชื่อของแม่น้ำที่ไหลผ่านลอนดอนคืออะไร?",
+            "ja": "ロンドンを流れる川の名前は何ですか？",
+            "fr": "Quel est le nom de la rivière qui traverse Londres ?"
+        },
+        "answer": {
+            "en": "The river that flows through London is the Thames.",
+            "zh": "流经伦敦的河流是泰晤士河。",
+            "th": "แม่น้ำที่ไหลผ่านลอนดอนคือแม่น้ำเทมส์",
+            "ja": "ロンドンを流れる川はテムズ川です。",
+            "fr": "La rivière qui traverse Londres est la Tamise."
+        }
+    },
+    {
+        "question": {
+            "en": "What is the name of the famous British museum located in London?",
+            "zh": "位于伦敦的著名英国博物馆叫什么名字？",
+            "th": "ชื่อของพิพิธภัณฑ์อังกฤษที่มีชื่อเสียงที่ตั้งอยู่ในลอนดอนคืออะไร?",
+            "ja": "ロンドンにある有名な英国の博物館の名前は何ですか？",
+            "fr": "Quel est le nom du célèbre musée britannique situé à Londres ?"
+        },
+        "answer": {
+            "en": "The famous British museum located in London is the British Museum.",
+            "zh": "位于伦敦的著名英国博物馆是大英博物馆。",
+            "th": "พิพิธภัณฑ์อังกฤษที่มีชื่อเสียงที่ตั้งอยู่ในลอนดอนคือพิพิธภัณฑ์บริติช",
+            "ja": "ロンドンにある有名な英国の博物館は大英博物館です。",
+            "fr": "Le célèbre musée britannique situé à Londres est le British Museum."
+        }
+    },
+    {
+        "question": {
+            "en": "What historical event in 1066 significantly changed England?",
+            "zh": "1066年的哪个历史事件显著改变了英格兰？",
+            "th": "เหตุการณ์ทางประวัติศาสตร์ในปี 1066 ที่เปลี่ยนแปลงอังกฤษอย่างมากคืออะไร?",
+            "ja": "1066年に起こったどの歴史的事件がイングランドを大きく変えましたか？",
+            "fr": "Quel événement historique en 1066 a significativement changé l'Angleterre ?"
+        },
+        "answer": {
+            "en": "The historical event in 1066 that significantly changed England was the Norman Conquest.",
+            "zh": "1066年显著改变英格兰的历史事件是诺曼征服。",
+            "th": "เหตุการณ์ทางประวัติศาสตร์ในปี 1066 ที่เปลี่ยนแปลงอังกฤษอย่างมากคือการพิชิตของนอร์แมน",
+            "ja": "1066年にイングランドを大きく変えた歴史的事件はノルマン征服です。",
+            "fr": "L'événement historique en 1066 qui a significativement changé l'Angleterre était la Conquête normande."
+        }
+    },
+    {
+        "question": {
+            "en": "What is the highest mountain in the United Kingdom?",
+            "zh": "英国最高的山是哪座？",
+            "th": "ภูเขาที่สูงที่สุดในสหราชอาณาจักรคืออะไร?",
+            "ja": "イギリスで最も高い山は何ですか？",
+            "fr": "Quelle est la plus haute montagne du Royaume-Uni ?"
+        },
+        "answer": {
+            "en": "The highest mountain in the United Kingdom is Ben Nevis.",
+            "zh": "英国最高的山是本尼维斯山。",
+            "th": "ภูเขาที่สูงที่สุดในสหราชอาณาจักรคือเบนเนวิส",
+            "ja": "イギリスで最も高い山はベンネビスです。",
+            "fr": "La plus haute montagne du Royaume-Uni est le Ben Nevis."
+        }
+    },
+    {
+        "question": {
+            "en": "What is the official residence of the British monarch in London?",
+            "zh": "英国君主在伦敦的官方住所是什么？",
+            "th": "ที่พักอย่างเป็นทางการของกษัตริย์อังกฤษในลอนดอนคืออะไร?",
+            "ja": "ロンドンにあるイギリス君主の公式住居は何ですか？",
+            "fr": "Quelle est la résidence officielle du monarque britannique à Londres ?"
+        },
+        "answer": {
+            "en": "The official residence of the British monarch in London is Buckingham Palace.",
+            "zh": "英国君主在伦敦的官方住所是白金汉宫。",
+            "th": "ที่พักอย่างเป็นทางการของกษัตริย์อังกฤษในลอนดอนคือพระราชวังบัคกิงแฮม",
+            "ja": "ロンドンにあるイギリス君主の公式住居はバッキンガム宮殿です。",
+            "fr": "La résidence officielle du monarque britannique à Londres est le Palais de Buckingham."
+        }
+    },
+    {
+        "question": {
+            "en": "Which UK city is known for its historic docks and was a major port during the transatlantic slave trade?",
+            "zh": "哪个英国城市以其历史悠久的码头而闻名，并在跨大西洋奴隶贸易期间是一个主要港口？",
+            "th": "เมืองใดในสหราชอาณาจักรที่มีชื่อเสียงจากท่าเรือเก่าแก่และเป็นท่าเรือหลักในช่วงการค้าทาสข้ามมหาสมุทรแอตแลนติก?",
+            "ja": "歴史的なドックで知られ、大西洋横断奴隷貿易中に主要な港であった英国の都市はどこですか？",
+            "fr": "Quelle ville du Royaume-Uni est connue pour ses quais historiques et était un port majeur pendant la traite transatlantique des esclaves ?"
+        },
+        "answer": {
+            "en": "The city known for its historic docks and was a major port during the transatlantic slave trade is Liverpool.",
+            "zh": "以其历史悠久的码头而闻名并在跨大西洋奴隶贸易期间是一个主要港口的城市是利物浦。",
+            "th": "เมืองที่มีชื่อเสียงจากท่าเรือเก่าแก่และเป็นท่าเรือหลักในช่วงการค้าทาสข้ามมหาสมุทรแอตแลนติกคือลิเวอร์พูล",
+            "ja": "歴史的なドックで知られ、大西洋横断奴隷貿易中に主要な港であった都市はリバプールです。",
+            "fr": "La ville connue pour ses quais historiques et qui était un port majeur pendant la traite transatlantique des esclaves est Liverpool."
+        }
+    },
+    {
+        "question": {
+            "en": "What is the name of the famous annual rowing race between Oxford and Cambridge Universities?",
+            "zh": "牛津大学和剑桥大学之间的著名年度赛艇比赛叫什么名字？",
+            "th": "การแข่งขันพายเรือประจำปีระหว่างมหาวิทยาลัยอ๊อกซฟอร์ดและเคมบริดจ์มีชื่อว่าอะไร?",
+            "ja": "オックスフォード大学とケンブリッジ大学の間で行われる有名な年間ボートレースの名前は何ですか？",
+            "fr": "Quel est le nom de la célèbre course d'aviron annuelle entre les universités d'Oxford et de Cambridge ?"
+        },
+        "answer": {
+            "en": "The famous annual rowing race between Oxford and Cambridge Universities is called The Boat Race.",
+            "zh": "牛津大学和剑桥大学之间的著名年度赛艇比赛叫做划船比赛。",
+            "th": "การแข่งขันพายเรือประจำปีระหว่างมหาวิทยาลัยอ๊อกซฟอร์ดและเคมบริดจ์มีชื่อว่า The Boat Race",
+            "ja": "オックスフォード大学とケンブリッジ大学の間で行われる有名な年間ボートレースは「ザ・ボートレース」と呼ばれています。",
+            "fr": "La célèbre course d'aviron annuelle entre les universités d'Oxford et de Cambridge est appelée The Boat Race."
+        }
+    },
+    {
+        "question": {
+            "en": "Which British scientist is known for his theory of evolution by natural selection?",
+            "zh": "哪位英国科学家以他的自然选择进化论而闻名？",
+            "th": "นักวิทยาศาสตร์ชาวอังกฤษคนไหนที่เป็นที่รู้จักจากทฤษฎีการวิวัฒนาการโดยการคัดเลือกตามธรรมชาติ?",
+            "ja": "自然選択による進化理論で知られているイギリスの科学者は誰ですか？",
+            "fr": "Quel scientifique britannique est connu pour sa théorie de l'évolution par sélection naturelle ?"
+        },
+        "answer": {
+            "en": "The British scientist known for his theory of evolution by natural selection is Charles Darwin.",
+            "zh": "以自然选择进化论而闻名的英国科学家是查尔斯·达尔文。",
+            "th": "นักวิทยาศาสตร์ชาวอังกฤษที่เป็นที่รู้จักจากทฤษฎีการวิวัฒนาการโดยการคัดเลือกตามธรรมชาติคือชาร์ลส์ ดาร์วิน",
+            "ja": "自然選択による進化理論で知られているイギリスの科学者はチャールズ・ダーウィンです。",
+            "fr": "Le scientifique britannique connu pour sa théorie de l'évolution par sélection naturelle est Charles Darwin."
+        }
+    },
+    {
+        "question": {
+            "en": "What is the largest castle in England and where is it located?",
+            "zh": "英格兰最大的城堡是哪座，它位于哪里？",
+            "th": "ปราสาทที่ใหญ่ที่สุดในอังกฤษคือปราสาทอะไรและตั้งอยู่ที่ไหน?",
+            "ja": "イングランドで最大の城は何で、どこにありますか？",
+            "fr": "Quel est le plus grand château d'Angleterre et où se trouve-t-il ?"
+        },
+        "answer": {
+            "en": "The largest castle in England is Windsor Castle, located in Windsor, Berkshire.",
+            "zh": "英格兰最大的城堡是温莎城堡，位于伯克郡的温莎。",
+            "th": "ปราสาทที่ใหญ่ที่สุดในอังกฤษคือปราสาทวินเซอร์ซึ่งตั้งอยู่ที่วินเซอร์ ในเบิร์กเชียร์",
+            "ja": "イングランドで最大の城はウィンザー城で、バークシャーのウィンザーにあります。",
+            "fr": "Le plus grand château d'Angleterre est le château de Windsor, situé à Windsor, Berkshire."
+        }
+    },
+    {
+        "question": {
+            "en": "What is the traditional English breakfast consist of?",
+            "zh": "传统的英式早餐包括什么？",
+            "th": "อาหารเช้าแบบอังกฤษประกอบด้วยอะไรบ้าง?",
+            "ja": "伝統的なイギリスの朝食には何が含まれていますか？",
+            "fr": "De quoi se compose le petit-déjeuner anglais traditionnel ?"
+        },
+        "answer": {
+            "en": "The traditional English breakfast consists of bacon, eggs, sausages, baked beans, toast, mushrooms, and tomatoes.",
+            "zh": "传统的英式早餐包括培根、鸡蛋、香肠、烤豆、吐司、蘑菇和番茄。",
+            "th": "อาหารเช้าแบบอังกฤษประกอบด้วยเบคอน ไข่ ไส้กรอก ถั่วอบ ขนมปังปิ้ง เห็ด และมะเขือเทศ",
+            "ja": "伝統的なイギリスの朝食は、ベーコン、卵、ソーセージ、ベイクドビーンズ、トースト、マッシュルーム、トマトで構成されています。",
+            "fr": "Le petit-déjeuner anglais traditionnel se compose de bacon, œufs, saucisses, haricots cuits, pain grillé, champignons et tomates."
+        }
+    },
+    {
+        "question": {
+            "en": "Which UK city is famous for the Beatles?",
+            "zh": "哪个英国城市因甲壳虫乐队而闻名？",
+            "th": "เมืองใดในสหราชอาณาจักรที่มีชื่อเสียงจากวง The Beatles?",
+            "ja": "ビートルズで有名な英国の都市はどこですか？",
+            "fr": "Quelle ville du Royaume-Uni est célèbre pour les Beatles ?"
+        },
+        "answer": {
+            "en": "The UK city famous for the Beatles is Liverpool.",
+            "zh": "因甲壳虫乐队而闻名的英国城市是利物浦。",
+            "th": "เมืองในสหราชอาณาจักรที่มีชื่อเสียงจากวง The Beatles คือลิเวอร์พูล",
+            "ja": "ビートルズで有名な英国の都市はリバプールです。",
+            "fr": "La ville du Royaume-Uni célèbre pour les Beatles est Liverpool."
+        }
+    },
+    {
+        "question": {
+            "en": "What is the main currency used in the United Kingdom?",
+            "zh": "英国主要使用哪种货币？",
+            "th": "สกุลเงินหลักที่ใช้ในสหราชอาณาจักรคืออะไร?",
+            "ja": "イギリスで主に使用されている通貨は何ですか？",
+            "fr": "Quelle est la principale monnaie utilisée au Royaume-Uni ?"
+        },
+        "answer": {
+            "en": "The main currency used in the United Kingdom is the British Pound Sterling.",
+            "zh": "英国主要使用的货币是英镑。",
+            "th": "สกุลเงินหลักที่ใช้ในสหราชอาณาจักรคือปอนด์สเตอร์ลิง",
+            "ja": "イギリスで主に使用されている通貨は英ポンドです。",
+            "fr": "La principale monnaie utilisée au Royaume-Uni est la livre sterling."
+        }
+    },
+    {
+        "question": {
+            "en": "Which British author wrote 'Harry Potter'?",
+            "zh": "哪位英国作家写了《哈利·波特》？",
+            "th": "นักเขียนชาวอังกฤษคนไหนเขียน 'แฮร์รี่ พอตเตอร์'?",
+            "ja": "「ハリー・ポッター」を書いたイギリスの作家は誰ですか？",
+            "fr": "Quel auteur britannique a écrit 'Harry Potter' ?"
+        },
+        "answer": {
+            "en": "The British author who wrote 'Harry Potter' is J.K. Rowling.",
+            "zh": "写了《哈利·波特》的英国作家是J.K.罗琳。",
+            "th": "นักเขียนชาวอังกฤษที่เขียน 'แฮร์รี่ พอตเตอร์' คือ J.K. โรว์ลิง",
+            "ja": "「ハリー・ポッター」を書いたイギリスの作家はJ.K.ローリングです。",
+            "fr": "L'auteur britannique qui a écrit 'Harry Potter' est J.K. Rowling."
+        }
+    },
+    {
+        "question": {
+            "en": "What is the name of the famous prehistoric monument in Wiltshire, England?",
+            "zh": "英格兰威尔特郡的著名史前遗址叫什么名字？",
+            "th": "โบราณสถานที่มีชื่อเสียงในวิลต์เชียร์ อังกฤษมีชื่อว่าอะไร?",
+            "ja": "イングランドのウィルトシャーにある有名な先史時代の遺跡の名前は何ですか？",
+            "fr": "Quel est le nom du célèbre monument préhistorique situé dans le Wiltshire, en Angleterre ?"
+        },
+        "answer": {
+            "en": "The famous prehistoric monument in Wiltshire, England is called Stonehenge.",
+            "zh": "英格兰威尔特郡的著名史前遗址叫做巨石阵。",
+            "th": "โบราณสถานที่มีชื่อเสียงในวิลต์เชียร์ อังกฤษมีชื่อว่าสโตนเฮนจ์",
+            "ja": "イングランドのウィルトシャーにある有名な先史時代の遺跡の名前はストーンヘンジです。",
+            "fr": "Le célèbre monument préhistorique situé dans le Wiltshire, en Angleterre, est appelé Stonehenge."
+        }
+    },
+    {
+        "question": {
+            "en": "What is the largest lake in the UK?",
+            "zh": "英国最大的湖是什么？",
+            "th": "ทะเลสาบที่ใหญ่ที่สุดในสหราชอาณาจักรคืออะไร?",
+            "ja": "イギリスで最大の湖は何ですか？",
+            "fr": "Quel est le plus grand lac du Royaume-Uni ?"
+        },
+        "answer": {
+            "en": "The largest lake in the UK is Lough Neagh in Northern Ireland.",
+            "zh": "英国最大的湖是北爱尔兰的尼厄湖。",
+            "th": "ทะเลสาบที่ใหญ่ที่สุดในสหราชอาณาจักรคือทะเลสาบเนย์ในไอร์แลนด์เหนือ",
+            "ja": "イギリスで最大の湖は北アイルランドのロー・ネイです。",
+            "fr": "Le plus grand lac du Royaume-Uni est le Lough Neagh en Irlande du Nord."
+        }
+    },
+    {
+        "question": {
+            "en": "What is the oldest university in the UK?",
+            "zh": "英国最古老的大学是哪所？",
+            "th": "มหาวิทยาลัยที่เก่าแก่ที่สุดในสหราชอาณาจักรคือมหาวิทยาลัยใด?",
+            "ja": "イギリスで最も古い大学はどこですか？",
+            "fr": "Quelle est la plus ancienne université du Royaume-Uni ?"
+        },
+        "answer": {
+            "en": "The oldest university in the UK is the University of Oxford.",
+            "zh": "英国最古老的大学是牛津大学。",
+            "th": "มหาวิทยาลัยที่เก่าแก่ที่สุดในสหราชอาณาจักรคือมหาวิทยาลัยอ๊อกซฟอร์ด",
+            "ja": "イギリスで最も古い大学はオックスフォード大学です。",
+            "fr": "La plus ancienne université du Royaume-Uni est l'Université d'Oxford."
+        }
+    },
+    {
+        "question": {
+            "en": "What is the national flower of England?",
+            "zh": "英格兰的国花是什么？",
+            "th": "ดอกไม้ประจำชาติของอังกฤษคืออะไร?",
+            "ja": "イングランドの国花は何ですか？",
+            "fr": "Quelle est la fleur nationale de l'Angleterre ?"
+        },
+        "answer": {
+            "en": "The national flower of England is the rose.",
+            "zh": "英格兰的国花是玫瑰。",
+            "th": "ดอกไม้ประจำชาติของอังกฤษคือดอกกุหลาบ",
+            "ja": "イングランドの国花はバラです。",
+            "fr": "La fleur nationale de l'Angleterre est la rose."
+        }
+    },
+    {
+        "question": {
+            "en": "Which city is known as the 'Capital of the Highlands' in Scotland?",
+            "zh": "哪个城市被称为苏格兰的“高地之都”？",
+            "th": "เมืองใดที่รู้จักกันในนาม 'เมืองหลวงของไฮแลนด์' ในสกอตแลนด์?",
+            "ja": "どの都市がスコットランドの「ハイランドの首都」として知られていますか？",
+            "fr": "Quelle ville est connue comme la 'Capitale des Highlands' en Écosse ?"
+        },
+        "answer": {
+            "en": "The city known as the 'Capital of the Highlands' in Scotland is Inverness.",
+            "zh": "被称为苏格兰“高地之都”的城市是因弗内斯。",
+            "th": "เมืองที่รู้จักกันในนาม 'เมืองหลวงของไฮแลนด์' ในสกอตแลนด์คืออินเวอร์เนส",
+            "ja": "スコットランドの「ハイランドの首都」として知られる都市はインヴァネスです。",
+            "fr": "La ville connue comme la 'Capitale des Highlands' en Écosse est Inverness."
+        }
+    },
+    {
+        "question": {
+            "en": "What is the tallest building in the UK?",
+            "zh": "英国最高的建筑是什么？",
+            "th": "อาคารที่สูงที่สุดในสหราชอาณาจักรคืออะไร?",
+            "ja": "イギリスで最も高い建物は何ですか？",
+            "fr": "Quel est le plus haut bâtiment du Royaume-Uni ?"
+        },
+        "answer": {
+            "en": "The tallest building in the UK is The Shard in London.",
+            "zh": "英国最高的建筑是伦敦的碎片大厦。",
+            "th": "อาคารที่สูงที่สุดในสหราชอาณาจักรคือชาร์ดในลอนดอน",
+            "ja": "イギリスで最も高い建物はロンドンのザ・シャードです。",
+            "fr": "Le plus haut bâtiment du Royaume-Uni est The Shard à Londres."
+        }
+    },
+    {
+        "question": {
+            "en": "What major event in 1534 marked the beginning of the Church of England?",
+            "zh": "1534年的哪个重大事件标志着英格兰教会的开始？",
+            "th": "เหตุการณ์สำคัญใดในปี ค.ศ. 1534 ที่เป็นจุดเริ่มต้นของโบสถ์แห่งอังกฤษ?",
+            "ja": "1534年のどの重大な出来事がイングランド国教会の始まりを示していますか？",
+            "fr": "Quel événement majeur en 1534 a marqué le début de l'Église d'Angleterre ?"
+        },
+        "answer": {
+            "en": "The major event in 1534 that marked the beginning of the Church of England was the Act of Supremacy.",
+            "zh": "1534年标志着英格兰教会开始的重大事件是至高无上法案。",
+            "th": "เหตุการณ์สำคัญในปี ค.ศ. 1534 ที่เป็นจุดเริ่มต้นของโบสถ์แห่งอังกฤษคือพระราชบัญญัติแห่งความเหนือกว่า",
+            "ja": "1534年の重大な出来事で、イングランド国教会の始まりを示したのは至上法です。",
+            "fr": "L'événement majeur en 1534 qui a marqué le début de l'Église d'Angleterre était l'Acte de Suprématie."
+        }
+    },
+    {
+        "question": {
+            "en": "Which British monarch reigned during both World War I and World War II?",
+            "zh": "哪位英国君主在第一次世界大战和第二次世界大战期间都在位？",
+            "th": "พระมหากษัตริย์ชาวอังกฤษทรงครองราชย์ในช่วงทั้งสงครามโลกครั้งที่หนึ่งและสงครามโลกครั้งที่สองคือใคร?",
+            "ja": "第一次世界大戦と第二次世界大戦の両方で在位していたイギリスの君主は誰ですか？",
+            "fr": "Quel monarque britannique a régné pendant la Première et la Seconde Guerre mondiale ?"
+        },
+        "answer": {
+            "en": "No British monarch reigned during both World War I and World War II. George V reigned during WWI, and George VI during WWII.",
+            "zh": "没有英国君主在第一次世界大战和第二次世界大战期间都在位。乔治五世在第一次世界大战期间在位，乔治六世在第二次世界大战期间在位。",
+            "th": "ไม่มีพระมหากษัตริย์ชาวอังกฤษทรงครองราชย์ในช่วงทั้งสงครามโลกครั้งที่หนึ่งและสงครามโลกครั้งที่สอง พระเจ้าจอร์จที่ 5 ทรงครองราชย์ในช่วงสงครามโลกครั้งที่หนึ่งและพระเจ้าจอร์จที่ 6 ทรงครองราชย์ในช่วงสงครามโลกครั้งที่สอง",
+            "ja": "第一次世界大戦と第二次世界大戦の両方で在位していたイギリスの君主はいません。ジョージ5世が第一次世界大戦中に、ジョージ6世が第二次世界大戦中に在位していました。",
+            "fr": "Aucun monarque britannique n'a régné pendant la Première et la Seconde Guerre mondiale. George V a régné pendant la Première Guerre mondiale et George VI pendant la Seconde Guerre mondiale."
+        }
+    },
+    {
+        "question": {
+            "en": "Which British city is famous for its Roman baths?",
+            "zh": "哪个英国城市以其罗马浴场而闻名？",
+            "th": "เมืองใดในสหราชอาณาจักรที่มีชื่อเสียงจากบ่อน้ำพุร้อนโรมัน?",
+            "ja": "どのイギリスの都市がローマ風呂で有名ですか？",
+            "fr": "Quelle ville britannique est célèbre pour ses bains romains ?"
+        },
+        "answer": {
+            "en": "The British city famous for its Roman baths is Bath.",
+            "zh": "以其罗马浴场而闻名的英国城市是巴斯。",
+            "th": "เมืองในสหราชอาณาจักรที่มีชื่อเสียงจากบ่อน้ำพุร้อนโรมันคือเมืองบาธ",
+            "ja": "ローマ風呂で有名なイギリスの都市はバースです。",
+            "fr": "La ville britannique célèbre pour ses bains romains est Bath."
+        }
+    },
+    {
+        "question": {
+            "en": "Where is the official residence of the Prime Minister of the UK located?",
+            "zh": "英国首相的官方住所位于哪里？",
+            "th": "ที่พักอย่างเป็นทางการของนายกรัฐมนตรีของสหราชอาณาจักรตั้งอยู่ที่ไหน?",
+            "ja": "イギリスの首相の公式住居はどこにありますか？",
+            "fr": "Où se trouve la résidence officielle du Premier ministre du Royaume-Uni ?"
+        },
+        "answer": {
+            "en": "The official residence of the Prime Minister of the UK is located at 10 Downing Street in London.",
+            "zh": "英国首相的官方住所位于伦敦唐宁街10号。",
+            "th": "ที่พักอย่างเป็นทางการของนายกรัฐมนตรีของสหราชอาณาจักรตั้งอยู่ที่ 10 ดาวนิ่งสตรีท ในลอนดอน",
+            "ja": "イギリスの首相の公式住居はロンドンのダウニング街10番地にあります。",
+            "fr": "La résidence officielle du Premier ministre du Royaume-Uni se trouve au 10 Downing Street à Londres."
+        }
+    },
+    {
+        "question": {
+            "en": "What is the name of the famous clock tower in London?",
+            "zh": "伦敦著名的钟楼叫什么名字？",
+            "th": "ชื่อของหอนาฬิกาที่มีชื่อเสียงในลอนดอนคืออะไร?",
+            "ja": "ロンドンの有名な時計塔の名前は何ですか？",
+            "fr": "Quel est le nom de la célèbre tour horloge à Londres ?"
+        },
+        "answer": {
+            "en": "The name of the famous clock tower in London is Big Ben.",
+            "zh": "伦敦著名的钟楼名为大本钟。",
+            "th": "ชื่อของหอนาฬิกาที่มีชื่อเสียงในลอนดอนคือบิ๊กเบน",
+            "ja": "ロンドンの有名な時計塔の名前はビッグベンです。",
+            "fr": "Le nom de la célèbre tour horloge à Londres est Big Ben."
+        }
+    },
+    {
+        "question": {
+            "en": "Which UK city is known for its annual Fringe Festival?",
+            "zh": "哪个英国城市以其年度边缘艺术节闻名？",
+            "th": "เมืองใดในสหราชอาณาจักรที่มีชื่อเสียงจากเทศกาลฟริงจ์ประจำปี?",
+            "ja": "どの英国の都市が年間フリンジフェスティバルで知られていますか？",
+            "fr": "Quelle ville du Royaume-Uni est connue pour son festival Fringe annuel ?"
+        },
+        "answer": {
+            "en": "The UK city known for its annual Fringe Festival is Edinburgh.",
+            "zh": "以其年度边缘艺术节闻名的英国城市是爱丁堡。",
+            "th": "เมืองในสหราชอาณาจักรที่มีชื่อเสียงจากเทศกาลฟริงจ์ประจำปีคือเอดินบะระ",
+            "ja": "年間フリンジフェスティバルで知られる英国の都市はエジンバラです。",
+            "fr": "La ville du Royaume-Uni connue pour son festival Fringe annuel est Édimbourg."
+        }
+    },
+    {
+        "question": {
+            "en": "What is the national animal of Scotland?",
+            "zh": "苏格兰的国家动物是什么？",
+            "th": "สัตว์ประจำชาติของสกอตแลนด์คืออะไร?",
+            "ja": "スコットランドの国獣は何ですか？",
+            "fr": "Quel est l'animal national de l'Écosse ?"
+        },
+        "answer": {
+            "en": "The national animal of Scotland is the unicorn.",
+            "zh": "苏格兰的国家动物是独角兽。",
+            "th": "สัตว์ประจำชาติของสกอตแลนด์คือยูนิคอร์น",
+            "ja": "スコットランドの国獣はユニコーンです。",
+            "fr": "L'animal national de l'Écosse est la licorne."
+        }
+    },
+    {
+        "question": {
+            "en": "What is the highest mountain in the United Kingdom?",
+            "zh": "英国最高的山是哪座？",
+            "th": "ภูเขาที่สูงที่สุดในสหราชอาณาจักรคือภูเขาอะไร?",
+            "ja": "イギリスで最も高い山は何ですか？",
+            "fr": "Quelle est la plus haute montagne du Royaume-Uni ?"
+        },
+        "answer": {
+            "en": "The highest mountain in the United Kingdom is Ben Nevis.",
+            "zh": "英国最高的山是本尼维斯山。",
+            "th": "ภูเขาที่สูงที่สุดในสหราชอาณาจักรคือเบน เนวิส",
+            "ja": "イギリスで最も高い山はベン・ネビスです。",
+            "fr": "La plus haute montagne du Royaume-Uni est le Ben Nevis."
+        }
+    },
+    {
+        "question": {
+            "en": "Which river flows through London?",
+            "zh": "哪条河流经伦敦？",
+            "th": "แม่น้ำใดไหลผ่านลอนดอน?",
+            "ja": "どの川がロンドンを流れていますか？",
+            "fr": "Quelle rivière traverse Londres ?"
+        },
+        "answer": {
+            "en": "The River Thames flows through London.",
+            "zh": "泰晤士河流经伦敦。",
+            "th": "แม่น้ำเทมส์ไหลผ่านลอนดอน",
+            "ja": "テムズ川がロンドンを流れています。",
+            "fr": "La Tamise traverse Londres."
+        }
+    },
+    {
+        "question": {
+            "en": "What historic document, signed in 1215, limited the powers of the king in England?",
+            "zh": "哪份签署于1215年的历史文件限制了英格兰国王的权力？",
+            "th": "เอกสารประวัติศาสตร์ฉบับใดที่ลงนามในปี ค.ศ. 1215 ที่จำกัดอำนาจของกษัตริย์ในอังกฤษ?",
+            "ja": "1215年に署名されたどの歴史的文書がイングランドの王の権力を制限しましたか？",
+            "fr": "Quel document historique, signé en 1215, a limité les pouvoirs du roi en Angleterre ?"
+        },
+        "answer": {
+            "en": "The historic document signed in 1215 that limited the powers of the king in England is the Magna Carta.",
+            "zh": "签署于1215年并限制了英格兰国王权力的历史文件是《大宪章》。",
+            "th": "เอกสารประวัติศาสตร์ที่ลงนามในปี ค.ศ. 1215 ที่จำกัดอำนาจของกษัตริย์ในอังกฤษคือมากนาคาร์ตา",
+            "ja": "1215年に署名され、イングランドの王の権力を制限した歴史的文書はマグナ・カルタです。",
+            "fr": "Le document historique signé en 1215 qui a limité les pouvoirs du roi en Angleterre est la Magna Carta."
+        }
+    },
+    {
+        "question": {
+            "en": "What is the traditional time for tea in the UK?",
+            "zh": "英国的传统茶点时间是什么时候？",
+            "th": "เวลาดื่มชาแบบดั้งเดิมในสหราชอาณาจักรคือเวลาใด?",
+            "ja": "イギリスの伝統的なティータイムは何時ですか？",
+            "fr": "Quelle est l'heure traditionnelle du thé au Royaume-Uni ?"
+        },
+        "answer": {
+            "en": "The traditional time for tea in the UK is around 4 PM.",
+            "zh": "英国的传统茶点时间是下午4点左右。",
+            "th": "เวลาดื่มชาแบบดั้งเดิมในสหราชอาณาจักรคือประมาณเวลา 16.00 น.",
+            "ja": "イギリスの伝統的なティータイムは午後4時頃です。",
+            "fr": "L'heure traditionnelle du thé au Royaume-Uni est vers 16 heures."
+        }
+    },
+    {
+        "question": {
+            "en": "What is the name of the British ceremony that marks the official birthday of the sovereign?",
+            "zh": "标志着君主官方生日的英国仪式叫什么名字？",
+            "th": "พิธีใดที่เป็นการระลึกถึงวันเกิดอย่างเป็นทางการของพระมหากษัตริย์ชาวอังกฤษ?",
+            "ja": "君主の公式の誕生日を記念するイギリスの儀式の名前は何ですか？",
+            "fr": "Quel est le nom de la cérémonie britannique qui marque l'anniversaire officiel du souverain ?"
+        },
+        "answer": {
+            "en": "The British ceremony that marks the official birthday of the sovereign is called Trooping the Colour.",
+            "zh": "标志着君主官方生日的英国仪式叫做阅兵式。",
+            "th": "พิธีที่เป็นการระลึกถึงวันเกิดอย่างเป็นทางการของพระมหากษัตริย์ชาวอังกฤษคือการแสดงธง",
+            "ja": "君主の公式の誕生日を記念するイギリスの儀式は「トゥルーピング・ザ・カラー」と呼ばれています。",
+            "fr": "La cérémonie britannique qui marque l'anniversaire officiel du souverain est appelée Trooping the Colour."
+        }
+    },
+    {
+        "question": {
+            "en": "Which British city is known for the creation of the Titanic?",
+            "zh": "哪个英国城市以制造泰坦尼克号而闻名？",
+            "th": "เมืองใดในสหราชอาณาจักรที่มีชื่อเสียงจากการสร้างเรือไททานิก?",
+            "ja": "タイタニックの製造で知られるイギリスの都市はどこですか？",
+            "fr": "Quelle ville britannique est connue pour la création du Titanic ?"
+        },
+        "answer": {
+            "en": "The British city known for the creation of the Titanic is Belfast.",
+            "zh": "以制造泰坦尼克号而闻名的英国城市是贝尔法斯特。",
+            "th": "เมืองในสหราชอาณาจักรที่มีชื่อเสียงจากการสร้างเรือไททานิกคือเบลฟาสต์",
+            "ja": "タイタニックの製造で知られるイギリスの都市はベルファストです。",
+            "fr": "La ville britannique connue pour la création du Titanic est Belfast."
+        }
+    },
+    {
+        "question": {
+            "en": "What is the capital of the United States?",
+            "zh": "美国的首都是什么？",
+            "th": "เมืองหลวงของสหรัฐอเมริกาคืออะไร?",
+            "ja": "アメリカの首都は何ですか？",
+            "fr": "Quelle est la capitale des États-Unis ?"
+        },
+        "answer": {
+            "en": "The capital of the United States is Washington D.C.",
+            "zh": "美国的首都是华盛顿特区。",
+            "th": "เมืองหลวงของสหรัฐอเมริกาคือวอชิงตัน ดี.ซี.",
+            "ja": "アメリカの首都はワシントンD.C.です。",
+            "fr": "La capitale des États-Unis est Washington D.C."
+        }
+    },
+    {
+        "question": {
+            "en": "Which U.S. state is known as 'The Sunshine State'?",
+            "zh": "哪个美国州被称为“阳光之州”？",
+            "th": "รัฐใดในสหรัฐฯ เรียกว่า 'รัฐแห่งแสงอาทิตย์'?",
+            "ja": "どのアメリカの州が「サンシャインステート」として知られていますか？",
+            "fr": "Quel État américain est connu sous le nom de 'L'État ensoleillé' ?"
+        },
+        "answer": {
+            "en": "Florida is known as 'The Sunshine State'.",
+            "zh": "佛罗里达州被称为“阳光之州”。",
+            "th": "ฟลอริดาเรียกว่า 'รัฐแห่งแสงอาทิตย์'",
+            "ja": "フロリダ州は「サンシャインステート」として知られています。",
+            "fr": "La Floride est connue sous le nom de 'L'État ensoleillé'."
+        }
+    },
+    {
+        "question": {
+            "en": "Where was the Declaration of Independence signed?",
+            "zh": "独立宣言是在哪里签署的？",
+            "th": "ปฏิญญาอิสรภาพถูกลงนามที่ไหน?",
+            "ja": "独立宣言はどこで署名されましたか？",
+            "fr": "Où la Déclaration d'indépendance a-t-elle été signée ?"
+        },
+        "answer": {
+            "en": "The Declaration of Independence was signed in Philadelphia.",
+            "zh": "独立宣言是在费城签署的。",
+            "th": "ปฏิญญาอิสรภาพถูกลงนามที่ฟิลาเดลเฟีย",
+            "ja": "独立宣言はフィラデルフィアで署名されました。",
+            "fr": "La Déclaration d'indépendance a été signée à Philadelphie."
+        }
+    },
+    {
+        "question": {
+            "en": "Which U.S. President was known as 'The Great Emancipator'?",
+            "zh": "哪位美国总统被称为“伟大的解放者”？",
+            "th": "ประธานาธิบดีสหรัฐฯ คนใดเป็นที่รู้จักในนาม 'ผู้ปลดปล่อยอันยิ่งใหญ่'?",
+            "ja": "どのアメリカ大統領が「偉大な解放者」として知られていますか？",
+            "fr": "Quel président américain était connu comme 'Le Grand Libérateur' ?"
+        },
+        "answer": {
+            "en": "Abraham Lincoln was known as 'The Great Emancipator'.",
+            "zh": "亚伯拉罕·林肯被称为“伟大的解放者”。",
+            "th": "เอเบราฮัม ลินคอล์น เป็นที่รู้จักในนาม 'ผู้ปลดปล่อยอันยิ่งใหญ่'",
+            "ja": "エイブラハム・リンカーンは「偉大な解放者」として知られています。",
+            "fr": "Abraham Lincoln était connu comme 'Le Grand Libérateur'."
+        }
+    },
+    {
+        "question": {
+            "en": "What is the largest state in the USA by area?",
+            "zh": "按面积计算，美国最大的州是哪个？",
+            "th": "รัฐใดใหญ่ที่สุดในสหรัฐอเมริกาเมื่อวัดจากพื้นที่?",
+            "ja": "面積によるアメリカで最大の州はどこですか？",
+            "fr": "Quel est le plus grand État des États-Unis en superficie ?"
+        },
+        "answer": {
+            "en": "Alaska is the largest state in the USA by area.",
+            "zh": "阿拉斯加州是美国面积最大的州。",
+            "th": "อะแลสกาเป็นรัฐที่ใหญ่ที่สุดในสหรัฐอเมริกาเมื่อวัดจากพื้นที่",
+            "ja": "アラスカ州は面積によるアメリカで最大の州です。",
+            "fr": "L'Alaska est l'État le plus grand des États-Unis en superficie."
+        }
+    },
+    {
+        "question": {
+            "en": "Which U.S. city is known as the 'Windy City'?",
+            "zh": "哪个美国城市被称为“风城”？",
+            "th": "เมืองใดในสหรัฐฯ เป็นที่รู้จักในนาม 'เมืองแห่งลม'?",
+            "ja": "どのアメリカの都市が「ウィンディシティ」として知られていますか？",
+            "fr": "Quelle ville américaine est connue sous le nom de 'La Ville des Vents' ?"
+        },
+        "answer": {
+            "en": "Chicago is known as the 'Windy City'.",
+            "zh": "芝加哥被称为“风城”。",
+            "th": "ชิคาโกเป็นที่รู้จักในนาม 'เมืองแห่งลม'",
+            "ja": "シカゴは「ウィンディシティ」として知られています。",
+            "fr": "Chicago est connue sous le nom de 'La Ville des Vents'."
+        }
+    },
+    {
+        "question": {
+            "en": "What major event occurred on July 20, 1969, in U.S. history?",
+            "zh": "1969年7月20日在美国历史上发生了什么重大事件？",
+            "th": "เหตุการณ์สำคัญใดเกิดขึ้นในวันที่ 20 กรกฎาคม พ.ศ. 2512 ในประวัติศาสตร์สหรัฐ?",
+            "ja": "1969年7月20日にアメリカの歴史で何が起こりましたか？",
+            "fr": "Quel événement majeur a eu lieu le 20 juillet 1969 dans l'histoire des États-Unis ?"
+        },
+        "answer": {
+            "en": "The major event on July 20, 1969, was the moon landing by Apollo 11.",
+            "zh": "1969年7月20日的重大事件是阿波罗11号登月。",
+            "th": "เหตุการณ์สำคัญในวันที่ 20 กรกฎาคม พ.ศ. 2512 คือการลงจอดบนดวงจันทร์โดยอพอลโล 11",
+            "ja": "1969年7月20日の重大な出来事はアポロ11号の月面着陸でした。",
+            "fr": "L'événement majeur du 20 juillet 1969 a été l'atterrissage sur la lune par Apollo 11."
+        }
+    },
+    {
+        "question": {
+            "en": "Which U.S. landmark is famously known for its presidential faces carved into a mountain?",
+            "zh": "哪个美国地标因其山上雕刻的总统面孔而闻名？",
+            "th": "สถานที่สำคัญของสหรัฐฯ แห่งใดที่มีชื่อเสียงจากการแกะสลักใบหน้าของประธานาธิบดีลงบนภูเขา?",
+            "ja": "どのアメリカのランドマークが山に彫られた大統領の顔で有名ですか？",
+            "fr": "Quel monument américain est célèbre pour ses visages présidentiels sculptés dans une montagne ?"
+        },
+        "answer": {
+            "en": "Mount Rushmore is famously known for its presidential faces carved into a mountain.",
+            "zh": "拉什莫尔山因其山上雕刻的总统面孔而闻名。",
+            "th": "ภูเขารัชมอร์มีชื่อเสียงจากการแกะสลักใบหน้าของประธานาธิบดีลงบนภูเขา",
+            "ja": "ラッシュモア山は山に彫られた大統領の顔で有名です。",
+            "fr": "Le mont Rushmore est célèbre pour ses visages présidentiels sculptés dans une montagne."
+        }
+    },
+    {
+        "question": {
+            "en": "What is celebrated on the fourth Thursday of November in the United States?",
+            "zh": "美国在11月的第四个星期四庆祝什么？",
+            "th": "สหรัฐฯ ฉลองอะไรในวันพฤหัสบดีที่สี่ของเดือนพฤศจิกายน?",
+            "ja": "アメリカは11月の第4木曜日に何を祝いますか？",
+            "fr": "Que célèbre-t-on le quatrième jeudi de novembre aux États-Unis ?"
+        },
+        "answer": {
+            "en": "Thanksgiving is celebrated on the fourth Thursday of November in the United States.",
+            "zh": "美国在11月的第四个星期四庆祝感恩节。",
+            "th": "วันขอบคุณพระเจ้าถูกฉลองในวันพฤหัสบดีที่สี่ของเดือนพฤศจิกายนในสหรัฐฯ",
+            "ja": "アメリカでは11月の第4木曜日に感謝祭が祝われます。",
+            "fr": "L'Action de grâce est célébrée le quatrième jeudi de novembre aux États-Unis."
+        }
+    },
+    {
+        "question": {
+            "en": "Which river is the longest in the United States?",
+            "zh": "哪条河是美国最长的河流？",
+            "th": "แม่น้ำใดยาวที่สุดในสหรัฐอเมริกา?",
+            "ja": "アメリカで最も長い川はどれですか？",
+            "fr": "Quelle est la rivière la plus longue des États-Unis ?"
+        },
+        "answer": {
+            "en": "The Mississippi River is the longest river in the United States.",
+            "zh": "密西西比河是美国最长的河流。",
+            "th": "แม่น้ำมิสซิสซิปปี้เป็นแม่น้ำที่ยาวที่สุดในสหรัฐอเมริกา",
+            "ja": "ミシシッピ川はアメリカで最も長い川です。",
+            "fr": "Le fleuve Mississippi est la rivière la plus longue des États-Unis."
+        }
+    },
+    {
+        "question": {
+            "en": "What iconic symbol of freedom is located in New York Harbor?",
+            "zh": "纽约港有哪个自由的象征性标志？",
+            "th": "สัญลักษณ์แห่งเสรีภาพที่โดดเด่นใดตั้งอยู่ในท่าเรือนิวยอร์ก?",
+            "ja": "ニューヨーク港にある自由の象徴的なシンボルは何ですか？",
+            "fr": "Quel symbole emblématique de la liberté se trouve dans le port de New York ?"
+        },
+        "answer": {
+            "en": "The Statue of Liberty is the iconic symbol of freedom located in New York Harbor.",
+            "zh": "自由女神像是位于纽约港的自由象征性标志。",
+            "th": "เทพีเสรีภาพเป็นสัญลักษณ์แห่งเสรีภาพที่โดดเด่นตั้งอยู่ในท่าเรือนิวยอร์ก",
+            "ja": "自由の女神像はニューヨーク港にある自由の象徴的なシンボルです。",
+            "fr": "La Statue de la Liberté est le symbole emblématique de la liberté situé dans le port de New York."
+        }
+    },
+    {
+        "question": {
+            "en": "Which U.S. state has the nickname 'The Lone Star State'?",
+            "zh": "哪个美国州有“孤星州”这个昵称？",
+            "th": "รัฐใดในสหรัฐอเมริกามีชื่อเล่นว่า 'รัฐดาวเดียว'?",
+            "ja": "どの米国の州が「ローンスター州」という愛称を持っていますか？",
+            "fr": "Quel État américain est surnommé 'L'État de l'étoile solitaire' ?"
+        },
+        "answer": {
+            "en": "Texas is known as 'The Lone Star State'.",
+            "zh": "德克萨斯州被称为“孤星州”。",
+            "th": "รัฐเท็กซัสเป็นที่รู้จักในนาม 'รัฐดาวเดียว'",
+            "ja": "テキサス州は「ローンスター州」として知られています。",
+            "fr": "Le Texas est connu sous le nom de 'L'État de l'étoile solitaire'."
+        }
+    },
+    {
+        "question": {
+            "en": "What is the tallest mountain in the United States?",
+            "zh": "美国最高的山是哪座山？",
+            "th": "ภูเขาที่สูงที่สุดในสหรัฐอเมริกาคือภูเขาใด?",
+            "ja": "米国で最も高い山は何ですか？",
+            "fr": "Quelle est la montagne la plus haute des États-Unis ?"
+        },
+        "answer": {
+            "en": "Denali, in Alaska, is the tallest mountain in the United States.",
+            "zh": "阿拉斯加的德纳利山是美国最高的山。",
+            "th": "เดนาลีในอะแลสกาเป็นภูเขาที่สูงที่สุดในสหรัฐอเมริกา",
+            "ja": "アラスカのデナリは米国で最も高い山です。",
+            "fr": "Le Denali, en Alaska, est la montagne la plus haute des États-Unis."
+        }
+    },
+    {
+        "question": {
+            "en": "Which U.S. city is famous for its jazz music scene?",
+            "zh": "哪个美国城市以其爵士乐场景而闻名？",
+            "th": "เมืองใดในสหรัฐอเมริกาที่มีชื่อเสียงเรื่องดนตรีแจ๊ส?",
+            "ja": "どの米国の都市がジャズ音楽シーンで有名ですか？",
+            "fr": "Quelle ville américaine est célèbre pour sa scène musicale jazz ?"
+        },
+        "answer": {
+            "en": "New Orleans is famous for its jazz music scene.",
+            "zh": "新奥尔良以其爵士乐场景而闻名。",
+            "th": "นิวออร์ลีนส์มีชื่อเสียงเรื่องดนตรีแจ๊ส",
+            "ja": "ニューオーリンズはジャズ音楽シーンで有名です。",
+            "fr": "La Nouvelle-Orléans est célèbre pour sa scène musicale jazz."
+        }
+    },
+    {
+        "question": {
+            "en": "What is the main agricultural product of California?",
+            "zh": "加利福尼亚的主要农产品是什么？",
+            "th": "ผลิตภัณฑ์เกษตรหลักของแคลิฟอร์เนียคืออะไร?",
+            "ja": "カリフォルニアの主要な農産物は何ですか？",
+            "fr": "Quel est le principal produit agricole de la Californie ?"
+        },
+        "answer": {
+            "en": "Almonds are the main agricultural product of California.",
+            "zh": "杏仁是加利福尼亚的主要农产品。",
+            "th": "อัลมอนด์เป็นผลิตภัณฑ์เกษตรหลักของแคลิฟอร์เนีย",
+            "ja": "アーモンドはカリフォルニアの主要な農産物です。",
+            "fr": "Les amandes sont le principal produit agricole de la Californie."
+        }
+    },
+    {
+        "question": {
+            "en": "Which U.S. President signed the Emancipation Proclamation?",
+            "zh": "哪位美国总统签署了解放宣言？",
+            "th": "ประธานาธิบดีสหรัฐฯ คนใดลงนามในปฏิญญาการปลดปล่อย?",
+            "ja": "どの米国大統領が解放宣言に署名しましたか？",
+            "fr": "Quel président américain a signé la Proclamation d'émancipation ?"
+        },
+        "answer": {
+            "en": "President Abraham Lincoln signed the Emancipation Proclamation.",
+            "zh": "亚伯拉罕·林肯总统签署了解放宣言。",
+            "th": "ประธานาธิบดีเอเบราฮัม ลินคอล์น ลงนามในปฏิญญาการปลดปล่อย",
+            "ja": "エイブラハム・リンカーン大統領が解放宣言に署名しました。",
+            "fr": "Le président Abraham Lincoln a signé la Proclamation d'émancipation."
+        }
+    },
+    {
+        "question": {
+            "en": "What iconic American landmark is located in South Dakota?",
+            "zh": "位于南达科他州的哪个标志性美国地标？",
+            "th": "สถานที่สำคัญของอเมริกาที่ตั้งอยู่ในเซาท์ดาโคตาคืออะไร?",
+            "ja": "サウスダコタ州にある象徴的なアメリカのランドマークは何ですか？",
+            "fr": "Quel monument américain emblématique se trouve dans le Dakota du Sud ?"
+        },
+        "answer": {
+            "en": "Mount Rushmore is located in South Dakota.",
+            "zh": "拉什莫尔山位于南达科他州。",
+            "th": "ภูเขารัชมอร์ตั้งอยู่ในเซาท์ดาโคตา",
+            "ja": "ラッシュモア山はサウスダコタ州に位置しています。",
+            "fr": "Le mont Rushmore se trouve dans le Dakota du Sud."
+        }
+    },
+    {
+        "question": {
+            "en": "Which U.S. city was the first capital of the United States?",
+            "zh": "哪个美国城市是美国的首都？",
+            "th": "เมืองใดในสหรัฐอเมริกาเป็นเมืองหลวงแห่งแรกของประเทศ?",
+            "ja": "どの米国の都市が最初のアメリカ合衆国の首都でしたか？",
+            "fr": "Quelle ville américaine a été la première capitale des États-Unis ?"
+        },
+        "answer": {
+            "en": "Philadelphia was the first capital of the United States.",
+            "zh": "费城是美国的首都。",
+            "th": "ฟิลาเดลเฟียเป็นเมืองหลวงแห่งแรกของสหรัฐอเมริกา",
+            "ja": "フィラデルフィアは最初のアメリカ合衆国の首都でした。",
+            "fr": "Philadelphie a été la première capitale des États-Unis."
+        }
+    },
+    {
+        "question": {
+            "en": "What river forms part of the border between the United States and Mexico?",
+            "zh": "哪条河流是美国和墨西哥边界的一部分？",
+            "th": "แม่น้ำใดที่เป็นส่วนหนึ่งของพรมแดนระหว่างสหรัฐอเมริกาและเม็กซิโก?",
+            "ja": "どの川がアメリカとメキシコの国境の一部を形成していますか？",
+            "fr": "Quelle rivière fait partie de la frontière entre les États-Unis et le Mexique ?"
+        },
+        "answer": {
+            "en": "The Rio Grande forms part of the border between the United States and Mexico.",
+            "zh": "里奥格兰德河是美国和墨西哥边界的一部分。",
+            "th": "แม่น้ำริโอแกรนเดเป็นส่วนหนึ่งของพรมแดนระหว่างสหรัฐอเมริกาและเม็กซิโก",
+            "ja": "リオグランデ川はアメリカとメキシコの国境の一部を形成しています。",
+            "fr": "Le Rio Grande fait partie de la frontière entre les États-Unis et le Mexique."
+        }
+    },
+    {
+        "question": {
+            "en": "What is the most populous city in the United States?",
+            "zh": "美国人口最多的城市是哪个？",
+            "th": "เมืองใดในสหรัฐอเมริกาที่มีประชากรมากที่สุด?",
+            "ja": "米国で最も人口が多い都市はどこですか？",
+            "fr": "Quelle est la ville la plus peuplée des États-Unis ?"
+        },
+        "answer": {
+            "en": "New York City is the most populous city in the United States.",
+            "zh": "纽约市是美国人口最多的城市。",
+            "th": "นิวยอร์กซิตี้เป็นเมืองที่มีประชากรมากที่สุดในสหรัฐอเมริกา",
+            "ja": "ニューヨーク市は米国で最も人口が多い都市です。",
+            "fr": "New York est la ville la plus peuplée des États-Unis."
+        }
+    },
+    {
+        "question": {
+            "en": "Which U.S. national park is known for its geothermal features like geysers and hot springs?",
+            "zh": "哪个美国国家公园以其地热特征如间歇泉和温泉而闻名？",
+            "th": "อุทยานแห่งชาติใดในสหรัฐอเมริกาที่มีชื่อเสียงเรื่องคุณสมบัติทางธรณีความร้อนเช่นน้ำพุร้อนและน้ำพุร้อน?",
+            "ja": "どの米国の国立公園が間欠泉や温泉などの地熱特徴で知られていますか？",
+            "fr": "Quel parc national américain est connu pour ses caractéristiques géothermiques telles que les geysers et les sources chaudes ?"
+        },
+        "answer": {
+            "en": "Yellowstone National Park is known for its geothermal features like geysers and hot springs.",
+            "zh": "黄石国家公园以其地熱特征如间歇泉和温泉而闻名。",
+            "th": "อุทยานแห่งชาติเยลโลว์สโตนมีชื่อเสียงเรื่องคุณสมบัติทางธรณีความร้อนเช่นน้ำพุร้อนและน้ำพุร้อน",
+            "ja": "イエローストーン国立公園は間欠泉や温泉などの地熱特徴で知られています。",
+            "fr": "Le parc national de Yellowstone est connu pour ses caractéristiques géothermiques telles que les geysers et les sources chaudes."
+        }
+    },
+    {
+        "question": {
+            "en": "What is the capital city of the United States?",
+            "zh": "美国的首都是哪里？",
+            "th": "เมืองหลวงของสหรัฐอเมริกาคือเมืองใด?",
+            "ja": "アメリカの首都はどこですか？",
+            "fr": "Quelle est la capitale des États-Unis ?"
+        },
+        "answer": {
+            "en": "The capital city of the United States is Washington, D.C.",
+            "zh": "美国的首都是华盛顿特区。",
+            "th": "เมืองหลวงของสหรัฐอเมริกาคือวอชิงตัน ดี.ซี.",
+            "ja": "アメリカの首都はワシントンD.C.です。",
+            "fr": "La capitale des États-Unis est Washington, D.C."
+        }
+    },
+    {
+        "question": {
+            "en": "Who was the first President of the United States?",
+            "zh": "美国的第一任总统是谁？",
+            "th": "ใครคือประธานาธิบดีคนแรกของสหรัฐอเมริกา?",
+            "ja": "アメリカ合衆国の初代大統領は誰ですか？",
+            "fr": "Qui était le premier président des États-Unis ?"
+        },
+        "answer": {
+            "en": "The first President of the United States was George Washington.",
+            "zh": "美国的第一任总统是乔治·华盛顿。",
+            "th": "ประธานาธิบดีคนแรกของสหรัฐอเมริกาคือจอร์จ วอชิงตัน",
+            "ja": "アメリカ合衆国の初代大統領はジョージ・ワシントンです。",
+            "fr": "Le premier président des États-Unis était George Washington."
+        }
+    },
+    {
+        "question": {
+            "en": "Which U.S. state is known as the 'Sunshine State'?",
+            "zh": "哪个美国州被称为“阳光之州”？",
+            "th": "รัฐใดในสหรัฐอเมริกาที่รู้จักกันในชื่อ 'รัฐแห่งแสงอาทิตย์'?",
+            "ja": "どのアメリカの州が「サンシャインステート」として知られていますか？",
+            "fr": "Quel État américain est connu comme l'État du soleil ?"
+        },
+        "answer": {
+            "en": "The U.S. state known as the 'Sunshine State' is Florida.",
+            "zh": "被称为“阳光之州”的美国州是佛罗里达州。",
+            "th": "รัฐในสหรัฐอเมริกาที่รู้จักกันในชื่อ 'รัฐแห่งแสงอาทิตย์' คือรัฐฟลอริดา",
+            "ja": "「サンシャインステート」として知られるアメリカの州はフロリダ州です。",
+            "fr": "L'État américain connu comme l'État du soleil est la Floride."
+        }
+    },
+    {
+        "question": {
+            "en": "What is the largest national park in the USA?",
+            "zh": "美国最大的国家公园是哪个？",
+            "th": "อุทยานแห่งชาติที่ใหญ่ที่สุดในสหรัฐอเมริกาคืออุทยานแห่งชาติใด?",
+            "ja": "アメリカで最大の国立公園はどこですか？",
+            "fr": "Quel est le plus grand parc national aux États-Unis ?"
+        },
+        "answer": {
+            "en": "The largest national park in the USA is Wrangell–St. Elias National Park and Preserve in Alaska.",
+            "zh": "美国最大的国家公园是阿拉斯加的兰格尔-圣伊莱亚斯国家公园和保护区。",
+            "th": "อุทยานแห่งชาติที่ใหญ่ที่สุดในสหรัฐอเมริกาคืออุทยานแห่งชาติและเขตอนุรักษ์แรงเจล-เซนต์อีไลอัสในอลาสกา",
+            "ja": "アメリカで最大の国立公園はアラスカのランゲル・セントイライアス国立公園および保護区です。",
+            "fr": "Le plus grand parc national aux États-Unis est le parc national et la réserve de Wrangell–St. Elias en Alaska."
+        }
+    },
+    {
+        "question": {
+            "en": "Who wrote the Declaration of Independence?",
+            "zh": "谁写了独立宣言？",
+            "th": "ใครเป็นผู้เขียนประกาศอิสรภาพ?",
+            "ja": "独立宣言を書いたのは誰ですか？",
+            "fr": "Qui a écrit la Déclaration d'indépendance ?"
+        },
+        "answer": {
+            "en": "Thomas Jefferson is credited with writing the Declaration of Independence.",
+            "zh": "托马斯·杰斐逊被认为是独立宣言的作者。",
+            "th": "โทมัส เจฟเฟอร์สัน เป็นผู้ที่ได้รับเครดิตในการเขียนประกาศอิสรภาพ",
+            "ja": "トーマス・ジェファーソンが独立宣言の執筆者とされています。",
+            "fr": "Thomas Jefferson est crédité de l'écriture de la Déclaration d'indépendance."
+        }
+    },
+    {
+        "question": {
+            "en": "What year did the United States land the first human on the Moon?",
+            "zh": "美国在哪一年将第一个人类送上月球？",
+            "th": "สหรัฐอเมริกาได้ส่งมนุษย์คนแรกขึ้นไปยังดวงจันทร์ในปีใด?",
+            "ja": "アメリカはいつ最初の人間を月に着陸させましたか？",
+            "fr": "En quelle année les États-Unis ont-ils envoyé le premier homme sur la Lune ?"
+        },
+        "answer": {
+            "en": "The United States landed the first human on the Moon in 1969.",
+            "zh": "美国在1969年将第一个人类送上月球。",
+            "th": "สหรัฐอเมริกาได้ส่งมนุษย์คนแรกขึ้นไปยังดวงจันทร์ในปี 1969",
+            "ja": "アメリカは1969年に最初の人間を月に着陸させました。",
+            "fr": "Les États-Unis ont envoyé le premier homme sur la Lune en 1969."
+        }
+    },
+    {
+        "question": {
+            "en": "Which U.S. state was the last to join the Union?",
+            "zh": "哪个美国州最后加入联邦？",
+            "th": "รัฐใดในสหรัฐอเมริกาเป็นรัฐสุดท้ายที่เข้าร่วมสหภาพ?",
+            "ja": "どのアメリカの州が最後に連邦に加入しましたか？",
+            "fr": "Quel État américain a été le dernier à rejoindre l'Union ?"
+        },
+        "answer": {
+            "en": "Hawaii was the last U.S. state to join the Union in 1959.",
+            "zh": "夏威夷是1959年最后加入联邦的美国州。",
+            "th": "ฮาวายเป็นรัฐสุดท้ายของสหรัฐอเมริกาที่เข้าร่วมสหภาพในปี 1959",
+            "ja": "ハワイ州は1959年に最後に連邦に加入したアメリカの州です。",
+            "fr": "Hawaï a été le dernier État américain à rejoindre l'Union en 1959."
+        }
+    },
+    {
+        "question": {
+            "en": "What is the largest desert in the USA?",
+            "zh": "美国最大的沙漠是哪个？",
+            "th": "ทะเลทรายที่ใหญ่ที่สุดในสหรัฐอเมริกาคือทะเลทรายใด?",
+            "ja": "アメリカで最大の砂漠はどこですか？",
+            "fr": "Quel est le plus grand désert aux États-Unis ?"
+        },
+        "answer": {
+            "en": "The largest desert in the USA is the Great Basin Desert.",
+            "zh": "美国最大的沙漠是大盆地沙漠。",
+            "th": "ทะเลทรายที่ใหญ่ที่สุดในสหรัฐอเมริกาคือทะเลทรายเกรตเบสิน",
+            "ja": "アメリカで最大の砂漠はグレートベイスン砂漠です。",
+            "fr": "Le plus grand désert aux États-Unis est le désert de Great Basin."
+        }
+    },
+    {
+        "question": {
+            "en": "Which U.S. President is known for the New Deal?",
+            "zh": "哪位美国总统以新政而闻名？",
+            "th": "ประธานาธิบดีสหรัฐอเมริกาคนใดที่มีชื่อเสียงจากนโยบายนิวดีล?",
+            "ja": "ニューディールで知られるアメリカの大統領は誰ですか？",
+            "fr": "Quel président américain est connu pour le New Deal ?"
+        },
+        "answer": {
+            "en": "Franklin D. Roosevelt is known for the New Deal.",
+            "zh": "富兰克林·D·罗斯福以新政而闻名。",
+            "th": "แฟรงคลิน ดี. รูสเวลต์ มีชื่อเสียงจากนโยบายนิวดีล",
+            "ja": "フランクリン・D・ルーズベルトはニューディールで知られています。",
+            "fr": "Franklin D. Roosevelt est connu pour le New Deal."
+        }
+    }    
+]

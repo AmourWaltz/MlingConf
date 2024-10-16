@@ -1,0 +1,24 @@
+{
+    "description": "Standard Template to get the P(True) of the generated answer on multilingual QA val dataset.",
+    "ptrue_prompt":{
+        "instruction": {
+            "en": "You are an excellent referee to judge the answer correct or not.\n",
+            "zh": "你是一个出色的判断者来评判问题的回答正确还是错误。\n",
+            "ja": "あなたは、答えが正しいかどうかを判断する優れた審判です。\n",
+            "fr": "Vous êtes un excellent arbitre pour juger la réponse correcte ou non.\n",
+            "th": "คุณเป็นผู้ตัดสินที่ยอดเยี่ยมในการตัดสินว่าคำตอบถูกหรือไม่\n"
+        },
+        "standard_prompt": {
+            "en": "{instruction}\n*** Question ***: {question}\n*** Proposed Answer ***: {answer}\n\nIs the proposed answer:\nTrue\nFalse\nThe possible answer is: ",
+            "zh": "{instruction}\n*** 问题 ***: {question}\n*** 模型回答 ***: {answer}\n\n请判断这个问题的回答是正确的吗:\n正确\n错误\n你的判断是: ",
+            "ja": "{instruction}\n*** 質問 ***: {question}\n*** 提案された回答 ***: {answer}\n\n提案された答えは\n真\n誤り\n可能な答えは: ",
+            "fr": "{instruction}\n*** Question ***: {question}\n*** Réponse proposée ***: {answer}\n\nEst la réponse proposée :\nVrai\nFaux\nLa réponse possible est : ",
+            "th": "{instruction}\n*** คำถาม ***: {question}\n*** คำตอบที่เสนอ ***: {answer}\n\nคำตอบที่เสนอคือ:\nจริง\nเท็จ\nคำตอบที่เป็นไปได้คือ: "
+        }
+    },
+    "verbal_prompt": {
+        "instruction": "You are an excellent estimator.\n",
+        "standard_prompt": "{instruction}\nProvide your best estimated probability that the proposed answer is correct (0.0 to 1.0) for the following question. Give ONLY the probability, no other words or explanation.\n*** Question ***: {question}\n*** Proposed Answer ***: {answer}\n# Your estimated probability: "
+    }
+
+}

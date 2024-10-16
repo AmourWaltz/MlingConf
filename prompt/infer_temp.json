@@ -1,0 +1,34 @@
+{
+    "description": "Standard English Closed-book Question-Answering Template.",
+    "instruction": {
+        "en": "You are an excellent question responder.Please correctly answer the following questions.",
+        "zh": "你是一个出色的问题回答者。请正确回答下列问题。",
+        "ja": "あなたは優れた質問回答者です。次の質問に正しく答えてください。",
+        "fr": "Vous êtes un excellent répondeur aux questions.Veuillez répondre correctement aux questions suivantes.",
+        "th": "คุณเป็นคนตอบคำถามได้ดีเยี่ยม,กรุณาตอบคำถามต่อไปนี้ให้ถูกต้อง."
+    },
+    "first_prompt": {
+        "en": "{instruction}\n\n{examples}\n\n### Question ###: {question}\n### Answer ###: ",
+        "zh": "{instruction}\n\n{examples}\n\n### 问题 ###: {question}\n### 答案 ###: ",
+        "ja": "{instruction}\n\n{examples}\n\n### 質問 ###: {question}\n### 答え ###: ",
+        "fr": "{instruction}\n\n{examples}\n\n### Question ###: {question}\n### Réponse ###: ",
+        "th": "{instruction}\n\n{examples}\n\n### คำถาม ###: {question}\n### คำตอบ ###: "
+    },
+    "standard_prompt": {
+        "en": "{instruction}\n\n{examples}\n\n*** Question ***: {question}\n*** Answer ***: ",
+        "zh": "{instruction}\n\n{examples}\n\n*** 问题 ***: {question}\n*** 答案 ***: ",
+        "ja": "{instruction}\n\n{examples}\n\n*** 質問 ***: {question}\n*** 答え ***: ",
+        "fr": "{instruction}\n\n{examples}\n\n*** Question ***: {question}\n*** Réponse ***: ",
+        "th": "{instruction}\n\n{examples}\n\n*** คำถาม ***: {question}\n*** คำตอบ ***: "
+    },
+    "output_split": "***",
+    "few_shot_split": {
+        "en": ["Question", "Answer"],
+        "zh": ["问题", "答案"],
+        "ja": ["質問", "答え"],
+        "fr": ["Question", "Réponse"],
+        "th": ["คำถาม", "คำตอบ"]
+    }
+}
+
+

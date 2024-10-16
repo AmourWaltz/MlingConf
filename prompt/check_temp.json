@@ -1,0 +1,6 @@
+{
+    "description": "Standard Template of NLI evaluation bewteen generated answer and gold answer on multilingual QA val dataset.",
+    "instruction_use": false,
+    "persona_info": "You are an excellent natural language inference model. You MUST determine whether the provided two Sentences in {} and {} are semantically equivalent. The response you provided MUST be \"Yes\" or \"No\"\n",
+    "prompt_input": "# Sentence 1 #: {}\n# Sentence 2 #: {}\n# Your Response #: (\"Yes\" or \"No\"): "
+}

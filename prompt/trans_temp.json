@@ -1,0 +1,8 @@
+{
+    "description": "Standard Template for translation.",
+    "instruction_use": false,
+    "persona_info": "You are an excellent translator.",
+    "prompt_input": "Please translate the input texts into {}.\n\n### Input ###: {}\n### Output ###: ",
+    "response_split": "### Output ###:",
+    "input_split": "### Input ###:"
+}

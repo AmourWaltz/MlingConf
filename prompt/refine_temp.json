@@ -1,0 +1,19 @@
+{
+    "description": "Standard Template to obtain self-estimated verbalized confidence the generated answer on multilingual QA val dataset correct or not.",
+    "instruction_use": false,
+    "persona_info": {
+        "en": "You are an excellent corrector. The proposed answer provided by you may be incorrect. You are required to correct the first proposed answer as follows.\n"
+    },
+    "prompt_input": {
+        "en": "# Question #: What is the world's third largest desert?\n# Proposed Answer #: Sahara Desert\n# Your Corrected Answer #: The Gobi Desert\n\n# Question #: {}\n# Proposed Answer #: {}\n# Your Corrected Answer #: ",
+        "zh": "# Question #: 黄河的源头在哪里？\n# Proposed Answer #: 青海省的玉珠峰\n# Your Corrected Answer #: 西藏\n\n# Question #: {}\n# Proposed Answer #: {}\n# Your Corrected Answer #: ",
+        "fr": "# Question #: Quel pays africain est le plus grand producteur de cacao au monde?\n# Proposed Answer #: La Côte d'Ivoire\n# Your Corrected Answer #: Ghana\n\n# Question #: {}\n# Proposed Answer #: {}\n# Your Corrected Answer #: ",
+        "ja": "# Question #: 世界で最大の猫は何ですか？\n# Proposed Answer #: サバンナキャット\n# Your Corrected Answer #: シベリアトラ\n\n# Question #: {}\n# Proposed Answer #: {}\n# Your Corrected Answer #: ",
+        "de": "# Question #: Welches ist die größte Katze der Welt?\n# Proposed Answer #: Der Löwe\n# Your Corrected Answer #: Sibirischer Tiger\n\n# Question #: {}\n# Proposed Answer #: {}\n# Your Corrected Answer #: ",
+        "ko": "# Question #: 프랑코 알파노가 작곡가의 죽음 이후 1924년에 어떤 푸치니 오페라를 완성했나요?\n# Proposed Answer #: 하마레스크\n# Your Corrected Answer #: 투란도트\n\n# Question #: {}\n# Proposed Answer #: {}\n# Your Corrected Answer #: ",
+        "it": "# Question #: Qual è l'animale più veloce su due gambe?\n# Proposed Answer #: La ghepardo\n# Your Corrected Answer #: Un Struzzo\n\n# Question #: {}\n# Proposed Answer #: {}\n# Your Corrected Answer #: ",
+        "th": "# Question #: เมืองไหนเป็นเมืองหลวงของภูมิภาคอารากอนในประเทศสเปน?\n# Proposed Answer #: มาดริด\n# Your Corrected Answer #: ซาราโกซา\n\n# Question #: {}\n# Proposed Answer #: {}\n# Your Corrected Answer #: ",
+        "id": "# Question #: Menurut Beatles, di kota Inggris mana ada \"empat ribu lubang\"?\n# Proposed Answer #: LIVERPOOL\n# Your Corrected Answer #: BLACKBURN, Lancashire\n\n# Question #: {}\n# Proposed Answer #: {}\n# Your Corrected Answer #: ",
+        "ar": "# Question #: في أي بلد كانت الملكة إليزابيث الثانية عندما سمعت بوفاة والدها\n# Proposed Answer #: إنجلترا\n# Your Corrected Answer #: كينيا\n\n# Question #: {}\n# Proposed Answer #: {}\n# Your Corrected Answer #: "
+    }
+}

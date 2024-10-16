@@ -1,0 +1,28 @@
+{
+    "description": "Standard Template of NLI evaluation bewteen generated answer and gold answer on multilingual QA val dataset.",
+    "instruction_use": false,
+    "persona_info": {
+        "en": "You are an excellent natural language inference model. You MUST determine whether the Predicted Answer is entailed or not by the Gold Answer to judge if it is correct. The response you provided MUST be \"Yes\" or \"No\"\n",
+        "zh": "你是一个优秀的自然语言推断模型，你需要根据以下预测答案是否包含于标准答案来判断预测答案是否正确，你的回复必须为\"是\"或\"否\"\n",
+        "ja": "あなたは優れた自然言語推論モデルです。あなたは「予想される答え」が「金の答え」に包含されるか否かを判断し、それが正しいかどうかを判断しなければなりません。あなたが出した答えは、\"はい\" または \"いいえ\"でなければなりません。\n",
+        "fr": "Vous êtes un excellent modèle d'inférence en langage naturel. Vous DEVEZ déterminer si la réponse prédite est impliquée ou non par la réponse en or pour juger si elle est correcte. La réponse que vous avez fournie DOIT être \"Oui\" ou \"Non\"\n",
+        "ko": "당신은 훌륭한 자연어 추론 모델입니다. 그것이 올바른지 판단하려면 예측 답변이 골드 답변에 수반되는지 여부를 결정해야 합니다. 제공한 응답은 \"예\" 또는 \"아니요\"여야 합니다.\n",
+        "de": "Sie sind ein ausgezeichnetes Inferenzmodell für natürliche Sprache. Sie MÜSSEN feststellen, ob die vorhergesagte Antwort von der goldenen Antwort umfasst wird oder nicht, um zu beurteilen, ob sie richtig ist. Die von Ihnen gegebene Antwort MUSS \"Ja\" oder \"Nein\" lauten.\n",
+        "it": "Siete un eccellente modello di inferenza in linguaggio naturale. Devi determinare se la risposta prevista è implicata o meno dalla risposta oro per giudicare se è corretta. La risposta fornita DEVE essere \"Sì\" o \"No\".\n",
+        "id": "Anda adalah model inferensi bahasa alami yang luar biasa. Anda HARUS menentukan apakah Jawaban yang Diprediksi termasuk atau tidak oleh Jawaban Emas untuk menilai apakah jawaban tersebut benar. Jawaban yang Anda berikan HARUS \"Ya\" atau \"Tidak\"\n",
+        "th": "คุณเป็นแบบอย่างในการอนุมานภาษาธรรมชาติที่ยอดเยี่ยม คุณต้องพิจารณาว่าคำตอบที่ทำนายไว้นั้นมีอยู่ในคำตอบระดับโกลด์หรือไม่ เพื่อตัดสินว่าคำตอบนั้นถูกต้องหรือไม่ คำตอบที่คุณระบุต้องเป็น \"ใช่\" หรือ \"ไม่ใช่\"\n",
+        "ar": "أنت نموذج ممتاز لاستدلال اللغة الطبيعية. يجب عليك تحديد ما إذا كانت الإجابة المتوقعة متضمنة للإجابة الذهبية أم لا للحكم على صحتها. يجب أن يكون الرد الذي قدمته \"نعم\" أو \"لا\"\n"
+    },
+    "prompt_input": {
+        "en": "# Predicted Answer #: {}\n# Gold Answer #: {}\n# Your Response #: (\"Yes\" or \"No\"): ",
+        "zh": "# 预测答案 #: {}\n# 标准答案 #: {}\n# 你的判断 #: (\"是\"或\"否\"): ",
+        "ja": "# 予想される答え #: {}\n# ゴールドの答え #: {}\n# あなたの答え #: (\"はい\" または \"いいえ\"): ",
+        "fr": "# Réponse prédite #: {}\n# Réponse en or #: {}\n# Votre réponse #: (\"Oui\" ou \"Non\"): ",
+        "ko": "# 예상 답변 #: {}\n# 골드 답변 #: {}\n# 귀하의 답변 #: (\"예\" 또는 \"아니요\"): ",
+        "de": "# Vorausgesagte Antwort #: {}\n# Goldene Antwort #: {}\n# Ihre Antwort #: (\"Ja\" oder \"Nein\"): ",
+        "it": "# Risposta pronosticata #: {}\n# Risposta Oro #: {}\n# La tua risposta #: (\"Sì\" o \"No\"): ",
+        "id": "# Prediksi Jawaban #: {}\n# Jawaban Emas #: {}\n# Jawaban Anda #: (\"Ya\" atau \"Tidak\"): ",
+        "th": "# คำตอบที่ทำนายไว้ #: {}\n# คำตอบระดับทอง #: {}\n# คำตอบของคุณ #: (\"ใช่\" หรือ \"ไม่ใช่\"): ",
+        "ar": "# الإجابة المتوقعة #: {}\n# رقم الإجابة الذهبية: {}\n# إجابتك #: (\"نعم\" أو \"لا\"):"
+    }
+}
