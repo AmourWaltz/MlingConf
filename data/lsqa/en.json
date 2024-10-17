@@ -1054,5 +1054,117 @@
             "ja": "フランクリン・D・ルーズベルトはニューディールで知られています。",
             "fr": "Franklin D. Roosevelt est connu pour le New Deal."
         }
+    },
+    {
+        "question": {
+            "en": "What is the largest state in the USA by area?",
+            "zh": "美国面积最大的州是哪个？",
+            "th": "รัฐที่ใหญ่ที่สุดในสหรัฐอเมริกาคือรัฐใด?",
+            "ja": "アメリカで最も面積が大きい州はどこですか？",
+            "fr": "Quel est l'État le plus grand des États-Unis par superficie ?"
+        },
+        "answer": {
+            "en": "Alaska is the largest state in the USA by area.",
+            "zh": "阿拉斯加州是美国面积最大的州。",
+            "th": "อลาสก้าเป็นรัฐที่ใหญ่ที่สุดในสหรัฐอเมริกา",
+            "ja": "アラスカ州はアメリカで最も面積が大きい州です。",
+            "fr": "L'Alaska est l'État le plus grand des États-Unis par superficie."
+        }
+    },
+    {
+        "question": {
+            "en": "Which U.S. President was assassinated in 1963?",
+            "zh": "哪位美国总统在1963年遭暗杀？",
+            "th": "ประธานาธิบดีสหรัฐอเมริกาคนใดถูกลอบสังหารในปี 1963?",
+            "ja": "1963年に暗殺されたアメリカの大統領は誰ですか？",
+            "fr": "Quel président des États-Unis a été assassiné en 1963 ?"
+        },
+        "answer": {
+            "en": "President John F. Kennedy was assassinated in 1963.",
+            "zh": "约翰·F·肯尼迪总统在1963年遭暗杀。",
+            "th": "ประธานาธิบดีจอห์น เอฟ. เคนเนดีถูกลอบสังหารในปี 1963",
+            "ja": "ジョン・F・ケネディ大統領は1963年に暗殺されました。",
+            "fr": "Le président John F. Kennedy a été assassiné en 1963."
+        }
+    },
+    {
+        "question": {
+            "en": "What is the most populous city in the United States?",
+            "zh": "美国人口最多的城市是哪个？",
+            "th": "เมืองที่มีประชากรมากที่สุดในสหรัฐอเมริกาคือเมืองใด?",
+            "ja": "アメリカで最も人口が多い都市はどこですか？",
+            "fr": "Quelle est la ville la plus peuplée des États-Unis ?"
+        },
+        "answer": {
+            "en": "New York City is the most populous city in the United States.",
+            "zh": "纽约市是美国人口最多的城市。",
+            "th": "นิวยอร์กซิตี้เป็นเมืองที่มีประชากรมากที่สุดในสหรัฐอเมริกา",
+            "ja": "ニューヨーク市はアメリカで最も人口が多い都市です。",
+            "fr": "New York est la ville la plus peuplée des États-Unis."
+        }
+    },
+    {
+        "question": {
+            "en": "Which U.S. state is known as the 'Land of 10,000 Lakes'?",
+            "zh": "哪个美国州被称为“一万湖之地”？",
+            "th": "รัฐใดในสหรัฐอเมริกาที่รู้จักกันในชื่อ 'แดนแห่ง 10,000 ทะเลสาบ'?",
+            "ja": "どのアメリカの州が「10,000の湖の地」として知られていますか？",
+            "fr": "Quel État américain est connu comme le 'Pays des 10 000 lacs' ?"
+        },
+        "answer": {
+            "en": "Minnesota is known as the 'Land of 10,000 Lakes'.",
+            "zh": "明尼苏达州被称为“一万湖之地”。",
+            "th": "มินนิโซตาเป็นที่รู้จักกันในชื่อ 'แดนแห่ง 10,000 ทะเลสาบ'",
+            "ja": "ミネソタ州は「10,000の湖の地」として知られています。",
+            "fr": "Le Minnesota est connu comme le 'Pays des 10 000 lacs'."
+        }
+    },
+    {
+        "question": {
+            "en": "What is the name of the national anthem of the United States?",
+            "zh": "美国国歌的名称是什么？",
+            "th": "ชื่อของเพลงชาติของสหรัฐอเมริกาคืออะไร?",
+            "ja": "アメリカの国歌の名前は何ですか？",
+            "fr": "Quel est le nom de l'hymne national des États-Unis ?"
+        },
+        "answer": {
+            "en": "The national anthem of the United States is 'The Star-Spangled Banner'.",
+            "zh": "美国国歌的名称是《星条旗》。",
+            "th": "ชื่อของเพลงชาติของสหรัฐอเมริกาคือ 'The Star-Spangled Banner'",
+            "ja": "アメリカの国歌の名前は「星条旗」です。",
+            "fr": "L'hymne national des États-Unis est 'La Bannière étoilée'."
+        }
+    },
+    {
+        "question": {
+            "en": "Who was the U.S. President during the American Civil War?",
+            "zh": "在美国内战期间，谁是美国总统？",
+            "th": "ใครเป็นประธานาธิบดีสหรัฐอเมริกาในช่วงสงครามกลางเมือง?",
+            "ja": "アメリカ内戦中のアメリカ大統領は誰でしたか？",
+            "fr": "Qui était le président des États-Unis pendant la guerre civile américaine ?"
+        },
+        "answer": {
+            "en": "Abraham Lincoln was the U.S. President during the American Civil War.",
+            "zh": "亚伯拉罕·林肯在美国内战期间是美国总统。",
+            "th": "อับราฮัม ลินคอล์น เป็นประธานาธิบดีสหรัฐอเมริกาในช่วงสงครามกลางเมือง",
+            "ja": "アメリカ内戦中のアメリカ大統領はエイブラハム・リンカーンでした。",
+            "fr": "Abraham Lincoln était le président des États-Unis pendant la guerre civile américaine."
+        }
+    },
+    {
+        "question": {
+            "en": "What major event happened in the United States on July 20, 1969?",
+            "zh": "1969年7月20日在美国发生了什么重大事件？",
+            "th": "เหตุการณ์สำคัญใดเกิดขึ้นในสหรัฐอเมริกาในวันที่ 20 กรกฎาคม ค.ศ. 1969?",
+            "ja": "1969年7月20日にアメリカで何が起こりましたか？",
+            "fr": "Quel événement majeur s'est produit aux États-Unis le 20 juillet 1969 ?"
+        },
+        "answer": {
+            "en": "The major event that happened in the United States on July 20, 1969, was the Apollo 11 moon landing.",
+            "zh": "1969年7月20日在美国发生的重大事件是阿波罗11号登月。",
+            "th": "เหตุการณ์สำคัญที่เกิดขึ้นในสหรัฐอเมริกาในวันที่ 20 กรกฎาคม ค.ศ. 1969 คือการลงจอดบนดวงจันทร์ของอพอลโล 11",
+            "ja": "1969年7月20日にアメリカで起こった主な出来事は、アポロ11号の月面着陸でした。",
+            "fr": "L'événement majeur qui s'est produit aux États-Unis le 20 juillet 1969 était l'atterrissage sur la lune d'Apollo 11."
+        }
     }    
 ]
