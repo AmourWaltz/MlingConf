@@ -54,3 +54,16 @@ python code/evaluation.py --model llama3 --dataset triviaqa
 
 ```
 
+## Citation
+
+If you need to refer to [this paper](https://arxiv.org/abs/2402.13606), please cite with the bibtex listed blow:
+```bibtext
+@misc{xue2024comprehensivestudymultilingualconfidence,
+      title={A Comprehensive Study of Multilingual Confidence Estimation on Large Language Models}, 
+      author={Boyang Xue and Hongru Wang and Rui Wang and Sheng Wang and Zezhong Wang and Yiming Du and Bin Liang and Kam-Fai Wong},
+      year={2024},
+      eprint={2402.13606},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2402.13606}, 
+}
