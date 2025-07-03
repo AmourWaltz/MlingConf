@@ -1,0 +1,6112 @@
+{
+    "en": [
+        {
+            "idx": "119",
+            "question": "Which Chinese martial art is known for its slow movements and focus on health and longevity?",
+            "answer": "Tai Chi"
+        },
+        {
+            "idx": "120",
+            "question": "Which Chinese city hosted the 2008 Summer Olympics?",
+            "answer": "Beijing"
+        },
+        {
+            "idx": "175",
+            "question": "Which Chinese holiday is known as the 'Tomb Sweeping Day' where people visit the graves of their ancestors?",
+            "answer": "Qingming Festival"
+        },
+        {
+            "idx": "126",
+            "question": "What is the name of the Chinese architectural feature that is a type of stilt house found in southern China?",
+            "answer": "Diaojiaolou"
+        },
+        {
+            "idx": "208",
+            "question": "Which Chinese city is famous for its classical gardens?",
+            "answer": "Suzhou"
+        },
+        {
+            "idx": "53",
+            "question": "Which dynasty built the majority of the Great Wall of China as it stands today?",
+            "answer": "Ming Dynasty"
+        },
+        {
+            "idx": "76",
+            "question": "Which Chinese province is known for its limestone karst formations and picturesque river scenery?",
+            "answer": "Guilin"
+        },
+        {
+            "idx": "124",
+            "question": "Which Chinese province is known for its karst landscape in Guilin?",
+            "answer": "Guangxi"
+        },
+        {
+            "idx": "52",
+            "question": "What is the name of the Chinese imperial exams that were used to select candidates for the state bureaucracy?",
+            "answer": "Imperial Examination"
+        },
+        {
+            "idx": "94",
+            "question": "What is the name of the Chinese policy implemented in 1979 to control population growth?",
+            "answer": "One-Child Policy"
+        },
+        {
+            "idx": "97",
+            "question": "What is the name of the Chinese imperial examination system that selected candidates for the state bureaucracy?",
+            "answer": "Imperial Examination"
+        },
+        {
+            "idx": "86",
+            "question": "What is the name of the Chinese stringed musical instrument that has a history of over 2000 years?",
+            "answer": "Guzheng"
+        },
+        {
+            "idx": "158",
+            "question": "What is the name of the traditional Chinese philosophy that centers on ethics, governance, and social harmony?",
+            "answer": "Confucianism"
+        },
+        {
+            "idx": "168",
+            "question": "Which Chinese province is famous for Longjing tea?",
+            "answer": "Zhejiang"
+        },
+        {
+            "idx": "149",
+            "question": "Which dynasty is credited with inventing the compass and playing a crucial role in the development of navigation?",
+            "answer": "Song Dynasty"
+        },
+        {
+            "idx": "244",
+            "question": "What is the name of the Chinese concept of 'face', referring to a person's reputation and dignity?",
+            "answer": "Mianzi"
+        },
+        {
+            "idx": "73",
+            "question": "Which Chinese city is known for its preservation of ancient wooden architecture?",
+            "answer": "Pingyao"
+        },
+        {
+            "idx": "138",
+            "question": "Which Chinese dynasty was known for its legalist approach to governance and harsh legal penalties?",
+            "answer": "Qin Dynasty"
+        },
+        {
+            "idx": "109",
+            "question": "Which Chinese city is known for its ancient walls and was once the capital during the Ming dynasty before Beijing?",
+            "answer": "Nanjing"
+        },
+        {
+            "idx": "125",
+            "question": "What is the name of the ancient Chinese divination text that represents an early form of binary code?",
+            "answer": "I Ching"
+        },
+        {
+            "idx": "243",
+            "question": "What is the name of the Chinese alcoholic beverage made from rice, known for its strong flavor?",
+            "answer": "Baijiu"
+        },
+        {
+            "idx": "92",
+            "question": "Which Chinese city is known for the Bund, a famous waterfront area with historical colonial buildings?",
+            "answer": "Shanghai"
+        },
+        {
+            "idx": "17",
+            "question": "Which Chinese city is known as the 'Venice of the East'?",
+            "answer": "Suzhou"
+        },
+        {
+            "idx": "41",
+            "question": "What is the name of the traditional Chinese dish made from fermented tofu?",
+            "answer": "Stinky Tofu"
+        },
+        {
+            "idx": "132",
+            "question": "Which Chinese city served as the temporary capital during the Second Sino-Japanese War?",
+            "answer": "Chongqing"
+        },
+        {
+            "idx": "72",
+            "question": "What is the Chinese philosophy emphasizing balance between opposites called?",
+            "answer": "Yin and Yang"
+        },
+        {
+            "idx": "1",
+            "question": "What is the name of the traditional Chinese performance art that involves singing, recitation, and martial arts?",
+            "answer": "Chinese Opera"
+        },
+        {
+            "idx": "194",
+            "question": "What is the name of the Chinese dynasty that saw the construction of the first version of the Great Wall?",
+            "answer": "Qin Dynasty"
+        },
+        {
+            "idx": "183",
+            "question": "What is the name of the Chinese art form that involves painting on silk or paper with brush dipped in black ink or colored pigments?",
+            "answer": "Chinese painting"
+        },
+        {
+            "idx": "135",
+            "question": "Which Chinese province is known for its spicy cuisine that includes dishes like Mapo Tofu and Kung Pao Chicken?",
+            "answer": "Sichuan"
+        },
+        {
+            "idx": "139",
+            "question": "Which Chinese philosophy emphasizes harmony with nature?",
+            "answer": "Taoism"
+        },
+        {
+            "idx": "23",
+            "question": "What is the name of the Chinese festival that celebrates the winter solstice with family gatherings and meals?",
+            "answer": "Dongzhi Festival"
+        },
+        {
+            "idx": "113",
+            "question": "What is the name of the ancient Chinese philosopher known for advocating the importance of rituals and family loyalty?",
+            "answer": "Confucius"
+        },
+        {
+            "idx": "50",
+            "question": "Which region in China is known for its unique dialect and cuisine, including dim sum?",
+            "answer": "Guangdong"
+        },
+        {
+            "idx": "8",
+            "question": "Which Chinese explorer is known for his voyages to the Western oceans during the Ming dynasty?",
+            "answer": "Zheng He"
+        },
+        {
+            "idx": "60",
+            "question": "Which mountain is considered sacred in Daoism and is located in the Shanxi Province?",
+            "answer": "Mount Wutai"
+        },
+        {
+            "idx": "167",
+            "question": "Which Chinese dynasty is credited with the completion of the Grand Canal?",
+            "answer": "Sui Dynasty"
+        },
+        {
+            "idx": "219",
+            "question": "Which Chinese dynasty is known for its advancements in mathematics and astronomy?",
+            "answer": "Tang Dynasty"
+        },
+        {
+            "idx": "213",
+            "question": "What is the name of the autonomous region in China known for its large Tibetan population?",
+            "answer": "Tibet"
+        },
+        {
+            "idx": "62",
+            "question": "Which Chinese city is known for its Silk Road history and as a center for trade and cultural exchange between East and West?",
+            "answer": "Dunhuang"
+        },
+        {
+            "idx": "4",
+            "question": "What is the name of the Chinese dynasty during which the Great Wall was extensively fortified and expanded?",
+            "answer": "Ming Dynasty"
+        },
+        {
+            "idx": "82",
+            "question": "What is the name of the Chinese martial art that focuses on inner strength and was developed in the Shaolin Temple?",
+            "answer": "Kung Fu"
+        },
+        {
+            "idx": "31",
+            "question": "What is the name of the Chinese board game of strategy that has been played for thousands of years?",
+            "answer": "Go (Weiqi)"
+        },
+        {
+            "idx": "5",
+            "question": "What is the name of the Chinese dynasty that was established by the Mongols?",
+            "answer": "Yuan Dynasty"
+        },
+        {
+            "idx": "153",
+            "question": "Which Chinese city is famous for its Terracotta Army?",
+            "answer": "Xi'an"
+        },
+        {
+            "idx": "61",
+            "question": "Which mountain in China is famous for its stone tablets with inscriptions and poems dating back to ancient times?",
+            "answer": "Mount Tai"
+        },
+        {
+            "idx": "240",
+            "question": "What is the Chinese art of landscape gardening called?",
+            "answer": "Chinese garden design"
+        },
+        {
+            "idx": "95",
+            "question": "What is the name of the Chinese form of calligraphy that uses a brush and ink to create artistic characters?",
+            "answer": "Shufa"
+        },
+        {
+            "idx": "21",
+            "question": "Which Chinese city is known for its ancient observatory and historical astronomical instruments?",
+            "answer": "Beijing"
+        },
+        {
+            "idx": "242",
+            "question": "Which Chinese festival is celebrated by eating dumplings and marks the transition from winter to spring?",
+            "answer": "Lantern Festival"
+        },
+        {
+            "idx": "3",
+            "question": "What is the name of the Chinese garden style that is characterized by its meticulous design and use of water and rockscapes?",
+            "answer": "Suzhou Garden"
+        },
+        {
+            "idx": "45",
+            "question": "What is the name of the Chinese policy that sought to integrate Hong Kong with mainland China under 'one country, two systems'?",
+            "answer": "Hong Kong Handover"
+        },
+        {
+            "idx": "127",
+            "question": "Which mountain is considered a holy site in Tibetan Buddhism and is known as the center of the world in some Buddhist cosmologies?",
+            "answer": "Mount Kailash"
+        },
+        {
+            "idx": "156",
+            "question": "Which ancient Chinese invention is known as one of the Four Great Inventions and was used for printing texts?",
+            "answer": "Woodblock Printing"
+        },
+        {
+            "idx": "75",
+            "question": "Which Chinese dynasty is known for its maritime exploration and establishing tributary relationships with Southeast Asian countries?",
+            "answer": "Ming Dynasty"
+        },
+        {
+            "idx": "221",
+            "question": "What is the traditional Chinese knotting art called?",
+            "answer": "Chinese knotting"
+        },
+        {
+            "idx": "46",
+            "question": "Which Chinese lake is known for its floating fishing villages and pearl cultivation?",
+            "answer": "Taihu Lake"
+        },
+        {
+            "idx": "241",
+            "question": "What is the name of the minority ethnic group in China known for their matriarchal society and living mainly in Yunnan Province?",
+            "answer": "Mosuo"
+        },
+        {
+            "idx": "178",
+            "question": "Which Chinese mountain is famous for its sunrise views?",
+            "answer": "Mount Huangshan"
+        },
+        {
+            "idx": "174",
+            "question": "What is the name of the Chinese imperial palace that was turned into a museum known as the Palace Museum?",
+            "answer": "Forbidden City"
+        },
+        {
+            "idx": "14",
+            "question": "What is the traditional Chinese lunar festival that celebrates family reunion and harvest?",
+            "answer": "Mid-Autumn Festival"
+        },
+        {
+            "idx": "20",
+            "question": "What is the name of the Chinese art form that involves intricate carving on bamboo, ivory, and other materials?",
+            "answer": "Chinese Carving"
+        },
+        {
+            "idx": "136",
+            "question": "What is the Chinese currency called?",
+            "answer": "Renminbi (Yuan)"
+        },
+        {
+            "idx": "122",
+            "question": "Which Chinese province is known for its fossil findings and dinosaur museums?",
+            "answer": "Liaoning"
+        },
+        {
+            "idx": "148",
+            "question": "What is the traditional Chinese alcoholic beverage called?",
+            "answer": "Baijiu"
+        },
+        {
+            "idx": "155",
+            "question": "What is the name of the traditional Chinese instrument shaped like a moon and played with a plectrum?",
+            "answer": "Ruan"
+        },
+        {
+            "idx": "177",
+            "question": "What is the traditional Chinese medicine practice using needles called?",
+            "answer": "Acupuncture"
+        },
+        {
+            "idx": "220",
+            "question": "Which Chinese city is known for its ancient water towns and classical gardens?",
+            "answer": "Suzhou"
+        },
+        {
+            "idx": "108",
+            "question": "Which Chinese city is known for its historic Drum Tower and Muslim Quarter?",
+            "answer": "Xi'an"
+        },
+        {
+            "idx": "42",
+            "question": "What is the famous Chinese soup dumpling called?",
+            "answer": "Xiaolongbao"
+        },
+        {
+            "idx": "64",
+            "question": "What is the name of the Chinese festival that is celebrated by eating zongzi and racing dragon boats?",
+            "answer": "Dragon Boat Festival"
+        },
+        {
+            "idx": "7",
+            "question": "Which Chinese leader is known for his economic reforms in the 1980s that opened China to global trade?",
+            "answer": "Deng Xiaoping"
+        },
+        {
+            "idx": "55",
+            "question": "Which Chinese city is known as the 'Pearl of the Orient'?",
+            "answer": "Shanghai"
+        },
+        {
+            "idx": "38",
+            "question": "What is the name of the Chinese practice of strategic positioning and movement in martial arts?",
+            "answer": "Baguazhang"
+        },
+        {
+            "idx": "58",
+            "question": "What is the name of the Chinese New Year's Eve dinner that is meant to bring family members together?",
+            "answer": "Reunion Dinner"
+        },
+        {
+            "idx": "154",
+            "question": "What is the traditional Chinese hot pot from Chongqing called?",
+            "answer": "Chongqing Hot Pot"
+        },
+        {
+            "idx": "123",
+            "question": "Which Chinese city served as the end point for the Silk Road and is known for its Muslim Quarter?",
+            "answer": "Xi'an"
+        },
+        {
+            "idx": "196",
+            "question": "Which mountain is associated with the legend of the Yellow Emperor and the origin of the Chinese nation?",
+            "answer": "Mount Tai"
+        },
+        {
+            "idx": "226",
+            "question": "Which dynasty is known for the development of the civil service exam system that influenced Chinese government for centuries?",
+            "answer": "Han Dynasty"
+        },
+        {
+            "idx": "29",
+            "question": "What is the name of the highest peak in China?",
+            "answer": "Mount Everest"
+        },
+        {
+            "idx": "9",
+            "question": "What is the famous Chinese noodle dish from Lanzhou called?",
+            "answer": "Lanzhou Beef Noodles"
+        },
+        {
+            "idx": "81",
+            "question": "What is the name of the Chinese art of arranging objects and space to achieve harmony and balance?",
+            "answer": "Feng Shui"
+        },
+        {
+            "idx": "145",
+            "question": "What is the name of the Chinese style of painting that uses brush and ink, similar to calligraphy?",
+            "answer": "Ink Wash Painting"
+        },
+        {
+            "idx": "224",
+            "question": "What is the name of the Chinese philosophy that teaches surrender and receptiveness?",
+            "answer": "Daoism"
+        },
+        {
+            "idx": "69",
+            "question": "What is the name of the mountain range in China known for its dramatic peaks and is a UNESCO World Heritage site?",
+            "answer": "Huangshan"
+        },
+        {
+            "idx": "227",
+            "question": "What is the name of the Chinese philosophy that focuses on compliance and adaptability?",
+            "answer": "Taoism"
+        },
+        {
+            "idx": "184",
+            "question": "Which Chinese city is known as the 'City of Eternal Spring'?",
+            "answer": "Kunming"
+        },
+        {
+            "idx": "223",
+            "question": "What is the name of the Chinese architectural design principle that aims to harmonize the human presence with the surrounding environment?",
+            "answer": "Feng Shui"
+        },
+        {
+            "idx": "99",
+            "question": "Which Chinese dynasty is known for its blue and white porcelain?",
+            "answer": "Ming Dynasty"
+        },
+        {
+            "idx": "63",
+            "question": "Which Chinese mountain is associated with the origin of the Taoist religion?",
+            "answer": "Mount Qingcheng"
+        },
+        {
+            "idx": "47",
+            "question": "Which Chinese city is historically known as the northern terminus of the Grand Canal?",
+            "answer": "Beijing"
+        },
+        {
+            "idx": "199",
+            "question": "What is the name of the desert located in northern China and southern Mongolia, known as one of the largest sandy deserts in the world?",
+            "answer": "Gobi Desert"
+        },
+        {
+            "idx": "24",
+            "question": "Which city in China is famous for its Terracotta Army, discovered in the mausoleum of the first Qin emperor?",
+            "answer": "Xi'an"
+        },
+        {
+            "idx": "30",
+            "question": "What is the name of the Chinese ghost festival where people pay respects to their deceased ancestors?",
+            "answer": "Hungry Ghost Festival"
+        },
+        {
+            "idx": "233",
+            "question": "What is the name of the ancient Chinese capital known for its terracotta warriors?",
+            "answer": "Xi'an"
+        },
+        {
+            "idx": "140",
+            "question": "Which Chinese city is known for its West Lake?",
+            "answer": "Hangzhou"
+        },
+        {
+            "idx": "211",
+            "question": "Which Chinese leader is credited with the founding of the Chinese Communist Party?",
+            "answer": "Mao Zedong"
+        },
+        {
+            "idx": "43",
+            "question": "Which Chinese dynasty is known for its elaborate oracle bone script, which is among the oldest forms of Chinese writing?",
+            "answer": "Shang Dynasty"
+        },
+        {
+            "idx": "205",
+            "question": "What is the traditional Chinese tea ceremony called?",
+            "answer": "Gongfu Cha"
+        },
+        {
+            "idx": "171",
+            "question": "Which Chinese autonomous region is known for its Tibetan culture?",
+            "answer": "Tibet (Xizang)"
+        },
+        {
+            "idx": "166",
+            "question": "What is the name of the Chinese philosophical concept that emphasizes the fluid and dynamic nature of the universe?",
+            "answer": "Yin and Yang"
+        },
+        {
+            "idx": "91",
+            "question": "What is the name of the Chinese string instrument that has a long neck and is played with a plectrum?",
+            "answer": "Pipa"
+        },
+        {
+            "idx": "210",
+            "question": "Which Chinese leader initiated the 'Four Modernizations' to improve agriculture, industry, national defense, and science technology?",
+            "answer": "Deng Xiaoping"
+        },
+        {
+            "idx": "192",
+            "question": "Which Chinese leader is known for launching the Cultural Revolution?",
+            "answer": "Mao Zedong"
+        },
+        {
+            "idx": "176",
+            "question": "What is the name of the Chinese festival that celebrates the end of the harvest season?",
+            "answer": "Double Ninth Festival"
+        },
+        {
+            "idx": "34",
+            "question": "What is the name of the traditional Chinese garment that features a high collar and silk knots?",
+            "answer": "Cheongsam (Qipao)"
+        },
+        {
+            "idx": "59",
+            "question": "What is the Chinese philosophy founded by Confucius called?",
+            "answer": "Confucianism"
+        },
+        {
+            "idx": "70",
+            "question": "What is the traditional Chinese medicinal practice of inserting needles into specific points of the body?",
+            "answer": "Acupuncture"
+        },
+        {
+            "idx": "16",
+            "question": "What is the name of the Chinese autonomous region that is home to the Uighur ethnic group?",
+            "answer": "Xinjiang"
+        },
+        {
+            "idx": "32",
+            "question": "What is the name of the Chinese folk religion that is characterized by the worship of ancestors and a pantheon of deities and spirits?",
+            "answer": "Chinese Folk Religion"
+        },
+        {
+            "idx": "88",
+            "question": "What is the traditional Chinese exercise combining martial arts and meditation called?",
+            "answer": "Qigong"
+        },
+        {
+            "idx": "157",
+            "question": "What is the name of the Chinese dish that consists of small steamed buns filled with meat or vegetables?",
+            "answer": "Baozi"
+        },
+        {
+            "idx": "40",
+            "question": "Which Chinese city is known for its blue and white porcelain, historically regarded as some of the finest in the world?",
+            "answer": "Jingdezhen"
+        },
+        {
+            "idx": "161",
+            "question": "What is the Chinese festival celebrating the full moon called?",
+            "answer": "Mid-Autumn Festival"
+        },
+        {
+            "idx": "163",
+            "question": "What is the name of the traditional Chinese form of theater that combines music, vocal performance, mime, dance, and acrobatics?",
+            "answer": "Peking Opera"
+        },
+        {
+            "idx": "143",
+            "question": "Which Chinese dynasty is known for its advancements in technology, including the invention of gunpowder, the compass, and papermaking?",
+            "answer": "Song Dynasty"
+        },
+        {
+            "idx": "200",
+            "question": "What is the name of the sea that borders eastern China and is a major route for maritime trade?",
+            "answer": "East China Sea"
+        },
+        {
+            "idx": "232",
+            "question": "What is the name of the Chinese imperial library established during the Tang dynasty that was a center for scholarly study?",
+            "answer": "Imperial Academy"
+        },
+        {
+            "idx": "150",
+            "question": "What is the name of the Chinese philosopher who emphasized spontaneity and individualism, often contrasting with Confucianism?",
+            "answer": "Zhuangzi"
+        },
+        {
+            "idx": "187",
+            "question": "What is the name of the Chinese philosopher known for his teachings on warfare and military strategy?",
+            "answer": "Sun Tzu"
+        },
+        {
+            "idx": "228",
+            "question": "Which Chinese province is known for its panda conservation centers where visitors can see giant pandas in their natural habitat?",
+            "answer": "Sichuan"
+        },
+        {
+            "idx": "48",
+            "question": "Which Chinese province is famous for its grasslands and Mongolian culture?",
+            "answer": "Inner Mongolia"
+        },
+        {
+            "idx": "10",
+            "question": "What is the name of the Chinese silk brocade that is famously produced in Nanjing and known for its beauty and craftsmanship?",
+            "answer": "Nanjing Brocade"
+        },
+        {
+            "idx": "79",
+            "question": "What is the name of the Chinese philosophical concept that focuses on the flow of energy and the balance of forces?",
+            "answer": "Yin and Yang"
+        },
+        {
+            "idx": "27",
+            "question": "Which Chinese city is famous for its pandas?",
+            "answer": "Chengdu"
+        },
+        {
+            "idx": "133",
+            "question": "Which Chinese mountain range separates China from India?",
+            "answer": "Himalayas"
+        },
+        {
+            "idx": "77",
+            "question": "What is the name of the Chinese emperor known for burning books and burying scholars alive?",
+            "answer": "Qin Shi Huang"
+        },
+        {
+            "idx": "80",
+            "question": "Which Chinese dynasty is known for its golden age of culture and philosophy?",
+            "answer": "Tang Dynasty"
+        },
+        {
+            "idx": "160",
+            "question": "Which Chinese province is known for its terraced rice fields that are a UNESCO World Heritage site?",
+            "answer": "Yunnan"
+        },
+        {
+            "idx": "188",
+            "question": "What is the traditional Chinese art of calligraphy called?",
+            "answer": "Shufa"
+        },
+        {
+            "idx": "141",
+            "question": "Which Chinese city is recognized for its historical significance as the capital of multiple dynasties?",
+            "answer": "Luoyang"
+        },
+        {
+            "idx": "218",
+            "question": "Which river in China is known for its historical floods and is often referred to as 'China's sorrow'?",
+            "answer": "Yellow River"
+        },
+        {
+            "idx": "39",
+            "question": "What is the name of the Chinese strategy game that involves capturing territory?",
+            "answer": "Go (Weiqi)"
+        },
+        {
+            "idx": "193",
+            "question": "What is the name of the traditional Chinese medicinal herb that is believed to boost energy and has been used for thousands of years?",
+            "answer": "Ginseng"
+        },
+        {
+            "idx": "170",
+            "question": "What is the name of the Chinese autonomous region known for its vast deserts and oil reserves?",
+            "answer": "Xinjiang"
+        },
+        {
+            "idx": "83",
+            "question": "What is the ancient philosophy founded by Laozi in China?",
+            "answer": "Taoism"
+        },
+        {
+            "idx": "173",
+            "question": "Which Chinese city is known for its Muslim Quarter and ancient city walls?",
+            "answer": "Xi'an"
+        },
+        {
+            "idx": "189",
+            "question": "What is the Chinese art of paper cutting called?",
+            "answer": "Jianzhi"
+        },
+        {
+            "idx": "202",
+            "question": "What is the name of the ethnic group in China known for their unique language and script, predominantly residing in Hunan?",
+            "answer": "Tujia"
+        },
+        {
+            "idx": "186",
+            "question": "What is the name of the Chinese practice involving the strategic placement of military resources, known in the West as 'The Art of War'?",
+            "answer": "Sun Tzu's Art of War"
+        },
+        {
+            "idx": "74",
+            "question": "What is the name of the traditional Chinese robe-like garment that was commonly worn during the Qing Dynasty?",
+            "answer": "Cheongsam"
+        },
+        {
+            "idx": "206",
+            "question": "What is the name of the Chinese belief system that incorporates elements of Buddhism, Taoism, and folk religion?",
+            "answer": "Chinese Folk Religion"
+        },
+        {
+            "idx": "204",
+            "question": "What is the traditional Chinese opera form with painted faces called?",
+            "answer": "Peking Opera"
+        },
+        {
+            "idx": "180",
+            "question": "Which Chinese festival involves dragon boat racing?",
+            "answer": "Dragon Boat Festival"
+        },
+        {
+            "idx": "134",
+            "question": "What is the name of the river that flows through Shanghai, playing a crucial role in its development as a major port city?",
+            "answer": "Huangpu River"
+        },
+        {
+            "idx": "56",
+            "question": "Which Chinese mountain is known for its ancient monasteries and stunning views?",
+            "answer": "Mount Emei"
+        },
+        {
+            "idx": "78",
+            "question": "Which mountain in China is traditionally regarded as the most sacred of the Five Great Mountains?",
+            "answer": "Mount Tai"
+        },
+        {
+            "idx": "182",
+            "question": "Which Chinese city is known for its two major rivers, the Huangpu and the Yangtze?",
+            "answer": "Shanghai"
+        },
+        {
+            "idx": "159",
+            "question": "Which Chinese port city was historically known as the 'Paris of the East'?",
+            "answer": "Shanghai"
+        },
+        {
+            "idx": "15",
+            "question": "Which ancient Chinese dynasty is credited with the creation of the first unified Chinese state under a centralized administration?",
+            "answer": "Qin Dynasty"
+        },
+        {
+            "idx": "18",
+            "question": "Which Chinese province is known for its large population of ethnic minorities and its rich cultural heritage?",
+            "answer": "Yunnan"
+        },
+        {
+            "idx": "116",
+            "question": "Which Chinese river is known as the 'Golden Waterway'?",
+            "answer": "Yangtze River"
+        },
+        {
+            "idx": "36",
+            "question": "What is the name of the Chinese art of paper cutting that is often used during festivals for decoration and as a form of folk art?",
+            "answer": "Papercutting"
+        },
+        {
+            "idx": "118",
+            "question": "What is the name of the Chinese philosophical concept that emphasizes righteousness, propriety, integrity, and honor?",
+            "answer": "Confucianism"
+        },
+        {
+            "idx": "207",
+            "question": "Which Chinese province is known as the 'Land of Abundance'?",
+            "answer": "Sichuan"
+        },
+        {
+            "idx": "33",
+            "question": "Which Chinese festival involves dragon boat races and eating zongzi to commemorate the poet Qu Yuan?",
+            "answer": "Dragon Boat Festival"
+        },
+        {
+            "idx": "96",
+            "question": "What is the name of the traditional Chinese architectural form used in the construction of the Temple of Heaven?",
+            "answer": "Circular Mound Altar"
+        },
+        {
+            "idx": "230",
+            "question": "What is the name of the ancient Chinese unit of length that was used to standardize measurements across the empire?",
+            "answer": "Zhang"
+        },
+        {
+            "idx": "239",
+            "question": "Which Chinese city is known as the starting point of the Maritime Silk Road?",
+            "answer": "Quanzhou"
+        },
+        {
+            "idx": "66",
+            "question": "What is the name of the traditional Chinese philosophy that emphasizes ethical living and bureaucratic responsibility?",
+            "answer": "Confucianism"
+        },
+        {
+            "idx": "102",
+            "question": "What is the traditional Chinese martial art focusing on slow movements called?",
+            "answer": "Tai Chi"
+        },
+        {
+            "idx": "117",
+            "question": "Which Chinese city was the capital of the Southern Song dynasty and is famous for its West Lake?",
+            "answer": "Hangzhou"
+        },
+        {
+            "idx": "26",
+            "question": "What is the name of the Chinese game similar to chess but played with distinctly different pieces and strategies?",
+            "answer": "Xiangqi"
+        },
+        {
+            "idx": "115",
+            "question": "Which Chinese city is the political and cultural center of China, hosting the central government?",
+            "answer": "Beijing"
+        },
+        {
+            "idx": "110",
+            "question": "Which Chinese lake is famous for its floating gardens and lotus flowers?",
+            "answer": "West Lake"
+        },
+        {
+            "idx": "144",
+            "question": "Which Chinese river is known for its historical role as a divider between northern and southern China?",
+            "answer": "Yangtze River"
+        },
+        {
+            "idx": "37",
+            "question": "Which Chinese city is known for its ancient city wall that still stands and can be walked upon today?",
+            "answer": "Xi'an"
+        },
+        {
+            "idx": "57",
+            "question": "What is the name of the Chinese art that involves folding paper into various shapes and figures?",
+            "answer": "Origami"
+        },
+        {
+            "idx": "190",
+            "question": "What is the name of the Chinese concept that describes the ethical power of the ruler derived from moral integrity?",
+            "answer": "Mandate of Heaven"
+        },
+        {
+            "idx": "215",
+            "question": "What is the name of the ancient Chinese philosopher who founded the school of thought known as Mohism?",
+            "answer": "Mozi"
+        },
+        {
+            "idx": "137",
+            "question": "Which Chinese province is famous for spicy Sichuan cuisine?",
+            "answer": "Sichuan"
+        },
+        {
+            "idx": "235",
+            "question": "Which river in China is known for its picturesque landscape and is featured on the back of the 20 Yuan note?",
+            "answer": "Li River"
+        },
+        {
+            "idx": "49",
+            "question": "Which Chinese dynasty was the first to establish a professional standing army?",
+            "answer": "Qin Dynasty"
+        },
+        {
+            "idx": "152",
+            "question": "What is the longest river in China?",
+            "answer": "Yangtze River"
+        },
+        {
+            "idx": "35",
+            "question": "What is the name of the Chinese philosopher known for his teachings on ethics and proper social relationships?",
+            "answer": "Confucius"
+        },
+        {
+            "idx": "111",
+            "question": "What is the name of the Chinese martial art known for its defensive techniques and soft approach?",
+            "answer": "Tai Chi"
+        },
+        {
+            "idx": "231",
+            "question": "What is the name of the Chinese philosophical concept that stresses the importance of moderation and restraint?",
+            "answer": "Zhong Yong"
+        },
+        {
+            "idx": "114",
+            "question": "What is the Chinese New Year also known as?",
+            "answer": "Spring Festival"
+        },
+        {
+            "idx": "129",
+            "question": "What is the traditional Chinese board game with black and white stones called?",
+            "answer": "Go (Weiqi)"
+        },
+        {
+            "idx": "198",
+            "question": "What is the famous ancient trade route connecting China to Europe called?",
+            "answer": "Silk Road"
+        },
+        {
+            "idx": "6",
+            "question": "What is the name of the palace complex in Beijing that served as the imperial palace for the Ming and Qing dynasties?",
+            "answer": "Forbidden City"
+        },
+        {
+            "idx": "104",
+            "question": "What is the name of the Chinese practice of precision gymnastics and martial arts demonstrations?",
+            "answer": "Wushu"
+        },
+        {
+            "idx": "203",
+            "question": "Which river is known as China's 'Mother River' and the cradle of Chinese civilization?",
+            "answer": "Yellow River"
+        },
+        {
+            "idx": "238",
+            "question": "Which river is known as the 'Mother River' of China?",
+            "answer": "Yellow River (Huang He)"
+        },
+        {
+            "idx": "195",
+            "question": "Which Chinese city was the ancient capital for multiple dynasties?",
+            "answer": "Xi'an"
+        },
+        {
+            "idx": "181",
+            "question": "What is the name of the Chinese traditional medicinal practice that involves burning herbal material near the skin?",
+            "answer": "Moxibustion"
+        },
+        {
+            "idx": "44",
+            "question": "Which Chinese city is known for its stone forest geological formation?",
+            "answer": "Kunming"
+        },
+        {
+            "idx": "164",
+            "question": "Which Chinese philosopher founded the school of Legalism, emphasizing strict laws and enforcement?",
+            "answer": "Han Feizi"
+        },
+        {
+            "idx": "85",
+            "question": "What is the name of the Chinese martial arts style known for its 108 movements?",
+            "answer": "Tai Chi"
+        },
+        {
+            "idx": "209",
+            "question": "Which dynasty is known for the invention of gunpowder and the development of early firearms?",
+            "answer": "Song Dynasty"
+        },
+        {
+            "idx": "217",
+            "question": "Which Chinese province is known for its spicy cuisine that includes dishes like Kung Pao Chicken and Mapo Tofu?",
+            "answer": "Sichuan"
+        },
+        {
+            "idx": "146",
+            "question": "What is the name of the traditional Chinese architectural structure that is commonly seen in gardens and parks?",
+            "answer": "Pavilion"
+        },
+        {
+            "idx": "185",
+            "question": "Which Chinese philosopher is known for his doctrine of the Mean, emphasizing moderation and balance?",
+            "answer": "Confucius"
+        },
+        {
+            "idx": "191",
+            "question": "Which Chinese mountain is known for its historic temples and was the site of the first emperor's quest for immortality?",
+            "answer": "Mount Tai"
+        },
+        {
+            "idx": "142",
+            "question": "What is the Chinese concept of life energy called?",
+            "answer": "Qi"
+        },
+        {
+            "idx": "71",
+            "question": "What is the famous Chinese roast duck dish from Beijing called?",
+            "answer": "Peking Duck"
+        },
+        {
+            "idx": "28",
+            "question": "Which Chinese city is known for its historical role in the opium trade and subsequent Opium Wars?",
+            "answer": "Guangzhou"
+        },
+        {
+            "idx": "237",
+            "question": "What is the name of the Chinese practice of using age-old techniques for forging blades?",
+            "answer": "Chinese swordsmanship"
+        },
+        {
+            "idx": "19",
+            "question": "Which Chinese dynasty is noted for its legalist and militaristic foundations, established by Emperor Qin Shi Huang?",
+            "answer": "Qin Dynasty"
+        },
+        {
+            "idx": "130",
+            "question": "What is the name of the Chinese art of arranging living spaces to create balance and harmony?",
+            "answer": "Feng Shui"
+        },
+        {
+            "idx": "151",
+            "question": "Which festival involves dragon boat racing to commemorate the death of the poet Qu Yuan?",
+            "answer": "Dragon Boat Festival"
+        },
+        {
+            "idx": "131",
+            "question": "What is the name of the Chinese martial art known for its 36 strategies and emphasis on deception?",
+            "answer": "Sun Tzu's Art of War"
+        },
+        {
+            "idx": "169",
+            "question": "Which Chinese city is famous for its ice and snow festival?",
+            "answer": "Harbin"
+        },
+        {
+            "idx": "101",
+            "question": "Which Chinese city is known for its electronic manufacturing and is often referred to as the 'Silicon Valley of China'?",
+            "answer": "Shenzhen"
+        },
+        {
+            "idx": "112",
+            "question": "Which Chinese river is known for its historical significance as a trade route during the Tang and Song dynasties?",
+            "answer": "Grand Canal"
+        },
+        {
+            "idx": "12",
+            "question": "Which mountain in China is famous for its sunrise views and was a source of inspiration for many traditional Chinese paintings?",
+            "answer": "Mount Huangshan"
+        },
+        {
+            "idx": "84",
+            "question": "What is the name of the Chinese unit of currency?",
+            "answer": "Renminbi (Yuan)"
+        },
+        {
+            "idx": "51",
+            "question": "Which mountain range in China is known for its dramatic peaks and is a UNESCO World Heritage site?",
+            "answer": "Huangshan (Yellow Mountains)"
+        },
+        {
+            "idx": "93",
+            "question": "Which Chinese minority is known for their horseback archery and pastoral nomadic lifestyle?",
+            "answer": "Mongols"
+        },
+        {
+            "idx": "100",
+            "question": "What is the name of the traditional Chinese architectural style that features upturned eaves?",
+            "answer": "Siheyuan"
+        },
+        {
+            "idx": "90",
+            "question": "What is the name of the Chinese architectural form characterized by large roofs that curve upwards at the edges?",
+            "answer": "Pagoda"
+        },
+        {
+            "idx": "2",
+            "question": "What is the name of the Chinese tea ceremony that emphasizes artistry and the aesthetics of tea preparation?",
+            "answer": "Gongfu Tea Ceremony"
+        },
+        {
+            "idx": "128",
+            "question": "What is the traditional Chinese dumpling eaten during Chinese New Year called?",
+            "answer": "Jiaozi"
+        },
+        {
+            "idx": "162",
+            "question": "Which Chinese leader is known for founding the People's Republic of China in 1949?",
+            "answer": "Mao Zedong"
+        },
+        {
+            "idx": "212",
+            "question": "Which Chinese leader is known for his role in the Long March and later as the head of state?",
+            "answer": "Mao Zedong"
+        },
+        {
+            "idx": "22",
+            "question": "Which Chinese province is known for its large number of ethnic minorities and unique cultural practices?",
+            "answer": "Guangxi"
+        },
+        {
+            "idx": "13",
+            "question": "Which river is known as the 'Yangtze River' and is the longest river in Asia?",
+            "answer": "Yangtze River"
+        },
+        {
+            "idx": "236",
+            "question": "Which Chinese city is known for its role in the development of Chinese Zen Buddhism?",
+            "answer": "Hangzhou"
+        },
+        {
+            "idx": "106",
+            "question": "Which Chinese festival involves lighting lanterns and solving riddles written on them?",
+            "answer": "Lantern Festival"
+        },
+        {
+            "idx": "87",
+            "question": "What is the name of the Chinese garden located in Suzhou that is a UNESCO World Heritage Site?",
+            "answer": "Humble Administrator's Garden"
+        },
+        {
+            "idx": "98",
+            "question": "What is the name of the ancient trade route that connected China to the Mediterranean Sea, facilitating trade and cultural exchange?",
+            "answer": "Silk Road"
+        },
+        {
+            "idx": "201",
+            "question": "What is the name of the traditional Chinese philosophy that emphasizes living in harmony with the Dao?",
+            "answer": "Daoism"
+        },
+        {
+            "idx": "121",
+            "question": "What is the name of the Chinese art of decorative knotting?",
+            "answer": "Chinese Knotting"
+        },
+        {
+            "idx": "222",
+            "question": "Which river is known as the 'West River' and is one of the three major rivers in southern China?",
+            "answer": "Xi River"
+        },
+        {
+            "idx": "214",
+            "question": "Which Chinese ethnic group is known for their horse culture and living in the grasslands of Inner Mongolia?",
+            "answer": "Mongols"
+        },
+        {
+            "idx": "225",
+            "question": "Which Chinese city is known for its electronic markets and as a hub for technology and innovation?",
+            "answer": "Shenzhen"
+        },
+        {
+            "idx": "65",
+            "question": "Which Chinese province is known for its coastal cities and economic prosperity?",
+            "answer": "Jiangsu"
+        },
+        {
+            "idx": "68",
+            "question": "Which Chinese city is known for its skyscrapers and as a major global financial hub?",
+            "answer": "Hong Kong"
+        },
+        {
+            "idx": "165",
+            "question": "What is the name of the Chinese dynastic history that was the first to establish a meritocratic bureaucracy?",
+            "answer": "Han Dynasty"
+        },
+        {
+            "idx": "54",
+            "question": "What is the capital city of China?",
+            "answer": "Beijing"
+        },
+        {
+            "idx": "179",
+            "question": "Which Chinese leader initiated the Reform and Opening-up Policy that transformed China's economy?",
+            "answer": "Deng Xiaoping"
+        },
+        {
+            "idx": "107",
+            "question": "What is the name of the Chinese traditional medicinal concept of balancing the body's vital energy?",
+            "answer": "Qi"
+        },
+        {
+            "idx": "105",
+            "question": "What is the name of the Chinese border gate which separates Hong Kong from mainland China?",
+            "answer": "Lo Wu"
+        },
+        {
+            "idx": "11",
+            "question": "Which dynasty is considered the first historically verified imperial dynasty of China?",
+            "answer": "Qin Dynasty"
+        },
+        {
+            "idx": "172",
+            "question": "Which Chinese city is known as the 'Heavenly City'?",
+            "answer": "Suzhou"
+        },
+        {
+            "idx": "25",
+            "question": "Which Chinese city is known for its Silk Market and is a major hub for the silk trade?",
+            "answer": "Hangzhou"
+        },
+        {
+            "idx": "103",
+            "question": "Which Chinese mountain is considered sacred in Taoism?",
+            "answer": "Mount Tai"
+        },
+        {
+            "idx": "89",
+            "question": "Which Chinese city is known for the legend of the White Snake, a famous story in Chinese folklore?",
+            "answer": "Hangzhou"
+        },
+        {
+            "idx": "197",
+            "question": "Which Chinese lake is known for its winter migrations of Siberian cranes?",
+            "answer": "Poyang Lake"
+        },
+        {
+            "idx": "216",
+            "question": "Which Chinese province is known for its bamboo forests and as the home of the giant panda?",
+            "answer": "Sichuan"
+        },
+        {
+            "idx": "147",
+            "question": "Which Chinese city is renowned for its historic canals and has been dubbed the 'Venice of the East'?",
+            "answer": "Suzhou"
+        },
+        {
+            "idx": "234",
+            "question": "What is the name of the Chinese military strategy text attributed to Sun Tzu?",
+            "answer": "The Art of War"
+        },
+        {
+            "idx": "67",
+            "question": "Which Chinese city is known for its historic Bund waterfront area?",
+            "answer": "Shanghai"
+        },
+        {
+            "idx": "229",
+            "question": "What is the name of the border between China and Russia, marked by the Amur River?",
+            "answer": "Sino-Russian Border"
+        }
+    ],
+    "zh": [
+        {
+            "idx": "119",
+            "question": "哪种中国武术以动作缓慢、注重健康和长寿而著称？",
+            "answer": "太极拳"
+        },
+        {
+            "idx": "120",
+            "question": "哪个中国城市举办了2008年夏季奥运会？",
+            "answer": "北京"
+        },
+        {
+            "idx": "175",
+            "question": "哪个中国节日被称为'扫墓节'，人们会在这一天祭拜祖先的坟墓？",
+            "answer": "清明节"
+        },
+        {
+            "idx": "126",
+            "question": "中国南方常见的一种吊脚楼建筑特色叫什么名字？",
+            "answer": "吊脚楼"
+        },
+        {
+            "idx": "208",
+            "question": "哪个中国城市以其古典园林而闻名？",
+            "answer": "苏州"
+        },
+        {
+            "idx": "53",
+            "question": "哪个朝代建造了现今长城的大部分？",
+            "answer": "明朝"
+        },
+        {
+            "idx": "76",
+            "question": "中国哪个省份以其石灰岩喀斯特地貌和风景如画的河流景色而闻名？",
+            "answer": "桂林"
+        },
+        {
+            "idx": "124",
+            "question": "中国哪个省份以桂林的喀斯特地貌而闻名？",
+            "answer": "广西"
+        },
+        {
+            "idx": "52",
+            "question": "中国古代用来选拔国家官僚的帝国考试制度叫什么名字？",
+            "answer": "科举考试"
+        },
+        {
+            "idx": "94",
+            "question": "1979年中国实施的控制人口增长政策叫什么名字？",
+            "answer": "独生子女政策"
+        },
+        {
+            "idx": "97",
+            "question": "中国古代选拔国家官僚的帝国考试制度叫什么名字？",
+            "answer": "科举考试"
+        },
+        {
+            "idx": "86",
+            "question": "有着2000多年历史的中国弦乐器叫什么名字？",
+            "answer": "古筝"
+        },
+        {
+            "idx": "158",
+            "question": "以伦理、治理和社会和谐为中心的中国传统哲学叫什么名字？",
+            "answer": "儒家思想"
+        },
+        {
+            "idx": "168",
+            "question": "中国哪个省份以龙井茶而闻名？",
+            "answer": "浙江"
+        },
+        {
+            "idx": "149",
+            "question": "哪个朝代被认为发明了指南针，在航海发展中起到了关键作用？",
+            "answer": "宋朝"
+        },
+        {
+            "idx": "244",
+            "question": "中国'面子'概念指的是一个人的声誉和尊严，叫什么名字？",
+            "answer": "面子"
+        },
+        {
+            "idx": "73",
+            "question": "中国哪个城市以保存古代木建筑而闻名？",
+            "answer": "平遥"
+        },
+        {
+            "idx": "138",
+            "question": "中国哪个朝代以法家治理方式和严厉的法律惩罚而闻名？",
+            "answer": "秦朝"
+        },
+        {
+            "idx": "109",
+            "question": "中国哪个城市以其古城墙而闻名，曾在明朝时期作为首都，后来才迁至北京？",
+            "answer": "南京"
+        },
+        {
+            "idx": "125",
+            "question": "中国古代占卜文本，代表二进制代码早期形式的叫什么名字？",
+            "answer": "易经"
+        },
+        {
+            "idx": "243",
+            "question": "中国用大米制成的烈性酒精饮料叫什么名字？",
+            "answer": "白酒"
+        },
+        {
+            "idx": "92",
+            "question": "中国哪个城市以外滩而闻名，外滩是一个著名的滨水区，有历史悠久的殖民建筑？",
+            "answer": "上海"
+        },
+        {
+            "idx": "17",
+            "question": "中国哪个城市被称为'东方威尼斯'？",
+            "answer": "苏州"
+        },
+        {
+            "idx": "41",
+            "question": "用发酵豆腐制成的中国传统菜肴叫什么名字？",
+            "answer": "臭豆腐"
+        },
+        {
+            "idx": "132",
+            "question": "中国哪个城市在抗日战争期间作为临时首都？",
+            "answer": "重庆"
+        },
+        {
+            "idx": "72",
+            "question": "强调对立面之间平衡的中国哲学叫什么？",
+            "answer": "阴阳"
+        },
+        {
+            "idx": "1",
+            "question": "涉及唱歌、朗诵和武术的中国传统表演艺术叫什么名字？",
+            "answer": "中国戏曲"
+        },
+        {
+            "idx": "194",
+            "question": "建造了长城第一版本的中国朝代叫什么名字？",
+            "answer": "秦朝"
+        },
+        {
+            "idx": "183",
+            "question": "用蘸墨水或彩色颜料的毛笔在丝绸或纸上作画的中国艺术形式叫什么名字？",
+            "answer": "中国画"
+        },
+        {
+            "idx": "135",
+            "question": "中国哪个省份以其辛辣菜肴而闻名，包括麻婆豆腐和宫保鸡丁等菜品？",
+            "answer": "四川"
+        },
+        {
+            "idx": "139",
+            "question": "中国哪种哲学强调与自然和谐相处？",
+            "answer": "道家思想"
+        },
+        {
+            "idx": "23",
+            "question": "庆祝冬至、家人团聚用餐的中国节日叫什么名字？",
+            "answer": "冬至节"
+        },
+        {
+            "idx": "113",
+            "question": "倡导礼仪和家庭忠诚重要性的中国古代哲学家叫什么名字？",
+            "answer": "孔子"
+        },
+        {
+            "idx": "50",
+            "question": "中国哪个地区以其独特的方言和菜肴（包括点心）而闻名？",
+            "answer": "广东"
+        },
+        {
+            "idx": "8",
+            "question": "明朝时期以其西洋航海而闻名的中国探险家叫什么名字？",
+            "answer": "郑和"
+        },
+        {
+            "idx": "60",
+            "question": "位于山西省、在道教中被视为神圣的山峰叫什么？",
+            "answer": "五台山"
+        },
+        {
+            "idx": "167",
+            "question": "中国哪个朝代完成了大运河的建设？",
+            "answer": "隋朝"
+        },
+        {
+            "idx": "219",
+            "question": "中国哪个朝代以其在数学和天文学方面的进步而闻名？",
+            "answer": "唐朝"
+        },
+        {
+            "idx": "213",
+            "question": "中国以大量藏族人口而闻名的自治区叫什么名字？",
+            "answer": "西藏"
+        },
+        {
+            "idx": "62",
+            "question": "中国哪个城市以其丝绸之路历史和作为东西方贸易文化交流中心而闻名？",
+            "answer": "敦煌"
+        },
+        {
+            "idx": "4",
+            "question": "长城得到大规模加固和扩建的中国朝代叫什么名字？",
+            "answer": "明朝"
+        },
+        {
+            "idx": "82",
+            "question": "注重内功、在少林寺发展起来的中国武术叫什么名字？",
+            "answer": "功夫"
+        },
+        {
+            "idx": "31",
+            "question": "已经玩了数千年的中国策略棋类游戏叫什么名字？",
+            "answer": "围棋"
+        },
+        {
+            "idx": "5",
+            "question": "由蒙古人建立的中国朝代叫什么名字？",
+            "answer": "元朝"
+        },
+        {
+            "idx": "153",
+            "question": "中国哪个城市以其兵马俑而闻名？",
+            "answer": "西安"
+        },
+        {
+            "idx": "61",
+            "question": "中国哪座山以其石碑上的铭文和可追溯到古代的诗歌而闻名？",
+            "answer": "泰山"
+        },
+        {
+            "idx": "240",
+            "question": "中国的园林造景艺术叫什么？",
+            "answer": "中国园林设计"
+        },
+        {
+            "idx": "95",
+            "question": "使用毛笔和墨水创作艺术字符的中国书法形式叫什么名字？",
+            "answer": "书法"
+        },
+        {
+            "idx": "21",
+            "question": "中国哪个城市以其古代天文台和历史天文仪器而闻名？",
+            "answer": "北京"
+        },
+        {
+            "idx": "242",
+            "question": "中国哪个节日通过吃汤圆来庆祝，标志着从冬天到春天的过渡？",
+            "answer": "元宵节"
+        },
+        {
+            "idx": "3",
+            "question": "以其精心设计和使用水景、假山而著称的中国园林风格叫什么名字？",
+            "answer": "苏州园林"
+        },
+        {
+            "idx": "45",
+            "question": "寻求在'一国两制'下将香港与中国大陆融合的中国政策叫什么名字？",
+            "answer": "香港回归"
+        },
+        {
+            "idx": "127",
+            "question": "在藏传佛教中被视为圣地、在某些佛教宇宙学中被称为世界中心的山峰叫什么？",
+            "answer": "冈仁波齐峰"
+        },
+        {
+            "idx": "156",
+            "question": "中国古代四大发明之一、用于印刷文本的发明叫什么名字？",
+            "answer": "雕版印刷术"
+        },
+        {
+            "idx": "75",
+            "question": "中国哪个朝代以其海上探险和与东南亚国家建立朝贡关系而闻名？",
+            "answer": "明朝"
+        },
+        {
+            "idx": "221",
+            "question": "中国传统的绳结艺术叫什么？",
+            "answer": "中国结"
+        },
+        {
+            "idx": "46",
+            "question": "中国哪个湖泊以其水上渔村和珍珠养殖而闻名？",
+            "answer": "太湖"
+        },
+        {
+            "idx": "241",
+            "question": "中国以母系社会而闻名、主要生活在云南省的少数民族叫什么名字？",
+            "answer": "摩梭族"
+        },
+        {
+            "idx": "178",
+            "question": "中国哪座山以其日出景色而闻名？",
+            "answer": "黄山"
+        },
+        {
+            "idx": "174",
+            "question": "被改建为博物馆（故宫博物院）的中国皇宫叫什么名字？",
+            "answer": "紫禁城"
+        },
+        {
+            "idx": "14",
+            "question": "庆祝家庭团圆和丰收的中国传统农历节日叫什么？",
+            "answer": "中秋节"
+        },
+        {
+            "idx": "20",
+            "question": "涉及在竹子、象牙和其他材料上精细雕刻的中国艺术形式叫什么名字？",
+            "answer": "中国雕刻"
+        },
+        {
+            "idx": "136",
+            "question": "中国的货币叫什么？",
+            "answer": "人民币（元）"
+        },
+        {
+            "idx": "122",
+            "question": "中国哪个省份以其化石发现和恐龙博物馆而闻名？",
+            "answer": "辽宁"
+        },
+        {
+            "idx": "148",
+            "question": "中国传统酒精饮料叫什么？",
+            "answer": "白酒"
+        },
+        {
+            "idx": "155",
+            "question": "形状像月亮、用拨片演奏的中国传统乐器叫什么名字？",
+            "answer": "阮"
+        },
+        {
+            "idx": "177",
+            "question": "使用针灸的中国传统医学实践叫什么？",
+            "answer": "针灸"
+        },
+        {
+            "idx": "220",
+            "question": "中国哪个城市以其古代水乡和古典园林而闻名？",
+            "answer": "苏州"
+        },
+        {
+            "idx": "108",
+            "question": "中国哪个城市以其历史悠久的鼓楼和回民街而闻名？",
+            "answer": "西安"
+        },
+        {
+            "idx": "42",
+            "question": "著名的中国汤包叫什么？",
+            "answer": "小笼包"
+        },
+        {
+            "idx": "64",
+            "question": "通过吃粽子和赛龙舟来庆祝的中国节日叫什么名字？",
+            "answer": "端午节"
+        },
+        {
+            "idx": "7",
+            "question": "中国哪位领导人以其1980年代的经济改革而闻名，这些改革使中国向全球贸易开放？",
+            "answer": "邓小平"
+        },
+        {
+            "idx": "55",
+            "question": "中国哪个城市被称为'东方明珠'？",
+            "answer": "上海"
+        },
+        {
+            "idx": "38",
+            "question": "中国武术中战略定位和移动的练习叫什么名字？",
+            "answer": "八卦掌"
+        },
+        {
+            "idx": "58",
+            "question": "旨在让家庭成员团聚的中国除夕晚餐叫什么名字？",
+            "answer": "团圆饭"
+        },
+        {
+            "idx": "154",
+            "question": "重庆的传统中国火锅叫什么？",
+            "answer": "重庆火锅"
+        },
+        {
+            "idx": "123",
+            "question": "中国哪个城市作为丝绸之路的终点，以其回民街而闻名？",
+            "answer": "西安"
+        },
+        {
+            "idx": "196",
+            "question": "哪座山与黄帝传说和中华民族起源相关？",
+            "answer": "泰山"
+        },
+        {
+            "idx": "226",
+            "question": "哪个朝代因发展了影响中国政府数个世纪的科举考试制度而闻名？",
+            "answer": "汉朝"
+        },
+        {
+            "idx": "29",
+            "question": "中国最高峰叫什么名字？",
+            "answer": "珠穆朗玛峰"
+        },
+        {
+            "idx": "9",
+            "question": "兰州著名的中国面条菜肴叫什么？",
+            "answer": "兰州牛肉面"
+        },
+        {
+            "idx": "81",
+            "question": "中国安排物品和空间以实现和谐与平衡的艺术叫什么名字？",
+            "answer": "风水"
+        },
+        {
+            "idx": "145",
+            "question": "使用毛笔和墨水、类似于书法的中国绘画风格叫什么名字？",
+            "answer": "水墨画"
+        },
+        {
+            "idx": "224",
+            "question": "教导顺从和接受的中国哲学叫什么名字？",
+            "answer": "道家思想"
+        },
+        {
+            "idx": "69",
+            "question": "中国以其戏剧性山峰而闻名、是联合国教科文组织世界遗产的山脉叫什么名字？",
+            "answer": "黄山"
+        },
+        {
+            "idx": "227",
+            "question": "注重顺应和适应性的中国哲学叫什么名字？",
+            "answer": "道家思想"
+        },
+        {
+            "idx": "184",
+            "question": "中国哪个城市被称为'春城'？",
+            "answer": "昆明"
+        },
+        {
+            "idx": "223",
+            "question": "旨在协调人类存在与周围环境的中国建筑设计原则叫什么名字？",
+            "answer": "风水"
+        },
+        {
+            "idx": "99",
+            "question": "中国哪个朝代以其青花瓷而闻名？",
+            "answer": "明朝"
+        },
+        {
+            "idx": "63",
+            "question": "中国哪座山与道教起源相关？",
+            "answer": "青城山"
+        },
+        {
+            "idx": "47",
+            "question": "中国哪个城市历史上被称为大运河的北端终点？",
+            "answer": "北京"
+        },
+        {
+            "idx": "199",
+            "question": "位于中国北部和蒙古南部、被称为世界最大沙漠之一的沙漠叫什么名字？",
+            "answer": "戈壁沙漠"
+        },
+        {
+            "idx": "24",
+            "question": "中国哪个城市以其在秦始皇陵墓中发现的兵马俑而闻名？",
+            "answer": "西安"
+        },
+        {
+            "idx": "30",
+            "question": "人们向已故祖先表示敬意的中国鬼节叫什么名字？",
+            "answer": "中元节"
+        },
+        {
+            "idx": "233",
+            "question": "以其兵马俑而闻名的中国古都叫什么名字？",
+            "answer": "西安"
+        },
+        {
+            "idx": "140",
+            "question": "中国哪个城市以其西湖而闻名？",
+            "answer": "杭州"
+        },
+        {
+            "idx": "211",
+            "question": "中国哪位领导人被认为是中国共产党的创始人？",
+            "answer": "毛泽东"
+        },
+        {
+            "idx": "43",
+            "question": "中国哪个朝代以其精美的甲骨文而闻名，甲骨文是中国文字的最古老形式之一？",
+            "answer": "商朝"
+        },
+        {
+            "idx": "205",
+            "question": "中国传统茶道叫什么？",
+            "answer": "功夫茶"
+        },
+        {
+            "idx": "171",
+            "question": "中国哪个自治区以其藏族文化而闻名？",
+            "answer": "西藏（西藏自治区）"
+        },
+        {
+            "idx": "166",
+            "question": "强调宇宙流动和动态本质的中国哲学概念叫什么名字？",
+            "answer": "阴阳"
+        },
+        {
+            "idx": "91",
+            "question": "有长颈、用拨片演奏的中国弦乐器叫什么名字？",
+            "answer": "琵琶"
+        },
+        {
+            "idx": "210",
+            "question": "中国哪位领导人发起了'四个现代化'来改善农业、工业、国防和科学技术？",
+            "answer": "邓小平"
+        },
+        {
+            "idx": "192",
+            "question": "中国哪位领导人以发动文化大革命而闻名？",
+            "answer": "毛泽东"
+        },
+        {
+            "idx": "176",
+            "question": "庆祝收获季节结束的中国节日叫什么名字？",
+            "answer": "重阳节"
+        },
+        {
+            "idx": "34",
+            "question": "具有高领和丝绸纽扣特色的中国传统服装叫什么名字？",
+            "answer": "旗袍"
+        },
+        {
+            "idx": "59",
+            "question": "孔子创立的中国哲学叫什么？",
+            "answer": "儒家思想"
+        },
+        {
+            "idx": "70",
+            "question": "在身体特定穴位插入针灸的中国传统医学实践叫什么？",
+            "answer": "针灸"
+        },
+        {
+            "idx": "16",
+            "question": "维吾尔族聚居的中国自治区叫什么名字？",
+            "answer": "新疆"
+        },
+        {
+            "idx": "32",
+            "question": "以祖先崇拜和众神灵崇拜为特征的中国民间宗教叫什么名字？",
+            "answer": "中国民间宗教"
+        },
+        {
+            "idx": "88",
+            "question": "结合武术和冥想的中国传统练习叫什么？",
+            "answer": "气功"
+        },
+        {
+            "idx": "157",
+            "question": "由小蒸包子配肉类或蔬菜馅料组成的中国菜肴叫什么名字？",
+            "answer": "包子"
+        },
+        {
+            "idx": "40",
+            "question": "中国哪个城市以其青花瓷而闻名，历史上被认为是世界上最精美的瓷器之一？",
+            "answer": "景德镇"
+        },
+        {
+            "idx": "161",
+            "question": "庆祝满月的中国节日叫什么？",
+            "answer": "中秋节"
+        },
+        {
+            "idx": "163",
+            "question": "结合音乐、声乐表演、哑剧、舞蹈和杂技的中国传统戏剧形式叫什么名字？",
+            "answer": "京剧"
+        },
+        {
+            "idx": "143",
+            "question": "中国哪个朝代以其技术进步而闻名，包括火药、指南针和造纸术的发明？",
+            "answer": "宋朝"
+        },
+        {
+            "idx": "200",
+            "question": "与中国东部接壤、是海上贸易主要航线的海洋叫什么名字？",
+            "answer": "东海"
+        },
+        {
+            "idx": "232",
+            "question": "唐朝时期建立的作为学术研究中心的中国皇家图书馆叫什么名字？",
+            "answer": "国子监"
+        },
+        {
+            "idx": "150",
+            "question": "强调自发性和个人主义、经常与儒家思想形成对比的中国哲学家叫什么名字？",
+            "answer": "庄子"
+        },
+        {
+            "idx": "187",
+            "question": "以其战争和军事战略教学而闻名的中国哲学家叫什么名字？",
+            "answer": "孙子"
+        },
+        {
+            "idx": "228",
+            "question": "中国哪个省份以其熊猫保护中心而闻名，游客可以在那里看到大熊猫的自然栖息地？",
+            "answer": "四川"
+        },
+        {
+            "idx": "48",
+            "question": "中国哪个省份以其草原和蒙古文化而闻名？",
+            "answer": "内蒙古"
+        },
+        {
+            "idx": "10",
+            "question": "在南京著名生产、以其美丽和工艺而闻名的中国丝绸织锦叫什么名字？",
+            "answer": "南京云锦"
+        },
+        {
+            "idx": "79",
+            "question": "专注于能量流动和力量平衡的中国哲学概念叫什么名字？",
+            "answer": "阴阳"
+        },
+        {
+            "idx": "27",
+            "question": "中国哪个城市以熊猫而闻名？",
+            "answer": "成都"
+        },
+        {
+            "idx": "133",
+            "question": "中国哪个山脉将中国与印度分隔开？",
+            "answer": "喜马拉雅山"
+        },
+        {
+            "idx": "77",
+            "question": "以焚书坑儒而闻名的中国皇帝叫什么名字？",
+            "answer": "秦始皇"
+        },
+        {
+            "idx": "80",
+            "question": "中国哪个朝代以其文化和哲学的黄金时代而闻名？",
+            "answer": "唐朝"
+        },
+        {
+            "idx": "160",
+            "question": "中国哪个省份以其梯田稻田而闻名，这些稻田是联合国教科文组织世界遗产？",
+            "answer": "云南"
+        },
+        {
+            "idx": "188",
+            "question": "中国传统书法艺术叫什么？",
+            "answer": "书法"
+        },
+        {
+            "idx": "141",
+            "question": "中国哪个城市因作为多个朝代首都的历史意义而被认可？",
+            "answer": "洛阳"
+        },
+        {
+            "idx": "218",
+            "question": "中国哪条河流以其历史洪水而闻名，经常被称为'中国的忧患'？",
+            "answer": "黄河"
+        },
+        {
+            "idx": "39",
+            "question": "涉及占领领土的中国策略游戏叫什么名字？",
+            "answer": "围棋"
+        },
+        {
+            "idx": "193",
+            "question": "被认为能够增强能量、已使用数千年的中国传统药草叫什么名字？",
+            "answer": "人参"
+        },
+        {
+            "idx": "170",
+            "question": "以其广阔沙漠和石油储备而闻名的中国自治区叫什么名字？",
+            "answer": "新疆"
+        },
+        {
+            "idx": "83",
+            "question": "老子在中国创立的古代哲学叫什么？",
+            "answer": "道家思想"
+        },
+        {
+            "idx": "173",
+            "question": "中国哪个城市以其回民街和古城墙而闻名？",
+            "answer": "西安"
+        },
+        {
+            "idx": "189",
+            "question": "中国剪纸艺术叫什么？",
+            "answer": "剪纸"
+        },
+        {
+            "idx": "202",
+            "question": "中国以其独特语言和文字而闻名、主要居住在湖南的民族叫什么名字？",
+            "answer": "土家族"
+        },
+        {
+            "idx": "186",
+            "question": "涉及军事资源战略配置、在西方被称为《孙子兵法》的中国实践叫什么名字？",
+            "answer": "孙子兵法"
+        },
+        {
+            "idx": "74",
+            "question": "清朝时期常穿的中国传统袍状服装叫什么名字？",
+            "answer": "旗袍"
+        },
+        {
+            "idx": "206",
+            "question": "融合佛教、道教和民间宗教元素的中国信仰体系叫什么名字？",
+            "answer": "中国民间宗教"
+        },
+        {
+            "idx": "204",
+            "question": "有彩绘脸谱的中国传统戏曲形式叫什么？",
+            "answer": "京剧"
+        },
+        {
+            "idx": "180",
+            "question": "中国哪个节日涉及龙舟竞赛？",
+            "answer": "端午节"
+        },
+        {
+            "idx": "134",
+            "question": "流经上海、在其发展成为主要港口城市中起关键作用的河流叫什么名字？",
+            "answer": "黄浦江"
+        },
+        {
+            "idx": "56",
+            "question": "中国哪座山以其古代寺院和壮丽景色而闻名？",
+            "answer": "峨眉山"
+        },
+        {
+            "idx": "78",
+            "question": "中国哪座山传统上被认为是五岳中最神圣的？",
+            "answer": "泰山"
+        },
+        {
+            "idx": "182",
+            "question": "中国哪个城市以其两条主要河流黄浦江和长江而闻名？",
+            "answer": "上海"
+        },
+        {
+            "idx": "159",
+            "question": "中国哪个港口城市历史上被称为'东方巴黎'？",
+            "answer": "上海"
+        },
+        {
+            "idx": "15",
+            "question": "中国哪个古代朝代被认为创建了第一个中央集权统一的中国国家？",
+            "answer": "秦朝"
+        },
+        {
+            "idx": "18",
+            "question": "中国哪个省份以其大量少数民族人口和丰富文化遗产而闻名？",
+            "answer": "云南"
+        },
+        {
+            "idx": "116",
+            "question": "中国哪条河流被称为'黄金水道'？",
+            "answer": "长江"
+        },
+        {
+            "idx": "36",
+            "question": "中国在节日期间经常用于装饰和作为民间艺术形式的剪纸艺术叫什么名字？",
+            "answer": "剪纸"
+        },
+        {
+            "idx": "118",
+            "question": "强调正义、礼仪、诚信和荣誉的中国哲学概念叫什么名字？",
+            "answer": "儒家思想"
+        },
+        {
+            "idx": "207",
+            "question": "中国哪个省份被称为'天府之国'？",
+            "answer": "四川"
+        },
+        {
+            "idx": "33",
+            "question": "中国哪个节日涉及龙舟竞赛和吃粽子来纪念诗人屈原？",
+            "answer": "端午节"
+        },
+        {
+            "idx": "96",
+            "question": "天坛建设中使用的中国传统建筑形式叫什么名字？",
+            "answer": "圜丘坛"
+        },
+        {
+            "idx": "230",
+            "question": "中国古代用于在帝国范围内标准化测量的长度单位叫什么名字？",
+            "answer": "丈"
+        },
+        {
+            "idx": "239",
+            "question": "中国哪个城市被称为海上丝绸之路的起点？",
+            "answer": "泉州"
+        },
+        {
+            "idx": "66",
+            "question": "强调道德生活和官僚责任的中国传统哲学叫什么名字？",
+            "answer": "儒家思想"
+        },
+        {
+            "idx": "102",
+            "question": "专注于缓慢动作的中国传统武术叫什么？",
+            "answer": "太极拳"
+        },
+        {
+            "idx": "117",
+            "question": "中国哪个城市是南宋的首都，以其西湖而闻名？",
+            "answer": "杭州"
+        },
+        {
+            "idx": "26",
+            "question": "类似于象棋但使用截然不同的棋子和策略的中国游戏叫什么名字？",
+            "answer": "象棋"
+        },
+        {
+            "idx": "115",
+            "question": "中国哪个城市是中国的政治和文化中心，是中央政府所在地？",
+            "answer": "北京"
+        },
+        {
+            "idx": "110",
+            "question": "中国哪个湖泊以其浮动花园和荷花而闻名？",
+            "answer": "西湖"
+        },
+        {
+            "idx": "144",
+            "question": "中国哪条河流以其作为中国南北分界线的历史作用而闻名？",
+            "answer": "长江"
+        },
+        {
+            "idx": "37",
+            "question": "中国哪个城市以其至今仍然屹立且可以行走的古城墙而闻名？",
+            "answer": "西安"
+        },
+        {
+            "idx": "57",
+            "question": "涉及将纸折叠成各种形状和图形的中国艺术叫什么名字？",
+            "answer": "折纸"
+        },
+        {
+            "idx": "190",
+            "question": "描述统治者从道德品格中获得的伦理权力的中国概念叫什么名字？",
+            "answer": "天命"
+        },
+        {
+            "idx": "215",
+            "question": "创立墨家思想学派的中国古代哲学家叫什么名字？",
+            "answer": "墨子"
+        },
+        {
+            "idx": "137",
+            "question": "中国哪个省份以辛辣的川菜而闻名？",
+            "answer": "四川"
+        },
+        {
+            "idx": "235",
+            "question": "中国哪条河流以其风景如画的景观而闻名，并出现在20元人民币背面？",
+            "answer": "漓江"
+        },
+        {
+            "idx": "49",
+            "question": "中国哪个朝代是第一个建立职业常备军的？",
+            "answer": "秦朝"
+        },
+        {
+            "idx": "152",
+            "question": "中国最长的河流是什么？",
+            "answer": "长江"
+        },
+        {
+            "idx": "35",
+            "question": "以其伦理学教导和正确社会关系而闻名的中国哲学家叫什么名字？",
+            "answer": "孔子"
+        },
+        {
+            "idx": "111",
+            "question": "以其防御技术和柔和方法而闻名的中国武术叫什么名字？",
+            "answer": "太极拳"
+        },
+        {
+            "idx": "231",
+            "question": "强调节制和克制重要性的中国哲学概念叫什么名字？",
+            "answer": "中庸"
+        },
+        {
+            "idx": "114",
+            "question": "中国新年也被称为什么？",
+            "answer": "春节"
+        },
+        {
+            "idx": "129",
+            "question": "用黑白棋子的中国传统棋类游戏叫什么？",
+            "answer": "围棋"
+        },
+        {
+            "idx": "198",
+            "question": "连接中国与欧洲的著名古代贸易路线叫什么？",
+            "answer": "丝绸之路"
+        },
+        {
+            "idx": "6",
+            "question": "北京作为明清两朝皇宫的宫殿建筑群叫什么名字？",
+            "answer": "紫禁城"
+        },
+        {
+            "idx": "104",
+            "question": "中国精确体操和武术表演的实践叫什么名字？",
+            "answer": "武术"
+        },
+        {
+            "idx": "203",
+            "question": "哪条河流被称为中国的'母亲河'和中华文明的摇篮？",
+            "answer": "黄河"
+        },
+        {
+            "idx": "238",
+            "question": "哪条河流被称为中国的'母亲河'？",
+            "answer": "黄河"
+        },
+        {
+            "idx": "195",
+            "question": "中国哪个城市是多个朝代的古都？",
+            "answer": "西安"
+        },
+        {
+            "idx": "181",
+            "question": "涉及在皮肤附近燃烧草药材料的中国传统医学实践叫什么名字？",
+            "answer": "艾灸"
+        },
+        {
+            "idx": "44",
+            "question": "中国哪个城市以其石林地质构造而闻名？",
+            "answer": "昆明"
+        },
+        {
+            "idx": "164",
+            "question": "中国哪位哲学家创立了强调严格法律和执法的法家学派？",
+            "answer": "韩非子"
+        },
+        {
+            "idx": "85",
+            "question": "以其108个动作而闻名的中国武术风格叫什么名字？",
+            "answer": "太极拳"
+        },
+        {
+            "idx": "209",
+            "question": "哪个朝代以火药的发明和早期火器的发展而闻名？",
+            "answer": "宋朝"
+        },
+        {
+            "idx": "217",
+            "question": "中国哪个省份以其包括宫保鸡丁和麻婆豆腐等菜品的辛辣菜肴而闻名？",
+            "answer": "四川"
+        },
+        {
+            "idx": "146",
+            "question": "园林和公园中常见的中国传统建筑结构叫什么名字？",
+            "answer": "亭子"
+        },
+        {
+            "idx": "185",
+            "question": "中国哪位哲学家以其强调节制和平衡的中庸之道而闻名？",
+            "answer": "孔子"
+        },
+        {
+            "idx": "191",
+            "question": "中国哪座山以其历史悠久的寺庙而闻名，是始皇帝寻求长生不老的地方？",
+            "answer": "泰山"
+        },
+        {
+            "idx": "142",
+            "question": "中国的生命能量概念叫什么？",
+            "answer": "气"
+        },
+        {
+            "idx": "71",
+            "question": "北京著名的中国烤鸭菜肴叫什么？",
+            "answer": "北京烤鸭"
+        },
+        {
+            "idx": "28",
+            "question": "中国哪个城市以其在鸦片贸易和随后鸦片战争中的历史作用而闻名？",
+            "answer": "广州"
+        },
+        {
+            "idx": "237",
+            "question": "中国使用古老技术锻造刀剑的实践叫什么名字？",
+            "answer": "中国剑术"
+        },
+        {
+            "idx": "19",
+            "question": "中国哪个朝代以其法家和军国主义基础而著称，由秦始皇建立？",
+            "answer": "秦朝"
+        },
+        {
+            "idx": "130",
+            "question": "中国安排生活空间以创造平衡与和谐的艺术叫什么名字？",
+            "answer": "风水"
+        },
+        {
+            "idx": "151",
+            "question": "哪个节日涉及龙舟竞赛来纪念诗人屈原的死？",
+            "answer": "端午节"
+        },
+        {
+            "idx": "131",
+            "question": "以其36计和强调欺骗而闻名的中国武术叫什么名字？",
+            "answer": "孙子兵法"
+        },
+        {
+            "idx": "169",
+            "question": "中国哪个城市以其冰雪节而闻名？",
+            "answer": "哈尔滨"
+        },
+        {
+            "idx": "101",
+            "question": "中国哪个城市以其电子制造业而闻名，经常被称为'中国的硅谷'？",
+            "answer": "深圳"
+        },
+        {
+            "idx": "112",
+            "question": "中国哪条河流以其在唐宋时期作为贸易路线的历史意义而闻名？",
+            "answer": "大运河"
+        },
+        {
+            "idx": "12",
+            "question": "中国哪座山以其日出景色而闻名，是许多中国传统绘画的灵感来源？",
+            "answer": "黄山"
+        },
+        {
+            "idx": "84",
+            "question": "中国的货币单位叫什么名字？",
+            "answer": "人民币（元）"
+        },
+        {
+            "idx": "51",
+            "question": "中国哪个山脉以其戏剧性山峰而闻名，是联合国教科文组织世界遗产？",
+            "answer": "黄山"
+        },
+        {
+            "idx": "93",
+            "question": "中国哪个少数民族以其马背射箭和游牧生活方式而闻名？",
+            "answer": "蒙古族"
+        },
+        {
+            "idx": "100",
+            "question": "具有上翘屋檐特色的中国传统建筑风格叫什么名字？",
+            "answer": "四合院"
+        },
+        {
+            "idx": "90",
+            "question": "以边缘向上弯曲的大屋顶为特征的中国建筑形式叫什么名字？",
+            "answer": "塔"
+        },
+        {
+            "idx": "2",
+            "question": "强调艺术性和茶叶准备美学的中国茶道叫什么名字？",
+            "answer": "功夫茶"
+        },
+        {
+            "idx": "128",
+            "question": "中国新年期间吃的传统中国饺子叫什么？",
+            "answer": "饺子"
+        },
+        {
+            "idx": "162",
+            "question": "中国哪位领导人以1949年建立中华人民共和国而闻名？",
+            "answer": "毛泽东"
+        },
+        {
+            "idx": "212",
+            "question": "中国哪位领导人以其在长征中的作用和后来作为国家元首而闻名？",
+            "answer": "毛泽东"
+        },
+        {
+            "idx": "22",
+            "question": "中国哪个省份以其大量少数民族和独特文化实践而闻名？",
+            "answer": "广西"
+        },
+        {
+            "idx": "13",
+            "question": "哪条河流被称为'长江'，是亚洲最长的河流？",
+            "answer": "长江"
+        },
+        {
+            "idx": "236",
+            "question": "中国哪个城市以其在中国禅宗佛教发展中的作用而闻名？",
+            "answer": "杭州"
+        },
+        {
+            "idx": "106",
+            "question": "中国哪个节日涉及点灯笼和解灯笼上的谜语？",
+            "answer": "元宵节"
+        },
+        {
+            "idx": "87",
+            "question": "位于苏州、是联合国教科文组织世界遗产的中国园林叫什么名字？",
+            "answer": "拙政园"
+        },
+        {
+            "idx": "98",
+            "question": "连接中国与地中海、促进贸易和文化交流的古代贸易路线叫什么名字？",
+            "answer": "丝绸之路"
+        },
+        {
+            "idx": "201",
+            "question": "强调与道和谐相处的中国传统哲学叫什么名字？",
+            "answer": "道家思想"
+        },
+        {
+            "idx": "121",
+            "question": "中国装饰性打结艺术叫什么名字？",
+            "answer": "中国结"
+        },
+        {
+            "idx": "222",
+            "question": "哪条河流被称为'西江'，是中国南方三大河流之一？",
+            "answer": "西江"
+        },
+        {
+            "idx": "214",
+            "question": "中国哪个民族以其马文化和生活在内蒙古草原而闻名？",
+            "answer": "蒙古族"
+        },
+        {
+            "idx": "225",
+            "question": "中国哪个城市以其电子市场和作为技术创新中心而闻名？",
+            "answer": "深圳"
+        },
+        {
+            "idx": "65",
+            "question": "中国哪个省份以其沿海城市和经济繁荣而闻名？",
+            "answer": "江苏"
+        },
+        {
+            "idx": "68",
+            "question": "中国哪个城市以其摩天大楼和作为主要全球金融中心而闻名？",
+            "answer": "香港"
+        },
+        {
+            "idx": "165",
+            "question": "中国哪个朝代历史是第一个建立贤能政治官僚制度的？",
+            "answer": "汉朝"
+        },
+        {
+            "idx": "54",
+            "question": "中国的首都是哪个城市？",
+            "answer": "北京"
+        },
+        {
+            "idx": "179",
+            "question": "中国哪位领导人发起了改革开放政策，改变了中国经济？",
+            "answer": "邓小平"
+        },
+        {
+            "idx": "107",
+            "question": "中国平衡身体生命能量的传统医学概念叫什么名字？",
+            "answer": "气"
+        },
+        {
+            "idx": "105",
+            "question": "分隔香港与中国大陆的中国边境关口叫什么名字？",
+            "answer": "罗湖"
+        },
+        {
+            "idx": "11",
+            "question": "哪个朝代被认为是中国第一个历史上得到验证的帝制朝代？",
+            "answer": "秦朝"
+        },
+        {
+            "idx": "172",
+            "question": "中国哪个城市被称为'天堂之城'？",
+            "answer": "苏州"
+        },
+        {
+            "idx": "25",
+            "question": "中国哪个城市以其丝绸市场而闻名，是丝绸贸易的主要中心？",
+            "answer": "杭州"
+        },
+        {
+            "idx": "103",
+            "question": "中国哪座山在道教中被视为神圣？",
+            "answer": "泰山"
+        },
+        {
+            "idx": "89",
+            "question": "中国哪个城市以白蛇传说而闻名，这是中国民间传说中的著名故事？",
+            "answer": "杭州"
+        },
+        {
+            "idx": "197",
+            "question": "中国哪个湖泊以其西伯利亚鹤的冬季迁徙而闻名？",
+            "answer": "鄱阳湖"
+        },
+        {
+            "idx": "216",
+            "question": "中国哪个省份以其竹林和作为大熊猫的家园而闻名？",
+            "answer": "四川"
+        },
+        {
+            "idx": "147",
+            "question": "中国哪个城市以其历史悠久的运河而闻名，被称为'东方威尼斯'？",
+            "answer": "苏州"
+        },
+        {
+            "idx": "234",
+            "question": "归因于孙子的中国军事战略文本叫什么名字？",
+            "answer": "孙子兵法"
+        },
+        {
+            "idx": "67",
+            "question": "中国哪个城市以其历史悠久的外滩滨水区而闻名？",
+            "answer": "上海"
+        },
+        {
+            "idx": "229",
+            "question": "以阿穆尔河为标志的中俄边界叫什么名字？",
+            "answer": "中俄边界"
+        }
+    ],
+    "ja": [
+        {
+            "idx": "119",
+            "question": "どの中国武術がゆっくりとした動きと健康・長寿への重視で知られていますか？",
+            "answer": "太極拳"
+        },
+        {
+            "idx": "120",
+            "question": "2008年夏季オリンピックが開催された中国の都市はどこですか？",
+            "answer": "北京"
+        },
+        {
+            "idx": "175",
+            "question": "祖先の墓を訪れる「清明節」として知られる中国の祝日は何ですか？",
+            "answer": "清明節"
+        },
+        {
+            "idx": "126",
+            "question": "中国南部で見られる高床式の伝統建築の名前は何ですか？",
+            "answer": "吊脚楼"
+        },
+        {
+            "idx": "208",
+            "question": "古典庭園で有名な中国の都市はどこですか？",
+            "answer": "蘇州"
+        },
+        {
+            "idx": "53",
+            "question": "現在の万里の長城の大部分を建設した王朝はどこですか？",
+            "answer": "明王朝"
+        },
+        {
+            "idx": "76",
+            "question": "石灰岩のカルスト地形と美しい川の景色で有名な中国の省はどこですか？",
+            "answer": "桂林"
+        },
+        {
+            "idx": "124",
+            "question": "桂林のカルスト地形で有名な中国の省はどこですか？",
+            "answer": "広西"
+        },
+        {
+            "idx": "52",
+            "question": "中国の官僚登用試験の名称は何ですか？",
+            "answer": "科挙"
+        },
+        {
+            "idx": "94",
+            "question": "1979年に導入された中国の人口抑制政策の名称は何ですか？",
+            "answer": "一人っ子政策"
+        },
+        {
+            "idx": "97",
+            "question": "中国の官僚登用試験制度の名称は何ですか？",
+            "answer": "科挙"
+        },
+        {
+            "idx": "86",
+            "question": "2000年以上の歴史を持つ中国の弦楽器の名前は何ですか？",
+            "answer": "古筝"
+        },
+        {
+            "idx": "158",
+            "question": "倫理、統治、社会的調和を中心とする中国の伝統哲学は何ですか？",
+            "answer": "儒教"
+        },
+        {
+            "idx": "168",
+            "question": "龍井茶で有名な中国の省はどこですか？",
+            "answer": "浙江省"
+        },
+        {
+            "idx": "149",
+            "question": "羅針盤を発明し航海の発展に重要な役割を果たした王朝はどこですか？",
+            "answer": "宋王朝"
+        },
+        {
+            "idx": "244",
+            "question": "人の名誉や体面を意味する中国の概念は何ですか？",
+            "answer": "面子（メンツ）"
+        },
+        {
+            "idx": "73",
+            "question": "古い木造建築の保存で有名な中国の都市はどこですか？",
+            "answer": "平遥"
+        },
+        {
+            "idx": "138",
+            "question": "法家思想による統治と厳しい法罰で知られる中国の王朝はどこですか？",
+            "answer": "秦王朝"
+        },
+        {
+            "idx": "109",
+            "question": "明王朝時代に首都だったことがあり、古い城壁で有名な中国の都市はどこですか？",
+            "answer": "南京"
+        },
+        {
+            "idx": "125",
+            "question": "初期のバイナリーコードを表す中国古代の占い書の名前は何ですか？",
+            "answer": "易経"
+        },
+        {
+            "idx": "243",
+            "question": "米から作られ、強い風味を持つ中国のアルコール飲料の名前は何ですか？",
+            "answer": "白酒"
+        },
+        {
+            "idx": "92",
+            "question": "歴史的な租界建築で有名な外灘がある中国の都市はどこですか？",
+            "answer": "上海"
+        },
+        {
+            "idx": "17",
+            "question": "「東洋のベニス」と呼ばれる中国の都市はどこですか？",
+            "answer": "蘇州"
+        },
+        {
+            "idx": "41",
+            "question": "発酵した豆腐から作られる中国の伝統料理の名前は何ですか？",
+            "answer": "臭豆腐"
+        },
+        {
+            "idx": "132",
+            "question": "日中戦争時に臨時首都となった中国の都市はどこですか？",
+            "answer": "重慶"
+        },
+        {
+            "idx": "72",
+            "question": "相反するもののバランスを強調する中国の哲学は何と呼ばれていますか？",
+            "answer": "陰陽"
+        },
+        {
+            "idx": "1",
+            "question": "歌、朗読、武術を含む中国の伝統的なパフォーマンス芸術の名前は何ですか？",
+            "answer": "中国オペラ"
+        },
+        {
+            "idx": "194",
+            "question": "万里の長城の最初のバージョンを建設した中国の王朝はどこですか？",
+            "answer": "秦王朝"
+        },
+        {
+            "idx": "183",
+            "question": "筆と墨や色彩で絹や紙に描く中国の芸術形式の名前は何ですか？",
+            "answer": "中国画"
+        },
+        {
+            "idx": "135",
+            "question": "麻婆豆腐や宮保鶏丁など辛い料理で有名な中国の省はどこですか？",
+            "answer": "四川省"
+        },
+        {
+            "idx": "139",
+            "question": "自然との調和を強調する中国の哲学は何ですか？",
+            "answer": "道教"
+        },
+        {
+            "idx": "23",
+            "question": "冬至を家族で祝う中国の祭りの名前は何ですか？",
+            "answer": "冬至節"
+        },
+        {
+            "idx": "113",
+            "question": "礼儀や家族の忠誠心を重視した古代中国の哲学者の名前は何ですか？",
+            "answer": "孔子"
+        },
+        {
+            "idx": "50",
+            "question": "独特な方言と飲茶などの料理で有名な中国の地域はどこですか？",
+            "answer": "広東"
+        },
+        {
+            "idx": "8",
+            "question": "明王朝時代に西洋への航海で有名な中国の探検家は誰ですか？",
+            "answer": "鄭和"
+        },
+        {
+            "idx": "60",
+            "question": "道教の聖地とされ、山西省に位置する山の名前は何ですか？",
+            "answer": "五台山"
+        },
+        {
+            "idx": "167",
+            "question": "大運河の完成で知られる中国の王朝はどこですか？",
+            "answer": "隋王朝"
+        },
+        {
+            "idx": "219",
+            "question": "数学や天文学の発展で知られる中国の王朝はどこですか？",
+            "answer": "唐王朝"
+        },
+        {
+            "idx": "213",
+            "question": "チベット族が多く住む中国の自治区の名前は何ですか？",
+            "answer": "チベット"
+        },
+        {
+            "idx": "62",
+            "question": "シルクロードの歴史と東西交流の中心として有名な中国の都市はどこですか？",
+            "answer": "敦煌"
+        },
+        {
+            "idx": "4",
+            "question": "万里の長城が大幅に強化・拡張された中国の王朝はどこですか？",
+            "answer": "明王朝"
+        },
+        {
+            "idx": "82",
+            "question": "内なる力に焦点を当て、少林寺で発展した中国武術の名前は何ですか？",
+            "answer": "カンフー"
+        },
+        {
+            "idx": "31",
+            "question": "何千年も遊ばれている中国の戦略ボードゲームの名前は何ですか？",
+            "answer": "囲碁（ウェイチー）"
+        },
+        {
+            "idx": "5",
+            "question": "モンゴル人が建てた中国の王朝の名前は何ですか？",
+            "answer": "元王朝"
+        },
+        {
+            "idx": "153",
+            "question": "兵馬俑で有名な中国の都市はどこですか？",
+            "answer": "西安"
+        },
+        {
+            "idx": "61",
+            "question": "古代からの詩や碑文が刻まれた石で有名な中国の山はどこですか？",
+            "answer": "泰山"
+        },
+        {
+            "idx": "240",
+            "question": "中国の造園芸術の名前は何ですか？",
+            "answer": "中国庭園設計"
+        },
+        {
+            "idx": "95",
+            "question": "筆と墨で芸術的な文字を書く中国の書道の名前は何ですか？",
+            "answer": "書法"
+        },
+        {
+            "idx": "21",
+            "question": "古代天文台と歴史的な天文機器で有名な中国の都市はどこですか？",
+            "answer": "北京"
+        },
+        {
+            "idx": "242",
+            "question": "餃子を食べて冬から春への移り変わりを祝う中国の祭りは何ですか？",
+            "answer": "元宵節"
+        },
+        {
+            "idx": "3",
+            "question": "水や岩石を巧みに使った綿密な設計で特徴づけられる中国の庭園様式の名前は何ですか？",
+            "answer": "蘇州園林"
+        },
+        {
+            "idx": "45",
+            "question": "「一国二制度」の下で香港を中国本土に統合しようとした中国の政策の名前は何ですか？",
+            "answer": "香港返還"
+        },
+        {
+            "idx": "127",
+            "question": "チベット仏教の聖地とされ、仏教宇宙観の中心とされる山の名前は何ですか？",
+            "answer": "カイラス山"
+        },
+        {
+            "idx": "156",
+            "question": "四大発明の一つで、書物の印刷に使われた中国の古代の発明は何ですか？",
+            "answer": "木版印刷"
+        },
+        {
+            "idx": "75",
+            "question": "海洋探検や東南アジア諸国との朝貢関係で知られる中国の王朝はどこですか？",
+            "answer": "明王朝"
+        },
+        {
+            "idx": "221",
+            "question": "中国の伝統的な組紐の芸術の名前は何ですか？",
+            "answer": "中国結び"
+        },
+        {
+            "idx": "46",
+            "question": "浮かぶ漁村や真珠の養殖で有名な中国の湖の名前は何ですか？",
+            "answer": "太湖"
+        },
+        {
+            "idx": "241",
+            "question": "雲南省に主に住み、母系社会で知られる中国の少数民族の名前は何ですか？",
+            "answer": "モソ族"
+        },
+        {
+            "idx": "178",
+            "question": "日の出の景色で有名な中国の山はどこですか？",
+            "answer": "黄山"
+        },
+        {
+            "idx": "174",
+            "question": "博物館として公開されている中国の皇宮の名前は何ですか？",
+            "answer": "紫禁城"
+        },
+        {
+            "idx": "14",
+            "question": "家族の団らんと収穫を祝う中国の伝統的な旧暦の祭りは何ですか？",
+            "answer": "中秋節"
+        },
+        {
+            "idx": "20",
+            "question": "竹や象牙などに精巧な彫刻を施す中国の芸術形式の名前は何ですか？",
+            "answer": "中国彫刻"
+        },
+        {
+            "idx": "136",
+            "question": "中国の通貨の名称は何ですか？",
+            "answer": "人民元"
+        },
+        {
+            "idx": "122",
+            "question": "化石の発見や恐竜博物館で有名な中国の省はどこですか？",
+            "answer": "遼寧省"
+        },
+        {
+            "idx": "148",
+            "question": "中国の伝統的なアルコール飲料の名前は何ですか？",
+            "answer": "白酒"
+        },
+        {
+            "idx": "155",
+            "question": "月の形をしており、撥で弾く中国の伝統楽器の名前は何ですか？",
+            "answer": "阮"
+        },
+        {
+            "idx": "177",
+            "question": "針を使う中国の伝統医学の名前は何ですか？",
+            "answer": "鍼治療"
+        },
+        {
+            "idx": "220",
+            "question": "古い水郷と古典庭園で有名な中国の都市はどこですか？",
+            "answer": "蘇州"
+        },
+        {
+            "idx": "108",
+            "question": "歴史的な鼓楼とイスラム街で有名な中国の都市はどこですか？",
+            "answer": "西安"
+        },
+        {
+            "idx": "42",
+            "question": "有名な中国の小籠包の名前は何ですか？",
+            "answer": "小籠包"
+        },
+        {
+            "idx": "64",
+            "question": "粽を食べたりドラゴンボートレースをする中国の祭りの名前は何ですか？",
+            "answer": "端午節"
+        },
+        {
+            "idx": "7",
+            "question": "1980年代に経済改革を行い中国を世界貿易に開放した中国の指導者は誰ですか？",
+            "answer": "鄧小平"
+        },
+        {
+            "idx": "55",
+            "question": "「東洋の真珠」と呼ばれる中国の都市はどこですか？",
+            "answer": "上海"
+        },
+        {
+            "idx": "38",
+            "question": "武術における戦略的な位置取りや動きを指す中国の実践の名前は何ですか？",
+            "answer": "八卦掌"
+        },
+        {
+            "idx": "58",
+            "question": "家族が集まるために行われる中国の大晦日の夕食の名前は何ですか？",
+            "answer": "団円の夕食"
+        },
+        {
+            "idx": "154",
+            "question": "重慶発祥の伝統的な中国火鍋の名前は何ですか？",
+            "answer": "重慶火鍋"
+        },
+        {
+            "idx": "123",
+            "question": "シルクロードの終点であり、イスラム街で有名な中国の都市はどこですか？",
+            "answer": "西安"
+        },
+        {
+            "idx": "196",
+            "question": "黄帝の伝説と中国民族の起源に関連する山の名前は何ですか？",
+            "answer": "泰山"
+        },
+        {
+            "idx": "226",
+            "question": "科挙制度の発展で中国政府に大きな影響を与えた王朝はどこですか？",
+            "answer": "漢王朝"
+        },
+        {
+            "idx": "29",
+            "question": "中国で最も高い山の名前は何ですか？",
+            "answer": "エベレスト山"
+        },
+        {
+            "idx": "9",
+            "question": "蘭州発祥の有名な中国の麺料理の名前は何ですか？",
+            "answer": "蘭州牛肉麺"
+        },
+        {
+            "idx": "81",
+            "question": "調和とバランスを図るための物の配置や空間設計の中国の芸術は何ですか？",
+            "answer": "風水"
+        },
+        {
+            "idx": "145",
+            "question": "書道に似た筆と墨を使う中国の絵画スタイルの名前は何ですか？",
+            "answer": "水墨画"
+        },
+        {
+            "idx": "224",
+            "question": "受容と柔軟性を教える中国の哲学は何ですか？",
+            "answer": "道教"
+        },
+        {
+            "idx": "69",
+            "question": "劇的な峰々で知られ、ユネスコ世界遺産にも登録されている中国の山脈の名前は何ですか？",
+            "answer": "黄山"
+        },
+        {
+            "idx": "227",
+            "question": "順応性や柔軟性を重視する中国の哲学は何ですか？",
+            "answer": "道教"
+        },
+        {
+            "idx": "184",
+            "question": "「春の都」と呼ばれる中国の都市はどこですか？",
+            "answer": "昆明"
+        },
+        {
+            "idx": "223",
+            "question": "人間の存在を周囲の環境と調和させることを目的とした中国の建築設計原理は何ですか？",
+            "answer": "風水"
+        },
+        {
+            "idx": "99",
+            "question": "青と白の磁器で有名な中国の王朝はどこですか？",
+            "answer": "明王朝"
+        },
+        {
+            "idx": "63",
+            "question": "道教発祥の地とされる中国の山の名前は何ですか？",
+            "answer": "青城山"
+        },
+        {
+            "idx": "47",
+            "question": "大運河の北端として歴史的に知られる中国の都市はどこですか？",
+            "answer": "北京"
+        },
+        {
+            "idx": "199",
+            "question": "中国北部とモンゴル南部に位置し、世界最大級の砂漠の一つである砂漠の名前は何ですか？",
+            "answer": "ゴビ砂漠"
+        },
+        {
+            "idx": "24",
+            "question": "秦の始皇帝の陵墓で発見された兵馬俑で有名な中国の都市はどこですか？",
+            "answer": "西安"
+        },
+        {
+            "idx": "30",
+            "question": "先祖を祭る中国の鬼祭りの名前は何ですか？",
+            "answer": "中元節"
+        },
+        {
+            "idx": "233",
+            "question": "兵馬俑で有名な古代中国の首都の名前は何ですか？",
+            "answer": "西安"
+        },
+        {
+            "idx": "140",
+            "question": "西湖で有名な中国の都市はどこですか？",
+            "answer": "杭州"
+        },
+        {
+            "idx": "211",
+            "question": "中国共産党の創設者として知られる中国の指導者は誰ですか？",
+            "answer": "毛沢東"
+        },
+        {
+            "idx": "43",
+            "question": "甲骨文字など古代中国の文字で有名な王朝はどこですか？",
+            "answer": "殷王朝"
+        },
+        {
+            "idx": "205",
+            "question": "中国の伝統的な茶道の名前は何ですか？",
+            "answer": "工夫茶"
+        },
+        {
+            "idx": "171",
+            "question": "チベット文化で有名な中国の自治区はどこですか？",
+            "answer": "チベット（西蔵）"
+        },
+        {
+            "idx": "166",
+            "question": "宇宙の流動的かつ動的な性質を強調する中国の哲学概念は何ですか？",
+            "answer": "陰陽"
+        },
+        {
+            "idx": "91",
+            "question": "長いネックを持ち、撥で弾く中国の弦楽器の名前は何ですか？",
+            "answer": "琵琶"
+        },
+        {
+            "idx": "210",
+            "question": "農業、工業、国防、科学技術の「四つの現代化」を推進した中国の指導者は誰ですか？",
+            "answer": "鄧小平"
+        },
+        {
+            "idx": "192",
+            "question": "文化大革命を開始したことで知られる中国の指導者は誰ですか？",
+            "answer": "毛沢東"
+        },
+        {
+            "idx": "176",
+            "question": "収穫の終わりを祝う中国の祭りの名前は何ですか？",
+            "answer": "重陽節"
+        },
+        {
+            "idx": "34",
+            "question": "高い襟とシルクの結び目が特徴の中国の伝統衣装の名前は何ですか？",
+            "answer": "チャイナドレス（旗袍）"
+        },
+        {
+            "idx": "59",
+            "question": "孔子によって創始された中国の哲学の名前は何ですか？",
+            "answer": "儒教"
+        },
+        {
+            "idx": "70",
+            "question": "体の特定の部位に針を刺す中国の伝統医療の名前は何ですか？",
+            "answer": "鍼治療"
+        },
+        {
+            "idx": "16",
+            "question": "ウイグル族が住む中国の自治区の名前は何ですか？",
+            "answer": "新疆"
+        },
+        {
+            "idx": "32",
+            "question": "祖先崇拝と多くの神々の信仰を特徴とする中国の民間宗教の名前は何ですか？",
+            "answer": "中国民間宗教"
+        },
+        {
+            "idx": "88",
+            "question": "武術と瞑想を組み合わせた中国の伝統的な体操の名前は何ですか？",
+            "answer": "気功"
+        },
+        {
+            "idx": "157",
+            "question": "肉や野菜を詰めた小さな蒸し饅頭の中国料理の名前は何ですか？",
+            "answer": "包子"
+        },
+        {
+            "idx": "40",
+            "question": "世界最高級とされる青と白の磁器で有名な中国の都市はどこですか？",
+            "answer": "景徳鎮"
+        },
+        {
+            "idx": "161",
+            "question": "満月を祝う中国の祭りの名前は何ですか？",
+            "answer": "中秋節"
+        },
+        {
+            "idx": "163",
+            "question": "音楽、歌唱、マイム、舞踊、アクロバットを組み合わせた中国の伝統劇の名前は何ですか？",
+            "answer": "京劇"
+        },
+        {
+            "idx": "143",
+            "question": "火薬、羅針盤、製紙などの技術革新で有名な中国の王朝はどこですか？",
+            "answer": "宋王朝"
+        },
+        {
+            "idx": "200",
+            "question": "中国東部に接し、海上貿易の主要ルートとなっている海の名前は何ですか？",
+            "answer": "東シナ海"
+        },
+        {
+            "idx": "232",
+            "question": "唐王朝時代に設立され、学術研究の中心となった中国の皇室図書館の名前は何ですか？",
+            "answer": "国子監"
+        },
+        {
+            "idx": "150",
+            "question": "自発性と個人主義を強調し、儒教と対比されることが多い中国の哲学者の名前は何ですか？",
+            "answer": "荘子"
+        },
+        {
+            "idx": "187",
+            "question": "兵法と軍事戦略の教えで有名な中国の哲学者の名前は何ですか？",
+            "answer": "孫子"
+        },
+        {
+            "idx": "228",
+            "question": "ジャイアントパンダの保護センターで有名な中国の省はどこですか？",
+            "answer": "四川省"
+        },
+        {
+            "idx": "48",
+            "question": "草原とモンゴル文化で有名な中国の省はどこですか？",
+            "answer": "内モンゴル"
+        },
+        {
+            "idx": "10",
+            "question": "南京で生産され、美しさと職人技で有名な中国の絹織物の名前は何ですか？",
+            "answer": "南京雲錦"
+        },
+        {
+            "idx": "79",
+            "question": "エネルギーの流れと力のバランスに焦点を当てた中国の哲学概念の名前は何ですか？",
+            "answer": "陰陽"
+        },
+        {
+            "idx": "27",
+            "question": "パンダで有名な中国の都市はどこですか？",
+            "answer": "成都"
+        },
+        {
+            "idx": "133",
+            "question": "中国とインドを隔てる中国の山脈の名前は何ですか？",
+            "answer": "ヒマラヤ山脈"
+        },
+        {
+            "idx": "77",
+            "question": "書物を焼き、学者を生き埋めにしたことで知られる中国の皇帝の名前は何ですか？",
+            "answer": "秦始皇"
+        },
+        {
+            "idx": "80",
+            "question": "文化と哲学の黄金時代で知られる中国の王朝はどこですか？",
+            "answer": "唐王朝"
+        },
+        {
+            "idx": "160",
+            "question": "棚田がユネスコ世界遺産に登録されている中国の省はどこですか？",
+            "answer": "雲南省"
+        },
+        {
+            "idx": "188",
+            "question": "中国の伝統的な書道芸術の名前は何ですか？",
+            "answer": "書法"
+        },
+        {
+            "idx": "141",
+            "question": "複数の王朝の首都として歴史的に重要な中国の都市はどこですか？",
+            "answer": "洛陽"
+        },
+        {
+            "idx": "218",
+            "question": "歴史的な洪水で知られ、「中国の悲しみ」とも呼ばれる中国の川はどこですか？",
+            "answer": "黄河"
+        },
+        {
+            "idx": "39",
+            "question": "陣地を奪い合う中国の戦略ゲームの名前は何ですか？",
+            "answer": "囲碁（魏棋）"
+        },
+        {
+            "idx": "193",
+            "question": "何千年も使われてきた、元気を増進すると信じられている中国の伝統薬草の名前は何ですか？",
+            "answer": "高麗人参"
+        },
+        {
+            "idx": "170",
+            "question": "広大な砂漠と石油資源で知られる中国の自治区の名前は何ですか？",
+            "answer": "新疆"
+        },
+        {
+            "idx": "83",
+            "question": "老子によって創始された中国の古代哲学の名前は何ですか？",
+            "answer": "道教"
+        },
+        {
+            "idx": "173",
+            "question": "イスラム街と古代の城壁で有名な中国の都市はどこですか？",
+            "answer": "西安"
+        },
+        {
+            "idx": "189",
+            "question": "中国の切り紙細工芸術の名前は何ですか？",
+            "answer": "剪紙"
+        },
+        {
+            "idx": "202",
+            "question": "湖南省を中心に独自の言語と文字を持つ中国の民族の名前は何ですか？",
+            "answer": "トゥチャ族"
+        },
+        {
+            "idx": "186",
+            "question": "西洋で『孫子の兵法』として知られる、軍事資源の戦略的配置に関する中国の実践の名前は何ですか？",
+            "answer": "孫子の兵法"
+        },
+        {
+            "idx": "74",
+            "question": "清王朝時代によく着用された、中国の伝統的なローブのような衣服の名前は何ですか？",
+            "answer": "チャイナドレス（旗袍）"
+        },
+        {
+            "idx": "206",
+            "question": "仏教、道教、民間信仰の要素を取り入れた中国の信仰体系の名前は何ですか？",
+            "answer": "中国民間宗教"
+        },
+        {
+            "idx": "204",
+            "question": "隈取（顔のペイント）が特徴の中国の伝統的なオペラの名前は何ですか？",
+            "answer": "京劇"
+        },
+        {
+            "idx": "180",
+            "question": "ドラゴンボートレースが行われる中国の祭りは何ですか？",
+            "answer": "端午節"
+        },
+        {
+            "idx": "134",
+            "question": "上海を流れ、港町としての発展に重要な役割を果たした川の名前は何ですか？",
+            "answer": "黄浦江"
+        },
+        {
+            "idx": "56",
+            "question": "古い僧院と絶景で有名な中国の山はどこですか？",
+            "answer": "峨眉山"
+        },
+        {
+            "idx": "78",
+            "question": "五岳の中で最も神聖とされる中国の山はどこですか？",
+            "answer": "泰山"
+        },
+        {
+            "idx": "182",
+            "question": "黄浦江と長江という2つの大河で有名な中国の都市はどこですか？",
+            "answer": "上海"
+        },
+        {
+            "idx": "159",
+            "question": "かつて「東洋のパリ」と呼ばれた中国の港町はどこですか？",
+            "answer": "上海"
+        },
+        {
+            "idx": "15",
+            "question": "中央集権による最初の統一中国国家を築いたとされる古代中国王朝の名前は何ですか？",
+            "answer": "秦王朝"
+        },
+        {
+            "idx": "18",
+            "question": "多くの少数民族と豊かな文化遺産で知られる中国の省はどこですか？",
+            "answer": "雲南省"
+        },
+        {
+            "idx": "116",
+            "question": "「黄金の水路」と呼ばれる中国の川の名前は何ですか？",
+            "answer": "長江"
+        },
+        {
+            "idx": "36",
+            "question": "祭りの飾りや民芸として使われる中国の切り紙芸術の名前は何ですか？",
+            "answer": "剪紙"
+        },
+        {
+            "idx": "118",
+            "question": "義、礼、誠実、名誉を重視する中国の哲学概念の名前は何ですか？",
+            "answer": "儒教"
+        },
+        {
+            "idx": "207",
+            "question": "「天府の国」と呼ばれる中国の省はどこですか？",
+            "answer": "四川省"
+        },
+        {
+            "idx": "33",
+            "question": "ドラゴンボートレースや粽を食べて屈原を記念する中国の祭りの名前は何ですか？",
+            "answer": "端午節"
+        },
+        {
+            "idx": "96",
+            "question": "天壇の建設に使われた中国の伝統的な建築様式の名前は何ですか？",
+            "answer": "円丘壇"
+        },
+        {
+            "idx": "230",
+            "question": "中国全土で測量の標準化に使われた古代の長さの単位の名前は何ですか？",
+            "answer": "丈"
+        },
+        {
+            "idx": "239",
+            "question": "海上シルクロードの起点として知られる中国の都市はどこですか？",
+            "answer": "泉州"
+        },
+        {
+            "idx": "66",
+            "question": "倫理的な生活や官僚の責任を重視する中国の伝統哲学の名前は何ですか？",
+            "answer": "儒教"
+        },
+        {
+            "idx": "102",
+            "question": "ゆっくりとした動きが特徴の中国の伝統武術の名前は何ですか？",
+            "answer": "太極拳"
+        },
+        {
+            "idx": "117",
+            "question": "南宋の首都であり西湖で有名な中国の都市はどこですか？",
+            "answer": "杭州"
+        },
+        {
+            "idx": "26",
+            "question": "チェスに似ているが独特の駒と戦略を持つ中国のゲームの名前は何ですか？",
+            "answer": "象棋"
+        },
+        {
+            "idx": "115",
+            "question": "中国の中央政府が所在し、政治と文化の中心である都市はどこですか？",
+            "answer": "北京"
+        },
+        {
+            "idx": "110",
+            "question": "浮かぶ庭園と蓮の花で有名な中国の湖の名前は何ですか？",
+            "answer": "西湖"
+        },
+        {
+            "idx": "144",
+            "question": "中国の南北を分ける歴史的役割を持つ川の名前は何ですか？",
+            "answer": "長江"
+        },
+        {
+            "idx": "37",
+            "question": "今も現存し歩くことができる古代の城壁で有名な中国の都市はどこですか？",
+            "answer": "西安"
+        },
+        {
+            "idx": "57",
+            "question": "紙を折って様々な形や人形を作る中国の芸術の名前は何ですか？",
+            "answer": "折り紙"
+        },
+        {
+            "idx": "190",
+            "question": "統治者の道徳的徳から生まれる支配権を表す中国の概念は何ですか？",
+            "answer": "天命"
+        },
+        {
+            "idx": "215",
+            "question": "墨家思想を創始した古代中国の哲学者の名前は何ですか？",
+            "answer": "墨子"
+        },
+        {
+            "idx": "137",
+            "question": "四川料理で有名な中国の省はどこですか？",
+            "answer": "四川省"
+        },
+        {
+            "idx": "235",
+            "question": "美しい景観で有名で、20元札の裏にも描かれている中国の川の名前は何ですか？",
+            "answer": "漓江"
+        },
+        {
+            "idx": "49",
+            "question": "初めて職業軍人を設立した中国の王朝はどこですか？",
+            "answer": "秦王朝"
+        },
+        {
+            "idx": "152",
+            "question": "中国で最も長い川の名前は何ですか？",
+            "answer": "長江"
+        },
+        {
+            "idx": "35",
+            "question": "倫理と正しい社会関係の教えで有名な中国の哲学者の名前は何ですか？",
+            "answer": "孔子"
+        },
+        {
+            "idx": "111",
+            "question": "防御的な技法と柔らかい動きで知られる中国武術の名前は何ですか？",
+            "answer": "太極拳"
+        },
+        {
+            "idx": "231",
+            "question": "節度と自制の大切さを強調する中国の哲学概念の名前は何ですか？",
+            "answer": "中庸"
+        },
+        {
+            "idx": "114",
+            "question": "中国の旧正月は別名何と呼ばれていますか？",
+            "answer": "春節"
+        },
+        {
+            "idx": "129",
+            "question": "黒と白の石を使う中国の伝統的なボードゲームの名前は何ですか？",
+            "answer": "囲碁（魏棋）"
+        },
+        {
+            "idx": "198",
+            "question": "中国とヨーロッパを結ぶ有名な古代交易路の名前は何ですか？",
+            "answer": "シルクロード"
+        },
+        {
+            "idx": "6",
+            "question": "明・清王朝の皇帝の宮殿だった北京の宮殿複合体の名前は何ですか？",
+            "answer": "紫禁城"
+        },
+        {
+            "idx": "104",
+            "question": "精密な体操や武術演武で知られる中国の実践の名前は何ですか？",
+            "answer": "武術"
+        },
+        {
+            "idx": "203",
+            "question": "中国の『母なる川』であり、中国文明の揺籃とされる川の名前は何ですか？",
+            "answer": "黄河"
+        },
+        {
+            "idx": "238",
+            "question": "中国の『母なる川』として知られる川の名前は何ですか？",
+            "answer": "黄河"
+        },
+        {
+            "idx": "195",
+            "question": "複数の王朝の古都だった中国の都市はどこですか？",
+            "answer": "西安"
+        },
+        {
+            "idx": "181",
+            "question": "薬草を皮膚の近くで燃やす中国の伝統医療の名前は何ですか？",
+            "answer": "艾灸"
+        },
+        {
+            "idx": "44",
+            "question": "石林地形で有名な中国の都市はどこですか？",
+            "answer": "昆明"
+        },
+        {
+            "idx": "164",
+            "question": "厳格な法律と執行を重視する法家思想を創始した中国の哲学者の名前は何ですか？",
+            "answer": "韓非子"
+        },
+        {
+            "idx": "85",
+            "question": "108の動作で知られる中国武術の流派の名前は何ですか？",
+            "answer": "太極拳"
+        },
+        {
+            "idx": "209",
+            "question": "火薬の発明と初期の火器の発展で知られる中国の王朝はどこですか？",
+            "answer": "宋王朝"
+        },
+        {
+            "idx": "217",
+            "question": "宮保鶏丁や麻婆豆腐などの辛い料理で有名な中国の省はどこですか？",
+            "answer": "四川省"
+        },
+        {
+            "idx": "146",
+            "question": "庭園や公園によく見られる中国の伝統的な建築物の名前は何ですか？",
+            "answer": "亭"
+        },
+        {
+            "idx": "185",
+            "question": "中庸を重視する教義で知られる中国の哲学者の名前は何ですか？",
+            "answer": "孔子"
+        },
+        {
+            "idx": "191",
+            "question": "歴史的な寺院があり、最初の皇帝が不老不死を求めたことで知られる中国の山はどこですか？",
+            "answer": "泰山"
+        },
+        {
+            "idx": "142",
+            "question": "生命エネルギーを表す中国の概念は何ですか？",
+            "answer": "気"
+        },
+        {
+            "idx": "71",
+            "question": "北京発祥の有名な中国のローストダック料理の名前は何ですか？",
+            "answer": "北京ダック"
+        },
+        {
+            "idx": "28",
+            "question": "アヘン貿易とアヘン戦争で歴史的役割を果たした中国の都市はどこですか？",
+            "answer": "広州"
+        },
+        {
+            "idx": "237",
+            "question": "伝統的な鍛冶技法を使った中国の刀剣術の名前は何ですか？",
+            "answer": "中国剣術"
+        },
+        {
+            "idx": "19",
+            "question": "法家思想と軍事力で知られ、秦始皇が建てた中国の王朝はどこですか？",
+            "answer": "秦王朝"
+        },
+        {
+            "idx": "130",
+            "question": "空間を整え調和を生み出す中国の芸術の名前は何ですか？",
+            "answer": "風水"
+        },
+        {
+            "idx": "151",
+            "question": "詩人屈原を記念してドラゴンボートレースが行われる祭りの名前は何ですか？",
+            "answer": "端午節"
+        },
+        {
+            "idx": "131",
+            "question": "36計や策略を重視する中国武術の名前は何ですか？",
+            "answer": "孫子の兵法"
+        },
+        {
+            "idx": "169",
+            "question": "氷雪祭りで有名な中国の都市はどこですか？",
+            "answer": "ハルビン"
+        },
+        {
+            "idx": "101",
+            "question": "電子製造業で有名で「中国のシリコンバレー」と呼ばれる中国の都市はどこですか？",
+            "answer": "深圳"
+        },
+        {
+            "idx": "112",
+            "question": "唐・宋時代に交易路として歴史的に重要だった中国の川の名前は何ですか？",
+            "answer": "大運河"
+        },
+        {
+            "idx": "12",
+            "question": "日の出の絶景と多くの中国画の題材となった中国の山はどこですか？",
+            "answer": "黄山"
+        },
+        {
+            "idx": "84",
+            "question": "中国の通貨単位の名前は何ですか？",
+            "answer": "人民元"
+        },
+        {
+            "idx": "51",
+            "question": "劇的な峰々で有名でユネスコ世界遺産にも登録されている中国の山脈の名前は何ですか？",
+            "answer": "黄山"
+        },
+        {
+            "idx": "93",
+            "question": "騎馬射撃と遊牧生活で有名な中国少数民族の名前は何ですか？",
+            "answer": "モンゴル族"
+        },
+        {
+            "idx": "100",
+            "question": "屋根の端が反り上がった中国の伝統建築様式の名前は何ですか？",
+            "answer": "四合院"
+        },
+        {
+            "idx": "90",
+            "question": "大きな屋根と反り上がった縁が特徴の中国建築様式の名前は何ですか？",
+            "answer": "塔（パゴダ）"
+        },
+        {
+            "idx": "2",
+            "question": "茶の芸術性や美学を重視する中国の茶道の名前は何ですか？",
+            "answer": "工夫茶"
+        },
+        {
+            "idx": "128",
+            "question": "中国の正月に食べる伝統的な餃子の名前は何ですか？",
+            "answer": "餃子"
+        },
+        {
+            "idx": "162",
+            "question": "1949年に中華人民共和国を建国した中国の指導者は誰ですか？",
+            "answer": "毛沢東"
+        },
+        {
+            "idx": "212",
+            "question": "長征での活躍や国家主席として知られる中国の指導者は誰ですか？",
+            "answer": "毛沢東"
+        },
+        {
+            "idx": "22",
+            "question": "多くの少数民族と独自文化で知られる中国の省はどこですか？",
+            "answer": "広西"
+        },
+        {
+            "idx": "13",
+            "question": "「長江」とも呼ばれ、アジア最長の川の名前は何ですか？",
+            "answer": "長江"
+        },
+        {
+            "idx": "236",
+            "question": "中国禅宗発展の地として知られる中国の都市はどこですか？",
+            "answer": "杭州"
+        },
+        {
+            "idx": "106",
+            "question": "灯籠を灯し、なぞなぞを解く中国の祭りの名前は何ですか？",
+            "answer": "元宵節"
+        },
+        {
+            "idx": "87",
+            "question": "蘇州にあるユネスコ世界遺産の中国庭園の名前は何ですか？",
+            "answer": "拙政園"
+        },
+        {
+            "idx": "98",
+            "question": "中国と地中海を結び、交易と文化交流を促進した古代の交易路の名前は何ですか？",
+            "answer": "シルクロード"
+        },
+        {
+            "idx": "201",
+            "question": "道と調和して生きることを重視する中国の伝統哲学の名前は何ですか？",
+            "answer": "道教"
+        },
+        {
+            "idx": "121",
+            "question": "中国の装飾的な組紐芸術の名前は何ですか？",
+            "answer": "中国結び"
+        },
+        {
+            "idx": "222",
+            "question": "「西江」と呼ばれ、中国南部の三大河川の一つである川の名前は何ですか？",
+            "answer": "西江"
+        },
+        {
+            "idx": "214",
+            "question": "馬文化と内モンゴルの草原に住むことで知られる中国の民族は何ですか？",
+            "answer": "モンゴル族"
+        },
+        {
+            "idx": "225",
+            "question": "電子市場や技術革新の拠点として有名な中国の都市はどこですか？",
+            "answer": "深圳"
+        },
+        {
+            "idx": "65",
+            "question": "沿岸都市と経済発展で有名な中国の省はどこですか？",
+            "answer": "江蘇省"
+        },
+        {
+            "idx": "68",
+            "question": "高層ビルが立ち並び、国際的金融都市として知られる中国の都市はどこですか？",
+            "answer": "香港"
+        },
+        {
+            "idx": "165",
+            "question": "初めて実力主義官僚制度を確立した中国の王朝史の名前は何ですか？",
+            "answer": "漢王朝"
+        },
+        {
+            "idx": "54",
+            "question": "中国の首都はどこですか？",
+            "answer": "北京"
+        },
+        {
+            "idx": "179",
+            "question": "改革開放政策を始め、中国経済を変革した指導者は誰ですか？",
+            "answer": "鄧小平"
+        },
+        {
+            "idx": "107",
+            "question": "体の気のバランスを整える中国伝統医学の概念の名前は何ですか？",
+            "answer": "気"
+        },
+        {
+            "idx": "105",
+            "question": "香港と中国本土を隔てる中国の国境ゲートの名前は何ですか？",
+            "answer": "羅湖"
+        },
+        {
+            "idx": "11",
+            "question": "中国最初の歴史的に確認された王朝とされる王朝の名前は何ですか？",
+            "answer": "秦王朝"
+        },
+        {
+            "idx": "172",
+            "question": "「天上の都市」と呼ばれる中国の都市はどこですか？",
+            "answer": "蘇州"
+        },
+        {
+            "idx": "25",
+            "question": "シルクマーケットで有名で、絹の一大集散地である中国の都市はどこですか？",
+            "answer": "杭州"
+        },
+        {
+            "idx": "103",
+            "question": "道教で聖地とされる中国の山はどこですか？",
+            "answer": "泰山"
+        },
+        {
+            "idx": "89",
+            "question": "中国民話『白蛇伝』の舞台として有名な中国の都市はどこですか？",
+            "answer": "杭州"
+        },
+        {
+            "idx": "197",
+            "question": "冬にシベリア鶴が渡来することで有名な中国の湖の名前は何ですか？",
+            "answer": "鄱陽湖"
+        },
+        {
+            "idx": "216",
+            "question": "竹林とジャイアントパンダの生息地で知られる中国の省はどこですか？",
+            "answer": "四川省"
+        },
+        {
+            "idx": "147",
+            "question": "歴史的な運河で有名で「東洋のベニス」とも称される中国の都市はどこですか？",
+            "answer": "蘇州"
+        },
+        {
+            "idx": "234",
+            "question": "孫子に帰せられる中国の兵法書の名前は何ですか？",
+            "answer": "孫子の兵法"
+        },
+        {
+            "idx": "67",
+            "question": "歴史的な外灘ウォーターフロントで有名な中国の都市はどこですか？",
+            "answer": "上海"
+        },
+        {
+            "idx": "229",
+            "question": "アムール川で区切られる中国とロシアの国境の名前は何ですか？",
+            "answer": "中露国境"
+        }
+    ],
+    "th": [
+        {
+            "idx": "119",
+            "question": "ศิลปะการต่อสู้ของจีนชนิดใดที่มีชื่อเสียงในเรื่องการเคลื่อนไหวช้าและเน้นสุขภาพและอายุยืน?",
+            "answer": "ไท่จี๋"
+        },
+        {
+            "idx": "120",
+            "question": "เมืองใดของจีนเป็นเจ้าภาพจัดการแข่งขันโอลิมปิกฤดูร้อนปี 2008?",
+            "answer": "ปักกิ่ง"
+        },
+        {
+            "idx": "175",
+            "question": "วันหยุดของจีนที่เรียกว่า 'วันเช็งเม้ง' ซึ่งผู้คนจะไปเยี่ยมหลุมฝังศพบรรพบุรุษคือวันอะไร?",
+            "answer": "เทศกาลเช็งเม้ง"
+        },
+        {
+            "idx": "126",
+            "question": "ชื่อของลักษณะสถาปัตยกรรมจีนที่เป็นบ้านยกพื้นในภาคใต้ของจีนคืออะไร?",
+            "answer": "เตี้ยวเจี่ยวโหลว"
+        },
+        {
+            "idx": "208",
+            "question": "เมืองใดของจีนมีชื่อเสียงในเรื่องสวนโบราณแบบคลาสสิก?",
+            "answer": "ซูโจว"
+        },
+        {
+            "idx": "53",
+            "question": "ราชวงศ์ใดสร้างกำแพงเมืองจีนส่วนใหญ่ที่เห็นในปัจจุบัน?",
+            "answer": "ราชวงศ์หมิง"
+        },
+        {
+            "idx": "76",
+            "question": "มณฑลใดของจีนมีชื่อเสียงในเรื่องภูมิประเทศหินปูนและทิวทัศน์แม่น้ำที่สวยงาม?",
+            "answer": "กุ้ยหลิน"
+        },
+        {
+            "idx": "124",
+            "question": "มณฑลใดของจีนมีชื่อเสียงในเรื่องภูมิประเทศคาสต์ในกุ้ยหลิน?",
+            "answer": "กว่างซี"
+        },
+        {
+            "idx": "52",
+            "question": "ชื่อของการสอบจอหงวนในจีนที่ใช้คัดเลือกข้าราชการคืออะไร?",
+            "answer": "การสอบจอหงวน"
+        },
+        {
+            "idx": "94",
+            "question": "นโยบายของจีนที่ประกาศใช้ในปี 1979 เพื่อควบคุมการเติบโตของประชากรคืออะไร?",
+            "answer": "นโยบายลูกคนเดียว"
+        },
+        {
+            "idx": "97",
+            "question": "ระบบการสอบจอหงวนของจีนที่ใช้คัดเลือกข้าราชการเรียกว่าอะไร?",
+            "answer": "การสอบจอหงวน"
+        },
+        {
+            "idx": "86",
+            "question": "ชื่อของเครื่องดนตรีจีนสายที่มีประวัติยาวนานกว่า 2000 ปีคืออะไร?",
+            "answer": "กู่เจิ้ง"
+        },
+        {
+            "idx": "158",
+            "question": "ชื่อของปรัชญาจีนโบราณที่เน้นเรื่องจริยธรรม การปกครอง และความกลมเกลียวในสังคมคืออะไร?",
+            "answer": "ลัทธิขงจื๊อ"
+        },
+        {
+            "idx": "168",
+            "question": "มณฑลใดของจีนมีชื่อเสียงในเรื่องชาเหลงจิ่ง?",
+            "answer": "เจ้อเจียง"
+        },
+        {
+            "idx": "149",
+            "question": "ราชวงศ์ใดได้รับเครดิตในการประดิษฐ์เข็มทิศและมีบทบาทสำคัญในการพัฒนาการเดินเรือ?",
+            "answer": "ราชวงศ์ซ่ง"
+        },
+        {
+            "idx": "244",
+            "question": "แนวคิดของจีนที่เรียกว่า 'หน้าตา' ซึ่งหมายถึงชื่อเสียงและศักดิ์ศรีของบุคคลคืออะไร?",
+            "answer": "เหมียนจื่อ"
+        },
+        {
+            "idx": "73",
+            "question": "เมืองใดของจีนมีชื่อเสียงในเรื่องการอนุรักษ์สถาปัตยกรรมไม้โบราณ?",
+            "answer": "ผิงเหยา"
+        },
+        {
+            "idx": "138",
+            "question": "ราชวงศ์จีนใดมีชื่อเสียงในเรื่องการปกครองด้วยกฎหมายและบทลงโทษที่รุนแรง?",
+            "answer": "ราชวงศ์ฉิน"
+        },
+        {
+            "idx": "109",
+            "question": "เมืองใดของจีนมีชื่อเสียงในเรื่องกำแพงเมืองโบราณและเคยเป็นเมืองหลวงในสมัยราชวงศ์หมิงก่อนจะย้ายไปปักกิ่ง?",
+            "answer": "หนานจิง"
+        },
+        {
+            "idx": "125",
+            "question": "ชื่อของตำราทำนายจีนโบราณที่ถือเป็นรูปแบบแรกของรหัสฐานสองคืออะไร?",
+            "answer": "อี้จิง"
+        },
+        {
+            "idx": "243",
+            "question": "ชื่อของเครื่องดื่มแอลกอฮอล์จีนที่ทำจากข้าวและมีรสชาติเข้มข้นคืออะไร?",
+            "answer": "ไป๋จิ่ว"
+        },
+        {
+            "idx": "92",
+            "question": "เมืองใดของจีนมีชื่อเสียงในเรื่องเดอะบันด์ พื้นที่ริมแม่น้ำที่มีอาคารโคโลเนียลเก่าแก่?",
+            "answer": "เซี่ยงไฮ้"
+        },
+        {
+            "idx": "17",
+            "question": "เมืองใดของจีนที่ได้รับฉายาว่า 'เวนิสแห่งตะวันออก'?",
+            "answer": "ซูโจว"
+        },
+        {
+            "idx": "41",
+            "question": "ชื่อของอาหารจีนแบบดั้งเดิมที่ทำจากเต้าหู้หมักคืออะไร?",
+            "answer": "เต้าหู้เหม็น"
+        },
+        {
+            "idx": "132",
+            "question": "เมืองใดของจีนเคยเป็นเมืองหลวงชั่วคราวในช่วงสงครามจีน-ญี่ปุ่นครั้งที่สอง?",
+            "answer": "ฉงชิ่ง"
+        },
+        {
+            "idx": "72",
+            "question": "ปรัชญาจีนที่เน้นความสมดุลระหว่างขั้วตรงข้ามเรียกว่าอะไร?",
+            "answer": "หยินหยาง"
+        },
+        {
+            "idx": "1",
+            "question": "ชื่อของศิลปะการแสดงจีนแบบดั้งเดิมที่ผสมผสานการร้อง การบรรยาย และศิลปะการต่อสู้คืออะไร?",
+            "answer": "งิ้วจีน"
+        },
+        {
+            "idx": "194",
+            "question": "ชื่อของราชวงศ์จีนที่สร้างกำแพงเมืองจีนเวอร์ชั่นแรกคืออะไร?",
+            "answer": "ราชวงศ์ฉิน"
+        },
+        {
+            "idx": "183",
+            "question": "ชื่อของศิลปะจีนที่วาดภาพบนผ้าไหมหรือกระดาษด้วยพู่กันจุ่มหมึกดำหรือสีคืออะไร?",
+            "answer": "จิตรกรรมจีน"
+        },
+        {
+            "idx": "135",
+            "question": "มณฑลใดของจีนมีชื่อเสียงในเรื่องอาหารรสเผ็ด เช่น หม่าโผวโต้วฟู และไก่กงเป่า?",
+            "answer": "เสฉวน"
+        },
+        {
+            "idx": "139",
+            "question": "ปรัชญาจีนใดเน้นความกลมกลืนกับธรรมชาติ?",
+            "answer": "ลัทธิเต๋า"
+        },
+        {
+            "idx": "23",
+            "question": "ชื่อของเทศกาลจีนที่ฉลองเหมายันด้วยการรวมญาติและรับประทานอาหารร่วมกันคืออะไร?",
+            "answer": "เทศกาลตงจื้อ"
+        },
+        {
+            "idx": "113",
+            "question": "ชื่อของนักปรัชญาจีนโบราณที่เน้นความสำคัญของพิธีกรรมและความจงรักภักดีต่อครอบครัวคือใคร?",
+            "answer": "ขงจื๊อ"
+        },
+        {
+            "idx": "50",
+            "question": "ภูมิภาคใดในจีนมีชื่อเสียงในเรื่องภาษาถิ่นและอาหาร โดยเฉพาะติ่มซำ?",
+            "answer": "กวางตุ้ง"
+        },
+        {
+            "idx": "8",
+            "question": "นักสำรวจจีนคนใดมีชื่อเสียงในเรื่องการเดินเรือไปยังมหาสมุทรตะวันตกในสมัยราชวงศ์หมิง?",
+            "answer": "เจิ้งเหอ"
+        },
+        {
+            "idx": "60",
+            "question": "ภูเขาลูกใดถือเป็นศักดิ์สิทธิ์ในลัทธิเต๋าและตั้งอยู่ในมณฑลซานซี?",
+            "answer": "ภูเขาหวู่ไถ"
+        },
+        {
+            "idx": "167",
+            "question": "ราชวงศ์ใดของจีนได้รับเครดิตในการสร้างคลองใหญ่จนเสร็จสมบูรณ์?",
+            "answer": "ราชวงศ์สุย"
+        },
+        {
+            "idx": "219",
+            "question": "ราชวงศ์ใดของจีนมีชื่อเสียงในเรื่องความก้าวหน้าทางคณิตศาสตร์และดาราศาสตร์?",
+            "answer": "ราชวงศ์ถัง"
+        },
+        {
+            "idx": "213",
+            "question": "ชื่อของเขตปกครองตนเองในจีนที่มีประชากรทิเบตจำนวนมากคืออะไร?",
+            "answer": "ทิเบต"
+        },
+        {
+            "idx": "62",
+            "question": "เมืองใดของจีนมีชื่อเสียงในเรื่องประวัติศาสตร์เส้นทางสายไหมและเป็นศูนย์กลางการค้าระหว่างตะวันออกกับตะวันตก?",
+            "answer": "ตุนหวง"
+        },
+        {
+            "idx": "4",
+            "question": "ชื่อของราชวงศ์จีนที่เสริมและขยายกำแพงเมืองจีนอย่างมากคืออะไร?",
+            "answer": "ราชวงศ์หมิง"
+        },
+        {
+            "idx": "82",
+            "question": "ชื่อของศิลปะการต่อสู้จีนที่เน้นพลังภายในและพัฒนาขึ้นที่วัดเส้าหลินคืออะไร?",
+            "answer": "กังฟู"
+        },
+        {
+            "idx": "31",
+            "question": "ชื่อของเกมกระดานกลยุทธ์จีนที่เล่นกันมานับพันปีคืออะไร?",
+            "answer": "โกะ (เว่ยฉี)"
+        },
+        {
+            "idx": "5",
+            "question": "ชื่อของราชวงศ์จีนที่ก่อตั้งโดยชาวมองโกลคืออะไร?",
+            "answer": "ราชวงศ์หยวน"
+        },
+        {
+            "idx": "153",
+            "question": "เมืองใดของจีนมีชื่อเสียงในเรื่องกองทัพทหารดินเผา?",
+            "answer": "ซีอาน"
+        },
+        {
+            "idx": "61",
+            "question": "ภูเขาใดในจีนมีชื่อเสียงในเรื่องแผ่นหินจารึกบทกวีและจารึกตั้งแต่สมัยโบราณ?",
+            "answer": "ภูเขาไท่"
+        },
+        {
+            "idx": "240",
+            "question": "ศิลปะการจัดสวนภูมิทัศน์ของจีนเรียกว่าอะไร?",
+            "answer": "การออกแบบสวนจีน"
+        },
+        {
+            "idx": "95",
+            "question": "ชื่อของศิลปะการเขียนพู่กันจีนที่ใช้พู่กันและหมึกสร้างตัวอักษรอย่างศิลป์คืออะไร?",
+            "answer": "ซูฝา"
+        },
+        {
+            "idx": "21",
+            "question": "เมืองใดของจีนมีชื่อเสียงในเรื่องหอดูดาวโบราณและเครื่องมือดาราศาสตร์ประวัติศาสตร์?",
+            "answer": "ปักกิ่ง"
+        },
+        {
+            "idx": "242",
+            "question": "เทศกาลใดของจีนที่ฉลองด้วยการกินเกี๊ยวและเป็นสัญลักษณ์ของการเปลี่ยนผ่านจากฤดูหนาวสู่ฤดูใบไม้ผลิ?",
+            "answer": "เทศกาลโคมไฟ"
+        },
+        {
+            "idx": "3",
+            "question": "ชื่อของสไตล์สวนจีนที่มีการออกแบบอย่างประณีตและใช้ธารน้ำกับหินเป็นจุดเด่นคืออะไร?",
+            "answer": "สวนซูโจว"
+        },
+        {
+            "idx": "45",
+            "question": "นโยบายของจีนที่มีเป้าหมายรวมฮ่องกงกับจีนแผ่นดินใหญ่ภายใต้ 'หนึ่งประเทศ สองระบบ' คืออะไร?",
+            "answer": "การส่งมอบฮ่องกง"
+        },
+        {
+            "idx": "127",
+            "question": "ภูเขาลูกใดถือเป็นสถานที่ศักดิ์สิทธิ์ในศาสนาพุทธทิเบตและถือเป็นศูนย์กลางของโลกในบางคติความเชื่อ?",
+            "answer": "ภูเขาไกลาซ"
+        },
+        {
+            "idx": "156",
+            "question": "สิ่งประดิษฐ์จีนโบราณที่เป็นหนึ่งในสี่สิ่งประดิษฐ์สำคัญและใช้สำหรับพิมพ์หนังสือคืออะไร?",
+            "answer": "การพิมพ์บล็อกไม้"
+        },
+        {
+            "idx": "75",
+            "question": "ราชวงศ์จีนใดมีชื่อเสียงในเรื่องการสำรวจทางทะเลและสร้างความสัมพันธ์บรรณาการกับประเทศในเอเชียตะวันออกเฉียงใต้?",
+            "answer": "ราชวงศ์หมิง"
+        },
+        {
+            "idx": "221",
+            "question": "ศิลปะการผูกปมจีนแบบดั้งเดิมเรียกว่าอะไร?",
+            "answer": "การผูกปมจีน"
+        },
+        {
+            "idx": "46",
+            "question": "ทะเลสาบใดของจีนมีชื่อเสียงในเรื่องหมู่บ้านชาวประมงลอยน้ำและการเพาะเลี้ยงไข่มุก?",
+            "answer": "ทะเลสาบไท่หู"
+        },
+        {
+            "idx": "241",
+            "question": "ชื่อของชนกลุ่มน้อยในจีนที่มีสังคมแบบมารดาธิปไตยและอาศัยอยู่ในมณฑลยูนนานเป็นหลักคืออะไร?",
+            "answer": "ชาวม๋อซัว"
+        },
+        {
+            "idx": "178",
+            "question": "ภูเขาใดของจีนมีชื่อเสียงในเรื่องวิวพระอาทิตย์ขึ้น?",
+            "answer": "ภูเขาหวงซาน"
+        },
+        {
+            "idx": "174",
+            "question": "ชื่อของพระราชวังจีนโบราณที่กลายเป็นพิพิธภัณฑ์ที่รู้จักกันในชื่อพิพิธภัณฑ์พระราชวังคืออะไร?",
+            "answer": "พระราชวังต้องห้าม"
+        },
+        {
+            "idx": "14",
+            "question": "เทศกาลจันทรคติของจีนที่เฉลิมฉลองการรวมญาติและการเก็บเกี่ยวเรียกว่าอะไร?",
+            "answer": "เทศกาลกลางฤดูใบไม้ร่วง"
+        },
+        {
+            "idx": "20",
+            "question": "ศิลปะจีนที่เกี่ยวข้องกับการแกะสลักอย่างประณีตบนไม้ไผ่ งาช้าง และวัสดุอื่น ๆ เรียกว่าอะไร?",
+            "answer": "การแกะสลักจีน"
+        },
+        {
+            "idx": "136",
+            "question": "สกุลเงินของจีนเรียกว่าอะไร?",
+            "answer": "เหรินหมินปี้ (หยวน)"
+        },
+        {
+            "idx": "122",
+            "question": "มณฑลใดของจีนมีชื่อเสียงในเรื่องการค้นพบฟอสซิลและพิพิธภัณฑ์ไดโนเสาร์?",
+            "answer": "เหลียวหนิง"
+        },
+        {
+            "idx": "148",
+            "question": "เครื่องดื่มแอลกอฮอล์แบบดั้งเดิมของจีนเรียกว่าอะไร?",
+            "answer": "ไป๋จิ่ว"
+        },
+        {
+            "idx": "155",
+            "question": "ชื่อของเครื่องดนตรีจีนแบบดั้งเดิมที่มีรูปร่างคล้ายพระจันทร์และเล่นด้วยปิ๊กคืออะไร?",
+            "answer": "รุ่น"
+        },
+        {
+            "idx": "177",
+            "question": "ชื่อของการแพทย์แผนจีนที่ใช้เข็มคืออะไร?",
+            "answer": "ฝังเข็ม"
+        },
+        {
+            "idx": "220",
+            "question": "เมืองใดของจีนมีชื่อเสียงในเรื่องเมืองโบราณริมน้ำและสวนแบบคลาสสิก?",
+            "answer": "ซูโจว"
+        },
+        {
+            "idx": "108",
+            "question": "เมืองใดของจีนมีชื่อเสียงในเรื่องหอกลองโบราณและย่านมุสลิม?",
+            "answer": "ซีอาน"
+        },
+        {
+            "idx": "42",
+            "question": "ชื่อของเสี่ยวหลงเปา ติ่มซำซุปจีนที่มีชื่อเสียงคืออะไร?",
+            "answer": "เสี่ยวหลงเปา"
+        },
+        {
+            "idx": "64",
+            "question": "ชื่อของเทศกาลจีนที่ฉลองด้วยการกินบ๊ะจ่างและแข่งเรือมังกรคืออะไร?",
+            "answer": "เทศกาลเรือมังกร"
+        },
+        {
+            "idx": "7",
+            "question": "ผู้นำจีนคนใดมีชื่อเสียงในเรื่องการปฏิรูปเศรษฐกิจในทศวรรษ 1980 ที่เปิดจีนสู่การค้าระหว่างประเทศ?",
+            "answer": "เติ้งเสี่ยวผิง"
+        },
+        {
+            "idx": "55",
+            "question": "เมืองใดของจีนมีชื่อเสียงในฉายา 'ไข่มุกแห่งตะวันออก'?",
+            "answer": "เซี่ยงไฮ้"
+        },
+        {
+            "idx": "38",
+            "question": "ชื่อของการวางตำแหน่งและเคลื่อนไหวเชิงกลยุทธ์ในศิลปะการต่อสู้จีนคืออะไร?",
+            "answer": "ปากั้วจาง"
+        },
+        {
+            "idx": "58",
+            "question": "ชื่อของอาหารค่ำคืนวันตรุษจีนที่มีความหมายถึงการรวมญาติคืออะไร?",
+            "answer": "อาหารค่ำรวมญาติ"
+        },
+        {
+            "idx": "154",
+            "question": "ชื่อของหม้อไฟจีนแบบดั้งเดิมจากฉงชิ่งคืออะไร?",
+            "answer": "หม้อไฟฉงชิ่ง"
+        },
+        {
+            "idx": "123",
+            "question": "เมืองใดของจีนเป็นจุดสิ้นสุดของเส้นทางสายไหมและมีชื่อเสียงในเรื่องย่านมุสลิม?",
+            "answer": "ซีอาน"
+        },
+        {
+            "idx": "196",
+            "question": "ภูเขาใดเกี่ยวข้องกับตำนานจักรพรรดิเหลืองและต้นกำเนิดของชนชาติจีน?",
+            "answer": "ภูเขาไท่"
+        },
+        {
+            "idx": "226",
+            "question": "ราชวงศ์ใดมีชื่อเสียงในเรื่องการพัฒนาระบบการสอบข้าราชการที่มีอิทธิพลต่อการปกครองจีนมาหลายศตวรรษ?",
+            "answer": "ราชวงศ์ฮั่น"
+        },
+        {
+            "idx": "29",
+            "question": "ชื่อของยอดเขาสูงสุดในจีนคืออะไร?",
+            "answer": "ยอดเขาเอเวอเรสต์"
+        },
+        {
+            "idx": "9",
+            "question": "ชื่อของบะหมี่จีนชื่อดังจากหลานโจวคืออะไร?",
+            "answer": "บะหมี่เนื้อวัวหลานโจว"
+        },
+        {
+            "idx": "81",
+            "question": "ศิลปะการจัดวางสิ่งของและพื้นที่เพื่อความสมดุลและกลมกลืนของจีนเรียกว่าอะไร?",
+            "answer": "ฮวงจุ้ย"
+        },
+        {
+            "idx": "145",
+            "question": "ชื่อของสไตล์จิตรกรรมจีนที่ใช้พู่กันและหมึกคล้ายกับการคัดลายมือคืออะไร?",
+            "answer": "จิตรกรรมหมึก"
+        },
+        {
+            "idx": "224",
+            "question": "ชื่อของปรัชญาจีนที่เน้นการยอมจำนนและเปิดรับคืออะไร?",
+            "answer": "ลัทธิเต๋า"
+        },
+        {
+            "idx": "69",
+            "question": "ชื่อของเทือกเขาในจีนที่มียอดเขาโดดเด่นและเป็นมรดกโลกของยูเนสโกคืออะไร?",
+            "answer": "หวงซาน"
+        },
+        {
+            "idx": "227",
+            "question": "ชื่อของปรัชญาจีนที่เน้นการปรับตัวและความยืดหยุ่นคืออะไร?",
+            "answer": "ลัทธิเต๋า"
+        },
+        {
+            "idx": "184",
+            "question": "เมืองใดของจีนมีชื่อเสียงในฉายา 'เมืองแห่งฤดูใบไม้ผลินิรันดร์'?",
+            "answer": "คุนหมิง"
+        },
+        {
+            "idx": "223",
+            "question": "ชื่อของหลักการออกแบบสถาปัตยกรรมจีนที่มุ่งเน้นความกลมกลืนระหว่างมนุษย์กับสิ่งแวดล้อมคืออะไร?",
+            "answer": "ฮวงจุ้ย"
+        },
+        {
+            "idx": "99",
+            "question": "ราชวงศ์ใดของจีนมีชื่อเสียงในเรื่องเครื่องลายครามสีน้ำเงินและขาว?",
+            "answer": "ราชวงศ์หมิง"
+        },
+        {
+            "idx": "63",
+            "question": "ภูเขาใดในจีนเกี่ยวข้องกับต้นกำเนิดของลัทธิเต๋า?",
+            "answer": "ภูเขาชิงเฉิง"
+        },
+        {
+            "idx": "47",
+            "question": "เมืองใดของจีนที่เป็นจุดสิ้นสุดทางเหนือของคลองใหญ่ในประวัติศาสตร์?",
+            "answer": "ปักกิ่ง"
+        },
+        {
+            "idx": "199",
+            "question": "ทะเลทรายที่ตั้งอยู่ทางตอนเหนือของจีนและตอนใต้ของมองโกเลีย ซึ่งเป็นหนึ่งในทะเลทรายที่ใหญ่ที่สุดในโลกคืออะไร?",
+            "answer": "ทะเลทรายโกบี"
+        },
+        {
+            "idx": "24",
+            "question": "เมืองใดของจีนที่มีชื่อเสียงในเรื่องกองทัพทหารดินเผาซึ่งค้นพบในสุสานจักรพรรดิฉินองค์แรก?",
+            "answer": "ซีอาน"
+        },
+        {
+            "idx": "30",
+            "question": "ชื่อของเทศกาลผีจีนที่ผู้คนแสดงความเคารพต่อบรรพบุรุษผู้ล่วงลับคืออะไร?",
+            "answer": "เทศกาลผีหิวโหย"
+        },
+        {
+            "idx": "233",
+            "question": "ชื่อของเมืองหลวงจีนโบราณที่มีชื่อเสียงในเรื่องกองทัพทหารดินเผาคืออะไร?",
+            "answer": "ซีอาน"
+        },
+        {
+            "idx": "140",
+            "question": "เมืองใดของจีนมีชื่อเสียงในเรื่องทะเลสาบซีหู?",
+            "answer": "หางโจว"
+        },
+        {
+            "idx": "211",
+            "question": "ผู้นำจีนคนใดได้รับเครดิตในการก่อตั้งพรรคคอมมิวนิสต์จีน?",
+            "answer": "เหมาเจ๋อตง"
+        },
+        {
+            "idx": "43",
+            "question": "ราชวงศ์ใดของจีนมีชื่อเสียงในเรื่องอักษรกระดูกเสี่ยงทายซึ่งเป็นรูปแบบการเขียนจีนโบราณที่เก่าแก่ที่สุด?",
+            "answer": "ราชวงศ์ซาง"
+        },
+        {
+            "idx": "205",
+            "question": "พิธีชงชาจีนแบบดั้งเดิมเรียกว่าอะไร?",
+            "answer": "กงฝูฉา"
+        },
+        {
+            "idx": "171",
+            "question": "เขตปกครองตนเองของจีนใดมีชื่อเสียงในเรื่องวัฒนธรรมทิเบต?",
+            "answer": "ทิเบต (ซีจ้าง)"
+        },
+        {
+            "idx": "166",
+            "question": "ชื่อของแนวคิดปรัชญาจีนที่เน้นธรรมชาติที่ลื่นไหลและเปลี่ยนแปลงของจักรวาลคืออะไร?",
+            "answer": "หยินหยาง"
+        },
+        {
+            "idx": "91",
+            "question": "ชื่อของเครื่องดนตรีสายจีนที่มีคอยาวและเล่นด้วยปิ๊กคืออะไร?",
+            "answer": "ผีผา"
+        },
+        {
+            "idx": "210",
+            "question": "ผู้นำจีนคนใดเป็นผู้ริเริ่ม 'สี่ทันสมัย' เพื่อปรับปรุงเกษตรกรรม อุตสาหกรรม การป้องกันประเทศ และวิทยาศาสตร์เทคโนโลยี?",
+            "answer": "เติ้งเสี่ยวผิง"
+        },
+        {
+            "idx": "192",
+            "question": "ผู้นำจีนคนใดมีชื่อเสียงในเรื่องการเริ่มต้นปฏิวัติวัฒนธรรม?",
+            "answer": "เหมาเจ๋อตง"
+        },
+        {
+            "idx": "176",
+            "question": "ชื่อของเทศกาลจีนที่ฉลองการสิ้นสุดฤดูเก็บเกี่ยวคืออะไร?",
+            "answer": "เทศกาลชุงหยาง"
+        },
+        {
+            "idx": "34",
+            "question": "ชื่อของชุดจีนแบบดั้งเดิมที่มีปกสูงและกระดุมผ้าไหมคืออะไร?",
+            "answer": "ฉีผาว (เชี่ยงซัม)"
+        },
+        {
+            "idx": "59",
+            "question": "ชื่อของปรัชญาจีนที่ก่อตั้งโดยขงจื๊อคืออะไร?",
+            "answer": "ลัทธิขงจื๊อ"
+        },
+        {
+            "idx": "70",
+            "question": "การแพทย์จีนแบบดั้งเดิมที่ใช้เข็มเจาะจุดต่าง ๆ บนร่างกายเรียกว่าอะไร?",
+            "answer": "ฝังเข็ม"
+        },
+        {
+            "idx": "16",
+            "question": "ชื่อของเขตปกครองตนเองของจีนที่เป็นบ้านของกลุ่มชาติพันธุ์อุยกูร์คืออะไร?",
+            "answer": "ซินเจียง"
+        },
+        {
+            "idx": "32",
+            "question": "ชื่อของศาสนาพื้นบ้านจีนที่มีลักษณะบูชาบรรพบุรุษและเทพเจ้าหลากหลายคืออะไร?",
+            "answer": "ศาสนาพื้นบ้านจีน"
+        },
+        {
+            "idx": "88",
+            "question": "ชื่อของการออกกำลังกายจีนแบบดั้งเดิมที่ผสมผสานศิลปะการต่อสู้และสมาธิคืออะไร?",
+            "answer": "ชี่กง"
+        },
+        {
+            "idx": "157",
+            "question": "ชื่อของอาหารจีนที่เป็นซาลาเปานึ่งไส้เนื้อหรือผักคืออะไร?",
+            "answer": "เปาไจ๋"
+        },
+        {
+            "idx": "40",
+            "question": "เมืองใดของจีนมีชื่อเสียงในเรื่องเครื่องลายครามสีน้ำเงินและขาวซึ่งถือเป็นเครื่องปั้นดินเผาที่ดีที่สุดในโลก?",
+            "answer": "จิ่งเต๋อเจิ้น"
+        },
+        {
+            "idx": "161",
+            "question": "เทศกาลจีนที่ฉลองพระจันทร์เต็มดวงเรียกว่าอะไร?",
+            "answer": "เทศกาลกลางฤดูใบไม้ร่วง"
+        },
+        {
+            "idx": "163",
+            "question": "ชื่อของรูปแบบละครจีนแบบดั้งเดิมที่ผสมผสานดนตรี การร้อง การแสดง ท่าทาง และกายกรรมคืออะไร?",
+            "answer": "งิ้วปักกิ่ง"
+        },
+        {
+            "idx": "143",
+            "question": "ราชวงศ์จีนใดมีชื่อเสียงในเรื่องความก้าวหน้าทางเทคโนโลยี รวมถึงการประดิษฐ์ดินปืน เข็มทิศ และการทำกระดาษ?",
+            "answer": "ราชวงศ์ซ่ง"
+        },
+        {
+            "idx": "200",
+            "question": "ชื่อของทะเลที่อยู่ติดกับจีนตะวันออกและเป็นเส้นทางการค้าทางทะเลสายสำคัญคืออะไร?",
+            "answer": "ทะเลจีนตะวันออก"
+        },
+        {
+            "idx": "232",
+            "question": "ชื่อของหอสมุดจักรพรรดิที่ก่อตั้งในสมัยราชวงศ์ถังและเป็นศูนย์กลางการศึกษาคืออะไร?",
+            "answer": "ราชบัณฑิตยสถาน"
+        },
+        {
+            "idx": "150",
+            "question": "ชื่อของนักปรัชญาจีนที่เน้นความเป็นธรรมชาติและปัจเจกนิยม ซึ่งมักตรงข้ามกับลัทธิขงจื๊อคือใคร?",
+            "answer": "จ้วงจื่อ"
+        },
+        {
+            "idx": "187",
+            "question": "ชื่อของนักปรัชญาจีนที่มีชื่อเสียงในเรื่องคำสอนเกี่ยวกับสงครามและกลยุทธ์ทางทหารคือใคร?",
+            "answer": "ซุนวู"
+        },
+        {
+            "idx": "228",
+            "question": "มณฑลใดของจีนมีชื่อเสียงในเรื่องศูนย์อนุรักษ์หมีแพนด้าซึ่งนักท่องเที่ยวสามารถชมแพนด้ายักษ์ในถิ่นอาศัยตามธรรมชาติ?",
+            "answer": "เสฉวน"
+        },
+        {
+            "idx": "48",
+            "question": "มณฑลใดของจีนมีชื่อเสียงในเรื่องทุ่งหญ้าและวัฒนธรรมมองโกเลีย?",
+            "answer": "มองโกเลียใน"
+        },
+        {
+            "idx": "10",
+            "question": "ผ้าไหมลายจีนที่มีชื่อเสียงจากหนานจิงและเป็นที่รู้จักในด้านความงามและฝีมือประณีต เรียกว่าอะไร?",
+            "answer": "ผ้าไหมลายหนานจิง"
+        },
+        {
+            "idx": "79",
+            "question": "แนวคิดปรัชญาจีนที่เน้นการไหลของพลังงานและความสมดุลของพลัง เรียกว่าอะไร?",
+            "answer": "หยินหยาง"
+        },
+        {
+            "idx": "27",
+            "question": "เมืองใดของจีนมีชื่อเสียงเรื่องหมีแพนด้า?",
+            "answer": "เฉิงตู"
+        },
+        {
+            "idx": "133",
+            "question": "เทือกเขาใดของจีนที่เป็นพรมแดนระหว่างจีนกับอินเดีย?",
+            "answer": "หิมาลัย"
+        },
+        {
+            "idx": "77",
+            "question": "จักรพรรดิองค์ใดของจีนที่มีชื่อเสียงในเรื่องการเผาหนังสือและฝังนักปราชญ์ทั้งเป็น?",
+            "answer": "ฉินสื่อหวง"
+        },
+        {
+            "idx": "80",
+            "question": "ราชวงศ์ใดของจีนที่มีชื่อเสียงในยุคทองของวัฒนธรรมและปรัชญา?",
+            "answer": "ราชวงศ์ถัง"
+        },
+        {
+            "idx": "160",
+            "question": "มณฑลใดของจีนมีชื่อเสียงในเรื่องนาขั้นบันไดที่เป็นมรดกโลกของยูเนสโก?",
+            "answer": "ยูนนาน"
+        },
+        {
+            "idx": "188",
+            "question": "ศิลปะการเขียนพู่กันจีนแบบดั้งเดิมเรียกว่าอะไร?",
+            "answer": "ซูฝา"
+        },
+        {
+            "idx": "141",
+            "question": "เมืองใดของจีนที่มีความสำคัญทางประวัติศาสตร์ในฐานะเมืองหลวงของหลายราชวงศ์?",
+            "answer": "ลั่วหยาง"
+        },
+        {
+            "idx": "218",
+            "question": "แม่น้ำใดของจีนที่มีชื่อเสียงในเรื่องน้ำท่วมและมักถูกเรียกว่า 'ความเศร้าของจีน'?",
+            "answer": "แม่น้ำเหลือง"
+        },
+        {
+            "idx": "39",
+            "question": "ชื่อของเกมกลยุทธ์จีนที่เกี่ยวกับการยึดครองพื้นที่คืออะไร?",
+            "answer": "โกะ (เว่ยฉี)"
+        },
+        {
+            "idx": "193",
+            "question": "สมุนไพรจีนโบราณที่เชื่อว่าช่วยเพิ่มพลังงานและใช้กันมาหลายพันปี เรียกว่าอะไร?",
+            "answer": "โสม"
+        },
+        {
+            "idx": "170",
+            "question": "เขตปกครองตนเองของจีนที่มีทะเลทรายกว้างใหญ่และแหล่งน้ำมันมากมายคือที่ไหน?",
+            "answer": "ซินเจียง"
+        },
+        {
+            "idx": "83",
+            "question": "ปรัชญาโบราณที่ก่อตั้งโดยเหลาจื๊อในจีนคืออะไร?",
+            "answer": "ลัทธิเต๋า"
+        },
+        {
+            "idx": "173",
+            "question": "เมืองใดของจีนที่มีชื่อเสียงในเรื่องย่านมุสลิมและกำแพงเมืองโบราณ?",
+            "answer": "ซีอาน"
+        },
+        {
+            "idx": "189",
+            "question": "ศิลปะการตัดกระดาษแบบจีนเรียกว่าอะไร?",
+            "answer": "เจี้ยนจื้อ"
+        },
+        {
+            "idx": "202",
+            "question": "กลุ่มชาติพันธุ์ในจีนที่มีภาษาและอักษรเฉพาะตัว อาศัยอยู่ในหูหนานเป็นหลัก คือกลุ่มใด?",
+            "answer": "ถู่เจีย"
+        },
+        {
+            "idx": "186",
+            "question": "แนวปฏิบัติทางทหารของจีนที่เกี่ยวข้องกับการจัดวางทรัพยากรอย่างมีกลยุทธ์ ซึ่งรู้จักในตะวันตกว่า 'ศิลปะแห่งสงคราม' คืออะไร?",
+            "answer": "ศิลปะแห่งสงครามของซุนวู"
+        },
+        {
+            "idx": "74",
+            "question": "ชุดจีนแบบโบราณที่มีลักษณะคล้ายเสื้อคลุมและนิยมสวมใส่ในสมัยราชวงศ์ชิง เรียกว่าอะไร?",
+            "answer": "ฉีผาว"
+        },
+        {
+            "idx": "206",
+            "question": "ระบบความเชื่อของจีนที่ผสมผสานพุทธ เต๋า และศาสนาพื้นบ้าน เรียกว่าอะไร?",
+            "answer": "ศาสนาพื้นบ้านจีน"
+        },
+        {
+            "idx": "204",
+            "question": "งิ้วจีนที่มีการแต่งหน้าสีสันสดใส เรียกว่าอะไร?",
+            "answer": "งิ้วปักกิ่ง"
+        },
+        {
+            "idx": "180",
+            "question": "เทศกาลจีนใดที่มีการแข่งขันเรือมังกร?",
+            "answer": "เทศกาลเรือมังกร"
+        },
+        {
+            "idx": "134",
+            "question": "ชื่อของแม่น้ำที่ไหลผ่านเซี่ยงไฮ้และมีบทบาทสำคัญในการพัฒนาเมืองท่าแห่งนี้คืออะไร?",
+            "answer": "แม่น้ำหวงผู่"
+        },
+        {
+            "idx": "56",
+            "question": "ภูเขาใดของจีนมีชื่อเสียงในเรื่องวัดโบราณและทิวทัศน์ที่สวยงาม?",
+            "answer": "ภูเขาเอ๋อเหมย"
+        },
+        {
+            "idx": "78",
+            "question": "ภูเขาใดในจีนที่ถือว่าสำคัญที่สุดในบรรดาห้าภูเขาศักดิ์สิทธิ์?",
+            "answer": "ภูเขาไท่"
+        },
+        {
+            "idx": "182",
+            "question": "เมืองใดของจีนมีชื่อเสียงในเรื่องแม่น้ำสายหลักสองสายคือ หวงผู่ และแยงซี?",
+            "answer": "เซี่ยงไฮ้"
+        },
+        {
+            "idx": "159",
+            "question": "เมืองท่าของจีนที่เคยถูกขนานนามว่า 'ปารีสแห่งตะวันออก' คือเมืองใด?",
+            "answer": "เซี่ยงไฮ้"
+        },
+        {
+            "idx": "15",
+            "question": "ราชวงศ์จีนโบราณใดได้รับเครดิตในการสร้างรัฐจีนที่รวมศูนย์อำนาจเป็นหนึ่งเดียว?",
+            "answer": "ราชวงศ์ฉิน"
+        },
+        {
+            "idx": "18",
+            "question": "มณฑลใดของจีนมีประชากรชนกลุ่มน้อยจำนวนมากและมีมรดกทางวัฒนธรรมอันหลากหลาย?",
+            "answer": "ยูนนาน"
+        },
+        {
+            "idx": "116",
+            "question": "แม่น้ำใดของจีนมีชื่อเรียกว่า 'ทางน้ำทองคำ'?",
+            "answer": "แม่น้ำแยงซี"
+        },
+        {
+            "idx": "36",
+            "question": "ศิลปะการตัดกระดาษจีนที่นิยมใช้ในเทศกาลและเป็นศิลปะพื้นบ้าน เรียกว่าอะไร?",
+            "answer": "การตัดกระดาษ"
+        },
+        {
+            "idx": "118",
+            "question": "แนวคิดปรัชญาจีนที่เน้นความชอบธรรม ความเหมาะสม ความซื่อสัตย์ และเกียรติยศ เรียกว่าอะไร?",
+            "answer": "ลัทธิขงจื๊อ"
+        },
+        {
+            "idx": "207",
+            "question": "มณฑลใดของจีนที่มีชื่อว่า 'ดินแดนแห่งความอุดมสมบูรณ์'?",
+            "answer": "เสฉวน"
+        },
+        {
+            "idx": "33",
+            "question": "เทศกาลจีนใดที่มีการแข่งขันเรือมังกรและกินบ๊ะจ่างเพื่อรำลึกถึงกวีชวีหยวน?",
+            "answer": "เทศกาลเรือมังกร"
+        },
+        {
+            "idx": "96",
+            "question": "รูปแบบสถาปัตยกรรมจีนโบราณที่ใช้สร้างแท่นบูชาฟ้าในวัดสวรรค์ เรียกว่าอะไร?",
+            "answer": "แท่นวงกลม"
+        },
+        {
+            "idx": "230",
+            "question": "หน่วยวัดความยาวจีนโบราณที่ใช้มาตรฐานเดียวกันทั่วทั้งอาณาจักร เรียกว่าอะไร?",
+            "answer": "จ่าง"
+        },
+        {
+            "idx": "239",
+            "question": "เมืองใดของจีนที่เป็นจุดเริ่มต้นของเส้นทางสายไหมทางทะเล?",
+            "answer": "ฉวนโจว"
+        },
+        {
+            "idx": "66",
+            "question": "ปรัชญาจีนแบบดั้งเดิมที่เน้นการดำเนินชีวิตอย่างมีจริยธรรมและความรับผิดชอบในระบบราชการ เรียกว่าอะไร?",
+            "answer": "ลัทธิขงจื๊อ"
+        },
+        {
+            "idx": "102",
+            "question": "ศิลปะการต่อสู้จีนที่เน้นการเคลื่อนไหวช้าเรียกว่าอะไร?",
+            "answer": "ไท่จี๋"
+        },
+        {
+            "idx": "117",
+            "question": "เมืองใดของจีนเคยเป็นเมืองหลวงราชวงศ์ซ่งใต้และมีชื่อเสียงในเรื่องทะเลสาบซีหู?",
+            "answer": "หางโจว"
+        },
+        {
+            "idx": "26",
+            "question": "เกมจีนที่คล้ายหมากรุกแต่ใช้ตัวหมากและกลยุทธ์ต่างกัน เรียกว่าอะไร?",
+            "answer": "เซียงฉี"
+        },
+        {
+            "idx": "115",
+            "question": "เมืองใดของจีนเป็นศูนย์กลางการเมืองและวัฒนธรรม รวมถึงเป็นที่ตั้งของรัฐบาลกลาง?",
+            "answer": "ปักกิ่ง"
+        },
+        {
+            "idx": "110",
+            "question": "ทะเลสาบใดของจีนมีชื่อเสียงในเรื่องสวนลอยน้ำและดอกบัว?",
+            "answer": "ทะเลสาบซีหู"
+        },
+        {
+            "idx": "144",
+            "question": "แม่น้ำใดของจีนมีบทบาททางประวัติศาสตร์ในฐานะเส้นแบ่งระหว่างจีนเหนือและใต้?",
+            "answer": "แม่น้ำแยงซี"
+        },
+        {
+            "idx": "37",
+            "question": "เมืองใดของจีนมีชื่อเสียงในเรื่องกำแพงเมืองโบราณที่ยังคงสภาพสมบูรณ์และสามารถเดินได้ถึงปัจจุบัน?",
+            "answer": "ซีอาน"
+        },
+        {
+            "idx": "57",
+            "question": "ศิลปะการพับกระดาษจีนเป็นรูปร่างต่าง ๆ เรียกว่าอะไร?",
+            "answer": "โอริกามิ"
+        },
+        {
+            "idx": "190",
+            "question": "แนวคิดจีนที่อธิบายถึงอำนาจทางจริยธรรมของกษัตริย์ที่มาจากความดีงาม เรียกว่าอะไร?",
+            "answer": "ราชโองการสวรรค์"
+        },
+        {
+            "idx": "215",
+            "question": "นักปรัชญาจีนโบราณผู้ก่อตั้งลัทธิโม่ คือใคร?",
+            "answer": "ม่อจื๊อ"
+        },
+        {
+            "idx": "137",
+            "question": "มณฑลใดของจีนมีชื่อเสียงในเรื่องอาหารรสเผ็ดแบบเสฉวน?",
+            "answer": "เสฉวน"
+        },
+        {
+            "idx": "235",
+            "question": "แม่น้ำใดของจีนที่มีภูมิทัศน์สวยงามและปรากฏบนธนบัตร 20 หยวน?",
+            "answer": "แม่น้ำหลี"
+        },
+        {
+            "idx": "49",
+            "question": "ราชวงศ์ใดของจีนเป็นราชวงศ์แรกที่ตั้งกองทัพประจำ?",
+            "answer": "ราชวงศ์ฉิน"
+        },
+        {
+            "idx": "152",
+            "question": "แม่น้ำที่ยาวที่สุดในจีนคือแม่น้ำอะไร?",
+            "answer": "แม่น้ำแยงซี"
+        },
+        {
+            "idx": "35",
+            "question": "นักปรัชญาจีนที่มีชื่อเสียงในเรื่องคำสอนด้านจริยธรรมและความสัมพันธ์ทางสังคม คือใคร?",
+            "answer": "ขงจื๊อ"
+        },
+        {
+            "idx": "111",
+            "question": "ศิลปะการต่อสู้จีนที่มีชื่อเสียงในเรื่องเทคนิคป้องกันตัวและความนุ่มนวล เรียกว่าอะไร?",
+            "answer": "ไท่จี๋"
+        },
+        {
+            "idx": "231",
+            "question": "แนวคิดปรัชญาจีนที่เน้นความพอดีและการควบคุมตนเอง เรียกว่าอะไร?",
+            "answer": "จงยง"
+        },
+        {
+            "idx": "114",
+            "question": "ตรุษจีนในภาษาจีนเรียกอีกชื่อว่าอะไร?",
+            "answer": "เทศกาลฤดูใบไม้ผลิ"
+        },
+        {
+            "idx": "129",
+            "question": "เกมกระดานจีนที่ใช้หมากขาวดำเรียกว่าอะไร?",
+            "answer": "โกะ (เว่ยฉี)"
+        },
+        {
+            "idx": "198",
+            "question": "เส้นทางการค้าโบราณที่เชื่อมจีนกับยุโรป เรียกว่าอะไร?",
+            "answer": "เส้นทางสายไหม"
+        },
+        {
+            "idx": "6",
+            "question": "พระราชวังในปักกิ่งที่เคยเป็นที่ประทับของจักรพรรดิราชวงศ์หมิงและชิง เรียกว่าอะไร?",
+            "answer": "พระราชวังต้องห้าม"
+        },
+        {
+            "idx": "104",
+            "question": "การแสดงศิลปะการต่อสู้และยิมนาสติกแบบจีนที่ต้องการความแม่นยำ เรียกว่าอะไร?",
+            "answer": "วูซู"
+        },
+        {
+            "idx": "203",
+            "question": "แม่น้ำใดของจีนที่เรียกว่า 'แม่แห่งแผ่นดินจีน' และเป็นแหล่งกำเนิดอารยธรรมจีน?",
+            "answer": "แม่น้ำเหลือง"
+        },
+        {
+            "idx": "238",
+            "question": "แม่น้ำใดของจีนที่เรียกว่า 'แม่แห่งแผ่นดินจีน'?",
+            "answer": "แม่น้ำเหลือง (หวงเหอ)"
+        },
+        {
+            "idx": "195",
+            "question": "เมืองใดของจีนเคยเป็นเมืองหลวงของหลายราชวงศ์?",
+            "answer": "ซีอาน"
+        },
+        {
+            "idx": "181",
+            "question": "การแพทย์แผนจีนที่ใช้การเผาสมุนไพรใกล้ผิวหนัง เรียกว่าอะไร?",
+            "answer": "การรมยา"
+        },
+        {
+            "idx": "44",
+            "question": "เมืองใดของจีนมีชื่อเสียงในเรื่องป่าหินภูมิประเทศทางธรณีวิทยา?",
+            "answer": "คุนหมิง"
+        },
+        {
+            "idx": "164",
+            "question": "นักปรัชญาจีนผู้ก่อตั้งลัทธินิติศาสตร์และเน้นกฎหมายที่เข้มงวด คือใคร?",
+            "answer": "หานเฟยจื่อ"
+        },
+        {
+            "idx": "85",
+            "question": "ศิลปะการต่อสู้จีนที่มีชื่อเสียงในเรื่อง 108 ท่า เรียกว่าอะไร?",
+            "answer": "ไท่จี๋"
+        },
+        {
+            "idx": "209",
+            "question": "ราชวงศ์ใดมีชื่อเสียงในเรื่องการประดิษฐ์ดินปืนและอาวุธปืนยุคแรก?",
+            "answer": "ราชวงศ์ซ่ง"
+        },
+        {
+            "idx": "217",
+            "question": "มณฑลใดของจีนมีชื่อเสียงในเรื่องอาหารรสเผ็ด เช่น ไก่กงเป่า และหม่าโผวโต้วฟู?",
+            "answer": "เสฉวน"
+        },
+        {
+            "idx": "146",
+            "question": "ชื่อของศาลาจีนแบบดั้งเดิมที่พบได้บ่อยในสวนและสวนสาธารณะ เรียกว่าอะไร?",
+            "answer": "ศาลา"
+        },
+        {
+            "idx": "185",
+            "question": "นักปรัชญาจีนที่มีชื่อเสียงในเรื่องหลัก 'ทางสายกลาง' ที่เน้นความพอดีและสมดุล คือใคร?",
+            "answer": "ขงจื๊อ"
+        },
+        {
+            "idx": "191",
+            "question": "ภูเขาใดของจีนที่มีชื่อเสียงในเรื่องวัดโบราณและเป็นที่ที่จักรพรรดิองค์แรกแสวงหาความเป็นอมตะ?",
+            "answer": "ภูเขาไท่"
+        },
+        {
+            "idx": "142",
+            "question": "แนวคิดจีนเกี่ยวกับพลังชีวิต เรียกว่าอะไร?",
+            "answer": "ชี่"
+        },
+        {
+            "idx": "71",
+            "question": "อาหารเป็ดย่างชื่อดังของจีนจากปักกิ่ง เรียกว่าอะไร?",
+            "answer": "เป็ดปักกิ่ง"
+        },
+        {
+            "idx": "28",
+            "question": "เมืองใดของจีนที่มีบทบาทสำคัญในประวัติศาสตร์การค้าฝิ่นและสงครามฝิ่น?",
+            "answer": "กว่างโจว"
+        },
+        {
+            "idx": "237",
+            "question": "ศิลปะการตีดาบแบบจีนดั้งเดิมที่ใช้เทคนิคโบราณ เรียกว่าอะไร?",
+            "answer": "วิชาดาบจีน"
+        },
+        {
+            "idx": "19",
+            "question": "ราชวงศ์จีนที่มีพื้นฐานการปกครองด้วยกฎหมายและการทหาร ก่อตั้งโดยจักรพรรดิฉินสื่อหวง คือราชวงศ์ใด?",
+            "answer": "ราชวงศ์ฉิน"
+        },
+        {
+            "idx": "130",
+            "question": "ศิลปะการจัดวางพื้นที่อยู่อาศัยของจีนเพื่อสร้างความสมดุลและกลมกลืน เรียกว่าอะไร?",
+            "answer": "ฮวงจุ้ย"
+        },
+        {
+            "idx": "151",
+            "question": "เทศกาลใดมีการแข่งขันเรือมังกรเพื่อรำลึกถึงการเสียชีวิตของกวีชวีหยวน?",
+            "answer": "เทศกาลเรือมังกร"
+        },
+        {
+            "idx": "131",
+            "question": "ศิลปะการต่อสู้จีนที่มีชื่อเสียงในเรื่อง 36 กลยุทธ์และเน้นการหลอกลวง เรียกว่าอะไร?",
+            "answer": "ศิลปะแห่งสงครามของซุนวู"
+        },
+        {
+            "idx": "169",
+            "question": "เมืองใดของจีนมีชื่อเสียงในเรื่องเทศกาลน้ำแข็งและหิมะ?",
+            "answer": "ฮาร์บิน"
+        },
+        {
+            "idx": "101",
+            "question": "เมืองใดของจีนมีชื่อเสียงด้านการผลิตอิเล็กทรอนิกส์และถูกเรียกว่า 'ซิลิคอนวัลเลย์แห่งจีน'?",
+            "answer": "เซินเจิ้น"
+        },
+        {
+            "idx": "112",
+            "question": "แม่น้ำใดของจีนมีความสำคัญในฐานะเส้นทางการค้าในสมัยราชวงศ์ถังและซ่ง?",
+            "answer": "คลองใหญ่"
+        },
+        {
+            "idx": "12",
+            "question": "ภูเขาใดของจีนมีชื่อเสียงในเรื่องวิวพระอาทิตย์ขึ้นและเป็นแรงบันดาลใจให้กับจิตรกรรมจีนโบราณหลายชิ้น?",
+            "answer": "ภูเขาหวงซาน"
+        },
+        {
+            "idx": "84",
+            "question": "ชื่อของหน่วยเงินตราจีนคืออะไร?",
+            "answer": "เหรินหมินปี้ (หยวน)"
+        },
+        {
+            "idx": "51",
+            "question": "เทือกเขาใดของจีนที่มียอดเขาสวยงามและเป็นมรดกโลกยูเนสโก?",
+            "answer": "หวงซาน (ภูเขาเหลือง)"
+        },
+        {
+            "idx": "93",
+            "question": "ชนกลุ่มน้อยจีนกลุ่มใดมีชื่อเสียงในเรื่องการยิงธนูบนหลังม้าและวิถีชีวิตเร่ร่อน?",
+            "answer": "ชาวมองโกล"
+        },
+        {
+            "idx": "100",
+            "question": "สถาปัตยกรรมจีนแบบดั้งเดิมที่มีชายคายกปลายขึ้น เรียกว่าอะไร?",
+            "answer": "ซื่อเหอย่วน"
+        },
+        {
+            "idx": "90",
+            "question": "สถาปัตยกรรมจีนที่มีหลังคาโค้งขึ้นที่ปลายขนาดใหญ่ เรียกว่าอะไร?",
+            "answer": "เจดีย์"
+        },
+        {
+            "idx": "2",
+            "question": "พิธีชงชาจีนที่เน้นศิลปะและความงามในการชงชา เรียกว่าอะไร?",
+            "answer": "พิธีชงชากงฝู"
+        },
+        {
+            "idx": "128",
+            "question": "เกี๊ยวจีนแบบดั้งเดิมที่นิยมกินในวันตรุษจีน เรียกว่าอะไร?",
+            "answer": "เจียวจื่อ"
+        },
+        {
+            "idx": "162",
+            "question": "ผู้นำจีนคนใดมีชื่อเสียงในฐานะผู้ก่อตั้งสาธารณรัฐประชาชนจีนในปี 1949?",
+            "answer": "เหมาเจ๋อตง"
+        },
+        {
+            "idx": "212",
+            "question": "ผู้นำจีนคนใดมีบทบาทสำคัญในมหากาพย์การเดินทัพทางไกลและต่อมาเป็นผู้นำประเทศ?",
+            "answer": "เหมาเจ๋อตง"
+        },
+        {
+            "idx": "22",
+            "question": "มณฑลใดของจีนมีชนกลุ่มน้อยจำนวนมากและวัฒนธรรมที่เป็นเอกลักษณ์?",
+            "answer": "กว่างซี"
+        },
+        {
+            "idx": "13",
+            "question": "แม่น้ำใดที่รู้จักกันในชื่อ 'แม่น้ำแยงซี' และเป็นแม่น้ำที่ยาวที่สุดในเอเชีย?",
+            "answer": "แม่น้ำแยงซี"
+        },
+        {
+            "idx": "236",
+            "question": "เมืองใดของจีนมีบทบาทสำคัญในการพัฒนาพุทธศาสนาเซนจีน?",
+            "answer": "หางโจว"
+        },
+        {
+            "idx": "106",
+            "question": "เทศกาลจีนใดที่มีการจุดโคมไฟและทายปริศนาบนโคม?",
+            "answer": "เทศกาลโคมไฟ"
+        },
+        {
+            "idx": "87",
+            "question": "สวนจีนในซูโจวที่เป็นมรดกโลกของยูเนสโก เรียกว่าอะไร?",
+            "answer": "สวนของขุนนางน้อย"
+        },
+        {
+            "idx": "98",
+            "question": "เส้นทางการค้าโบราณที่เชื่อมจีนกับทะเลเมดิเตอร์เรเนียนและเป็นช่องทางแลกเปลี่ยนวัฒนธรรม เรียกว่าอะไร?",
+            "answer": "เส้นทางสายไหม"
+        },
+        {
+            "idx": "201",
+            "question": "ปรัชญาจีนแบบดั้งเดิมที่เน้นการใช้ชีวิตอย่างกลมกลืนกับเต๋า เรียกว่าอะไร?",
+            "answer": "ลัทธิเต๋า"
+        },
+        {
+            "idx": "121",
+            "question": "ศิลปะการผูกปมตกแต่งแบบจีนเรียกว่าอะไร?",
+            "answer": "การผูกปมจีน"
+        },
+        {
+            "idx": "222",
+            "question": "แม่น้ำใดที่เรียกว่า 'แม่น้ำตะวันตก' และเป็นหนึ่งในสามแม่น้ำสายหลักของจีนตอนใต้?",
+            "answer": "แม่น้ำซี"
+        },
+        {
+            "idx": "214",
+            "question": "ชนกลุ่มน้อยจีนกลุ่มใดมีชื่อเสียงในเรื่องวัฒนธรรมม้าและอาศัยอยู่ในทุ่งหญ้ามองโกเลียใน?",
+            "answer": "ชาวมองโกล"
+        },
+        {
+            "idx": "225",
+            "question": "เมืองใดของจีนมีชื่อเสียงในเรื่องตลาดอิเล็กทรอนิกส์และเป็นศูนย์กลางเทคโนโลยีและนวัตกรรม?",
+            "answer": "เซินเจิ้น"
+        },
+        {
+            "idx": "65",
+            "question": "มณฑลใดของจีนมีชื่อเสียงในเรื่องเมืองชายฝั่งและความเจริญทางเศรษฐกิจ?",
+            "answer": "เจียงซู"
+        },
+        {
+            "idx": "68",
+            "question": "เมืองใดของจีนมีชื่อเสียงในเรื่องตึกระฟ้าและเป็นศูนย์กลางการเงินระดับโลก?",
+            "answer": "ฮ่องกง"
+        },
+        {
+            "idx": "165",
+            "question": "ประวัติศาสตร์ราชวงศ์จีนใดเป็นราชวงศ์แรกที่มีระบบข้าราชการโดยยึดความสามารถ?",
+            "answer": "ราชวงศ์ฮั่น"
+        },
+        {
+            "idx": "54",
+            "question": "เมืองหลวงของจีนคือเมืองอะไร?",
+            "answer": "ปักกิ่ง"
+        },
+        {
+            "idx": "179",
+            "question": "ผู้นำจีนคนใดเป็นผู้ริเริ่มนโยบายปฏิรูปและเปิดประเทศที่เปลี่ยนแปลงเศรษฐกิจของจีน?",
+            "answer": "เติ้งเสี่ยวผิง"
+        },
+        {
+            "idx": "107",
+            "question": "แนวคิดแพทย์แผนจีนที่เน้นการปรับสมดุลพลังชีวิตในร่างกาย เรียกว่าอะไร?",
+            "answer": "ชี่"
+        },
+        {
+            "idx": "105",
+            "question": "ด่านชายแดนจีนที่กั้นระหว่างฮ่องกงกับจีนแผ่นดินใหญ่ เรียกว่าอะไร?",
+            "answer": "หลอวู่"
+        },
+        {
+            "idx": "11",
+            "question": "ราชวงศ์ใดถือเป็นราชวงศ์จักรพรรดิที่ได้รับการยืนยันทางประวัติศาสตร์เป็นราชวงศ์แรกของจีน?",
+            "answer": "ราชวงศ์ฉิน"
+        },
+        {
+            "idx": "172",
+            "question": "เมืองใดของจีนมีชื่อเรียกว่า 'เมืองสวรรค์'?",
+            "answer": "ซูโจว"
+        },
+        {
+            "idx": "25",
+            "question": "เมืองใดของจีนมีชื่อเสียงในเรื่องตลาดผ้าไหมและเป็นศูนย์กลางการค้าผ้าไหม?",
+            "answer": "หางโจว"
+        },
+        {
+            "idx": "103",
+            "question": "ภูเขาใดของจีนที่ถือเป็นภูเขาศักดิ์สิทธิ์ในลัทธิเต๋า?",
+            "answer": "ภูเขาไท่"
+        },
+        {
+            "idx": "89",
+            "question": "เมืองใดของจีนมีชื่อเสียงในตำนานนางพญางูขาว ซึ่งเป็นเรื่องเล่าในนิทานพื้นบ้านจีน?",
+            "answer": "หางโจว"
+        },
+        {
+            "idx": "197",
+            "question": "ทะเลสาบใดของจีนมีชื่อเสียงในเรื่องนกกระเรียนไซบีเรียอพยพในฤดูหนาว?",
+            "answer": "ทะเลสาบโป๋หยาง"
+        },
+        {
+            "idx": "216",
+            "question": "มณฑลใดของจีนมีชื่อเสียงในเรื่องป่าไผ่และเป็นบ้านของหมีแพนด้ายักษ์?",
+            "answer": "เสฉวน"
+        },
+        {
+            "idx": "147",
+            "question": "เมืองใดของจีนมีชื่อเสียงในเรื่องคลองโบราณและได้รับฉายาว่า 'เวนิสแห่งตะวันออก'?",
+            "answer": "ซูโจว"
+        },
+        {
+            "idx": "234",
+            "question": "ตำรากลยุทธ์การทหารจีนที่เขียนโดยซุนวู เรียกว่าอะไร?",
+            "answer": "ศิลปะแห่งสงคราม"
+        },
+        {
+            "idx": "67",
+            "question": "เมืองใดของจีนมีชื่อเสียงในเรื่องเดอะบันด์ พื้นที่ริมแม่น้ำประวัติศาสตร์?",
+            "answer": "เซี่ยงไฮ้"
+        },
+        {
+            "idx": "229",
+            "question": "พรมแดนระหว่างจีนกับรัสเซียที่กำหนดโดยแม่น้ำอามูร์ เรียกว่าอะไร?",
+            "answer": "พรมแดนจีน-รัสเซีย"
+        }
+    ],
+    "fr": [
+        {
+            "idx": "119",
+            "question": "Quel art martial chinois est connu pour ses mouvements lents et son accent sur la santé et la longévité ?",
+            "answer": "Tai Chi"
+        },
+        {
+            "idx": "120",
+            "question": "Quelle ville chinoise a accueilli les Jeux olympiques d'été de 2008 ?",
+            "answer": "Pékin"
+        },
+        {
+            "idx": "175",
+            "question": "Quelle fête chinoise est connue sous le nom de « Fête du balayage des tombes », où les gens visitent les tombes de leurs ancêtres ?",
+            "answer": "Fête de Qingming"
+        },
+        {
+            "idx": "126",
+            "question": "Quel est le nom de la caractéristique architecturale chinoise, une maison sur pilotis que l'on trouve dans le sud de la Chine ?",
+            "answer": "Diaojiaolou"
+        },
+        {
+            "idx": "208",
+            "question": "Quelle ville chinoise est célèbre pour ses jardins classiques ?",
+            "answer": "Suzhou"
+        },
+        {
+            "idx": "53",
+            "question": "Quelle dynastie a construit la majorité de la Grande Muraille de Chine telle qu'elle existe aujourd'hui ?",
+            "answer": "Dynastie Ming"
+        },
+        {
+            "idx": "76",
+            "question": "Quelle province chinoise est connue pour ses formations de karst en calcaire et ses paysages fluviaux pittoresques ?",
+            "answer": "Guilin"
+        },
+        {
+            "idx": "124",
+            "question": "Quelle province chinoise est connue pour son paysage karstique à Guilin ?",
+            "answer": "Guangxi"
+        },
+        {
+            "idx": "52",
+            "question": "Quel est le nom des examens impériaux chinois utilisés pour sélectionner les candidats à la bureaucratie d'État ?",
+            "answer": "Examen impérial"
+        },
+        {
+            "idx": "94",
+            "question": "Quel est le nom de la politique chinoise mise en œuvre en 1979 pour contrôler la croissance démographique ?",
+            "answer": "Politique de l'enfant unique"
+        },
+        {
+            "idx": "97",
+            "question": "Quel est le nom du système d'examen impérial chinois qui sélectionnait les candidats pour la bureaucratie d'État ?",
+            "answer": "Examen impérial"
+        },
+        {
+            "idx": "86",
+            "question": "Quel est le nom de l'instrument de musique à cordes chinois qui a plus de 2000 ans d'histoire ?",
+            "answer": "Guzheng"
+        },
+        {
+            "idx": "158",
+            "question": "Quel est le nom de la philosophie traditionnelle chinoise centrée sur l'éthique, la gouvernance et l'harmonie sociale ?",
+            "answer": "Confucianisme"
+        },
+        {
+            "idx": "168",
+            "question": "Quelle province chinoise est célèbre pour le thé Longjing ?",
+            "answer": "Zhejiang"
+        },
+        {
+            "idx": "149",
+            "question": "Quelle dynastie est créditée de l'invention de la boussole et a joué un rôle crucial dans le développement de la navigation ?",
+            "answer": "Dynastie Song"
+        },
+        {
+            "idx": "244",
+            "question": "Quel est le nom du concept chinois de « face », qui fait référence à la réputation et à la dignité d'une personne ?",
+            "answer": "Mianzi"
+        },
+        {
+            "idx": "73",
+            "question": "Quelle ville chinoise est connue pour la préservation de son architecture en bois ancienne ?",
+            "answer": "Pingyao"
+        },
+        {
+            "idx": "138",
+            "question": "Quelle dynastie chinoise était connue pour son approche légaliste du gouvernement et ses sanctions sévères ?",
+            "answer": "Dynastie Qin"
+        },
+        {
+            "idx": "109",
+            "question": "Quelle ville chinoise est connue pour ses anciennes murailles et fut autrefois la capitale sous la dynastie Ming avant Pékin ?",
+            "answer": "Nankin"
+        },
+        {
+            "idx": "125",
+            "question": "Quel est le nom du texte divinatoire chinois ancien qui représente une forme précoce de code binaire ?",
+            "answer": "Yi Jing"
+        },
+        {
+            "idx": "243",
+            "question": "Quel est le nom de la boisson alcoolisée chinoise à base de riz, connue pour sa saveur forte ?",
+            "answer": "Baijiu"
+        },
+        {
+            "idx": "92",
+            "question": "Quelle ville chinoise est connue pour le Bund, une célèbre zone riveraine avec des bâtiments coloniaux historiques ?",
+            "answer": "Shanghai"
+        },
+        {
+            "idx": "17",
+            "question": "Quelle ville chinoise est connue comme la « Venise de l'Orient » ?",
+            "answer": "Suzhou"
+        },
+        {
+            "idx": "41",
+            "question": "Quel est le nom du plat chinois traditionnel à base de tofu fermenté ?",
+            "answer": "Tofu puant"
+        },
+        {
+            "idx": "132",
+            "question": "Quelle ville chinoise a servi de capitale temporaire pendant la Seconde Guerre sino-japonaise ?",
+            "answer": "Chongqing"
+        },
+        {
+            "idx": "72",
+            "question": "Comment s'appelle la philosophie chinoise qui met l'accent sur l'équilibre entre les opposés ?",
+            "answer": "Yin et Yang"
+        },
+        {
+            "idx": "1",
+            "question": "Quel est le nom de l'art du spectacle traditionnel chinois qui implique du chant, de la récitation et des arts martiaux ?",
+            "answer": "Opéra chinois"
+        },
+        {
+            "idx": "194",
+            "question": "Quel est le nom de la dynastie chinoise qui a vu la construction de la première version de la Grande Muraille ?",
+            "answer": "Dynastie Qin"
+        },
+        {
+            "idx": "183",
+            "question": "Quel est le nom de la forme d'art chinoise qui consiste à peindre sur de la soie ou du papier avec un pinceau trempé dans de l'encre noire ou des pigments colorés ?",
+            "answer": "Peinture chinoise"
+        },
+        {
+            "idx": "135",
+            "question": "Quelle province chinoise est connue pour sa cuisine épicée comprenant des plats comme le Mapo Tofu et le Poulet Kung Pao ?",
+            "answer": "Sichuan"
+        },
+        {
+            "idx": "139",
+            "question": "Quelle philosophie chinoise met l'accent sur l'harmonie avec la nature ?",
+            "answer": "Taoïsme"
+        },
+        {
+            "idx": "23",
+            "question": "Quel est le nom du festival chinois qui célèbre le solstice d'hiver avec des réunions familiales et des repas ?",
+            "answer": "Fête de Dongzhi"
+        },
+        {
+            "idx": "113",
+            "question": "Quel est le nom du philosophe chinois ancien connu pour avoir défendu l'importance des rituels et de la loyauté familiale ?",
+            "answer": "Confucius"
+        },
+        {
+            "idx": "50",
+            "question": "Quelle région de Chine est connue pour son dialecte unique et sa cuisine, y compris le dim sum ?",
+            "answer": "Guangdong"
+        },
+        {
+            "idx": "8",
+            "question": "Quel explorateur chinois est connu pour ses voyages vers les océans occidentaux sous la dynastie Ming ?",
+            "answer": "Zheng He"
+        },
+        {
+            "idx": "60",
+            "question": "Quelle montagne est considérée comme sacrée dans le taoïsme et se trouve dans la province du Shanxi ?",
+            "answer": "Mont Wutai"
+        },
+        {
+            "idx": "167",
+            "question": "Quelle dynastie chinoise est créditée de l'achèvement du Grand Canal ?",
+            "answer": "Dynastie Sui"
+        },
+        {
+            "idx": "219",
+            "question": "Quelle dynastie chinoise est connue pour ses avancées en mathématiques et en astronomie ?",
+            "answer": "Dynastie Tang"
+        },
+        {
+            "idx": "213",
+            "question": "Quel est le nom de la région autonome de Chine connue pour sa grande population tibétaine ?",
+            "answer": "Tibet"
+        },
+        {
+            "idx": "62",
+            "question": "Quelle ville chinoise est connue pour son histoire sur la Route de la Soie et comme centre d'échanges commerciaux et culturels entre l'Est et l'Ouest ?",
+            "answer": "Dunhuang"
+        },
+        {
+            "idx": "4",
+            "question": "Quel est le nom de la dynastie chinoise pendant laquelle la Grande Muraille a été largement fortifiée et agrandie ?",
+            "answer": "Dynastie Ming"
+        },
+        {
+            "idx": "82",
+            "question": "Quel est le nom de l'art martial chinois qui met l'accent sur la force intérieure et a été développé au temple Shaolin ?",
+            "answer": "Kung-fu"
+        },
+        {
+            "idx": "31",
+            "question": "Quel est le nom du jeu de société de stratégie chinois pratiqué depuis des milliers d'années ?",
+            "answer": "Go (Weiqi)"
+        },
+        {
+            "idx": "5",
+            "question": "Quel est le nom de la dynastie chinoise fondée par les Mongols ?",
+            "answer": "Dynastie Yuan"
+        },
+        {
+            "idx": "153",
+            "question": "Quelle ville chinoise est célèbre pour son armée de terre cuite ?",
+            "answer": "Xi'an"
+        },
+        {
+            "idx": "61",
+            "question": "Quelle montagne en Chine est célèbre pour ses stèles de pierre avec des inscriptions et des poèmes datant de l'Antiquité ?",
+            "answer": "Mont Tai"
+        },
+        {
+            "idx": "240",
+            "question": "Comment s'appelle l'art chinois de l'aménagement paysager ?",
+            "answer": "Art du jardin chinois"
+        },
+        {
+            "idx": "95",
+            "question": "Quel est le nom de la forme de calligraphie chinoise qui utilise un pinceau et de l'encre pour créer des caractères artistiques ?",
+            "answer": "Shufa"
+        },
+        {
+            "idx": "21",
+            "question": "Quelle ville chinoise est connue pour son ancien observatoire et ses instruments astronomiques historiques ?",
+            "answer": "Pékin"
+        },
+        {
+            "idx": "242",
+            "question": "Quel festival chinois est célébré en mangeant des raviolis et marque la transition de l'hiver au printemps ?",
+            "answer": "Fête des lanternes"
+        },
+        {
+            "idx": "3",
+            "question": "Quel est le nom du style de jardin chinois caractérisé par sa conception méticuleuse et l'utilisation de l'eau et des rochers ?",
+            "answer": "Jardin de Suzhou"
+        },
+        {
+            "idx": "45",
+            "question": "Quel est le nom de la politique chinoise visant à intégrer Hong Kong à la Chine continentale sous le principe « un pays, deux systèmes » ?",
+            "answer": "Rétrocession de Hong Kong"
+        },
+        {
+            "idx": "127",
+            "question": "Quelle montagne est considérée comme un site sacré dans le bouddhisme tibétain et est connue comme le centre du monde dans certaines cosmologies bouddhistes ?",
+            "answer": "Mont Kailash"
+        },
+        {
+            "idx": "156",
+            "question": "Quelle invention ancienne chinoise est connue comme l'une des Quatre Grandes Inventions et servait à imprimer des textes ?",
+            "answer": "Impression à la planche de bois"
+        },
+        {
+            "idx": "75",
+            "question": "Quelle dynastie chinoise est connue pour son exploration maritime et l'établissement de relations tributaires avec les pays d'Asie du Sud-Est ?",
+            "answer": "Dynastie Ming"
+        },
+        {
+            "idx": "221",
+            "question": "Comment s'appelle l'art traditionnel chinois du nouage ?",
+            "answer": "Nouage chinois"
+        },
+        {
+            "idx": "46",
+            "question": "Quel lac chinois est connu pour ses villages de pêcheurs flottants et sa culture de perles ?",
+            "answer": "Lac Taihu"
+        },
+        {
+            "idx": "241",
+            "question": "Quel est le nom du groupe ethnique minoritaire en Chine connu pour sa société matriarcale et vivant principalement dans la province du Yunnan ?",
+            "answer": "Mosuo"
+        },
+        {
+            "idx": "178",
+            "question": "Quelle montagne chinoise est célèbre pour ses levers de soleil ?",
+            "answer": "Mont Huangshan"
+        },
+        {
+            "idx": "174",
+            "question": "Quel est le nom du palais impérial chinois qui a été transformé en musée appelé Musée du Palais ?",
+            "answer": "Cité interdite"
+        },
+        {
+            "idx": "14",
+            "question": "Quel est le festival lunaire traditionnel chinois qui célèbre la réunion de la famille et la récolte ?",
+            "answer": "Fête de la mi-automne"
+        },
+        {
+            "idx": "20",
+            "question": "Quel est le nom de la forme d'art chinoise qui consiste en des sculptures complexes sur le bambou, l'ivoire et d'autres matériaux ?",
+            "answer": "Sculpture chinoise"
+        },
+        {
+            "idx": "136",
+            "question": "Comment s'appelle la monnaie chinoise ?",
+            "answer": "Renminbi (Yuan)"
+        },
+        {
+            "idx": "122",
+            "question": "Quelle province chinoise est connue pour ses découvertes de fossiles et ses musées de dinosaures ?",
+            "answer": "Liaoning"
+        },
+        {
+            "idx": "148",
+            "question": "Comment s'appelle la boisson alcoolisée traditionnelle chinoise ?",
+            "answer": "Baijiu"
+        },
+        {
+            "idx": "155",
+            "question": "Quel est le nom de l'instrument traditionnel chinois en forme de lune et joué avec un plectre ?",
+            "answer": "Ruan"
+        },
+        {
+            "idx": "177",
+            "question": "Comment s'appelle la pratique de la médecine traditionnelle chinoise utilisant des aiguilles ?",
+            "answer": "Acupuncture"
+        },
+        {
+            "idx": "220",
+            "question": "Quelle ville chinoise est connue pour ses anciennes villes d'eau et ses jardins classiques ?",
+            "answer": "Suzhou"
+        },
+        {
+            "idx": "108",
+            "question": "Quelle ville chinoise est connue pour sa tour du tambour historique et son quartier musulman ?",
+            "answer": "Xi'an"
+        },
+        {
+            "idx": "42",
+            "question": "Comment s'appelle la célèbre boulette de soupe chinoise ?",
+            "answer": "Xiaolongbao"
+        },
+        {
+            "idx": "64",
+            "question": "Quel est le nom du festival chinois célébré en mangeant des zongzi et en participant à des courses de bateaux-dragons ?",
+            "answer": "Fête des bateaux-dragons"
+        },
+        {
+            "idx": "7",
+            "question": "Quel dirigeant chinois est connu pour ses réformes économiques dans les années 1980 qui ont ouvert la Chine au commerce mondial ?",
+            "answer": "Deng Xiaoping"
+        },
+        {
+            "idx": "55",
+            "question": "Quelle ville chinoise est connue comme la « Perle de l'Orient » ?",
+            "answer": "Shanghai"
+        },
+        {
+            "idx": "38",
+            "question": "Quel est le nom de la pratique chinoise de positionnement stratégique et de mouvement dans les arts martiaux ?",
+            "answer": "Baguazhang"
+        },
+        {
+            "idx": "58",
+            "question": "Quel est le nom du dîner du réveillon du Nouvel An chinois destiné à réunir les membres de la famille ?",
+            "answer": "Dîner de retrouvailles"
+        },
+        {
+            "idx": "154",
+            "question": "Comment s'appelle la fondue chinoise traditionnelle de Chongqing ?",
+            "answer": "Fondue de Chongqing"
+        },
+        {
+            "idx": "123",
+            "question": "Quelle ville chinoise a servi de point final à la Route de la Soie et est connue pour son quartier musulman ?",
+            "answer": "Xi'an"
+        },
+        {
+            "idx": "196",
+            "question": "Quelle montagne est associée à la légende de l'Empereur Jaune et à l'origine de la nation chinoise ?",
+            "answer": "Mont Tai"
+        },
+        {
+            "idx": "226",
+            "question": "Quelle dynastie est connue pour le développement du système d'examen de la fonction publique qui a influencé le gouvernement chinois pendant des siècles ?",
+            "answer": "Dynastie Han"
+        },
+        {
+            "idx": "29",
+            "question": "Quel est le nom du plus haut sommet de Chine ?",
+            "answer": "Mont Everest"
+        },
+        {
+            "idx": "9",
+            "question": "Quel est le nom du célèbre plat de nouilles chinois de Lanzhou ?",
+            "answer": "Nouilles de bœuf de Lanzhou"
+        },
+        {
+            "idx": "81",
+            "question": "Quel est le nom de l'art chinois d'arranger les objets et l'espace pour parvenir à l'harmonie et à l'équilibre ?",
+            "answer": "Feng Shui"
+        },
+        {
+            "idx": "145",
+            "question": "Quel est le nom du style de peinture chinois qui utilise le pinceau et l'encre, similaire à la calligraphie ?",
+            "answer": "Peinture à l'encre"
+        },
+        {
+            "idx": "224",
+            "question": "Quel est le nom de la philosophie chinoise qui enseigne l'abandon et la réceptivité ?",
+            "answer": "Daoïsme"
+        },
+        {
+            "idx": "69",
+            "question": "Quel est le nom de la chaîne de montagnes en Chine connue pour ses pics spectaculaires et classée au patrimoine mondial de l'UNESCO ?",
+            "answer": "Huangshan"
+        },
+        {
+            "idx": "227",
+            "question": "Quel est le nom de la philosophie chinoise qui met l'accent sur la conformité et l'adaptabilité ?",
+            "answer": "Taoïsme"
+        },
+        {
+            "idx": "184",
+            "question": "Quelle ville chinoise est connue comme la « Ville du printemps éternel » ?",
+            "answer": "Kunming"
+        },
+        {
+            "idx": "223",
+            "question": "Quel est le nom du principe de conception architecturale chinois qui vise à harmoniser la présence humaine avec l'environnement ?",
+            "answer": "Feng Shui"
+        },
+        {
+            "idx": "99",
+            "question": "Quelle dynastie chinoise est connue pour sa porcelaine bleue et blanche ?",
+            "answer": "Dynastie Ming"
+        },
+        {
+            "idx": "63",
+            "question": "Quelle montagne chinoise est associée à l'origine de la religion taoïste ?",
+            "answer": "Mont Qingcheng"
+        },
+        {
+            "idx": "47",
+            "question": "Quelle ville chinoise est historiquement connue comme le terminus nord du Grand Canal ?",
+            "answer": "Pékin"
+        },
+        {
+            "idx": "199",
+            "question": "Quel est le nom du désert situé au nord de la Chine et au sud de la Mongolie, connu comme l'un des plus grands déserts de sable du monde ?",
+            "answer": "Désert de Gobi"
+        },
+        {
+            "idx": "24",
+            "question": "Quelle ville de Chine est célèbre pour son armée de terre cuite, découverte dans le mausolée du premier empereur Qin ?",
+            "answer": "Xi'an"
+        },
+        {
+            "idx": "30",
+            "question": "Quel est le nom du festival des fantômes chinois où les gens rendent hommage à leurs ancêtres décédés ?",
+            "answer": "Fête des fantômes affamés"
+        },
+        {
+            "idx": "233",
+            "question": "Quel est le nom de l'ancienne capitale chinoise connue pour ses guerriers en terre cuite ?",
+            "answer": "Xi'an"
+        },
+        {
+            "idx": "140",
+            "question": "Quelle ville chinoise est connue pour son lac de l'Ouest ?",
+            "answer": "Hangzhou"
+        },
+        {
+            "idx": "211",
+            "question": "Quel dirigeant chinois est crédité de la fondation du Parti communiste chinois ?",
+            "answer": "Mao Zedong"
+        },
+        {
+            "idx": "43",
+            "question": "Quelle dynastie chinoise est connue pour son écriture élaborée sur os oraculaires, l'une des plus anciennes formes d'écriture chinoise ?",
+            "answer": "Dynastie Shang"
+        },
+        {
+            "idx": "205",
+            "question": "Comment s'appelle la cérémonie traditionnelle du thé chinois ?",
+            "answer": "Gongfu Cha"
+        },
+        {
+            "idx": "171",
+            "question": "Quelle région autonome chinoise est connue pour sa culture tibétaine ?",
+            "answer": "Tibet (Xizang)"
+        },
+        {
+            "idx": "166",
+            "question": "Quel est le nom du concept philosophique chinois qui met l'accent sur la nature fluide et dynamique de l'univers ?",
+            "answer": "Yin et Yang"
+        },
+        {
+            "idx": "91",
+            "question": "Quel est le nom de l'instrument à cordes chinois qui a un long manche et se joue avec un plectre ?",
+            "answer": "Pipa"
+        },
+        {
+            "idx": "210",
+            "question": "Quel dirigeant chinois a lancé les « Quatre Modernisations » pour améliorer l'agriculture, l'industrie, la défense nationale et la science et la technologie ?",
+            "answer": "Deng Xiaoping"
+        },
+        {
+            "idx": "192",
+            "question": "Quel dirigeant chinois est connu pour avoir lancé la Révolution culturelle ?",
+            "answer": "Mao Zedong"
+        },
+        {
+            "idx": "176",
+            "question": "Quel est le nom du festival chinois qui célèbre la fin de la saison des récoltes ?",
+            "answer": "Fête du Double Neuf"
+        },
+        {
+            "idx": "34",
+            "question": "Quel est le nom du vêtement traditionnel chinois avec un col haut et des nœuds en soie ?",
+            "answer": "Cheongsam (Qipao)"
+        },
+        {
+            "idx": "59",
+            "question": "Comment s'appelle la philosophie chinoise fondée par Confucius ?",
+            "answer": "Confucianisme"
+        },
+        {
+            "idx": "70",
+            "question": "Quelle est la pratique médicinale traditionnelle chinoise consistant à insérer des aiguilles dans des points spécifiques du corps ?",
+            "answer": "Acupuncture"
+        },
+        {
+            "idx": "16",
+            "question": "Quel est le nom de la région autonome chinoise qui abrite le groupe ethnique ouïghour ?",
+            "answer": "Xinjiang"
+        },
+        {
+            "idx": "32",
+            "question": "Quel est le nom de la religion populaire chinoise caractérisée par le culte des ancêtres et un panthéon de divinités et d'esprits ?",
+            "answer": "Religion populaire chinoise"
+        },
+        {
+            "idx": "88",
+            "question": "Quel est le nom de l'exercice traditionnel chinois qui combine arts martiaux et méditation ?",
+            "answer": "Qigong"
+        },
+        {
+            "idx": "157",
+            "question": "Quel est le nom du plat chinois composé de petits pains vapeur farcis de viande ou de légumes ?",
+            "answer": "Baozi"
+        },
+        {
+            "idx": "40",
+            "question": "Quelle ville chinoise est connue pour sa porcelaine bleue et blanche, historiquement considérée comme l'une des meilleures du monde ?",
+            "answer": "Jingdezhen"
+        },
+        {
+            "idx": "161",
+            "question": "Quel est le nom du festival chinois célébrant la pleine lune ?",
+            "answer": "Fête de la mi-automne"
+        },
+        {
+            "idx": "163",
+            "question": "Quel est le nom de la forme de théâtre traditionnelle chinoise qui combine musique, chant, mime, danse et acrobatie ?",
+            "answer": "Opéra de Pékin"
+        },
+        {
+            "idx": "143",
+            "question": "Quelle dynastie chinoise est connue pour ses avancées technologiques, y compris l'invention de la poudre à canon, de la boussole et de la fabrication du papier ?",
+            "answer": "Dynastie Song"
+        },
+        {
+            "idx": "200",
+            "question": "Quel est le nom de la mer qui borde la Chine orientale et constitue une route majeure pour le commerce maritime ?",
+            "answer": "Mer de Chine orientale"
+        },
+        {
+            "idx": "232",
+            "question": "Quel est le nom de la bibliothèque impériale chinoise créée sous la dynastie Tang et qui fut un centre d'études savantes ?",
+            "answer": "Académie impériale"
+        },
+        {
+            "idx": "150",
+            "question": "Quel est le nom du philosophe chinois qui a mis l'accent sur la spontanéité et l'individualisme, souvent en contraste avec le confucianisme ?",
+            "answer": "Zhuangzi"
+        },
+        {
+            "idx": "187",
+            "question": "Quel est le nom du philosophe chinois connu pour ses enseignements sur la guerre et la stratégie militaire ?",
+            "answer": "Sun Tzu"
+        },
+        {
+            "idx": "228",
+            "question": "Quelle province chinoise est connue pour ses centres de conservation des pandas où les visiteurs peuvent voir des pandas géants dans leur habitat naturel ?",
+            "answer": "Sichuan"
+        },
+        {
+            "idx": "48",
+            "question": "Quelle province chinoise est célèbre pour ses prairies et sa culture mongole ?",
+            "answer": "Mongolie intérieure"
+        },
+        {
+            "idx": "10",
+            "question": "Quel est le nom du brocart de soie chinois produit à Nankin, célèbre pour sa beauté et son artisanat ?",
+            "answer": "Brocart de Nankin"
+        },
+        {
+            "idx": "79",
+            "question": "Quel est le nom du concept philosophique chinois qui se concentre sur le flux d'énergie et l'équilibre des forces ?",
+            "answer": "Yin et Yang"
+        },
+        {
+            "idx": "27",
+            "question": "Quelle ville chinoise est célèbre pour ses pandas ?",
+            "answer": "Chengdu"
+        },
+        {
+            "idx": "133",
+            "question": "Quelle chaîne de montagnes chinoise sépare la Chine de l'Inde ?",
+            "answer": "Himalaya"
+        },
+        {
+            "idx": "77",
+            "question": "Quel est le nom de l'empereur chinois connu pour avoir brûlé des livres et enterré des lettrés vivants ?",
+            "answer": "Qin Shi Huang"
+        },
+        {
+            "idx": "80",
+            "question": "Quelle dynastie chinoise est connue pour son âge d'or culturel et philosophique ?",
+            "answer": "Dynastie Tang"
+        },
+        {
+            "idx": "160",
+            "question": "Quelle province chinoise est connue pour ses rizières en terrasses, classées au patrimoine mondial de l'UNESCO ?",
+            "answer": "Yunnan"
+        },
+        {
+            "idx": "188",
+            "question": "Comment s'appelle l'art traditionnel chinois de la calligraphie ?",
+            "answer": "Shufa"
+        },
+        {
+            "idx": "141",
+            "question": "Quelle ville chinoise est reconnue pour son importance historique en tant que capitale de plusieurs dynasties ?",
+            "answer": "Luoyang"
+        },
+        {
+            "idx": "218",
+            "question": "Quel fleuve en Chine est connu pour ses inondations historiques et est souvent appelé « le chagrin de la Chine » ?",
+            "answer": "Fleuve Jaune"
+        },
+        {
+            "idx": "39",
+            "question": "Quel est le nom du jeu de stratégie chinois qui consiste à capturer du territoire ?",
+            "answer": "Go (Weiqi)"
+        },
+        {
+            "idx": "193",
+            "question": "Quel est le nom de l'herbe médicinale chinoise traditionnelle, réputée pour augmenter l'énergie et utilisée depuis des milliers d'années ?",
+            "answer": "Ginseng"
+        },
+        {
+            "idx": "170",
+            "question": "Quelle région autonome chinoise est connue pour ses vastes déserts et ses réserves de pétrole ?",
+            "answer": "Xinjiang"
+        },
+        {
+            "idx": "83",
+            "question": "Quelle est la philosophie ancienne fondée par Laozi en Chine ?",
+            "answer": "Taoïsme"
+        },
+        {
+            "idx": "173",
+            "question": "Quelle ville chinoise est connue pour son quartier musulman et ses anciennes murailles ?",
+            "answer": "Xi'an"
+        },
+        {
+            "idx": "189",
+            "question": "Comment s'appelle l'art chinois de la découpe du papier ?",
+            "answer": "Jianzhi"
+        },
+        {
+            "idx": "202",
+            "question": "Quel est le nom du groupe ethnique chinois connu pour sa langue et son écriture uniques, résidant principalement dans le Hunan ?",
+            "answer": "Tujia"
+        },
+        {
+            "idx": "186",
+            "question": "Comment s'appelle la pratique chinoise impliquant le placement stratégique de ressources militaires, connue en Occident sous le nom de « L'Art de la Guerre » ?",
+            "answer": "L'Art de la Guerre de Sun Tzu"
+        },
+        {
+            "idx": "74",
+            "question": "Quel est le nom du vêtement traditionnel chinois en forme de robe, couramment porté sous la dynastie Qing ?",
+            "answer": "Cheongsam"
+        },
+        {
+            "idx": "206",
+            "question": "Quel est le nom du système de croyances chinois qui intègre des éléments du bouddhisme, du taoïsme et de la religion populaire ?",
+            "answer": "Religion populaire chinoise"
+        },
+        {
+            "idx": "204",
+            "question": "Quel est le nom de la forme traditionnelle de l'opéra chinois avec des visages peints ?",
+            "answer": "Opéra de Pékin"
+        },
+        {
+            "idx": "180",
+            "question": "Quel festival chinois implique des courses de bateaux-dragons ?",
+            "answer": "Festival des bateaux-dragons"
+        },
+        {
+            "idx": "134",
+            "question": "Quel est le nom du fleuve qui traverse Shanghai et joue un rôle crucial dans son développement en tant que port majeur ?",
+            "answer": "Fleuve Huangpu"
+        },
+        {
+            "idx": "56",
+            "question": "Quelle montagne chinoise est connue pour ses anciens monastères et ses vues spectaculaires ?",
+            "answer": "Mont Emei"
+        },
+        {
+            "idx": "78",
+            "question": "Quelle montagne en Chine est traditionnellement considérée comme la plus sacrée des Cinq Grandes Montagnes ?",
+            "answer": "Mont Tai"
+        },
+        {
+            "idx": "182",
+            "question": "Quelle ville chinoise est connue pour ses deux grands fleuves, le Huangpu et le Yangtsé ?",
+            "answer": "Shanghai"
+        },
+        {
+            "idx": "159",
+            "question": "Quelle ville portuaire chinoise était historiquement connue comme le « Paris de l'Orient » ?",
+            "answer": "Shanghai"
+        },
+        {
+            "idx": "15",
+            "question": "Quelle ancienne dynastie chinoise est créditée de la création du premier État chinois unifié sous une administration centralisée ?",
+            "answer": "Dynastie Qin"
+        },
+        {
+            "idx": "18",
+            "question": "Quelle province chinoise est connue pour sa grande population de minorités ethniques et son riche patrimoine culturel ?",
+            "answer": "Yunnan"
+        },
+        {
+            "idx": "116",
+            "question": "Quel fleuve chinois est connu comme la « Voie d'eau dorée » ?",
+            "answer": "Fleuve Yangtsé"
+        },
+        {
+            "idx": "36",
+            "question": "Quel est le nom de l'art chinois de la découpe du papier, souvent utilisé lors des festivals pour la décoration et comme forme d'art populaire ?",
+            "answer": "Découpage du papier"
+        },
+        {
+            "idx": "118",
+            "question": "Quel est le nom du concept philosophique chinois qui met l'accent sur la droiture, la bienséance, l'intégrité et l'honneur ?",
+            "answer": "Confucianisme"
+        },
+        {
+            "idx": "207",
+            "question": "Quelle province chinoise est connue comme la « Terre d'Abondance » ?",
+            "answer": "Sichuan"
+        },
+        {
+            "idx": "33",
+            "question": "Quel festival chinois implique des courses de bateaux-dragons et la dégustation de zongzi pour commémorer le poète Qu Yuan ?",
+            "answer": "Festival des bateaux-dragons"
+        },
+        {
+            "idx": "96",
+            "question": "Quel est le nom de la forme architecturale traditionnelle chinoise utilisée pour la construction du Temple du Ciel ?",
+            "answer": "Autel circulaire"
+        },
+        {
+            "idx": "230",
+            "question": "Quel est le nom de l'ancienne unité de longueur chinoise utilisée pour standardiser les mesures dans l'empire ?",
+            "answer": "Zhang"
+        },
+        {
+            "idx": "239",
+            "question": "Quelle ville chinoise est connue comme le point de départ de la Route de la Soie maritime ?",
+            "answer": "Quanzhou"
+        },
+        {
+            "idx": "66",
+            "question": "Quel est le nom de la philosophie traditionnelle chinoise qui met l'accent sur la vie éthique et la responsabilité bureaucratique ?",
+            "answer": "Confucianisme"
+        },
+        {
+            "idx": "102",
+            "question": "Quel est le nom de l'art martial traditionnel chinois axé sur des mouvements lents ?",
+            "answer": "Tai Chi"
+        },
+        {
+            "idx": "117",
+            "question": "Quelle ville chinoise fut la capitale de la dynastie Song du Sud et est célèbre pour son lac de l'Ouest ?",
+            "answer": "Hangzhou"
+        },
+        {
+            "idx": "26",
+            "question": "Quel est le nom du jeu chinois similaire aux échecs mais joué avec des pièces et des stratégies distinctes ?",
+            "answer": "Xiangqi"
+        },
+        {
+            "idx": "115",
+            "question": "Quelle ville chinoise est le centre politique et culturel de la Chine, accueillant le gouvernement central ?",
+            "answer": "Pékin"
+        },
+        {
+            "idx": "110",
+            "question": "Quel lac chinois est célèbre pour ses jardins flottants et ses fleurs de lotus ?",
+            "answer": "Lac de l'Ouest"
+        },
+        {
+            "idx": "144",
+            "question": "Quel fleuve chinois est connu pour son rôle historique en tant que séparateur entre la Chine du Nord et du Sud ?",
+            "answer": "Fleuve Yangtsé"
+        },
+        {
+            "idx": "37",
+            "question": "Quelle ville chinoise est connue pour son ancienne muraille de ville qui subsiste encore et sur laquelle on peut marcher aujourd'hui ?",
+            "answer": "Xi'an"
+        },
+        {
+            "idx": "57",
+            "question": "Quel est le nom de l'art chinois qui consiste à plier du papier en différentes formes et figures ?",
+            "answer": "Origami"
+        },
+        {
+            "idx": "190",
+            "question": "Quel est le nom du concept chinois qui décrit le pouvoir éthique du souverain dérivé de l'intégrité morale ?",
+            "answer": "Mandat du Ciel"
+        },
+        {
+            "idx": "215",
+            "question": "Quel est le nom du philosophe chinois fondateur de l'école de pensée connue sous le nom de Mohisme ?",
+            "answer": "Mozi"
+        },
+        {
+            "idx": "137",
+            "question": "Quelle province chinoise est célèbre pour la cuisine épicée du Sichuan ?",
+            "answer": "Sichuan"
+        },
+        {
+            "idx": "235",
+            "question": "Quel fleuve en Chine est connu pour son paysage pittoresque et figure au dos du billet de 20 yuans ?",
+            "answer": "Rivière Li"
+        },
+        {
+            "idx": "49",
+            "question": "Quelle dynastie chinoise fut la première à établir une armée permanente professionnelle ?",
+            "answer": "Dynastie Qin"
+        },
+        {
+            "idx": "152",
+            "question": "Quel est le plus long fleuve de Chine ?",
+            "answer": "Fleuve Yangtsé"
+        },
+        {
+            "idx": "35",
+            "question": "Quel est le nom du philosophe chinois connu pour ses enseignements sur l'éthique et les relations sociales appropriées ?",
+            "answer": "Confucius"
+        },
+        {
+            "idx": "111",
+            "question": "Quel est le nom de l'art martial chinois connu pour ses techniques défensives et son approche douce ?",
+            "answer": "Tai Chi"
+        },
+        {
+            "idx": "231",
+            "question": "Quel est le nom du concept philosophique chinois qui insiste sur l'importance de la modération et de la retenue ?",
+            "answer": "Zhong Yong"
+        },
+        {
+            "idx": "114",
+            "question": "Comment s'appelle le Nouvel An chinois ?",
+            "answer": "Fête du Printemps"
+        },
+        {
+            "idx": "129",
+            "question": "Quel est le nom du jeu de société traditionnel chinois avec des pierres noires et blanches ?",
+            "answer": "Go (Weiqi)"
+        },
+        {
+            "idx": "198",
+            "question": "Quel est le nom de l'ancienne route commerciale reliant la Chine à l'Europe ?",
+            "answer": "Route de la Soie"
+        },
+        {
+            "idx": "6",
+            "question": "Quel est le nom du complexe palatial à Pékin qui a servi de palais impérial pour les dynasties Ming et Qing ?",
+            "answer": "Cité interdite"
+        },
+        {
+            "idx": "104",
+            "question": "Quel est le nom de la pratique chinoise de gymnastique de précision et de démonstrations d'arts martiaux ?",
+            "answer": "Wushu"
+        },
+        {
+            "idx": "203",
+            "question": "Quel est le nom du fleuve connu comme la « Mère des rivières » de la Chine et berceau de la civilisation chinoise ?",
+            "answer": "Fleuve Jaune"
+        },
+        {
+            "idx": "238",
+            "question": "Quel fleuve est connu comme la « Mère des rivières » de la Chine ?",
+            "answer": "Fleuve Jaune (Huang He)"
+        },
+        {
+            "idx": "195",
+            "question": "Quelle ville chinoise fut l'ancienne capitale de plusieurs dynasties ?",
+            "answer": "Xi'an"
+        },
+        {
+            "idx": "181",
+            "question": "Quel est le nom de la pratique médicinale traditionnelle chinoise qui consiste à brûler des herbes près de la peau ?",
+            "answer": "Moxibustion"
+        },
+        {
+            "idx": "44",
+            "question": "Quelle ville chinoise est connue pour sa formation géologique de forêt de pierre ?",
+            "answer": "Kunming"
+        },
+        {
+            "idx": "164",
+            "question": "Quel philosophe chinois a fondé l'école du légalisme, mettant l'accent sur des lois strictes et leur application ?",
+            "answer": "Han Feizi"
+        },
+        {
+            "idx": "85",
+            "question": "Quel est le nom du style d'arts martiaux chinois connu pour ses 108 mouvements ?",
+            "answer": "Tai Chi"
+        },
+        {
+            "idx": "209",
+            "question": "Quelle dynastie est connue pour l'invention de la poudre à canon et le développement des premières armes à feu ?",
+            "answer": "Dynastie Song"
+        },
+        {
+            "idx": "217",
+            "question": "Quelle province chinoise est connue pour sa cuisine épicée, notamment le poulet Kung Pao et le tofu Mapo ?",
+            "answer": "Sichuan"
+        },
+        {
+            "idx": "146",
+            "question": "Quel est le nom de la structure architecturale traditionnelle chinoise que l'on trouve souvent dans les jardins et parcs ?",
+            "answer": "Pavillon"
+        },
+        {
+            "idx": "185",
+            "question": "Quel philosophe chinois est connu pour sa doctrine du juste milieu, mettant l'accent sur la modération et l'équilibre ?",
+            "answer": "Confucius"
+        },
+        {
+            "idx": "191",
+            "question": "Quelle montagne chinoise est connue pour ses temples historiques et fut le site de la quête d'immortalité du premier empereur ?",
+            "answer": "Mont Tai"
+        },
+        {
+            "idx": "142",
+            "question": "Quel est le nom du concept chinois d'énergie vitale ?",
+            "answer": "Qi"
+        },
+        {
+            "idx": "71",
+            "question": "Quel est le nom du célèbre plat de canard laqué de Pékin ?",
+            "answer": "Canard laqué de Pékin"
+        },
+        {
+            "idx": "28",
+            "question": "Quelle ville chinoise est connue pour son rôle historique dans le commerce de l'opium et les guerres de l'opium qui ont suivi ?",
+            "answer": "Canton (Guangzhou)"
+        },
+        {
+            "idx": "237",
+            "question": "Quel est le nom de la pratique chinoise utilisant des techniques ancestrales pour forger des lames ?",
+            "answer": "Escrime chinoise"
+        },
+        {
+            "idx": "19",
+            "question": "Quelle dynastie chinoise est connue pour ses fondements légalistes et militaristes, établis par l'empereur Qin Shi Huang ?",
+            "answer": "Dynastie Qin"
+        },
+        {
+            "idx": "130",
+            "question": "Quel est le nom de l'art chinois d'aménager les espaces de vie pour créer l'équilibre et l'harmonie ?",
+            "answer": "Feng Shui"
+        },
+        {
+            "idx": "151",
+            "question": "Quel festival implique des courses de bateaux-dragons pour commémorer la mort du poète Qu Yuan ?",
+            "answer": "Festival des bateaux-dragons"
+        },
+        {
+            "idx": "131",
+            "question": "Quel est le nom de l'art martial chinois connu pour ses 36 stratégies et son accent sur la tromperie ?",
+            "answer": "L'Art de la Guerre de Sun Tzu"
+        },
+        {
+            "idx": "169",
+            "question": "Quelle ville chinoise est célèbre pour son festival de la glace et de la neige ?",
+            "answer": "Harbin"
+        },
+        {
+            "idx": "101",
+            "question": "Quelle ville chinoise est connue pour sa fabrication électronique et est souvent appelée la « Silicon Valley de la Chine » ?",
+            "answer": "Shenzhen"
+        },
+        {
+            "idx": "112",
+            "question": "Quel fleuve chinois est connu pour son importance historique en tant que route commerciale pendant les dynasties Tang et Song ?",
+            "answer": "Grand Canal"
+        },
+        {
+            "idx": "12",
+            "question": "Quelle montagne en Chine est célèbre pour ses levers de soleil et a inspiré de nombreuses peintures traditionnelles chinoises ?",
+            "answer": "Mont Huangshan"
+        },
+        {
+            "idx": "84",
+            "question": "Quel est le nom de l'unité monétaire chinoise ?",
+            "answer": "Renminbi (Yuan)"
+        },
+        {
+            "idx": "51",
+            "question": "Quelle chaîne de montagnes en Chine est connue pour ses pics spectaculaires et est classée au patrimoine mondial de l'UNESCO ?",
+            "answer": "Huangshan (Montagnes Jaunes)"
+        },
+        {
+            "idx": "93",
+            "question": "Quelle minorité chinoise est connue pour son tir à l'arc à cheval et son mode de vie nomade pastoral ?",
+            "answer": "Mongols"
+        },
+        {
+            "idx": "100",
+            "question": "Quel est le nom du style architectural traditionnel chinois caractérisé par des toits relevés ?",
+            "answer": "Siheyuan"
+        },
+        {
+            "idx": "90",
+            "question": "Quel est le nom de la forme architecturale chinoise caractérisée par de grands toits incurvés vers le haut sur les bords ?",
+            "answer": "Pagode"
+        },
+        {
+            "idx": "2",
+            "question": "Quel est le nom de la cérémonie du thé chinoise qui met l'accent sur l'art et l'esthétique de la préparation du thé ?",
+            "answer": "Cérémonie du thé Gongfu"
+        },
+        {
+            "idx": "128",
+            "question": "Quel est le nom de la boulette traditionnelle chinoise consommée pendant le Nouvel An chinois ?",
+            "answer": "Jiaozi"
+        },
+        {
+            "idx": "162",
+            "question": "Quel dirigeant chinois est connu pour avoir fondé la République populaire de Chine en 1949 ?",
+            "answer": "Mao Zedong"
+        },
+        {
+            "idx": "212",
+            "question": "Quel dirigeant chinois est connu pour son rôle lors de la Longue Marche et plus tard comme chef de l'État ?",
+            "answer": "Mao Zedong"
+        },
+        {
+            "idx": "22",
+            "question": "Quelle province chinoise est connue pour son grand nombre de minorités ethniques et ses pratiques culturelles uniques ?",
+            "answer": "Guangxi"
+        },
+        {
+            "idx": "13",
+            "question": "Quel fleuve est connu sous le nom de « Fleuve Yangtsé » et est le plus long fleuve d'Asie ?",
+            "answer": "Fleuve Yangtsé"
+        },
+        {
+            "idx": "236",
+            "question": "Quelle ville chinoise est connue pour son rôle dans le développement du bouddhisme zen chinois ?",
+            "answer": "Hangzhou"
+        },
+        {
+            "idx": "106",
+            "question": "Quel festival chinois consiste à allumer des lanternes et à résoudre des énigmes écrites dessus ?",
+            "answer": "Fête des lanternes"
+        },
+        {
+            "idx": "87",
+            "question": "Quel est le nom du jardin chinois situé à Suzhou et classé au patrimoine mondial de l'UNESCO ?",
+            "answer": "Jardin de l'Humble Administrateur"
+        },
+        {
+            "idx": "98",
+            "question": "Quel est le nom de l'ancienne route commerciale reliant la Chine à la mer Méditerranée, facilitant les échanges commerciaux et culturels ?",
+            "answer": "Route de la Soie"
+        },
+        {
+            "idx": "201",
+            "question": "Quel est le nom de la philosophie traditionnelle chinoise qui met l'accent sur la vie en harmonie avec le Dao ?",
+            "answer": "Daoïsme"
+        },
+        {
+            "idx": "121",
+            "question": "Quel est le nom de l'art chinois du nouage décoratif ?",
+            "answer": "Nouage chinois"
+        },
+        {
+            "idx": "222",
+            "question": "Quel fleuve est connu comme la « Rivière de l'Ouest » et est l'un des trois principaux fleuves du sud de la Chine ?",
+            "answer": "Rivière Xi"
+        },
+        {
+            "idx": "214",
+            "question": "Quel groupe ethnique chinois est connu pour sa culture équestre et sa vie dans les steppes de Mongolie intérieure ?",
+            "answer": "Mongols"
+        },
+        {
+            "idx": "225",
+            "question": "Quelle ville chinoise est connue pour ses marchés électroniques et comme centre de technologie et d'innovation ?",
+            "answer": "Shenzhen"
+        },
+        {
+            "idx": "65",
+            "question": "Quelle province chinoise est connue pour ses villes côtières et sa prospérité économique ?",
+            "answer": "Jiangsu"
+        },
+        {
+            "idx": "68",
+            "question": "Quelle ville chinoise est connue pour ses gratte-ciel et comme un important centre financier mondial ?",
+            "answer": "Hong Kong"
+        },
+        {
+            "idx": "165",
+            "question": "Quel est le nom de l'histoire dynastique chinoise qui a été la première à établir une bureaucratie méritocratique ?",
+            "answer": "Dynastie Han"
+        },
+        {
+            "idx": "54",
+            "question": "Quelle est la capitale de la Chine ?",
+            "answer": "Pékin"
+        },
+        {
+            "idx": "179",
+            "question": "Quel dirigeant chinois a lancé la politique de réforme et d'ouverture qui a transformé l'économie chinoise ?",
+            "answer": "Deng Xiaoping"
+        },
+        {
+            "idx": "107",
+            "question": "Quel est le nom du concept médicinal traditionnel chinois d'équilibrer l'énergie vitale du corps ?",
+            "answer": "Qi"
+        },
+        {
+            "idx": "105",
+            "question": "Quel est le nom de la porte-frontière chinoise qui sépare Hong Kong de la Chine continentale ?",
+            "answer": "Lo Wu"
+        },
+        {
+            "idx": "11",
+            "question": "Quelle dynastie est considérée comme la première dynastie impériale historiquement vérifiée de Chine ?",
+            "answer": "Dynastie Qin"
+        },
+        {
+            "idx": "172",
+            "question": "Quelle ville chinoise est connue comme la « Ville céleste » ?",
+            "answer": "Suzhou"
+        },
+        {
+            "idx": "25",
+            "question": "Quelle ville chinoise est connue pour son marché de la soie et constitue un important centre du commerce de la soie ?",
+            "answer": "Hangzhou"
+        },
+        {
+            "idx": "103",
+            "question": "Quelle montagne chinoise est considérée comme sacrée dans le taoïsme ?",
+            "answer": "Mont Tai"
+        },
+        {
+            "idx": "89",
+            "question": "Quelle ville chinoise est connue pour la légende du Serpent blanc, une célèbre histoire du folklore chinois ?",
+            "answer": "Hangzhou"
+        },
+        {
+            "idx": "197",
+            "question": "Quel lac chinois est connu pour les migrations hivernales des grues de Sibérie ?",
+            "answer": "Lac Poyang"
+        },
+        {
+            "idx": "216",
+            "question": "Quelle province chinoise est connue pour ses forêts de bambous et comme le foyer du panda géant ?",
+            "answer": "Sichuan"
+        },
+        {
+            "idx": "147",
+            "question": "Quelle ville chinoise est réputée pour ses canaux historiques et a été surnommée la « Venise de l'Orient » ?",
+            "answer": "Suzhou"
+        },
+        {
+            "idx": "234",
+            "question": "Quel est le nom du traité de stratégie militaire attribué à Sun Tzu ?",
+            "answer": "L'Art de la Guerre"
+        },
+        {
+            "idx": "67",
+            "question": "Quelle ville chinoise est connue pour sa célèbre promenade du Bund ?",
+            "answer": "Shanghai"
+        },
+        {
+            "idx": "229",
+            "question": "Quel est le nom de la frontière entre la Chine et la Russie, marquée par le fleuve Amour ?",
+            "answer": "Frontière sino-russe"
+        }
+    ]
+}

@@ -1,0 +1,5707 @@
+{
+    "en": [
+        {
+            "idx": "167",
+            "question": "What is the name of the Japanese practice of bathing in forest atmospheres for therapeutic purposes?",
+            "answer": "Shinrin-yoku"
+        },
+        {
+            "idx": "67",
+            "question": "What type of Japanese pottery, known for its rustic look, originates from the town of Mashiko?",
+            "answer": "Mashiko-yaki"
+        },
+        {
+            "idx": "229",
+            "question": "What is the Japanese martial art that means 'gentle way'?",
+            "answer": "Judo"
+        },
+        {
+            "idx": "30",
+            "question": "Which Japanese prefecture is known for its blue pond, a popular tourist attraction due to its unique color?",
+            "answer": "Hokkaido"
+        },
+        {
+            "idx": "213",
+            "question": "What is the name of the Japanese dish made from a batter of eggs, flour, and shredded cabbage, typically topped with a variety of condiments?",
+            "answer": "Okonomiyaki"
+        },
+        {
+            "idx": "159",
+            "question": "What is the Japanese term for the spirit beings that are central to Shinto religion?",
+            "answer": "Kami"
+        },
+        {
+            "idx": "169",
+            "question": "Who was the first shogun of the Tokugawa shogunate?",
+            "answer": "Tokugawa Ieyasu"
+        },
+        {
+            "idx": "100",
+            "question": "What is the name of the traditional Japanese theater that uses masks to represent characters?",
+            "answer": "Noh"
+        },
+        {
+            "idx": "239",
+            "question": "What is the name of the Japanese technique of fishing using trained cormorants?",
+            "answer": "Ukai"
+        },
+        {
+            "idx": "209",
+            "question": "What is the name of the Japanese national sport involving two wrestlers within a circular ring?",
+            "answer": "Sumo"
+        },
+        {
+            "idx": "164",
+            "question": "Which Japanese city is known for its castle and as a former samurai stronghold?",
+            "answer": "Himeji"
+        },
+        {
+            "idx": "189",
+            "question": "What is the name of the Japanese philosophy that focuses on finding beauty in the fleeting and transient nature of life?",
+            "answer": "Mono no aware"
+        },
+        {
+            "idx": "193",
+            "question": "What is the famous fish market in Tokyo called?",
+            "answer": "Tsukiji Market (now Toyosu)"
+        },
+        {
+            "idx": "139",
+            "question": "What is the Japanese traditional multi-course dinner called?",
+            "answer": "Kaiseki"
+        },
+        {
+            "idx": "101",
+            "question": "Which Japanese city is known for its castle that is one of Japan's twelve original castles?",
+            "answer": "Hikone"
+        },
+        {
+            "idx": "98",
+            "question": "Which Japanese city is known for its sixteenth-century castle known as 'White Heron Castle'?",
+            "answer": "Himeji"
+        },
+        {
+            "idx": "238",
+            "question": "What is the Japanese art of flower arrangement called?",
+            "answer": "Ikebana"
+        },
+        {
+            "idx": "146",
+            "question": "What is the name of the Japanese spirit made from distilled barley, sweet potatoes, or rice?",
+            "answer": "Shochu"
+        },
+        {
+            "idx": "85",
+            "question": "What is the name of the Japanese puppetry that involves large ornate puppets manipulated by multiple puppeteers?",
+            "answer": "Bunraku"
+        },
+        {
+            "idx": "183",
+            "question": "What is the name of the sea that borders Japan to the west?",
+            "answer": "The Sea of Japan"
+        },
+        {
+            "idx": "48",
+            "question": "Which Japanese island is famous for its role in space satellite launches?",
+            "answer": "Tanegashima"
+        },
+        {
+            "idx": "220",
+            "question": "Which Japanese city is known for its electronics district Akihabara?",
+            "answer": "Tokyo"
+        },
+        {
+            "idx": "78",
+            "question": "What is the legislative body of Japan called?",
+            "answer": "The Diet"
+        },
+        {
+            "idx": "225",
+            "question": "What is the Japanese martial art of using bamboo swords?",
+            "answer": "Kendo"
+        },
+        {
+            "idx": "90",
+            "question": "What was the project name for the development of the atomic bomb that was dropped on Hiroshima?",
+            "answer": "Manhattan Project"
+        },
+        {
+            "idx": "58",
+            "question": "Which Japanese island is known for its unique Okinawan culture?",
+            "answer": "Okinawa"
+        },
+        {
+            "idx": "44",
+            "question": "What is the name of the Japanese philosophy and practice of continuous improvement in the workplace?",
+            "answer": "Kaizen"
+        },
+        {
+            "idx": "122",
+            "question": "Which Japanese city is known for its annual Sapporo Snow Festival?",
+            "answer": "Sapporo"
+        },
+        {
+            "idx": "172",
+            "question": "Which Japanese island is disputed and claimed by both Japan and Russia?",
+            "answer": "Kuril Islands"
+        },
+        {
+            "idx": "133",
+            "question": "What is the traditional Japanese floor mat, made from woven straw, used in most Japanese homes?",
+            "answer": "Tatami"
+        },
+        {
+            "idx": "202",
+            "question": "Which Japanese city is known for its historic significance as a center for the production of fine swords and traditional crafts?",
+            "answer": "Seki"
+        },
+        {
+            "idx": "119",
+            "question": "What is the name of the Japanese bullet train that travels between Tokyo and Hakata?",
+            "answer": "Tokaido Shinkansen"
+        },
+        {
+            "idx": "223",
+            "question": "Which Japanese island is known for its harsh winters and drift ice?",
+            "answer": "Hokkaido"
+        },
+        {
+            "idx": "132",
+            "question": "Which Japanese city is known for its remodeled waterfront district and modern architecture?",
+            "answer": "Yokohama"
+        },
+        {
+            "idx": "62",
+            "question": "What is the name of the Japanese architectural style characterized by wooden structures and elevated slightly off the ground?",
+            "answer": "Minka"
+        },
+        {
+            "idx": "233",
+            "question": "What is the Japanese term for a professional female entertainer trained in traditional Japanese arts?",
+            "answer": "Geisha"
+        },
+        {
+            "idx": "50",
+            "question": "During which festival do Japanese people enjoy viewing cherry blossoms?",
+            "answer": "Hanami"
+        },
+        {
+            "idx": "196",
+            "question": "What is the traditional Japanese craft of stitching fabric pieces together?",
+            "answer": "Sashiko"
+        },
+        {
+            "idx": "82",
+            "question": "What is the name of the Japanese philosophy that focuses on continuous improvement in manufacturing?",
+            "answer": "Kaizen"
+        },
+        {
+            "idx": "219",
+            "question": "What is the title for the military dictators of Japan during the feudal period?",
+            "answer": "Shogun"
+        },
+        {
+            "idx": "216",
+            "question": "Which Japanese city is known for its historic temples and is a former capital of Japan?",
+            "answer": "Kyoto"
+        },
+        {
+            "idx": "149",
+            "question": "Which Japanese festival is known for its display of elaborate floats and mechanical dolls?",
+            "answer": "Gion Matsuri"
+        },
+        {
+            "idx": "5",
+            "question": "What is the name of the Japanese parliamentary system consisting of two houses?",
+            "answer": "Bicameral National Diet"
+        },
+        {
+            "idx": "135",
+            "question": "Which Japanese city hosted the 1998 Winter Olympics?",
+            "answer": "Nagano"
+        },
+        {
+            "idx": "24",
+            "question": "What is the name of the Japanese practice of repairing ceramics with gold or silver lacquer?",
+            "answer": "Kintsugi"
+        },
+        {
+            "idx": "4",
+            "question": "What is the Japanese concept of death from overwork called?",
+            "answer": "Karoshi"
+        },
+        {
+            "idx": "70",
+            "question": "In Japanese cuisine, what is 'fugu'?",
+            "answer": "Pufferfish"
+        },
+        {
+            "idx": "142",
+            "question": "What is the term for a Japanese governor or prefecture?",
+            "answer": "Governor"
+        },
+        {
+            "idx": "171",
+            "question": "What is the capital city of Japan?",
+            "answer": "Tokyo"
+        },
+        {
+            "idx": "43",
+            "question": "Which treaty, signed in 1951, officially ended World War II for Japan?",
+            "answer": "Treaty of San Francisco"
+        },
+        {
+            "idx": "129",
+            "question": "What is the traditional Japanese wooden theater called?",
+            "answer": "Noh"
+        },
+        {
+            "idx": "200",
+            "question": "What is the term for a professional Japanese female entertainer who performs traditional dances and music?",
+            "answer": "Geisha"
+        },
+        {
+            "idx": "3",
+            "question": "Which Japanese island is famous for its snow festivals and distinct culture?",
+            "answer": "Hokkaido"
+        },
+        {
+            "idx": "198",
+            "question": "What is the name of the Japanese alcoholic beverage made by fermenting rice?",
+            "answer": "Sake"
+        },
+        {
+            "idx": "96",
+            "question": "Which Japanese festival involves viewing cherry blossoms?",
+            "answer": "Hanami"
+        },
+        {
+            "idx": "136",
+            "question": "What is the Japanese term for the military and administrative code of the samurai?",
+            "answer": "Bushido"
+        },
+        {
+            "idx": "49",
+            "question": "Which Japanese city is famous for its Gion geisha district?",
+            "answer": "Kyoto"
+        },
+        {
+            "idx": "27",
+            "question": "Which Japanese prefecture is known for its scenic beauty and the iconic view of Mount Fuji?",
+            "answer": "Yamanashi"
+        },
+        {
+            "idx": "109",
+            "question": "Which Japanese city is known for its international manga museum?",
+            "answer": "Kyoto"
+        },
+        {
+            "idx": "86",
+            "question": "Which treaty, signed in 1854, opened Japan to trade with the United States?",
+            "answer": "Treaty of Kanagawa"
+        },
+        {
+            "idx": "217",
+            "question": "Which Japanese city is known for its traditional tea houses and geisha district?",
+            "answer": "Kyoto"
+        },
+        {
+            "idx": "52",
+            "question": "What is the Japanese word for 'harmony', which is a fundamental value in Japanese culture?",
+            "answer": "Wa"
+        },
+        {
+            "idx": "126",
+            "question": "What is the traditional Japanese wooden architecture without nails called?",
+            "answer": "Sashimono"
+        },
+        {
+            "idx": "32",
+            "question": "What is the name of the Japanese art form that uses black ink for painting and calligraphy?",
+            "answer": "Sumi-e"
+        },
+        {
+            "idx": "214",
+            "question": "Which Japanese martial art focuses on redirecting an opponent's energy?",
+            "answer": "Aikido"
+        },
+        {
+            "idx": "168",
+            "question": "Which city was the ancient capital of Japan for over 1,000 years?",
+            "answer": "Kyoto"
+        },
+        {
+            "idx": "228",
+            "question": "What is the name of the Japanese festival that celebrates the stars Vega and Altair?",
+            "answer": "Tanabata"
+        },
+        {
+            "idx": "92",
+            "question": "What is the name of the Japanese emperor who reigned during World War II?",
+            "answer": "Emperor Hirohito"
+        },
+        {
+            "idx": "134",
+            "question": "Which historical period in Japan was characterized by the emergence of samurai?",
+            "answer": "Kamakura Period"
+        },
+        {
+            "idx": "153",
+            "question": "What is the name of the Japanese hot spring?",
+            "answer": "Onsen"
+        },
+        {
+            "idx": "75",
+            "question": "What Japanese festival involves carrying portable shrines through the streets?",
+            "answer": "Matsuri"
+        },
+        {
+            "idx": "160",
+            "question": "Which Japanese city is known for its historic temples and shrines, including Todai-ji, which houses a giant Buddha statue?",
+            "answer": "Nara"
+        },
+        {
+            "idx": "141",
+            "question": "Which Japanese city is famous for its 17th-century garden, Kenroku-en?",
+            "answer": "Kanazawa"
+        },
+        {
+            "idx": "56",
+            "question": "What is the Japanese art of sword making called?",
+            "answer": "Katana crafting"
+        },
+        {
+            "idx": "114",
+            "question": "Which Japanese city was the last to host the Summer Olympics prior to Tokyo 2020?",
+            "answer": "Tokyo in 1964"
+        },
+        {
+            "idx": "14",
+            "question": "What is the name of the Japanese era that began on May 1, 2019?",
+            "answer": "Reiwa"
+        },
+        {
+            "idx": "1",
+            "question": "What is the traditional Japanese garment called?",
+            "answer": "Kimono"
+        },
+        {
+            "idx": "143",
+            "question": "Which Japanese city is known for its deer park and impressive Great Buddha statue?",
+            "answer": "Nara"
+        },
+        {
+            "idx": "163",
+            "question": "What is the Japanese art of calligraphy called?",
+            "answer": "Shodo"
+        },
+        {
+            "idx": "170",
+            "question": "Which Japanese prefecture is known for its ancient temples and the historical figure Prince Shotoku?",
+            "answer": "Nara"
+        },
+        {
+            "idx": "190",
+            "question": "What is the Japanese term for decorative fish, commonly found in ponds and water gardens?",
+            "answer": "Koi"
+        },
+        {
+            "idx": "215",
+            "question": "What is the Japanese word for 'change for the better' referring to an improvement of any process or system?",
+            "answer": "Kaizen"
+        },
+        {
+            "idx": "207",
+            "question": "What is the Japanese term for the ceremonial way of preparing and drinking green tea?",
+            "answer": "Chado or Sado"
+        },
+        {
+            "idx": "182",
+            "question": "What is the name of the Japanese archipelago’s largest and northernmost island?",
+            "answer": "Hokkaido"
+        },
+        {
+            "idx": "224",
+            "question": "What is the Japanese dish consisting of thinly sliced raw fish or meat?",
+            "answer": "Sashimi"
+        },
+        {
+            "idx": "226",
+            "question": "What is the Japanese form of poetry that includes a seasonal reference and a cutting word?",
+            "answer": "Haiku"
+        },
+        {
+            "idx": "9",
+            "question": "Which treaty normalized diplomatic relations between Japan and South Korea in 1965?",
+            "answer": "Treaty on Basic Relations between Japan and the Republic of Korea"
+        },
+        {
+            "idx": "227",
+            "question": "Which Japanese city is known for its annual Gion Festival, one of Japan's most famous festivals?",
+            "answer": "Kyoto"
+        },
+        {
+            "idx": "55",
+            "question": "What is the name of the Japanese vertical writing style, traditionally used in formal documents?",
+            "answer": "Tategaki"
+        },
+        {
+            "idx": "112",
+            "question": "Which Japanese city was the second to be attacked with an atomic bomb?",
+            "answer": "Nagasaki"
+        },
+        {
+            "idx": "115",
+            "question": "What is the name of the Japanese dish made from vinegared rice with various toppings, typically fish?",
+            "answer": "Sushi"
+        },
+        {
+            "idx": "29",
+            "question": "Which Japanese city is known for its historical black castle, also known as 'Crow Castle'?",
+            "answer": "Matsumoto"
+        },
+        {
+            "idx": "123",
+            "question": "Which Japanese city is known as the 'Kitchen of Japan'?",
+            "answer": "Osaka"
+        },
+        {
+            "idx": "192",
+            "question": "What is the traditional Japanese rice wine called?",
+            "answer": "Sake"
+        },
+        {
+            "idx": "63",
+            "question": "Which mountain is considered sacred in Japan and a popular pilgrimage site?",
+            "answer": "Mount Fuji"
+        },
+        {
+            "idx": "177",
+            "question": "What is the name of the Japanese professional baseball team based in Osaka?",
+            "answer": "Hanshin Tigers"
+        },
+        {
+            "idx": "206",
+            "question": "Which Japanese region is famous for producing the highest quality rice?",
+            "answer": "Niigata"
+        },
+        {
+            "idx": "110",
+            "question": "What is the name of the long, narrow wooden flute traditional to Japanese music?",
+            "answer": "Shakuhachi"
+        },
+        {
+            "idx": "61",
+            "question": "What is the name of the Japanese practice of repairing broken pottery with gold or silver lacquer?",
+            "answer": "Kintsugi"
+        },
+        {
+            "idx": "13",
+            "question": "What is the traditional Japanese soup made from fermented soybean paste?",
+            "answer": "Miso soup"
+        },
+        {
+            "idx": "51",
+            "question": "Which Japanese city is known for its historic merchant district and canal area?",
+            "answer": "Kurashiki"
+        },
+        {
+            "idx": "104",
+            "question": "Which Japanese city is known for its technology industries and historical castle?",
+            "answer": "Osaka"
+        },
+        {
+            "idx": "201",
+            "question": "Which Japanese prefecture is known for its ancient cedar trees and is a UNESCO World Heritage Site?",
+            "answer": "Yakushima"
+        },
+        {
+            "idx": "210",
+            "question": "What is the traditional Japanese inn called?",
+            "answer": "Ryokan"
+        },
+        {
+            "idx": "116",
+            "question": "What is the name of the bullet train service connecting Tokyo and Osaka?",
+            "answer": "Shinkansen"
+        },
+        {
+            "idx": "147",
+            "question": "Which mountain range runs through the central part of Honshu, Japan?",
+            "answer": "The Japanese Alps"
+        },
+        {
+            "idx": "37",
+            "question": "What is the name of the Japanese rice wine?",
+            "answer": "Sake"
+        },
+        {
+            "idx": "128",
+            "question": "Which island in Japan is known for its subtropical climate and distinct Ryukyuan culture?",
+            "answer": "Okinawa"
+        },
+        {
+            "idx": "125",
+            "question": "Which Japanese city is known for producing the majority of Japan's domestically produced sake?",
+            "answer": "Kobe"
+        },
+        {
+            "idx": "151",
+            "question": "What is the name of the traditional inn where travelers can stay while experiencing Japanese hospitality?",
+            "answer": "Ryokan"
+        },
+        {
+            "idx": "97",
+            "question": "What is the Japanese term for the military nobility of medieval and early-modern Japan?",
+            "answer": "Samurai"
+        },
+        {
+            "idx": "57",
+            "question": "What is the name of the Japanese Buddhist festival dedicated to the spirits of ancestors?",
+            "answer": "Obon"
+        },
+        {
+            "idx": "17",
+            "question": "What is the name of the Japanese dish that is a breaded and deep-fried pork cutlet?",
+            "answer": "Tonkatsu"
+        },
+        {
+            "idx": "64",
+            "question": "Which Japanese city is famous for its peace memorial and atomic bomb dome?",
+            "answer": "Hiroshima"
+        },
+        {
+            "idx": "205",
+            "question": "Which Japanese city is known for its traditional pottery and ceramics market?",
+            "answer": "Mashiko"
+        },
+        {
+            "idx": "218",
+            "question": "What is the Japanese term for the decorative knots used in kimono sashes?",
+            "answer": "Obijime"
+        },
+        {
+            "idx": "79",
+            "question": "Which Japanese island is known for its hot springs and skiing?",
+            "answer": "Hokkaido"
+        },
+        {
+            "idx": "231",
+            "question": "Which Japanese city is famous for its bamboo grove?",
+            "answer": "Kyoto (Arashiyama)"
+        },
+        {
+            "idx": "10",
+            "question": "Which Japanese city is known for its historic Samurai residences?",
+            "answer": "Kakunodate"
+        },
+        {
+            "idx": "45",
+            "question": "Which Japanese city is known for its historic significance as the first capital of Japan?",
+            "answer": "Nara"
+        },
+        {
+            "idx": "106",
+            "question": "What is the name of the Japanese era that ended in 2019?",
+            "answer": "Heisei"
+        },
+        {
+            "idx": "77",
+            "question": "What is the Japanese term for the aesthetic of appreciating the beauty in imperfection?",
+            "answer": "Wabi-sabi"
+        },
+        {
+            "idx": "42",
+            "question": "Which Japanese city is known for its traditional crafts and folk art, including lacquerware?",
+            "answer": "Kanazawa"
+        },
+        {
+            "idx": "204",
+            "question": "Which Japanese city is known for its annual snow festival featuring large ice sculptures?",
+            "answer": "Sapporo"
+        },
+        {
+            "idx": "41",
+            "question": "What is the name of the Japanese sword that is smaller than a katana but larger than a tanto?",
+            "answer": "Wakizashi"
+        },
+        {
+            "idx": "83",
+            "question": "What is the Japanese philosophy of finding beauty in imperfection called?",
+            "answer": "Wabi-sabi"
+        },
+        {
+            "idx": "111",
+            "question": "What is the name of the longest river in Japan?",
+            "answer": "Shinano River"
+        },
+        {
+            "idx": "161",
+            "question": "What is the name of the Japanese system of writing that uses characters derived from Chinese script?",
+            "answer": "Kanji"
+        },
+        {
+            "idx": "68",
+            "question": "What is the traditional Japanese New Year food called?",
+            "answer": "Osechi"
+        },
+        {
+            "idx": "212",
+            "question": "Which Japanese island is located closest to mainland Asia?",
+            "answer": "Kyushu"
+        },
+        {
+            "idx": "237",
+            "question": "What is the name of the largest and most populated island in Japan?",
+            "answer": "Honshu"
+        },
+        {
+            "idx": "179",
+            "question": "Which Japanese city is known for its modern architecture and Universal Studios?",
+            "answer": "Osaka"
+        },
+        {
+            "idx": "208",
+            "question": "What festival in Japan is known for its spectacular fireworks displays?",
+            "answer": "Sumida River Fireworks Festival"
+        },
+        {
+            "idx": "120",
+            "question": "What is the Japanese martial art known for its focus on sword-fighting?",
+            "answer": "Kendo"
+        },
+        {
+            "idx": "154",
+            "question": "What is the traditional Japanese theater form with elaborate makeup and costumes?",
+            "answer": "Kabuki"
+        },
+        {
+            "idx": "230",
+            "question": "Which Japanese city is known for its traditional indigo dyeing techniques?",
+            "answer": "Tokushima"
+        },
+        {
+            "idx": "191",
+            "question": "Which Japanese island is known for its unique dialect and distinct cultural identity?",
+            "answer": "Kyushu"
+        },
+        {
+            "idx": "113",
+            "question": "Which treaty effectively ended Japan’s policy of seclusion in 1854?",
+            "answer": "Treaty of Kanagawa"
+        },
+        {
+            "idx": "127",
+            "question": "What is the name of the Japanese parliament building?",
+            "answer": "National Diet Building"
+        },
+        {
+            "idx": "66",
+            "question": "What is the Japanese art of incense appreciation called?",
+            "answer": "Kodo"
+        },
+        {
+            "idx": "31",
+            "question": "What is the Japanese concept of continuous improvement called?",
+            "answer": "Kaizen"
+        },
+        {
+            "idx": "47",
+            "question": "Which Japanese castle is known for its complex and effective defensive design?",
+            "answer": "Himeji Castle"
+        },
+        {
+            "idx": "89",
+            "question": "What is the traditional Japanese art of paper folding called?",
+            "answer": "Origami"
+        },
+        {
+            "idx": "95",
+            "question": "Which Japanese city is known for its historic significance in the development of Japanese porcelain?",
+            "answer": "Arita"
+        },
+        {
+            "idx": "152",
+            "question": "What is the name of the sacred Shinto shrine located in Ise?",
+            "answer": "Ise Grand Shrine"
+        },
+        {
+            "idx": "174",
+            "question": "Which historical figure in Japan is known for unifying the country in the late 16th century?",
+            "answer": "Oda Nobunaga"
+        },
+        {
+            "idx": "184",
+            "question": "Which Japanese prefecture is known for its coral reefs and unique island culture?",
+            "answer": "Okinawa"
+        },
+        {
+            "idx": "203",
+            "question": "What is the name of the Japanese philosophy that focuses on continuous improvement?",
+            "answer": "Kaizen"
+        },
+        {
+            "idx": "76",
+            "question": "Which Japanese city is known for its electronic district and otaku culture?",
+            "answer": "Akihabara"
+        },
+        {
+            "idx": "88",
+            "question": "What is the Japanese traditional form of wrestling called?",
+            "answer": "Sumo"
+        },
+        {
+            "idx": "148",
+            "question": "What is the traditional form of Japanese theatre featuring all-male casts?",
+            "answer": "Kabuki"
+        },
+        {
+            "idx": "46",
+            "question": "What is the name of the Japanese professional football league?",
+            "answer": "J.League"
+        },
+        {
+            "idx": "232",
+            "question": "What is the Japanese term for 'comic book' or 'graphic novel'?",
+            "answer": "Manga"
+        },
+        {
+            "idx": "175",
+            "question": "Which Japanese city is known for its historical castle that is one of the country's most cherished cultural heritage sites?",
+            "answer": "Himeji"
+        },
+        {
+            "idx": "235",
+            "question": "Which Japanese city is known for its bronze Great Buddha statue, which is one of the largest in Japan?",
+            "answer": "Kamakura"
+        },
+        {
+            "idx": "176",
+            "question": "Which Japanese prefecture is known for its ancient forests and pilgrimage routes?",
+            "answer": "Wakayama"
+        },
+        {
+            "idx": "23",
+            "question": "What is the name of the Japanese high-speed maglev train that is under development?",
+            "answer": "Chuo Shinkansen"
+        },
+        {
+            "idx": "16",
+            "question": "Which Japanese island is the largest?",
+            "answer": "Honshu"
+        },
+        {
+            "idx": "40",
+            "question": "What is the Japanese term for an after-work drinking session that serves as a bonding experience for coworkers?",
+            "answer": "Nomikai"
+        },
+        {
+            "idx": "73",
+            "question": "Which Japanese festival involves dancing and drumming in summer?",
+            "answer": "Bon Festival (Obon)"
+        },
+        {
+            "idx": "102",
+            "question": "What is the traditional Japanese garment that resembles a robe?",
+            "answer": "Kimono"
+        },
+        {
+            "idx": "130",
+            "question": "What is the traditional Japanese tea ceremony called?",
+            "answer": "Chanoyu or Sado"
+        },
+        {
+            "idx": "80",
+            "question": "What is the traditional Japanese sliding door made from wood and paper?",
+            "answer": "Shoji"
+        },
+        {
+            "idx": "186",
+            "question": "Which Japanese city is known for its role as a major naval base and historical site of commodore Perry's landing?",
+            "answer": "Yokosuka"
+        },
+        {
+            "idx": "138",
+            "question": "What is the Japanese martial art that focuses on grappling and ground fighting?",
+            "answer": "Judo"
+        },
+        {
+            "idx": "103",
+            "question": "What is the term used for Japanese animated films and television shows?",
+            "answer": "Anime"
+        },
+        {
+            "idx": "7",
+            "question": "What is the name of the Japanese stock market index that tracks the performance of mid-sized companies?",
+            "answer": "TOPIX"
+        },
+        {
+            "idx": "158",
+            "question": "Which Japanese city is known for its international film festival that focuses on Asian cinema?",
+            "answer": "Tokyo"
+        },
+        {
+            "idx": "194",
+            "question": "What is the traditional Japanese fermented soybean dish called?",
+            "answer": "Natto"
+        },
+        {
+            "idx": "181",
+            "question": "What is the Japanese word for 'teacher', commonly used to refer to or address teachers and masters in martial arts?",
+            "answer": "Sensei"
+        },
+        {
+            "idx": "38",
+            "question": "Which Japanese island is known for its remote location and subtropical climate?",
+            "answer": "Okinawa"
+        },
+        {
+            "idx": "72",
+            "question": "What is the name of Japan's indigenous Ainu people's traditional dance, recognized by UNESCO?",
+            "answer": "Ainu Dance"
+        },
+        {
+            "idx": "195",
+            "question": "What is the Japanese term for the aesthetic that finds beauty in simplicity and understatement?",
+            "answer": "Shibui"
+        },
+        {
+            "idx": "69",
+            "question": "What is the Japanese term for the emperor's advisory and policy council?",
+            "answer": "Imperial Household Council"
+        },
+        {
+            "idx": "8",
+            "question": "What is the name of the Japanese art of folding paper into decorative shapes and figures?",
+            "answer": "Origami"
+        },
+        {
+            "idx": "140",
+            "question": "What is the Japanese term for the divider panels used to separate spaces in rooms?",
+            "answer": "Fusuma"
+        },
+        {
+            "idx": "144",
+            "question": "What is the Japanese term for decorative paper used in traditional crafts such as origami?",
+            "answer": "Washi"
+        },
+        {
+            "idx": "36",
+            "question": "What is the name of the Japanese system that uses characters primarily for native Japanese words?",
+            "answer": "Hiragana"
+        },
+        {
+            "idx": "60",
+            "question": "What is the Japanese festival where children dress up in samurai helmets or kimonos to celebrate growth and happiness?",
+            "answer": "Children's Day"
+        },
+        {
+            "idx": "99",
+            "question": "Which city in Japan was the first to be attacked with an atomic bomb?",
+            "answer": "Hiroshima"
+        },
+        {
+            "idx": "166",
+            "question": "Which Japanese city is known for hosting the first ever Winter Paralympics in Asia?",
+            "answer": "Nagano"
+        },
+        {
+            "idx": "145",
+            "question": "What is the name of the period when Japan was under the rule of the Emperor and saw significant Western influence?",
+            "answer": "Meiji Period"
+        },
+        {
+            "idx": "178",
+            "question": "What is the name of the Japanese sword known for its distinctive curved, slender, single-edged blade?",
+            "answer": "Katana"
+        },
+        {
+            "idx": "33",
+            "question": "What is the name of the Japanese tea ceremony that emphasizes simplicity and tranquility?",
+            "answer": "Chanoyu"
+        },
+        {
+            "idx": "150",
+            "question": "Which Japanese prefecture is known for its ancient martial arts tradition of Okinawan Karate?",
+            "answer": "Okinawa"
+        },
+        {
+            "idx": "124",
+            "question": "What is the Japanese martial art known for its emphasis on pinning, joint-locking, and throwing techniques?",
+            "answer": "Aikido"
+        },
+        {
+            "idx": "185",
+            "question": "Which Japanese city is the leading producer of automobiles in Japan?",
+            "answer": "Toyota"
+        },
+        {
+            "idx": "156",
+            "question": "What is the traditional Japanese stew that is cooked at the table?",
+            "answer": "Sukiyaki"
+        },
+        {
+            "idx": "221",
+            "question": "What is the Japanese art of arranging flowers called?",
+            "answer": "Ikebana"
+        },
+        {
+            "idx": "19",
+            "question": "What is the highest military decoration awarded by the Japanese government?",
+            "answer": "Order of the Golden Kite"
+        },
+        {
+            "idx": "26",
+            "question": "Which Japanese city is famous for its deer park and Todaiji Temple?",
+            "answer": "Nara"
+        },
+        {
+            "idx": "12",
+            "question": "Which Japanese prefecture is famous for its snow monkeys in hot springs?",
+            "answer": "Nagano"
+        },
+        {
+            "idx": "59",
+            "question": "Which Japanese mountain range runs through the center of Honshu?",
+            "answer": "Japanese Alps"
+        },
+        {
+            "idx": "84",
+            "question": "What is the name of the Japanese stock market index?",
+            "answer": "Nikkei 225"
+        },
+        {
+            "idx": "93",
+            "question": "Which Japanese city is known for its bronze statue of a famous loyal dog, Hachiko?",
+            "answer": "Tokyo"
+        },
+        {
+            "idx": "34",
+            "question": "What is the name of the Japanese castle that features a unique black exterior and is located in a city of the same name?",
+            "answer": "Kumamoto Castle"
+        },
+        {
+            "idx": "53",
+            "question": "What is the traditional Japanese puppet theatre called?",
+            "answer": "Bunraku"
+        },
+        {
+            "idx": "21",
+            "question": "What is the name of the Japanese era that began in 1989 and ended in 2019?",
+            "answer": "Heisei"
+        },
+        {
+            "idx": "118",
+            "question": "What is the name of the Japanese alcoholic beverage that is brewed using koji mold?",
+            "answer": "Sake"
+        },
+        {
+            "idx": "2",
+            "question": "What is the name of the Japanese practice of forest bathing or taking in the forest atmosphere for relaxation?",
+            "answer": "Shinrin-yoku"
+        },
+        {
+            "idx": "94",
+            "question": "What is the Japanese term for the art of sword-making?",
+            "answer": "Tosogu"
+        },
+        {
+            "idx": "6",
+            "question": "Which Japanese island chain is known for its tropical climate and unique culture?",
+            "answer": "Okinawa Islands"
+        },
+        {
+            "idx": "121",
+            "question": "Which Japanese island is known for its active volcanoes and hot springs?",
+            "answer": "Kyushu"
+        },
+        {
+            "idx": "131",
+            "question": "What is the traditional Japanese drumming called?",
+            "answer": "Taiko"
+        },
+        {
+            "idx": "236",
+            "question": "Which city in Japan was the first to be hit by an atomic bomb in WWII?",
+            "answer": "Hiroshima"
+        },
+        {
+            "idx": "35",
+            "question": "Which Japanese city is known for its sixteenth-century castle that features golden dolphin statues?",
+            "answer": "Nagoya"
+        },
+        {
+            "idx": "87",
+            "question": "What is the Japanese term for a professional storyteller in traditional Japanese narrative comedy?",
+            "answer": "Rakugo"
+        },
+        {
+            "idx": "165",
+            "question": "Which Japanese city is famous for its ramen and nightlife district Susukino?",
+            "answer": "Sapporo"
+        },
+        {
+            "idx": "188",
+            "question": "Which Japanese city is the northernmost prefectural capital, known for its snow festival?",
+            "answer": "Sapporo"
+        },
+        {
+            "idx": "39",
+            "question": "Which Japanese city was the imperial capital for more than one thousand years before Tokyo?",
+            "answer": "Kyoto"
+        },
+        {
+            "idx": "162",
+            "question": "What is the name of the ancient Japanese code of conduct for warriors?",
+            "answer": "Bushido"
+        },
+        {
+            "idx": "137",
+            "question": "What is the Japanese term for a meal consisting of many small dishes served to accompany alcoholic beverages?",
+            "answer": "Izakaya"
+        },
+        {
+            "idx": "15",
+            "question": "What is the Japanese martial art that means 'the way of the sword'?",
+            "answer": "Kendo"
+        },
+        {
+            "idx": "157",
+            "question": "What is the primary religion in Japan that focuses on ancestor worship and nature spirits?",
+            "answer": "Shinto"
+        },
+        {
+            "idx": "180",
+            "question": "Which mountain is considered sacred and is Japan's highest peak?",
+            "answer": "Mount Fuji"
+        },
+        {
+            "idx": "20",
+            "question": "What is the Japanese martial art that uses locking techniques and throws?",
+            "answer": "Jujutsu"
+        },
+        {
+            "idx": "187",
+            "question": "What is the name of the Japanese card game that uses paintings on shell casings?",
+            "answer": "Karuta"
+        },
+        {
+            "idx": "22",
+            "question": "Which Japanese prefecture is known for its rugged mountain landscapes and heavy snowfall?",
+            "answer": "Nagano"
+        },
+        {
+            "idx": "108",
+            "question": "What is the name of the deepest lake in Japan, known for its clear waters?",
+            "answer": "Lake Biwa"
+        },
+        {
+            "idx": "222",
+            "question": "What is the name of the period in Japanese history when the country was closed off to most foreign influence?",
+            "answer": "Sakoku"
+        },
+        {
+            "idx": "65",
+            "question": "Which castle in Japan is known as the 'White Heron Castle' due to its elegant white appearance?",
+            "answer": "Himeji Castle"
+        },
+        {
+            "idx": "74",
+            "question": "What period in Japanese history lasted from 1603 to 1868, characterized by the rule of the Tokugawa shogunate?",
+            "answer": "Edo Period"
+        },
+        {
+            "idx": "197",
+            "question": "What is the name of the traditional Japanese gate commonly found at the entrance of or within Shinto shrines?",
+            "answer": "Torii"
+        },
+        {
+            "idx": "54",
+            "question": "What is the name of the largest active volcano in Japan?",
+            "answer": "Mount Aso"
+        },
+        {
+            "idx": "199",
+            "question": "Which Japanese city is known for its historic castle that is a UNESCO World Heritage Site and nicknamed 'Crow Castle'?",
+            "answer": "Matsumoto"
+        },
+        {
+            "idx": "91",
+            "question": "What is the Japanese term for a meal served in a lacquered box, which typically includes rice, fish, and vegetables?",
+            "answer": "Bento"
+        },
+        {
+            "idx": "105",
+            "question": "What is the Japanese term for the military commander who became the de facto ruler of Japan from the 12th century until the 19th century?",
+            "answer": "Shogun"
+        },
+        {
+            "idx": "28",
+            "question": "Which Japanese city is famous for its Peace Memorial Park dedicated to the victims of the atomic bomb?",
+            "answer": "Hiroshima"
+        },
+        {
+            "idx": "71",
+            "question": "What is the name of the traditional form of Japanese poetry consisting of three lines and seventeen syllables?",
+            "answer": "Haiku"
+        },
+        {
+            "idx": "18",
+            "question": "What is the name of the Japanese philosophy that emphasizes the importance of every moment, encouraging living fully in the present?",
+            "answer": "Ichigo ichie"
+        },
+        {
+            "idx": "117",
+            "question": "What is the name of Japan's indigenous ethnic group primarily residing in Hokkaido?",
+            "answer": "Ainu"
+        },
+        {
+            "idx": "155",
+            "question": "Which Japanese city is known for its ancient samurai district and garden featuring a famous bridge?",
+            "answer": "Kanazawa"
+        },
+        {
+            "idx": "81",
+            "question": "What is the Japanese term for the 'empty orchestra' that refers to a form of interactive entertainment?",
+            "answer": "Karaoke"
+        },
+        {
+            "idx": "211",
+            "question": "What is the traditional Japanese art of incense appreciation called?",
+            "answer": "Kodo"
+        },
+        {
+            "idx": "107",
+            "question": "Which Japanese bullet train system is famous worldwide?",
+            "answer": "Shinkansen"
+        },
+        {
+            "idx": "11",
+            "question": "What is the Japanese festival that involves carrying portable shrines through the streets?",
+            "answer": "Matsuri"
+        },
+        {
+            "idx": "25",
+            "question": "Which Japanese city is known for its ancient feudal castle and surrounding cherry blossoms?",
+            "answer": "Hirosaki"
+        },
+        {
+            "idx": "234",
+            "question": "What is the name of the Japanese emperor who abdicated in 2019, the first in over two centuries?",
+            "answer": "Emperor Akihito"
+        },
+        {
+            "idx": "173",
+            "question": "What is the Japanese art of miniature tree cultivation called?",
+            "answer": "Bonsai"
+        }
+    ],
+    "zh": [
+        {
+            "idx": "167",
+            "question": "什么是日本人在森林环境中沐浴以进行治疗的实践？",
+            "answer": "森林浴"
+        },
+        {
+            "idx": "67",
+            "question": "哪种日本陶器以其质朴的外观而闻名，起源于益子町？",
+            "answer": "益子烧"
+        },
+        {
+            "idx": "229",
+            "question": "日本武术中“柔道”是什么意思？",
+            "answer": "柔道"
+        },
+        {
+            "idx": "30",
+            "question": "日本哪个县以其蓝色池塘而闻名，因其独特的颜色成为热门旅游景点？",
+            "answer": "北海道"
+        },
+        {
+            "idx": "213",
+            "question": "日本哪种菜肴由鸡蛋、面粉和切碎的卷心菜制成，通常搭配各种调味料？",
+            "answer": "御好烧"
+        },
+        {
+            "idx": "159",
+            "question": "日本神道宗教中，核心的精神存在是什么？",
+            "answer": "神"
+        },
+        {
+            "idx": "169",
+            "question": "德川幕府的第一任将军是谁？",
+            "answer": "德川家康"
+        },
+        {
+            "idx": "100",
+            "question": "日本传统戏剧中使用面具代表角色的形式叫什么？",
+            "answer": "能剧"
+        },
+        {
+            "idx": "239",
+            "question": "日本使用训练有素的鸬鹚捕鱼的技术叫什么？",
+            "answer": "鹈饲"
+        },
+        {
+            "idx": "209",
+            "question": "日本的国家运动是什么，涉及两名摔跤手在一个圆形场地内比赛？",
+            "answer": "相扑"
+        },
+        {
+            "idx": "164",
+            "question": "日本哪个城市以其城堡和曾经的武士据点而闻名？",
+            "answer": "姬路"
+        },
+        {
+            "idx": "189",
+            "question": "日本哪种哲学强调在短暂和转瞬即逝的生命中发现美？",
+            "answer": "物哀"
+        },
+        {
+            "idx": "193",
+            "question": "东京著名的鱼市场叫什么？",
+            "answer": "筑地市场（现丰洲）"
+        },
+        {
+            "idx": "139",
+            "question": "日本传统的多道菜晚餐叫什么？",
+            "answer": "怀石料理"
+        },
+        {
+            "idx": "101",
+            "question": "日本哪个城市以其城堡而闻名，该城堡是日本十二座原始城堡之一？",
+            "answer": "彦根"
+        },
+        {
+            "idx": "98",
+            "question": "日本哪个城市以其十六世纪的城堡“白鹭城”而闻名？",
+            "answer": "姬路"
+        },
+        {
+            "idx": "238",
+            "question": "日本的花道艺术叫什么？",
+            "answer": "花道"
+        },
+        {
+            "idx": "146",
+            "question": "日本哪种烈酒由大麦、红薯或大米蒸馏而成？",
+            "answer": "烧酒"
+        },
+        {
+            "idx": "85",
+            "question": "日本哪种木偶戏使用大型华丽木偶，由多个木偶师操纵？",
+            "answer": "文乐"
+        },
+        {
+            "idx": "183",
+            "question": "日本西部的海域叫什么？",
+            "answer": "日本海"
+        },
+        {
+            "idx": "48",
+            "question": "日本哪个岛屿以其在卫星发射中的角色而闻名？",
+            "answer": "种子岛"
+        },
+        {
+            "idx": "220",
+            "question": "日本哪个城市以其电子区秋叶原而闻名？",
+            "answer": "东京"
+        },
+        {
+            "idx": "78",
+            "question": "日本的立法机构叫什么？",
+            "answer": "国会"
+        },
+        {
+            "idx": "225",
+            "question": "日本使用竹剑的武术叫什么？",
+            "answer": "剑道"
+        },
+        {
+            "idx": "90",
+            "question": "投放在广岛的原子弹的开发项目名称是什么？",
+            "answer": "曼哈顿计划"
+        },
+        {
+            "idx": "58",
+            "question": "日本哪个岛屿以其独特的冲绳文化而闻名？",
+            "answer": "冲绳"
+        },
+        {
+            "idx": "44",
+            "question": "日本哪种哲学和实践强调工作场所的持续改进？",
+            "answer": "改善"
+        },
+        {
+            "idx": "122",
+            "question": "日本哪个城市以其一年一度的札幌雪节而闻名？",
+            "answer": "札幌"
+        },
+        {
+            "idx": "172",
+            "question": "日本和俄罗斯都声称拥有主权的争议岛屿是哪个？",
+            "answer": "千岛群岛"
+        },
+        {
+            "idx": "133",
+            "question": "日本大多数家庭中使用的传统草编地板垫叫什么？",
+            "answer": "榻榻米"
+        },
+        {
+            "idx": "202",
+            "question": "日本哪个城市以其作为精细刀剑和传统工艺品生产中心的历史意义而闻名？",
+            "answer": "关市"
+        },
+        {
+            "idx": "119",
+            "question": "日本连接东京和博多的子弹头列车叫什么？",
+            "answer": "东海道新干线"
+        },
+        {
+            "idx": "223",
+            "question": "日本哪个岛屿以其严冬和流冰而闻名？",
+            "answer": "北海道"
+        },
+        {
+            "idx": "132",
+            "question": "日本哪个城市以其改造后的海滨区和现代建筑而闻名？",
+            "answer": "横滨"
+        },
+        {
+            "idx": "62",
+            "question": "日本哪种建筑风格以木结构和略微抬高的地面为特征？",
+            "answer": "民家"
+        },
+        {
+            "idx": "233",
+            "question": "日本专业女性艺人接受传统日本艺术训练的术语是什么？",
+            "answer": "艺伎"
+        },
+        {
+            "idx": "50",
+            "question": "日本人在哪个节日期间喜欢观赏樱花？",
+            "answer": "花见"
+        },
+        {
+            "idx": "196",
+            "question": "日本传统的将布料拼接在一起的工艺叫什么？",
+            "answer": "刺子绣"
+        },
+        {
+            "idx": "82",
+            "question": "日本哪种哲学强调制造业的持续改进？",
+            "answer": "改善"
+        },
+        {
+            "idx": "219",
+            "question": "日本封建时期的军事独裁者的头衔是什么？",
+            "answer": "将军"
+        },
+        {
+            "idx": "216",
+            "question": "日本哪个城市以其历史悠久的寺庙和曾是日本的首都而闻名？",
+            "answer": "京都"
+        },
+        {
+            "idx": "149",
+            "question": "日本哪个节日以其精美的花车和机械人偶展示而闻名？",
+            "answer": "祇园祭"
+        },
+        {
+            "idx": "5",
+            "question": "日本由两院组成的议会制度叫什么？",
+            "answer": "两院制国会"
+        },
+        {
+            "idx": "135",
+            "question": "日本哪个城市举办了1998年冬季奥运会？",
+            "answer": "长野"
+        },
+        {
+            "idx": "24",
+            "question": "日本用金或银漆修复陶瓷的实践叫什么？",
+            "answer": "金缮"
+        },
+        {
+            "idx": "4",
+            "question": "日本因过度工作而死亡的概念叫什么？",
+            "answer": "过劳死"
+        },
+        {
+            "idx": "70",
+            "question": "在日本料理中，“河豚”是什么？",
+            "answer": "河豚"
+        },
+        {
+            "idx": "142",
+            "question": "日本的省长或县的术语是什么？",
+            "answer": "知事"
+        },
+        {
+            "idx": "171",
+            "question": "日本的首都是哪个城市？",
+            "answer": "东京"
+        },
+        {
+            "idx": "43",
+            "question": "1951年签署的哪项条约正式结束了日本的第二次世界大战？",
+            "answer": "旧金山和约"
+        },
+        {
+            "idx": "129",
+            "question": "日本传统的木制剧院叫什么？",
+            "answer": "能剧"
+        },
+        {
+            "idx": "200",
+            "question": "日本专业女性艺人表演传统舞蹈和音乐的术语是什么？",
+            "answer": "艺伎"
+        },
+        {
+            "idx": "3",
+            "question": "日本哪个岛屿以其雪节和独特的文化而闻名？",
+            "answer": "北海道"
+        },
+        {
+            "idx": "198",
+            "question": "日本哪种酒精饮料由发酵大米制成？",
+            "answer": "清酒"
+        },
+        {
+            "idx": "96",
+            "question": "日本哪个节日涉及观赏樱花？",
+            "answer": "花见"
+        },
+        {
+            "idx": "136",
+            "question": "日本武士的军事和行政准则叫什么？",
+            "answer": "武士道"
+        },
+        {
+            "idx": "49",
+            "question": "日本哪个城市以其祇园艺伎区而闻名？",
+            "answer": "京都"
+        },
+        {
+            "idx": "27",
+            "question": "日本哪个县以其风景优美和标志性的富士山景色而闻名？",
+            "answer": "山梨县"
+        },
+        {
+            "idx": "109",
+            "question": "日本哪个城市以其国际漫画博物馆而闻名？",
+            "answer": "京都"
+        },
+        {
+            "idx": "86",
+            "question": "1854年签署的哪项条约使日本向美国开放贸易？",
+            "answer": "神奈川条约"
+        },
+        {
+            "idx": "217",
+            "question": "日本哪个城市以其传统茶屋和艺伎区而闻名？",
+            "answer": "京都"
+        },
+        {
+            "idx": "52",
+            "question": "日本文化中“和谐”的日语单词是什么？",
+            "answer": "和"
+        },
+        {
+            "idx": "126",
+            "question": "日本传统的无钉木结构建筑叫什么？",
+            "answer": "指物"
+        },
+        {
+            "idx": "32",
+            "question": "日本哪种艺术形式使用黑色墨水进行绘画和书法？",
+            "answer": "水墨画"
+        },
+        {
+            "idx": "214",
+            "question": "日本哪种武术专注于引导对手的能量？",
+            "answer": "合气道"
+        },
+        {
+            "idx": "168",
+            "question": "日本哪个城市作为古都超过1000年？",
+            "answer": "京都"
+        },
+        {
+            "idx": "228",
+            "question": "日本哪个节日庆祝织女星和牛郎星？",
+            "answer": "七夕"
+        },
+        {
+            "idx": "92",
+            "question": "日本在第二次世界大战期间在位的是哪位天皇？",
+            "answer": "昭和天皇"
+        },
+        {
+            "idx": "134",
+            "question": "日本哪个历史时期以武士的出现为特征？",
+            "answer": "镰仓时代"
+        },
+        {
+            "idx": "153",
+            "question": "日本的温泉叫什么？",
+            "answer": "温泉"
+        },
+        {
+            "idx": "75",
+            "question": "日本哪个节日涉及在街道上抬着便携式神龛？",
+            "answer": "祭"
+        },
+        {
+            "idx": "160",
+            "question": "日本哪个城市以其历史悠久的寺庙和神社而闻名，包括东大寺，其中有一座巨大的佛像？",
+            "answer": "奈良"
+        },
+        {
+            "idx": "141",
+            "question": "日本哪个城市以其17世纪的花园兼六园而闻名？",
+            "answer": "金泽"
+        },
+        {
+            "idx": "56",
+            "question": "日本制作刀剑的艺术叫什么？",
+            "answer": "刀剑制作"
+        },
+        {
+            "idx": "114",
+            "question": "日本哪个城市在2020年东京奥运会之前最后一次举办夏季奥运会？",
+            "answer": "1964年的东京"
+        },
+        {
+            "idx": "14",
+            "question": "日本哪个年号于2019年5月1日开始？",
+            "answer": "令和"
+        },
+        {
+            "idx": "1",
+            "question": "日本的传统服装叫什么？",
+            "answer": "和服"
+        },
+        {
+            "idx": "143",
+            "question": "日本哪个城市以其鹿公园和令人印象深刻的大佛雕像而闻名？",
+            "answer": "奈良"
+        },
+        {
+            "idx": "163",
+            "question": "日本的书法艺术叫什么？",
+            "answer": "书道"
+        },
+        {
+            "idx": "170",
+            "question": "日本哪个县以其古老的寺庙和历史人物圣德太子而闻名？",
+            "answer": "奈良"
+        },
+        {
+            "idx": "190",
+            "question": "日本用于装饰的鱼，常见于池塘和水景花园的术语是什么？",
+            "answer": "锦鲤"
+        },
+        {
+            "idx": "215",
+            "question": "日语中“改善”指的是什么，涉及任何过程或系统的改进？",
+            "answer": "改善"
+        },
+        {
+            "idx": "207",
+            "question": "日本准备和饮用绿茶的仪式方式叫什么？",
+            "answer": "茶道"
+        },
+        {
+            "idx": "182",
+            "question": "日本群岛中最大且最北端的岛屿叫什么？",
+            "answer": "北海道"
+        },
+        {
+            "idx": "224",
+            "question": "日本哪种菜肴由薄切生鱼或肉制成？",
+            "answer": "刺身"
+        },
+        {
+            "idx": "226",
+            "question": "日本哪种诗歌形式包括季节参考和切字？",
+            "answer": "俳句"
+        },
+        {
+            "idx": "9",
+            "question": "1965年哪项条约使日本和韩国关系正常化？",
+            "answer": "日韩基本关系条约"
+        },
+        {
+            "idx": "227",
+            "question": "日本哪个城市以其一年一度的祇园祭而闻名，这是日本最著名的节日之一？",
+            "answer": "京都"
+        },
+        {
+            "idx": "55",
+            "question": "日本传统的竖排书写风格叫什么，通常用于正式文件？",
+            "answer": "竖写"
+        },
+        {
+            "idx": "112",
+            "question": "日本哪个城市是第二个被原子弹袭击的城市？",
+            "answer": "长崎"
+        },
+        {
+            "idx": "115",
+            "question": "日本哪种菜肴由醋饭和各种配料制成，通常是鱼？",
+            "answer": "寿司"
+        },
+        {
+            "idx": "29",
+            "question": "日本哪个城市以其历史悠久的黑色城堡“乌鸦城”而闻名？",
+            "answer": "松本"
+        },
+        {
+            "idx": "123",
+            "question": "日本哪个城市被称为“日本的厨房”？",
+            "answer": "大阪"
+        },
+        {
+            "idx": "192",
+            "question": "日本传统的米酒叫什么？",
+            "answer": "清酒"
+        },
+        {
+            "idx": "63",
+            "question": "日本哪座山被视为神圣，是受欢迎的朝圣地？",
+            "answer": "富士山"
+        },
+        {
+            "idx": "177",
+            "question": "日本哪个职业棒球队位于大阪？",
+            "answer": "阪神虎"
+        },
+        {
+            "idx": "206",
+            "question": "日本哪个地区以生产最高质量的大米而闻名？",
+            "answer": "新潟"
+        },
+        {
+            "idx": "110",
+            "question": "日本传统音乐中使用的长而窄的木制笛子叫什么？",
+            "answer": "尺八"
+        },
+        {
+            "idx": "61",
+            "question": "日本用金或银漆修复破碎陶器的实践叫什么？",
+            "answer": "金缮"
+        },
+        {
+            "idx": "13",
+            "question": "日本传统的由发酵豆酱制成的汤叫什么？",
+            "answer": "味噌汤"
+        },
+        {
+            "idx": "51",
+            "question": "日本哪个城市以其历史悠久的商人区和运河区而闻名？",
+            "answer": "仓敷"
+        },
+        {
+            "idx": "104",
+            "question": "日本哪个城市以其科技产业和历史悠久的城堡而闻名？",
+            "answer": "大阪"
+        },
+        {
+            "idx": "201",
+            "question": "日本哪个县以其古老的雪松树而闻名，是联合国教科文组织世界遗产地？",
+            "answer": "屋久岛"
+        },
+        {
+            "idx": "210",
+            "question": "日本传统的旅馆叫什么？",
+            "answer": "旅馆"
+        },
+        {
+            "idx": "116",
+            "question": "日本连接东京和大阪的子弹头列车服务叫什么？",
+            "answer": "新干线"
+        },
+        {
+            "idx": "147",
+            "question": "日本哪个山脉贯穿本州中部？",
+            "answer": "日本阿尔卑斯山"
+        },
+        {
+            "idx": "37",
+            "question": "日本米酒的名称是什么？",
+            "answer": "清酒"
+        },
+        {
+            "idx": "128",
+            "question": "日本哪个岛屿以其亚热带气候和独特的琉球文化而闻名？",
+            "answer": "冲绳"
+        },
+        {
+            "idx": "125",
+            "question": "日本哪个城市以生产大部分国产清酒而闻名？",
+            "answer": "神户"
+        },
+        {
+            "idx": "151",
+            "question": "传统日式旅店的名称是什么？旅客可以在此体验日本待客之道。",
+            "answer": "旅馆"
+        },
+        {
+            "idx": "97",
+            "question": "日本中世纪和近代早期军事贵族的术语是什么？",
+            "answer": "武士"
+        },
+        {
+            "idx": "57",
+            "question": "日本佛教节日中专门祭祖的节日名称是什么？",
+            "answer": "盂兰盆节"
+        },
+        {
+            "idx": "17",
+            "question": "日式炸猪排的名称是什么？",
+            "answer": "炸猪排"
+        },
+        {
+            "idx": "64",
+            "question": "日本哪个城市以其和平纪念公园和原子弹圆顶屋而闻名？",
+            "answer": "广岛"
+        },
+        {
+            "idx": "205",
+            "question": "日本哪个城市以其传统陶器和陶瓷市场而闻名？",
+            "answer": "益子町"
+        },
+        {
+            "idx": "218",
+            "question": "和服腰带上装饰性绳结的日语术语是什么？",
+            "answer": "带締"
+        },
+        {
+            "idx": "79",
+            "question": "日本哪个岛屿以温泉和滑雪而闻名？",
+            "answer": "北海道"
+        },
+        {
+            "idx": "231",
+            "question": "日本哪个城市以其竹林而闻名？",
+            "answer": "京都（岚山）"
+        },
+        {
+            "idx": "10",
+            "question": "日本哪个城市以其历史悠久的武士住宅而闻名？",
+            "answer": "角馆町"
+        },
+        {
+            "idx": "45",
+            "question": "日本哪个城市作为日本第一个首都具有历史意义？",
+            "answer": "奈良"
+        },
+        {
+            "idx": "106",
+            "question": "2019年结束的日本年号名称是什么？",
+            "answer": "平成"
+        },
+        {
+            "idx": "77",
+            "question": "日本美学中欣赏不完美之美的术语是什么？",
+            "answer": "侘寂"
+        },
+        {
+            "idx": "42",
+            "question": "日本哪个城市以其传统工艺和民间艺术（包括漆器）而闻名？",
+            "answer": "金泽"
+        },
+        {
+            "idx": "204",
+            "question": "日本哪个城市以其每年举办的冰雪节和大型冰雕而闻名？",
+            "answer": "札幌"
+        },
+        {
+            "idx": "41",
+            "question": "比日本刀短但比短刀长的日本剑名称是什么？",
+            "answer": "胁差"
+        },
+        {
+            "idx": "83",
+            "question": "日本哲学中在不完美中寻找美的概念称为什么？",
+            "answer": "侘寂"
+        },
+        {
+            "idx": "111",
+            "question": "日本最长的河流名称是什么？",
+            "answer": "信浓川"
+        },
+        {
+            "idx": "161",
+            "question": "日本使用源自汉字的文字系统名称是什么？",
+            "answer": "汉字"
+        },
+        {
+            "idx": "68",
+            "question": "日本传统新年食物的名称是什么？",
+            "answer": "御节料理"
+        },
+        {
+            "idx": "212",
+            "question": "日本哪个岛屿最靠近亚洲大陆？",
+            "answer": "九州"
+        },
+        {
+            "idx": "237",
+            "question": "日本最大且人口最多的岛屿名称是什么？",
+            "answer": "本州"
+        },
+        {
+            "idx": "179",
+            "question": "日本哪个城市以其现代建筑和环球影城而闻名？",
+            "answer": "大阪"
+        },
+        {
+            "idx": "208",
+            "question": "日本哪个节日以其壮观的烟火表演而闻名？",
+            "answer": "隅田川烟火大会"
+        },
+        {
+            "idx": "120",
+            "question": "日本专注于剑术的武术名称是什么？",
+            "answer": "剑道"
+        },
+        {
+            "idx": "154",
+            "question": "日本传统戏剧形式中化妆和服饰精致的名称是什么？",
+            "answer": "歌舞伎"
+        },
+        {
+            "idx": "230",
+            "question": "日本哪个城市以其传统靛蓝染色技术而闻名？",
+            "answer": "德岛"
+        },
+        {
+            "idx": "191",
+            "question": "日本哪个岛屿以其独特的方言和文化认同而闻名？",
+            "answer": "九州"
+        },
+        {
+            "idx": "113",
+            "question": "1854年结束日本锁国政策的条约名称是什么？",
+            "answer": "神奈川条约"
+        },
+        {
+            "idx": "127",
+            "question": "日本国会大厦的名称是什么？",
+            "answer": "国会议事堂"
+        },
+        {
+            "idx": "66",
+            "question": "日本欣赏香的艺术称为什么？",
+            "answer": "香道"
+        },
+        {
+            "idx": "31",
+            "question": "日本持续改进的概念称为什么？",
+            "answer": "改善"
+        },
+        {
+            "idx": "47",
+            "question": "日本哪个城堡以其复杂而有效的防御设计而闻名？",
+            "answer": "姬路城"
+        },
+        {
+            "idx": "89",
+            "question": "日本传统折纸艺术的名称是什么？",
+            "answer": "折纸"
+        },
+        {
+            "idx": "95",
+            "question": "日本哪个城市以其在日本瓷器发展史上的重要性而闻名？",
+            "answer": "有田"
+        },
+        {
+            "idx": "152",
+            "question": "位于伊势的神社名称是什么？",
+            "answer": "伊势神宫"
+        },
+        {
+            "idx": "174",
+            "question": "日本哪位历史人物以16世纪末统一国家而闻名？",
+            "answer": "织田信长"
+        },
+        {
+            "idx": "184",
+            "question": "日本哪个县以其珊瑚礁和独特的岛屿文化而闻名？",
+            "answer": "冲绳"
+        },
+        {
+            "idx": "203",
+            "question": "日本专注于持续改进的哲学名称是什么？",
+            "answer": "改善"
+        },
+        {
+            "idx": "76",
+            "question": "日本哪个城市以其电子区和御宅族文化而闻名？",
+            "answer": "秋叶原"
+        },
+        {
+            "idx": "88",
+            "question": "日本传统摔跤形式的名称是什么？",
+            "answer": "相扑"
+        },
+        {
+            "idx": "148",
+            "question": "日本传统戏剧形式中以全男性演员阵容为特色的名称是什么？",
+            "answer": "歌舞伎"
+        },
+        {
+            "idx": "46",
+            "question": "日本职业足球联赛的名称是什么？",
+            "answer": "日本职业足球联赛"
+        },
+        {
+            "idx": "232",
+            "question": "日语中“漫画”或“图像小说”的术语是什么？",
+            "answer": "漫画"
+        },
+        {
+            "idx": "175",
+            "question": "日本哪个城市以其历史悠久的城堡而闻名，该城堡是日本最珍贵的文化遗产之一？",
+            "answer": "姬路"
+        },
+        {
+            "idx": "235",
+            "question": "日本哪个城市以其青铜大佛雕像而闻名，该雕像是日本最大的佛像之一？",
+            "answer": "镰仓"
+        },
+        {
+            "idx": "176",
+            "question": "日本哪个县以其古老的森林和朝圣路线而闻名？",
+            "answer": "和歌山"
+        },
+        {
+            "idx": "23",
+            "question": "日本正在开发的高速磁悬浮列车名称是什么？",
+            "answer": "中央新干线"
+        },
+        {
+            "idx": "16",
+            "question": "日本最大的岛屿是哪个？",
+            "answer": "本州"
+        },
+        {
+            "idx": "40",
+            "question": "日语中下班后同事之间饮酒聚会的术语是什么？",
+            "answer": "飲み会"
+        },
+        {
+            "idx": "73",
+            "question": "日本哪个节日涉及夏季的舞蹈和鼓乐？",
+            "answer": "盂兰盆节"
+        },
+        {
+            "idx": "102",
+            "question": "日本传统类似长袍的服装名称是什么？",
+            "answer": "和服"
+        },
+        {
+            "idx": "130",
+            "question": "日本传统茶道的名称是什么？",
+            "answer": "茶道"
+        },
+        {
+            "idx": "80",
+            "question": "日本传统由木材和纸张制成的推拉门名称是什么？",
+            "answer": "障子"
+        },
+        {
+            "idx": "186",
+            "question": "日本哪个城市以其作为主要海军基地和佩里将军登陆历史遗址而闻名？",
+            "answer": "横须贺"
+        },
+        {
+            "idx": "138",
+            "question": "日本专注于擒拿和地面格斗的武术名称是什么？",
+            "answer": "柔道"
+        },
+        {
+            "idx": "103",
+            "question": "日本动画电影和电视节目的术语是什么？",
+            "answer": "动漫"
+        },
+        {
+            "idx": "7",
+            "question": "日本跟踪中型公司表现的股票市场指数名称是什么？",
+            "answer": "东证股价指数"
+        },
+        {
+            "idx": "158",
+            "question": "日本哪个城市以其专注于亚洲电影的国际电影节而闻名？",
+            "answer": "东京"
+        },
+        {
+            "idx": "194",
+            "question": "日本传统发酵大豆食品的名称是什么？",
+            "answer": "纳豆"
+        },
+        {
+            "idx": "181",
+            "question": "日语中“老师”的单词是什么，通常用于指代或称呼武术中的老师和大师？",
+            "answer": "先生"
+        },
+        {
+            "idx": "38",
+            "question": "日本哪个岛屿以其偏远的地理位置和亚热带气候而闻名？",
+            "answer": "冲绳"
+        },
+        {
+            "idx": "72",
+            "question": "日本土著阿伊努人传统舞蹈的名称是什么，被联合国教科文组织认可？",
+            "answer": "阿伊努舞蹈"
+        },
+        {
+            "idx": "195",
+            "question": "日本美学中在简约和低调中发现美的术语是什么？",
+            "answer": "渋い"
+        },
+        {
+            "idx": "69",
+            "question": "日本天皇咨询和政策委员会的术语是什么？",
+            "answer": "皇室会议"
+        },
+        {
+            "idx": "8",
+            "question": "日本将纸张折叠成装饰形状和图形的艺术名称是什么？",
+            "answer": "折纸"
+        },
+        {
+            "idx": "140",
+            "question": "日语中用于分隔房间空间的隔板名称是什么？",
+            "answer": "襖"
+        },
+        {
+            "idx": "144",
+            "question": "日语中用于传统工艺（如折纸）的装饰纸名称是什么？",
+            "answer": "和纸"
+        },
+        {
+            "idx": "36",
+            "question": "日本主要用于本土词汇的文字系统名称是什么？",
+            "answer": "平假名"
+        },
+        {
+            "idx": "60",
+            "question": "日本哪个节日孩子们会戴上武士头盔或穿上和服来庆祝成长和幸福？",
+            "answer": "儿童节"
+        },
+        {
+            "idx": "99",
+            "question": "日本哪个城市是第一个遭受原子弹袭击的城市？",
+            "answer": "广岛"
+        },
+        {
+            "idx": "166",
+            "question": "日本哪个城市以举办亚洲首届冬季残奥会而闻名？",
+            "answer": "长野"
+        },
+        {
+            "idx": "145",
+            "question": "日本历史上受西方影响显著的时期名称是什么？",
+            "answer": "明治时期"
+        },
+        {
+            "idx": "178",
+            "question": "日本以其独特弯曲、细长、单刃刀片而闻名的剑名称是什么？",
+            "answer": "武士刀"
+        },
+        {
+            "idx": "33",
+            "question": "日本强调简约和宁静的茶道名称是什么？",
+            "answer": "茶道"
+        },
+        {
+            "idx": "150",
+            "question": "日本哪个县以其古老的冲绳空手道传统而闻名？",
+            "answer": "冲绳"
+        },
+        {
+            "idx": "124",
+            "question": "日本专注于压制、关节技和投掷技术的武术名称是什么？",
+            "answer": "合气道"
+        },
+        {
+            "idx": "185",
+            "question": "日本哪个城市是日本汽车生产的主要城市？",
+            "answer": "丰田"
+        },
+        {
+            "idx": "156",
+            "question": "日本传统在桌上烹煮的炖菜名称是什么？",
+            "answer": "寿喜烧"
+        },
+        {
+            "idx": "221",
+            "question": "日本插花艺术的名称是什么？",
+            "answer": "生花"
+        },
+        {
+            "idx": "19",
+            "question": "日本政府颁发的最高军事勋章名称是什么？",
+            "answer": "金鵄勋章"
+        },
+        {
+            "idx": "26",
+            "question": "日本哪个城市以其鹿公园和东大寺而闻名？",
+            "answer": "奈良"
+        },
+        {
+            "idx": "12",
+            "question": "日本哪个县以其温泉中的雪猴而闻名？",
+            "answer": "长野"
+        },
+        {
+            "idx": "59",
+            "question": "日本哪个山脉贯穿本州中部？",
+            "answer": "日本阿尔卑斯"
+        },
+        {
+            "idx": "84",
+            "question": "日本股票市场指数的名称是什么？",
+            "answer": "日经225指数"
+        },
+        {
+            "idx": "93",
+            "question": "日本哪个城市以其著名的忠犬八公铜像而闻名？",
+            "answer": "东京"
+        },
+        {
+            "idx": "34",
+            "question": "日本哪个城堡以其独特的黑色外观和同名城市而闻名？",
+            "answer": "熊本城"
+        },
+        {
+            "idx": "53",
+            "question": "日本传统木偶戏的名称是什么？",
+            "answer": "文乐"
+        },
+        {
+            "idx": "21",
+            "question": "日本1989年开始并在2019年结束的年号名称是什么？",
+            "answer": "平成"
+        },
+        {
+            "idx": "118",
+            "question": "日本使用曲霉酿造的酒精饮料名称是什么？",
+            "answer": "清酒"
+        },
+        {
+            "idx": "2",
+            "question": "日本在森林中放松或吸收森林氛围的实践名称是什么？",
+            "answer": "森林浴"
+        },
+        {
+            "idx": "94",
+            "question": "日本制剑艺术的术语是什么？",
+            "answer": "刀装"
+        },
+        {
+            "idx": "6",
+            "question": "日本哪个群岛以其热带气候和独特文化而闻名？",
+            "answer": "冲绳群岛"
+        },
+        {
+            "idx": "121",
+            "question": "日本哪个岛屿以其活火山和温泉而闻名？",
+            "answer": "九州"
+        },
+        {
+            "idx": "131",
+            "question": "日本传统鼓乐的名称是什么？",
+            "answer": "太鼓"
+        },
+        {
+            "idx": "236",
+            "question": "日本哪个城市是第二次世界大战中第一个遭受原子弹袭击的城市？",
+            "answer": "广岛"
+        },
+        {
+            "idx": "35",
+            "question": "日本哪个城市以其16世纪城堡和金色海豚雕像而闻名？",
+            "answer": "名古屋"
+        },
+        {
+            "idx": "87",
+            "question": "日本传统叙事喜剧中专业说书人的术语是什么？",
+            "answer": "落语"
+        },
+        {
+            "idx": "165",
+            "question": "日本哪个城市以其拉面和夜生活区薄野而闻名？",
+            "answer": "札幌"
+        },
+        {
+            "idx": "188",
+            "question": "日本哪个城市是最北的县府，以其雪节而闻名？",
+            "answer": "札幌"
+        },
+        {
+            "idx": "39",
+            "question": "日本哪个城市在东京之前作为帝国首都超过一千年？",
+            "answer": "京都"
+        },
+        {
+            "idx": "162",
+            "question": "日本古代武士行为准则的名称是什么？",
+            "answer": "武士道"
+        },
+        {
+            "idx": "137",
+            "question": "日语中由许多小菜组成以搭配酒精饮料的餐点的术语是什么？",
+            "answer": "居酒屋"
+        },
+        {
+            "idx": "15",
+            "question": "日本意为“剑之道”的武术名称是什么？",
+            "answer": "剑道"
+        },
+        {
+            "idx": "157",
+            "question": "日本专注于祖先崇拜和自然神灵的主要宗教名称是什么？",
+            "answer": "神道"
+        },
+        {
+            "idx": "180",
+            "question": "日本哪座山被视为神圣且是日本最高峰？",
+            "answer": "富士山"
+        },
+        {
+            "idx": "20",
+            "question": "日本使用锁定技术和投掷的武术名称是什么？",
+            "answer": "柔术"
+        },
+        {
+            "idx": "187",
+            "question": "日本使用贝壳绘画的纸牌游戏名称是什么？",
+            "answer": "歌牌"
+        },
+        {
+            "idx": "22",
+            "question": "日本哪个县以其崎岖山地景观和大量降雪而闻名？",
+            "answer": "长野"
+        },
+        {
+            "idx": "108",
+            "question": "日本最深的湖泊以其清澈湖水而闻名的名称是什么？",
+            "answer": "琵琶湖"
+        },
+        {
+            "idx": "222",
+            "question": "日本历史上对外国影响封闭的时期名称是什么？",
+            "answer": "锁国"
+        },
+        {
+            "idx": "65",
+            "question": "日本哪个城堡因其优雅的白色外观而被称为“白鹭城”？",
+            "answer": "姬路城"
+        },
+        {
+            "idx": "74",
+            "question": "日本历史上从1603年到1868年由德川幕府统治的时期名称是什么？",
+            "answer": "江户时代"
+        },
+        {
+            "idx": "197",
+            "question": "日本传统大门通常位于神道教神社入口或内部的名称是什么？",
+            "answer": "鸟居"
+        },
+        {
+            "idx": "54",
+            "question": "日本最大的活火山名称是什么？",
+            "answer": "阿苏山"
+        },
+        {
+            "idx": "199",
+            "question": "日本哪个城市以其历史悠久的城堡而闻名，该城堡是联合国教科文组织世界遗产并昵称“乌鸦城”？",
+            "answer": "松本"
+        },
+        {
+            "idx": "91",
+            "question": "日语中盛放在漆盒中的餐点名称是什么，通常包括米饭、鱼和蔬菜？",
+            "answer": "便当"
+        },
+        {
+            "idx": "105",
+            "question": "日语中军事指挥官的术语是什么，从12世纪到19世纪成为日本的实际统治者？",
+            "answer": "将军"
+        },
+        {
+            "idx": "28",
+            "question": "日本哪个城市以其纪念原子弹受害者的和平纪念公园而闻名？",
+            "answer": "广岛"
+        },
+        {
+            "idx": "71",
+            "question": "日本传统诗歌形式由三行十七音节组成的名称是什么？",
+            "answer": "俳句"
+        },
+        {
+            "idx": "18",
+            "question": "日本哲学中强调每一刻重要性，鼓励充分活在当下的名称是什么？",
+            "answer": "一期一会"
+        },
+        {
+            "idx": "117",
+            "question": "日本主要居住在北海道的土著族群名称是什么？",
+            "answer": "阿伊努人"
+        },
+        {
+            "idx": "155",
+            "question": "日本哪个城市以其古老的武士区和以著名桥梁为特色的花园而闻名？",
+            "answer": "金泽"
+        },
+        {
+            "idx": "81",
+            "question": "日语中“空乐队”指代一种互动娱乐形式的术语是什么？",
+            "answer": "卡拉OK"
+        },
+        {
+            "idx": "211",
+            "question": "日本传统欣赏香的艺术称为什么？",
+            "answer": "香道"
+        },
+        {
+            "idx": "107",
+            "question": "日本哪个子弹列车系统世界闻名？",
+            "answer": "新干线"
+        },
+        {
+            "idx": "11",
+            "question": "日本哪个节日涉及在街道上抬着便携式神龛？",
+            "answer": "祭"
+        },
+        {
+            "idx": "25",
+            "question": "日本哪个城市以其古老的封建城堡和周围的樱花而闻名？",
+            "answer": "弘前"
+        },
+        {
+            "idx": "234",
+            "question": "日本哪位天皇在2019年退位，是两百多年来的首次？",
+            "answer": "明仁天皇"
+        },
+        {
+            "idx": "173",
+            "question": "日本微型树木栽培的艺术名称是什么？",
+            "answer": "盆栽"
+        }
+    ],
+    "ja": [
+        {
+            "idx": "167",
+            "question": "森林の雰囲気の中で療法目的で入浴する日本の習慣の名前は何ですか？",
+            "answer": "森林浴"
+        },
+        {
+            "idx": "67",
+            "question": "素朴な外観で知られる日本の陶器の一種は、益子町発祥ですか？",
+            "answer": "益子焼"
+        },
+        {
+            "idx": "229",
+            "question": "「優しい道」を意味する日本の武道は何ですか？",
+            "answer": "柔道"
+        },
+        {
+            "idx": "30",
+            "question": "青い池で有名な日本の都道府県はどこですか？",
+            "answer": "北海道"
+        },
+        {
+            "idx": "213",
+            "question": "eggs、粉、小さく刻んだキャベツの生地から作られ、さまざまな調味料をトッピングした日本の料理の名前は何ですか？",
+            "answer": "お好み焼き"
+        },
+        {
+            "idx": "159",
+            "question": "神道の中心的存在である霊的存在の日本語の用語は何ですか？",
+            "answer": "神"
+        },
+        {
+            "idx": "169",
+            "question": "徳川幕府の最初の将軍は誰ですか？",
+            "answer": "徳川家康"
+        },
+        {
+            "idx": "100",
+            "question": "仮面を使ってキャラクターを表現する伝統的な日本の劇の名前は何ですか？",
+            "answer": "能"
+        },
+        {
+            "idx": "239",
+            "question": "trained cormorantsを使った日本の釣りの技術の名前は何ですか？",
+            "answer": "鵜飼"
+        },
+        {
+            "idx": "209",
+            "question": "円形のリング内で二人の力士が行う日本の国技の名前は何ですか？",
+            "answer": "相撲"
+        },
+        {
+            "idx": "164",
+            "question": "城や侍の拠点として知られる日本の都市はどこですか？",
+            "answer": "姫路"
+        },
+        {
+            "idx": "189",
+            "question": "人生の儚さと一時性の美を見つけることに焦点を当てた日本の哲学の名前は何ですか？",
+            "answer": "もののあはれ"
+        },
+        {
+            "idx": "193",
+            "question": "東京の有名な魚市場の名前は何ですか？",
+            "answer": "築地市場（現在の豊洲）"
+        },
+        {
+            "idx": "139",
+            "question": "日本の伝統的な多コースディナーの名前は何ですか？",
+            "answer": "懐石"
+        },
+        {
+            "idx": "101",
+            "question": "日本の城の中で、日本の十二の原型城の一つとして知られる都市はどこですか？",
+            "answer": "彦根"
+        },
+        {
+            "idx": "98",
+            "question": "六角堂城として知られる16世紀の城を持つ日本の都市はどこですか？",
+            "answer": "姫路"
+        },
+        {
+            "idx": "238",
+            "question": "花の生け花の日本語の名前は何ですか？",
+            "answer": "生け花"
+        },
+        {
+            "idx": "146",
+            "question": "麦、さつまいも、米から作られる日本の精神の名前は何ですか？",
+            "answer": "焼酎"
+        },
+        {
+            "idx": "85",
+            "question": "多くの操り人形師によって操られる豪華な人形を使った日本の人形劇の名前は何ですか？",
+            "answer": "文楽"
+        },
+        {
+            "idx": "183",
+            "question": "日本の西側に接する海の名前は何ですか？",
+            "answer": "日本海"
+        },
+        {
+            "idx": "48",
+            "question": "空中衛星の打ち上げで有名な日本の島はどこですか？",
+            "answer": "種子島"
+        },
+        {
+            "idx": "220",
+            "question": "電子製品の街秋葉原で知られる日本の都市はどこですか？",
+            "answer": "東京"
+        },
+        {
+            "idx": "78",
+            "question": "日本の立法機関の名前は何ですか？",
+            "answer": "国会"
+        },
+        {
+            "idx": "225",
+            "question": "竹刀を使った日本の武道の名前は何ですか？",
+            "answer": "剣道"
+        },
+        {
+            "idx": "90",
+            "question": "広島に投下された原爆の開発プロジェクトの名前は何ですか？",
+            "answer": "マンハッタン計画"
+        },
+        {
+            "idx": "58",
+            "question": "独特の沖縄文化で知られる日本の島はどこですか？",
+            "answer": "沖縄"
+        },
+        {
+            "idx": "44",
+            "question": "職場での継続的改善の哲学と実践の名前は何ですか？",
+            "answer": "改善（カイゼン）"
+        },
+        {
+            "idx": "122",
+            "question": "札幌雪まつりで知られる日本の都市はどこですか？",
+            "answer": "札幌"
+        },
+        {
+            "idx": "172",
+            "question": "日本とロシアの両方が領有権を主張する係争中の島は何ですか？",
+            "answer": "千島列島"
+        },
+        {
+            "idx": "133",
+            "question": "日本のほとんどの家庭で使われる伝統的なわら製の床敷きの名前は何ですか？",
+            "answer": "畳"
+        },
+        {
+            "idx": "202",
+            "question": "伝統的な刀剣や工芸品の生産で知られる歴史的な重要都市はどこですか？",
+            "answer": "関"
+        },
+        {
+            "idx": "119",
+            "question": "東京と博多間を結ぶ新幹線の名前は何ですか？",
+            "answer": "東海道新幹線"
+        },
+        {
+            "idx": "223",
+            "question": "厳しい冬と流氷で知られる日本の島は何ですか？",
+            "answer": "北海道"
+        },
+        {
+            "idx": "132",
+            "question": "モダンな建築と再開発されたウォーターフロント地区で知られる日本の都市はどこですか？",
+            "answer": "横浜"
+        },
+        {
+            "idx": "62",
+            "question": "木造建築と地面から少し高くなっているのが特徴の日本の建築様式の名前は何ですか？",
+            "answer": "民家（みんか）"
+        },
+        {
+            "idx": "233",
+            "question": "伝統的な日本の芸術で、訓練された女性芸者が伝統芸を披露する芸術の名前は何ですか？",
+            "answer": "芸者"
+        },
+        {
+            "idx": "50",
+            "question": "日本人が桜を見るのを楽しむ祭りの名前は何ですか？",
+            "answer": "花見"
+        },
+        {
+            "idx": "196",
+            "question": "布を縫い合わせる日本の伝統工芸の名前は何ですか？",
+            "answer": "刺し子"
+        },
+        {
+            "idx": "82",
+            "question": "製造業の継続的改善に焦点を当てた日本の哲学の名前は何ですか？",
+            "answer": "改善（カイゼン）"
+        },
+        {
+            "idx": "219",
+            "question": "日本の封建時代の軍事指導者のタイトルは何ですか？",
+            "answer": "将軍"
+        },
+        {
+            "idx": "216",
+            "question": "歴史的な寺院と日本の元首都として知られる日本の都市はどこですか？",
+            "answer": "京都"
+        },
+        {
+            "idx": "149",
+            "question": "豪華な山車や人形を展示する祭りの名前は何ですか？",
+            "answer": "祇園祭"
+        },
+        {
+            "idx": "5",
+            "question": "日本の二院制議会制度の名前は何ですか？",
+            "answer": "二院制国会"
+        },
+        {
+            "idx": "135",
+            "question": "1998年冬季オリンピックを開催した日本の都市はどこですか？",
+            "answer": "長野"
+        },
+        {
+            "idx": "24",
+            "question": "金や銀の漆で陶器を修復する日本の技術の名前は何ですか？",
+            "answer": "金継ぎ"
+        },
+        {
+            "idx": "4",
+            "question": "過労死と呼ばれる死の概念は何ですか？",
+            "answer": "過労死"
+        },
+        {
+            "idx": "70",
+            "question": "日本料理で「ふぐ」と呼ばれるものは何ですか？",
+            "answer": "フグ"
+        },
+        {
+            "idx": "142",
+            "question": "日本の知事や都道府県の呼び方は何ですか？",
+            "answer": "知事"
+        },
+        {
+            "idx": "171",
+            "question": "日本の首都はどこですか？",
+            "answer": "東京"
+        },
+        {
+            "idx": "43",
+            "question": "1951年に署名された条約で、日本の第二次世界大戦の正式な終結をもたらしたのは何ですか？",
+            "answer": "サンフランシスコ平和条約"
+        },
+        {
+            "idx": "129",
+            "question": "日本の伝統的な木造劇場の名前は何ですか？",
+            "answer": "能"
+        },
+        {
+            "idx": "200",
+            "question": "日本の伝統的な舞踊と音楽を披露する女性のプロフェッショナルの名前は何ですか？",
+            "answer": "芸者"
+        },
+        {
+            "idx": "3",
+            "question": "雪まつりや独特な文化で有名な日本の島はどこですか？",
+            "answer": "北海道"
+        },
+        {
+            "idx": "198",
+            "question": "米を発酵させて作る日本のアルコール飲料の名前は何ですか？",
+            "answer": "酒"
+        },
+        {
+            "idx": "96",
+            "question": "桜を見る祭りは何ですか？",
+            "answer": "花見"
+        },
+        {
+            "idx": "136",
+            "question": "武士の軍事・行政規範の日本語の用語は何ですか？",
+            "answer": "武士道"
+        },
+        {
+            "idx": "49",
+            "question": "Gionの芸者地区で有名な日本の都市はどこですか？",
+            "answer": "京都"
+        },
+        {
+            "idx": "27",
+            "question": "富士山の絶景と風光明媚な自然で知られる日本の都道府県はどこですか？",
+            "answer": "山梨"
+        },
+        {
+            "idx": "109",
+            "question": "日本の漫画博物館で知られる都市はどこですか？",
+            "answer": "京都"
+        },
+        {
+            "idx": "86",
+            "question": "1854年に締結された条約で、日本がアメリカと貿易を開始したのは何ですか？",
+            "answer": "日米和親条約"
+        },
+        {
+            "idx": "217",
+            "question": "伝統的な茶室と芸者地区で知られる日本の都市はどこですか？",
+            "answer": "京都"
+        },
+        {
+            "idx": "52",
+            "question": "日本文化の基本的価値観である「調和」の日本語は何ですか？",
+            "answer": "和"
+        },
+        {
+            "idx": "126",
+            "question": "日本の木造建築で釘を使わずに作られるものの名前は何ですか？",
+            "answer": "差し物"
+        },
+        {
+            "idx": "32",
+            "question": "墨を使った絵画や書道の日本の芸術形式の名前は何ですか？",
+            "answer": "墨絵"
+        },
+        {
+            "idx": "214",
+            "question": "相手のエネルギーを redirect することに焦点を当てた日本の武道の名前は何ですか？",
+            "answer": "合気道"
+        },
+        {
+            "idx": "168",
+            "question": "1000年以上にわたり日本の古都だった都市はどこですか？",
+            "answer": "京都"
+        },
+        {
+            "idx": "228",
+            "question": "織姫と彦星を祝う日本の祭りの名前は何ですか？",
+            "answer": "七夕"
+        },
+        {
+            "idx": "92",
+            "question": "第二次世界大戦中に在位した日本の天皇の名前は何ですか？",
+            "answer": "昭和天皇"
+        },
+        {
+            "idx": "134",
+            "question": "日本で侍が登場した時代は何ですか？",
+            "answer": "鎌倉時代"
+        },
+        {
+            "idx": "153",
+            "question": "日本の温泉の名前は何ですか？",
+            "answer": "温泉"
+        },
+        {
+            "idx": "75",
+            "question": "祭りで神輿を街中に担いで練り歩く祭りの名前は何ですか？",
+            "answer": "祭り"
+        },
+        {
+            "idx": "160",
+            "question": "大仏像を持つ東大寺などの古都と神社仏閣で知られる日本の都市はどこですか？",
+            "answer": "奈良"
+        },
+        {
+            "idx": "141",
+            "question": "17世紀の庭園・兼六園で有名な日本の都市はどこですか？",
+            "answer": "金沢"
+        },
+        {
+            "idx": "56",
+            "question": "日本刀の製作技術の名前は何ですか？",
+            "answer": "刀鍛冶"
+        },
+        {
+            "idx": "114",
+            "question": "東京と大阪を結ぶ夏季オリンピックの最後の開催地はどこですか？",
+            "answer": "東京1964"
+        },
+        {
+            "idx": "14",
+            "question": "2019年5月1日に始まった日本の元号の名前は何ですか？",
+            "answer": "令和"
+        },
+        {
+            "idx": "1",
+            "question": "日本の伝統的な衣装の名前は何ですか？",
+            "answer": "着物"
+        },
+        {
+            "idx": "143",
+            "question": "鹿と巨大な仏像で有名な日本の都市はどこですか？",
+            "answer": "奈良"
+        },
+        {
+            "idx": "163",
+            "question": "書道と呼ばれる日本の書道の名前は何ですか？",
+            "answer": "書道"
+        },
+        {
+            "idx": "170",
+            "question": "古代の寺院と聖徳太子のゆかりのある都市はどこですか？",
+            "answer": "奈良"
+        },
+        {
+            "idx": "190",
+            "question": "池や水庭に見られる装飾的な魚の日本語の名前は何ですか？",
+            "answer": "鯉"
+        },
+        {
+            "idx": "215",
+            "question": "プロセスやシステムの改善を指す「良くなる」ことを意味する日本語の言葉は何ですか？",
+            "answer": "改善（カイゼン）"
+        },
+        {
+            "idx": "207",
+            "question": "緑茶を準備し飲む儀式的な方法の日本語の名前は何ですか？",
+            "answer": "茶道（さどう）"
+        },
+        {
+            "idx": "182",
+            "question": "日本列島の最大かつ最北端の島の名前は何ですか？",
+            "answer": "北海道"
+        },
+        {
+            "idx": "224",
+            "question": "薄くスライスした生の魚や肉を使った日本料理の名前は何ですか？",
+            "answer": "刺身"
+        },
+        {
+            "idx": "226",
+            "question": "季節の言及と切れ字を含む日本の詩の形式は何ですか？",
+            "answer": "俳句"
+        },
+        {
+            "idx": "9",
+            "question": "1965年に締結された条約で、日本と韓国の外交関係を正常化したのは何ですか？",
+            "answer": "日韓基本条約"
+        },
+        {
+            "idx": "227",
+            "question": "日本の最も有名な祭りの一つである祇園祭の開催地はどこですか？",
+            "answer": "京都"
+        },
+        {
+            "idx": "55",
+            "question": "日本の縦書きスタイルの名前は何ですか？",
+            "answer": "縦書き"
+        },
+        {
+            "idx": "112",
+            "question": "原子爆弾の攻撃を受けた2番目の都市はどこですか？",
+            "answer": "長崎"
+        },
+        {
+            "idx": "115",
+            "question": "酢飯にさまざまな具材をのせた日本の料理の名前は何ですか？",
+            "answer": "寿司"
+        },
+        {
+            "idx": "29",
+            "question": "黒い城、別名「烏城」とも呼ばれる日本の都市はどこですか？",
+            "answer": "松本"
+        },
+        {
+            "idx": "123",
+            "question": "日本の「厨房」として知られる都市はどこですか？",
+            "answer": "大阪"
+        },
+        {
+            "idx": "192",
+            "question": "日本の伝統的な米酒の名前は何ですか？",
+            "answer": "酒"
+        },
+        {
+            "idx": "63",
+            "question": "日本で神聖とされ、登山や巡礼の対象となる山は何ですか？",
+            "answer": "富士山"
+        },
+        {
+            "idx": "177",
+            "question": "大阪に本拠を置くプロ野球チームの名前は何ですか？",
+            "answer": "阪神タイガース"
+        },
+        {
+            "idx": "206",
+            "question": "最高品質の米を生産することで有名な日本の地域はどこですか？",
+            "answer": "新潟"
+        },
+        {
+            "idx": "110",
+            "question": "日本の伝統的な木製の長い笛の名前は何ですか？",
+            "answer": "尺八"
+        },
+        {
+            "idx": "61",
+            "question": "割れた陶器を金や銀の漆で修復する日本の技術の名前は何ですか？",
+            "answer": "金継ぎ"
+        },
+        {
+            "idx": "13",
+            "question": "発酵した大豆ペーストから作られる日本の伝統的なスープの名前は何ですか？",
+            "answer": "味噌汁"
+        },
+        {
+            "idx": "51",
+            "question": "歴史的な商人街と運河の地域で知られる日本の都市はどこですか？",
+            "answer": "倉敷"
+        },
+        {
+            "idx": "104",
+            "question": "技術産業と歴史的な城で知られる日本の都市はどこですか？",
+            "answer": "大阪"
+        },
+        {
+            "idx": "201",
+            "question": "古代の杉の木とユネスコの世界遺産に登録されている地域はどこですか？",
+            "answer": "屋久島"
+        },
+        {
+            "idx": "210",
+            "question": "日本の伝統的な宿泊施設の名前は何ですか？",
+            "answer": "旅館"
+        },
+        {
+            "idx": "116",
+            "question": "東京と大阪を結ぶ新幹線の名前は何ですか？",
+            "answer": "新幹線"
+        },
+        {
+            "idx": "147",
+            "question": "日本の本州中央部を走る山脈は何ですか？",
+            "answer": "日本アルプス"
+        },
+        {
+            "idx": "37",
+            "question": "日本の米酒の名前は何ですか？",
+            "answer": "酒"
+        },
+        {
+            "idx": "128",
+            "question": "亜熱帯気候と独特の琉球文化で知られる日本の島はどこですか？",
+            "answer": "沖縄"
+        },
+        {
+            "idx": "125",
+            "question": "日本国内で生産される酒の大部分を生産している日本の都市はどこですか？",
+            "answer": "神戸"
+        },
+        {
+            "idx": "151",
+            "question": "日本のもてなしを体験できる伝統的な宿泊施設の名前は何ですか？",
+            "answer": "旅館"
+        },
+        {
+            "idx": "97",
+            "question": "中世および近世日本の軍事貴族を指す日本語の用語は何ですか？",
+            "answer": "侍"
+        },
+        {
+            "idx": "57",
+            "question": "先祖の霊に捧げる日本の仏教祭りの名前は何ですか？",
+            "answer": "お盆"
+        },
+        {
+            "idx": "17",
+            "question": "パン粉をつけて揚げた豚カツの日本料理の名前は何ですか？",
+            "answer": "とんかつ"
+        },
+        {
+            "idx": "64",
+            "question": "平和記念碑と原爆ドームで有名な日本の都市はどこですか？",
+            "answer": "広島"
+        },
+        {
+            "idx": "205",
+            "question": "伝統的な陶器や陶磁器市場で知られる日本の都市はどこですか？",
+            "answer": "益子"
+        },
+        {
+            "idx": "218",
+            "question": "着物の帯に使われる装飾的な結び目の日本語の用語は何ですか？",
+            "answer": "帯締め"
+        },
+        {
+            "idx": "79",
+            "question": "温泉とスキーで知られる日本の島はどこですか？",
+            "answer": "北海道"
+        },
+        {
+            "idx": "231",
+            "question": "竹林で有名な日本の都市はどこですか？",
+            "answer": "京都（嵐山）"
+        },
+        {
+            "idx": "10",
+            "question": "歴史的な侍の住居で知られる日本の都市はどこですか？",
+            "answer": "角館"
+        },
+        {
+            "idx": "45",
+            "question": "日本の最初の首都として歴史的に重要な日本の都市はどこですか？",
+            "answer": "奈良"
+        },
+        {
+            "idx": "106",
+            "question": "2019年に終了した日本の元号は何ですか？",
+            "answer": "平成"
+        },
+        {
+            "idx": "77",
+            "question": "不完全さの中に美を見出す日本の美学を指す用語は何ですか？",
+            "answer": "侘び寂び"
+        },
+        {
+            "idx": "42",
+            "question": "伝統工芸や漆器を含む民芸品で知られる日本の都市はどこですか？",
+            "answer": "金沢"
+        },
+        {
+            "idx": "204",
+            "question": "大きな氷の彫刻が特徴の雪祭りで知られる日本の都市はどこですか？",
+            "answer": "札幌"
+        },
+        {
+            "idx": "41",
+            "question": "刀より短く、短刀より長い日本の刀の名前は何ですか？",
+            "answer": "脇差"
+        },
+        {
+            "idx": "83",
+            "question": "不完全さの中に美を見出す日本の哲学を指す用語は何ですか？",
+            "answer": "侘び寂び"
+        },
+        {
+            "idx": "111",
+            "question": "日本で最も長い川の名前は何ですか？",
+            "answer": "信濃川"
+        },
+        {
+            "idx": "161",
+            "question": "中国の文字から派生した文字を使用する日本の文字体系の名前は何ですか？",
+            "answer": "漢字"
+        },
+        {
+            "idx": "68",
+            "question": "日本の伝統的な正月料理の名前は何ですか？",
+            "answer": "おせち"
+        },
+        {
+            "idx": "212",
+            "question": "アジア本土に最も近い日本の島はどこですか？",
+            "answer": "九州"
+        },
+        {
+            "idx": "237",
+            "question": "日本で最も大きく、人口の多い島の名前は何ですか？",
+            "answer": "本州"
+        },
+        {
+            "idx": "179",
+            "question": "現代建築とユニバーサルスタジオで知られる日本の都市はどこですか？",
+            "answer": "大阪"
+        },
+        {
+            "idx": "208",
+            "question": "壮大な花火大会で知られる日本の祭りは何ですか？",
+            "answer": "隅田川花火大会"
+        },
+        {
+            "idx": "120",
+            "question": "剣術に焦点を当てた日本の武道は何ですか？",
+            "answer": "剣道"
+        },
+        {
+            "idx": "154",
+            "question": "派手なメイクと衣装が特徴の日本の伝統的な演劇形式は何ですか？",
+            "answer": "歌舞伎"
+        },
+        {
+            "idx": "230",
+            "question": "伝統的な藍染め技術で知られる日本の都市はどこですか？",
+            "answer": "徳島"
+        },
+        {
+            "idx": "191",
+            "question": "独特の方言と文化的アイデンティティで知られる日本の島はどこですか？",
+            "answer": "九州"
+        },
+        {
+            "idx": "113",
+            "question": "1854年に日本の鎖国政策を事実上終わらせた条約は何ですか？",
+            "answer": "日米和親条約"
+        },
+        {
+            "idx": "127",
+            "question": "日本の国会議事堂の名前は何ですか？",
+            "answer": "国会議事堂"
+        },
+        {
+            "idx": "66",
+            "question": "香りを楽しむ日本の芸術を指す用語は何ですか？",
+            "answer": "香道"
+        },
+        {
+            "idx": "31",
+            "question": "継続的な改善を指す日本の概念は何ですか？",
+            "answer": "改善"
+        },
+        {
+            "idx": "47",
+            "question": "複雑で効果的な防御設計で知られる日本の城はどこですか？",
+            "answer": "姫路城"
+        },
+        {
+            "idx": "89",
+            "question": "紙を折って装飾的な形や図形を作る日本の芸術を指す用語は何ですか？",
+            "answer": "折り紙"
+        },
+        {
+            "idx": "95",
+            "question": "日本の陶磁器の発展において歴史的に重要な日本の都市はどこですか？",
+            "answer": "有田"
+        },
+        {
+            "idx": "152",
+            "question": "伊勢にある神聖な神道の神社の名前は何ですか？",
+            "answer": "伊勢神宮"
+        },
+        {
+            "idx": "174",
+            "question": "16世紀後半に日本を統一した歴史的人物は誰ですか？",
+            "answer": "織田信長"
+        },
+        {
+            "idx": "184",
+            "question": "サンゴ礁と独特の島文化で知られる日本の県はどこですか？",
+            "answer": "沖縄"
+        },
+        {
+            "idx": "203",
+            "question": "継続的な改善に焦点を当てた日本の哲学を指す用語は何ですか？",
+            "answer": "改善"
+        },
+        {
+            "idx": "76",
+            "question": "電子街とオタク文化で知られる日本の都市はどこですか？",
+            "answer": "秋葉原"
+        },
+        {
+            "idx": "88",
+            "question": "日本の伝統的なレスリング形式を指す用語は何ですか？",
+            "answer": "相撲"
+        },
+        {
+            "idx": "148",
+            "question": "全員男性のキャストが特徴の日本の伝統的な演劇形式は何ですか？",
+            "answer": "歌舞伎"
+        },
+        {
+            "idx": "46",
+            "question": "日本のプロサッカーリーグの名前は何ですか？",
+            "answer": "Jリーグ"
+        },
+        {
+            "idx": "232",
+            "question": "日本の漫画やグラフィックノベルを指す用語は何ですか？",
+            "answer": "漫画"
+        },
+        {
+            "idx": "175",
+            "question": "国の最も大切な文化遺産の一つである歴史的な城で知られる日本の都市はどこですか？",
+            "answer": "姫路"
+        },
+        {
+            "idx": "235",
+            "question": "日本で最大級の青銅製大仏像で知られる日本の都市はどこですか？",
+            "answer": "鎌倉"
+        },
+        {
+            "idx": "176",
+            "question": "古代の森と巡礼路で知られる日本の県はどこですか？",
+            "answer": "和歌山"
+        },
+        {
+            "idx": "23",
+            "question": "開発中の日本の高速磁気浮上列車の名前は何ですか？",
+            "answer": "中央新幹線"
+        },
+        {
+            "idx": "16",
+            "question": "日本で最も大きな島はどこですか？",
+            "answer": "本州"
+        },
+        {
+            "idx": "40",
+            "question": "同僚との絆を深めるための仕事後の飲み会を指す日本の用語は何ですか？",
+            "answer": "飲み会"
+        },
+        {
+            "idx": "73",
+            "question": "夏に踊りと太鼓を楽しむ日本の祭りは何ですか？",
+            "answer": "盆踊り（お盆）"
+        },
+        {
+            "idx": "102",
+            "question": "ローブに似た日本の伝統的な衣装の名前は何ですか？",
+            "answer": "着物"
+        },
+        {
+            "idx": "130",
+            "question": "日本の伝統的な茶道を指す用語は何ですか？",
+            "answer": "茶の湯または茶道"
+        },
+        {
+            "idx": "80",
+            "question": "木と紙で作られた日本の伝統的な引き戸を指す用語は何ですか？",
+            "answer": "障子"
+        },
+        {
+            "idx": "186",
+            "question": "主要な海軍基地としての役割とペリー提督の上陸地として歴史的に重要な日本の都市はどこですか？",
+            "answer": "横須賀"
+        },
+        {
+            "idx": "138",
+            "question": "組み技と寝技に焦点を当てた日本の武道は何ですか？",
+            "answer": "柔道"
+        },
+        {
+            "idx": "103",
+            "question": "日本のアニメ映画やテレビ番組を指す用語は何ですか？",
+            "answer": "アニメ"
+        },
+        {
+            "idx": "7",
+            "question": "中規模企業のパフォーマンスを追跡する日本の株式市場指数の名前は何ですか？",
+            "answer": "TOPIX"
+        },
+        {
+            "idx": "158",
+            "question": "アジア映画に焦点を当てた国際映画祭で知られる日本の都市はどこですか？",
+            "answer": "東京"
+        },
+        {
+            "idx": "194",
+            "question": "日本の伝統的な発酵大豆料理の名前は何ですか？",
+            "answer": "納豆"
+        },
+        {
+            "idx": "181",
+            "question": "日本の武道で教師や師匠を指すために一般的に使用される「先生」という言葉は何ですか？",
+            "answer": "先生"
+        },
+        {
+            "idx": "38",
+            "question": "遠隔地と亜熱帯気候で知られる日本の島はどこですか？",
+            "answer": "沖縄"
+        },
+        {
+            "idx": "72",
+            "question": "ユネスコに認められた日本の先住民族アイヌの伝統的な踊りの名前は何ですか？",
+            "answer": "アイヌ舞踊"
+        },
+        {
+            "idx": "195",
+            "question": "シンプルさと控えめさの中に美を見出す日本の美学を指す用語は何ですか？",
+            "answer": "渋い"
+        },
+        {
+            "idx": "69",
+            "question": "天皇の諮問機関と政策評議会を指す日本の用語は何ですか？",
+            "answer": "皇室会議"
+        },
+        {
+            "idx": "8",
+            "question": "紙を折って装飾的な形や図形を作る日本の芸術を指す用語は何ですか？",
+            "answer": "折り紙"
+        },
+        {
+            "idx": "140",
+            "question": "部屋の空間を区切るために使用される日本のパネルを指す用語は何ですか？",
+            "answer": "襖"
+        },
+        {
+            "idx": "144",
+            "question": "折り紙などの伝統工芸に使用される装飾用紙を指す日本の用語は何ですか？",
+            "answer": "和紙"
+        },
+        {
+            "idx": "36",
+            "question": "主に日本の固有の言葉に使用される文字体系の名前は何ですか？",
+            "answer": "ひらがな"
+        },
+        {
+            "idx": "60",
+            "question": "子供たちが兜や着物を着て成長と幸福を祝う日本の祭りは何ですか？",
+            "answer": "こどもの日"
+        },
+        {
+            "idx": "99",
+            "question": "日本で最初に原子爆弾の攻撃を受けた都市はどこですか？",
+            "answer": "広島"
+        },
+        {
+            "idx": "166",
+            "question": "アジアで初めて冬季パラリンピックを開催した日本の都市はどこですか？",
+            "answer": "長野"
+        },
+        {
+            "idx": "145",
+            "question": "天皇の統治下にあり、西洋の影響を大きく受けた日本の時代の名前は何ですか？",
+            "answer": "明治時代"
+        },
+        {
+            "idx": "178",
+            "question": "独特の曲線を持ち、細身で片刃の刀身が特徴の日本の刀の名前は何ですか？",
+            "answer": "刀"
+        },
+        {
+            "idx": "33",
+            "question": "シンプルさと静けさを重視する日本の茶道を指す用語は何ですか？",
+            "answer": "茶の湯"
+        },
+        {
+            "idx": "150",
+            "question": "沖縄空手の古代武道で知られる日本の県はどこですか？",
+            "answer": "沖縄"
+        },
+        {
+            "idx": "124",
+            "question": "固め技、関節技、投げ技に重点を置いた日本の武道は何ですか？",
+            "answer": "合気道"
+        },
+        {
+            "idx": "185",
+            "question": "日本で自動車の主要生産地として知られる日本の都市はどこですか？",
+            "answer": "豊田"
+        },
+        {
+            "idx": "156",
+            "question": "テーブルで調理される日本の伝統的な鍋料理の名前は何ですか？",
+            "answer": "すき焼き"
+        },
+        {
+            "idx": "221",
+            "question": "花を生ける日本の芸術を指す用語は何ですか？",
+            "answer": "生け花"
+        },
+        {
+            "idx": "19",
+            "question": "日本政府が授与する最高の軍事勲章の名前は何ですか？",
+            "answer": "金鵄勲章"
+        },
+        {
+            "idx": "26",
+            "question": "鹿公園と東大寺で有名な日本の都市はどこですか？",
+            "answer": "奈良"
+        },
+        {
+            "idx": "12",
+            "question": "温泉にいる雪猿で有名な日本の県はどこですか？",
+            "answer": "長野"
+        },
+        {
+            "idx": "59",
+            "question": "本州の中央部を走る日本の山脈は何ですか？",
+            "answer": "日本アルプス"
+        },
+        {
+            "idx": "84",
+            "question": "日本の株式市場指数の名前は何ですか？",
+            "answer": "日経225"
+        },
+        {
+            "idx": "93",
+            "question": "忠犬ハチ公の銅像で知られる日本の都市はどこですか？",
+            "answer": "東京"
+        },
+        {
+            "idx": "34",
+            "question": "独特の黒い外観を持ち、同じ名前の都市にある日本の城の名前は何ですか？",
+            "answer": "熊本城"
+        },
+        {
+            "idx": "53",
+            "question": "日本の伝統的な人形劇を指す用語は何ですか？",
+            "answer": "文楽"
+        },
+        {
+            "idx": "21",
+            "question": "1989年に始まり、2019年に終了した日本の元号は何ですか？",
+            "answer": "平成"
+        },
+        {
+            "idx": "118",
+            "question": "麹菌を使用して醸造される日本のアルコール飲料の名前は何ですか？",
+            "answer": "酒"
+        },
+        {
+            "idx": "2",
+            "question": "森林の雰囲気を楽しむリラクゼーションのための日本の実践を指す用語は何ですか？",
+            "answer": "森林浴"
+        },
+        {
+            "idx": "94",
+            "question": "刀を作る日本の芸術を指す用語は何ですか？",
+            "answer": "刀装具"
+        },
+        {
+            "idx": "6",
+            "question": "熱帯気候と独特の文化で知られる日本の島々はどこですか？",
+            "answer": "沖縄諸島"
+        },
+        {
+            "idx": "121",
+            "question": "活火山と温泉で知られる日本の島はどこですか？",
+            "answer": "九州"
+        },
+        {
+            "idx": "131",
+            "question": "日本の伝統的な太鼓演奏を指す用語は何ですか？",
+            "answer": "太鼓"
+        },
+        {
+            "idx": "236",
+            "question": "第二次世界大戦で最初に原子爆弾の攻撃を受けた日本の都市はどこですか？",
+            "answer": "広島"
+        },
+        {
+            "idx": "35",
+            "question": "金色のイルカの像が特徴の16世紀の城で知られる日本の都市はどこですか？",
+            "answer": "名古屋"
+        },
+        {
+            "idx": "87",
+            "question": "日本の伝統的な語り物喜劇のプロの語り手を指す用語は何ですか？",
+            "answer": "落語"
+        },
+        {
+            "idx": "165",
+            "question": "ラーメンと夜の繁華街すすきので有名な日本の都市はどこですか？",
+            "answer": "札幌"
+        },
+        {
+            "idx": "188",
+            "question": "雪祭りで知られる日本最北の県庁所在地はどこですか？",
+            "answer": "札幌"
+        },
+        {
+            "idx": "39",
+            "question": "東京以前に1000年以上にわたって日本の首都であった都市はどこですか？",
+            "answer": "京都"
+        },
+        {
+            "idx": "162",
+            "question": "日本の武士の行動規範を指す古代の用語は何ですか？",
+            "answer": "武士道"
+        },
+        {
+            "idx": "137",
+            "question": "アルコール飲料と一緒に提供される多くの小皿の食事を指す日本の用語は何ですか？",
+            "answer": "居酒屋"
+        },
+        {
+            "idx": "15",
+            "question": "「剣の道」を意味する日本の武道は何ですか？",
+            "answer": "剣道"
+        },
+        {
+            "idx": "157",
+            "question": "祖先崇拝と自然の精霊に焦点を当てた日本の主要な宗教は何ですか？",
+            "answer": "神道"
+        },
+        {
+            "idx": "180",
+            "question": "神聖とされ、日本で最も高い山はどこですか？",
+            "answer": "富士山"
+        },
+        {
+            "idx": "20",
+            "question": "固め技と投げ技を使用する日本の武道は何ですか？",
+            "answer": "柔術"
+        },
+        {
+            "idx": "187",
+            "question": "貝殻に絵が描かれたカードを使用する日本のカードゲームの名前は何ですか？",
+            "answer": "かるた"
+        },
+        {
+            "idx": "22",
+            "question": "険しい山岳地帯と大雪で知られる日本の県はどこですか？",
+            "answer": "長野"
+        },
+        {
+            "idx": "108",
+            "question": "透明度の高い水で知られる日本で最も深い湖の名前は何ですか？",
+            "answer": "琵琶湖"
+        },
+        {
+            "idx": "222",
+            "question": "日本がほとんどの外国の影響から閉ざされていた時代の名前は何ですか？",
+            "answer": "鎖国"
+        },
+        {
+            "idx": "65",
+            "question": "優雅な白い外観から「白鷺城」とも呼ばれる日本の城はどこですか？",
+            "answer": "姫路城"
+        },
+        {
+            "idx": "74",
+            "question": "1603年から1868年まで続き、徳川幕府の統治が特徴の日本の時代は何ですか？",
+            "answer": "江戸時代"
+        },
+        {
+            "idx": "197",
+            "question": "神道の神社の入口や境内にある伝統的な門を指す用語は何ですか？",
+            "answer": "鳥居"
+        },
+        {
+            "idx": "54",
+            "question": "日本で最も大きな活火山の名前は何ですか？",
+            "answer": "阿蘇山"
+        },
+        {
+            "idx": "199",
+            "question": "ユネスコ世界遺産に登録され、「烏城」とも呼ばれる歴史的な城で知られる日本の都市はどこですか？",
+            "answer": "松本"
+        },
+        {
+            "idx": "91",
+            "question": "漆塗りの箱に入れて提供される、ご飯、魚、野菜が入った食事の日本語での呼び方は何ですか？",
+            "answer": "弁当"
+        },
+        {
+            "idx": "105",
+            "question": "12世紀から19世紀まで日本の事実上の支配者となった軍事指揮官の日本語での呼び方は何ですか？",
+            "answer": "将軍"
+        },
+        {
+            "idx": "28",
+            "question": "原爆の犠牲者に捧げられた平和記念公園で有名な日本の都市はどこですか？",
+            "answer": "広島"
+        },
+        {
+            "idx": "71",
+            "question": "3行17音で構成される日本の伝統的な詩の形式の名前は何ですか？",
+            "answer": "俳句"
+        },
+        {
+            "idx": "18",
+            "question": "一瞬一瞬を大切にし、現在を充実して生きることを奨励する日本の哲学の名前は何ですか？",
+            "answer": "一期一会"
+        },
+        {
+            "idx": "117",
+            "question": "主に北海道に居住する日本の先住民族の名前は何ですか？",
+            "answer": "アイヌ"
+        },
+        {
+            "idx": "155",
+            "question": "古代の侍の地区と有名な橋のある庭園で知られる日本の都市はどこですか？",
+            "answer": "金沢"
+        },
+        {
+            "idx": "81",
+            "question": "インタラクティブなエンターテインメントの形態を指す「空のオーケストラ」の日本語での呼び方は何ですか？",
+            "answer": "カラオケ"
+        },
+        {
+            "idx": "211",
+            "question": "日本の伝統的な香を楽しむ芸術の名前は何ですか？",
+            "answer": "香道"
+        },
+        {
+            "idx": "107",
+            "question": "世界的に有名な日本の高速鉄道システムは何ですか？",
+            "answer": "新幹線"
+        },
+        {
+            "idx": "11",
+            "question": "通りを神輿を担いで練り歩く日本の祭りの名前は何ですか？",
+            "answer": "祭り"
+        },
+        {
+            "idx": "25",
+            "question": "古代の城と周囲の桜で知られる日本の都市はどこですか？",
+            "answer": "弘前"
+        },
+        {
+            "idx": "234",
+            "question": "200年以上ぶりに2019年に退位した日本の天皇の名前は何ですか？",
+            "answer": "明仁天皇"
+        },
+        {
+            "idx": "173",
+            "question": "日本のミニチュアの木を育てる芸術の名前は何ですか？",
+            "answer": "盆栽"
+        }
+    ],
+    "th": [
+        {
+            "idx": "167",
+            "question": "ชื่อของการอาบน้ำในบรรยากาศป่าไม้ของญี่ปุ่นเพื่อวัตถุประสงค์ในการบำบัดเรียกว่าอะไร?",
+            "answer": "ชินริน-โยคุ"
+        },
+        {
+            "idx": "67",
+            "question": "เครื่องปั้นดินเผาญี่ปุ่นชนิดใดที่มีลักษณะหยาบและมีต้นกำเนิดจากเมืองมาชิโกะ?",
+            "answer": "มาชิโกะ-ยากิ"
+        },
+        {
+            "idx": "229",
+            "question": "ศิลปะการต่อสู้ของญี่ปุ่นที่มีความหมายว่า 'วิถีแห่งความอ่อนโยน' คืออะไร?",
+            "answer": "ยูโด"
+        },
+        {
+            "idx": "30",
+            "question": "จังหวัดใดของญี่ปุ่นที่มีชื่อเสียงในเรื่องบ่อน้ำสีฟ้า ซึ่งเป็นแหล่งท่องเที่ยวยอดนิยมเพราะมีสีสันที่เป็นเอกลักษณ์?",
+            "answer": "ฮอกไกโด"
+        },
+        {
+            "idx": "213",
+            "question": "อาหารญี่ปุ่นที่ทำจากแป้ง ไข่ และกะหล่ำปลีฝอย ซึ่งมักราดหน้าด้วยเครื่องปรุงหลากหลายเรียกว่าอะไร?",
+            "answer": "โอโคโนะมิยากิ"
+        },
+        {
+            "idx": "159",
+            "question": "คำศัพท์ภาษาญี่ปุ่นสำหรับวิญญาณที่เป็นศูนย์กลางของศาสนาชินโตคืออะไร?",
+            "answer": "คะมิ"
+        },
+        {
+            "idx": "169",
+            "question": "ใครคือโชกุนคนแรกของรัฐบาลโชกุนโทคุกาวะ?",
+            "answer": "โทคุกาวะ อิเอยาสุ"
+        },
+        {
+            "idx": "100",
+            "question": "โรงละครญี่ปุ่นดั้งเดิมที่ใช่หน้ากากแสดงแทนตัวละครเรียกว่าอะไร?",
+            "answer": "โนะ"
+        },
+        {
+            "idx": "239",
+            "question": "เทคนิคการตกปลาของญี่ปุ่นที่ใช้เหยี่ยวคอร์มอแรนต์ที่ได้รับการฝึกฝนเรียกว่าอะไร?",
+            "answer": "อุไค"
+        },
+        {
+            "idx": "209",
+            "question": "กีฬาประจำชาติของญี่ปุ่นที่มีนักมวยปล้ำสองคนในวงกลมเรียกว่าอะไร?",
+            "answer": "ซูโม่"
+        },
+        {
+            "idx": "164",
+            "question": "เมืองใดของญี่ปุ่นที่มีชื่อเสียงเรื่องปราสาทและเคยเป็นฐานที่มั่นของซามูไร?",
+            "answer": "ฮิเมจิ"
+        },
+        {
+            "idx": "189",
+            "question": "ปรัชญาญี่ปุ่นที่เน้นการค้นหาความงามในความเปลี่ยนแปลงและความไม่ถาวรของชีวิตเรียกว่าอะไร?",
+            "answer": "โมโน โนะ อาวาเระ"
+        },
+        {
+            "idx": "193",
+            "question": "ตลาดปลาชื่อดังในโตเกียวชื่อว่าอะไร?",
+            "answer": "ตลาดสึกิจิ (ปัจจุบันคือโทโยสุ)"
+        },
+        {
+            "idx": "139",
+            "question": "อาหารเย็นแบบหลายคอร์สแบบดั้งเดิมของญี่ปุ่นเรียกว่าอะไร?",
+            "answer": "ไคเซกิ"
+        },
+        {
+            "idx": "101",
+            "question": "เมืองใดของญี่ปุ่นที่มีปราสาทซึ่งเป็นหนึ่งในสิบสองปราสาทดั้งเดิมของญี่ปุ่น?",
+            "answer": "ฮิโกเนะ"
+        },
+        {
+            "idx": "98",
+            "question": "เมืองใดของญี่ปุ่นที่มีปราสาทศตวรรษที่ 16 ชื่อว่า 'ปราสาทนกกระสาขาว'?",
+            "answer": "ฮิเมจิ"
+        },
+        {
+            "idx": "238",
+            "question": "ศิลปะการจัดดอกไม้ของญี่ปุ่นเรียกว่าอะไร?",
+            "answer": "อิเคบานะ"
+        },
+        {
+            "idx": "146",
+            "question": "สุราญี่ปุ่นที่ทำจากข้าวบาร์เลย์ มันเทศ หรือข้าว เรียกว่าอะไร?",
+            "answer": "โชจู"
+        },
+        {
+            "idx": "85",
+            "question": "หุ่นเชิดญี่ปุ่นที่ใช้หุ่นขนาดใหญ่ซึ่งควบคุมโดยนักเชิดหุ่นหลายคนเรียกว่าอะไร?",
+            "answer": "บุนระคุ"
+        },
+        {
+            "idx": "183",
+            "question": "ทะเลที่อยู่ทางตะวันตกของญี่ปุ่นชื่อว่าอะไร?",
+            "answer": "ทะเลญี่ปุ่น"
+        },
+        {
+            "idx": "48",
+            "question": "เกาะญี่ปุ่นใดมีชื่อเสียงในด้านการปล่อยดาวเทียมอวกาศ?",
+            "answer": "ทาเนะงะชิมะ"
+        },
+        {
+            "idx": "220",
+            "question": "เมืองใดของญี่ปุ่นที่มีเขตอิเล็กทรอนิกส์อากิฮาบาระ?",
+            "answer": "โตเกียว"
+        },
+        {
+            "idx": "78",
+            "question": "รัฐสภาของญี่ปุ่นเรียกว่าอะไร?",
+            "answer": "ไดเอท"
+        },
+        {
+            "idx": "225",
+            "question": "ศิลปะการต่อสู้ของญี่ปุ่นที่ใช้ดาบไม้ไผ่เรียกว่าอะไร?",
+            "answer": "เคนโด"
+        },
+        {
+            "idx": "90",
+            "question": "ชื่อโครงการพัฒนาอาวุธปรมาณูที่ถูกทิ้งที่ฮิโรชิม่าเรียกว่าอะไร?",
+            "answer": "โครงการแมนฮัตตัน"
+        },
+        {
+            "idx": "58",
+            "question": "เกาะญี่ปุ่นใดที่มีวัฒนธรรมโอกินาวะที่เป็นเอกลักษณ์?",
+            "answer": "โอกินาวะ"
+        },
+        {
+            "idx": "44",
+            "question": "ปรัชญาและแนวปฏิบัติของญี่ปุ่นเกี่ยวกับการปรับปรุงอย่างต่อเนื่องในที่ทำงานเรียกว่าอะไร?",
+            "answer": "ไคเซ็น"
+        },
+        {
+            "idx": "122",
+            "question": "เมืองใดของญี่ปุ่นที่มีชื่อเสียงในเทศกาลหิมะซัปโปโรประจำปี?",
+            "answer": "ซัปโปโร"
+        },
+        {
+            "idx": "172",
+            "question": "เกาะญี่ปุ่นใดที่เป็นข้อพิพาทและถูกอ้างสิทธิ์โดยทั้งญี่ปุ่นและรัสเซีย?",
+            "answer": "หมู่เกาะคูริล"
+        },
+        {
+            "idx": "133",
+            "question": "เสื่อพื้นแบบญี่ปุ่นที่ทำจากฟางข้าวและใช้กันทั่วไปในบ้านญี่ปุ่นเรียกว่าอะไร?",
+            "answer": "ทาทามิ"
+        },
+        {
+            "idx": "202",
+            "question": "เมืองใดของญี่ปุ่นที่มีความสำคัญทางประวัติศาสตร์ในฐานะศูนย์กลางการผลิตดาบและหัตถกรรมดั้งเดิม?",
+            "answer": "เซกิ"
+        },
+        {
+            "idx": "119",
+            "question": "ชื่อของรถไฟหัวกระสุนญี่ปุ่นที่วิ่งระหว่างโตเกียวและฮากาตะคืออะไร?",
+            "answer": "โทไกโด ชินคันเซ็น"
+        },
+        {
+            "idx": "223",
+            "question": "เกาะญี่ปุ่นใดที่ขึ้นชื่อเรื่องฤดูหนาวที่รุนแรงและน้ำแข็งลอย?",
+            "answer": "ฮอกไกโด"
+        },
+        {
+            "idx": "132",
+            "question": "เมืองใดของญี่ปุ่นที่มีชื่อเสียงในเรื่องเขตริมน้ำที่ได้รับการปรับปรุงใหม่และสถาปัตยกรรมสมัยใหม่?",
+            "answer": "โยโกฮามะ"
+        },
+        {
+            "idx": "62",
+            "question": "รูปแบบสถาปัตยกรรมญี่ปุ่นที่มีโครงสร้างไม้และยกพื้นเล็กน้อยจากพื้นดินเรียกว่าอะไร?",
+            "answer": "มินกะ"
+        },
+        {
+            "idx": "233",
+            "question": "คำศัพท์ภาษาญี่ปุ่นสำหรับนักเอนเตอร์เทนเนอร์หญิงที่ได้รับการฝึกฝนในศิลปะดั้งเดิมของญี่ปุ่นเรียกว่าอะไร?",
+            "answer": "เกอิชา"
+        },
+        {
+            "idx": "50",
+            "question": "เทศกาลใดที่ชาวญี่ปุ่นนิยมชมดอกซากุระ?",
+            "answer": "ฮานามิ"
+        },
+        {
+            "idx": "196",
+            "question": "งานฝีมือญี่ปุ่นแบบดั้งเดิมที่เย็บผ้าหลายชิ้นเข้าด้วยกันเรียกว่าอะไร?",
+            "answer": "ซาชิโกะ"
+        },
+        {
+            "idx": "82",
+            "question": "ปรัชญาญี่ปุ่นที่เน้นการปรับปรุงอย่างต่อเนื่องในการผลิตเรียกว่าอะไร?",
+            "answer": "ไคเซ็น"
+        },
+        {
+            "idx": "219",
+            "question": "ตำแหน่งผู้นำทหารของญี่ปุ่นในยุคศักดินาเรียกว่าอะไร?",
+            "answer": "โชกุน"
+        },
+        {
+            "idx": "216",
+            "question": "เมืองใดของญี่ปุ่นที่มีวัดโบราณและเคยเป็นเมืองหลวงเก่าของญี่ปุ่น?",
+            "answer": "เกียวโต"
+        },
+        {
+            "idx": "149",
+            "question": "เทศกาลญี่ปุ่นใดที่มีขบวนรถแห่และตุ๊กตากลไกที่วิจิตร?",
+            "answer": "กิอง มัตสึริ"
+        },
+        {
+            "idx": "5",
+            "question": "ระบบรัฐสภาของญี่ปุ่นที่ประกอบด้วยสองสภาเรียกว่าอะไร?",
+            "answer": "ไดเอทสองสภา"
+        },
+        {
+            "idx": "135",
+            "question": "เมืองใดของญี่ปุ่นเป็นเจ้าภาพโอลิมปิกฤดูหนาวปี 1998?",
+            "answer": "นากาโนะ"
+        },
+        {
+            "idx": "24",
+            "question": "การซ่อมแซมเครื่องปั้นดินเผาญี่ปุ่นด้วยแลคเกอร์ทองหรือเงินเรียกว่าอะไร?",
+            "answer": "คินสึงิ"
+        },
+        {
+            "idx": "4",
+            "question": "แนวคิดของญี่ปุ่นเกี่ยวกับการเสียชีวิตจากการทำงานหนักเกินไปเรียกว่าอะไร?",
+            "answer": "คาโรชิ"
+        },
+        {
+            "idx": "70",
+            "question": "ในอาหารญี่ปุ่น 'ฟุกุ' คืออะไร?",
+            "answer": "ปลาปักเป้า"
+        },
+        {
+            "idx": "142",
+            "question": "คำศัพท์สำหรับผู้ว่าราชการหรือจังหวัดในญี่ปุ่นคืออะไร?",
+            "answer": "ผู้ว่าราชการ"
+        },
+        {
+            "idx": "171",
+            "question": "เมืองหลวงของญี่ปุ่นคือเมืองอะไร?",
+            "answer": "โตเกียว"
+        },
+        {
+            "idx": "43",
+            "question": "สนธิสัญญาฉบับใดที่ลงนามในปี 1951 และยุติสงครามโลกครั้งที่สองสำหรับญี่ปุ่นอย่างเป็นทางการ?",
+            "answer": "สนธิสัญญาซานฟรานซิสโก"
+        },
+        {
+            "idx": "129",
+            "question": "โรงละครไม้แบบดั้งเดิมของญี่ปุ่นเรียกว่าอะไร?",
+            "answer": "โนะ"
+        },
+        {
+            "idx": "200",
+            "question": "คำศัพท์สำหรับนักเอนเตอร์เทนเนอร์หญิงมืออาชีพของญี่ปุ่นที่แสดงระบำและดนตรีแบบดั้งเดิมเรียกว่าอะไร?",
+            "answer": "เกอิชา"
+        },
+        {
+            "idx": "3",
+            "question": "เกาะญี่ปุ่นใดที่มีชื่อเสียงเรื่องเทศกาลหิมะและวัฒนธรรมที่โดดเด่น?",
+            "answer": "ฮอกไกโด"
+        },
+        {
+            "idx": "198",
+            "question": "เครื่องดื่มแอลกอฮอล์ญี่ปุ่นที่ทำจากการหมักข้าวเรียกว่าอะไร?",
+            "answer": "สาเก"
+        },
+        {
+            "idx": "96",
+            "question": "เทศกาลญี่ปุ่นใดเกี่ยวข้องกับการชมดอกซากุระ?",
+            "answer": "ฮานามิ"
+        },
+        {
+            "idx": "136",
+            "question": "คำศัพท์ญี่ปุ่นสำหรับรหัสทหารและการปกครองของซามูไรเรียกว่าอะไร?",
+            "answer": "บุชิโด"
+        },
+        {
+            "idx": "49",
+            "question": "เมืองใดของญี่ปุ่นที่มีเขตเกอิชากิองที่มีชื่อเสียง?",
+            "answer": "เกียวโต"
+        },
+        {
+            "idx": "27",
+            "question": "จังหวัดใดของญี่ปุ่นที่มีทัศนียภาพสวยงามและวิวภูเขาไฟฟูจิอันเป็นสัญลักษณ์?",
+            "answer": "ยามานาชิ"
+        },
+        {
+            "idx": "109",
+            "question": "เมืองใดของญี่ปุ่นที่มีพิพิธภัณฑ์มังงะนานาชาติ?",
+            "answer": "เกียวโต"
+        },
+        {
+            "idx": "86",
+            "question": "สนธิสัญญาฉบับใดที่ลงนามในปี 1854 และเปิดญี่ปุ่นสู่การค้ากับสหรัฐอเมริกา?",
+            "answer": "สนธิสัญญาคานางาวะ"
+        },
+        {
+            "idx": "217",
+            "question": "เมืองใดของญี่ปุ่นที่มีบ้านน้ำชาแบบดั้งเดิมและเขตเกอิชา?",
+            "answer": "เกียวโต"
+        },
+        {
+            "idx": "52",
+            "question": "คำภาษาญี่ปุ่นสำหรับ 'ความกลมเกลียว' ซึ่งเป็นค่านิยมพื้นฐานในวัฒนธรรมญี่ปุ่นคืออะไร?",
+            "answer": "วะ"
+        },
+        {
+            "idx": "126",
+            "question": "สถาปัตยกรรมไม้แบบดั้งเดิมของญี่ปุ่นที่ไม่มีการใช้ตะปูเรียกว่าอะไร?",
+            "answer": "ซาชิโมโนะ"
+        },
+        {
+            "idx": "32",
+            "question": "ศิลปะญี่ปุ่นที่ใช้หมึกดำสำหรับวาดภาพและอักษรวิจิตรเรียกว่าอะไร?",
+            "answer": "สุมิเอะ"
+        },
+        {
+            "idx": "214",
+            "question": "ศิลปะการต่อสู้ของญี่ปุ่นที่เน้นการเปลี่ยนทิศทางพลังงานของคู่ต่อสู้เรียกว่าอะไร?",
+            "answer": "ไอคิโด"
+        },
+        {
+            "idx": "168",
+            "question": "เมืองใดเคยเป็นเมืองหลวงเก่าของญี่ปุ่นมากว่า 1,000 ปี?",
+            "answer": "เกียวโต"
+        },
+        {
+            "idx": "228",
+            "question": "เทศกาลญี่ปุ่นที่ฉลองดวงดาวเวก้าและอัลแทร์ชื่อว่าอะไร?",
+            "answer": "ทานาบาตะ"
+        },
+        {
+            "idx": "92",
+            "question": "จักรพรรดิญี่ปุ่นที่ครองราชย์ในช่วงสงครามโลกครั้งที่สองคือใคร?",
+            "answer": "จักรพรรดิฮิโรฮิโตะ"
+        },
+        {
+            "idx": "134",
+            "question": "ยุคประวัติศาสตร์ของญี่ปุ่นที่มีการเกิดขึ้นของซามูไรเรียกว่าอะไร?",
+            "answer": "ยุคคามาคุระ"
+        },
+        {
+            "idx": "153",
+            "question": "บ่อน้ำพุร้อนของญี่ปุ่นเรียกว่าอะไร?",
+            "answer": "ออนเซ็น"
+        },
+        {
+            "idx": "75",
+            "question": "เทศกาลญี่ปุ่นใดที่เกี่ยวข้องกับการแบกศาลเจ้าขนาดเล็กไปตามถนน?",
+            "answer": "มัตสึริ"
+        },
+        {
+            "idx": "160",
+            "question": "เมืองใดของญี่ปุ่นที่มีวัดและศาลเจ้าประวัติศาสตร์ รวมถึงวัดโทไดจิที่มีพระพุทธรูปขนาดใหญ่?",
+            "answer": "นารา"
+        },
+        {
+            "idx": "141",
+            "question": "เมืองใดของญี่ปุ่นที่มีสวนเค็นโรคุเอนอันมีชื่อเสียงในศตวรรษที่ 17?",
+            "answer": "คานาซาวะ"
+        },
+        {
+            "idx": "56",
+            "question": "ศิลปะการตีดาบของญี่ปุ่นเรียกว่าอะไร?",
+            "answer": "การตีดาบคาตานะ"
+        },
+        {
+            "idx": "114",
+            "question": "เมืองใดของญี่ปุ่นเป็นเจ้าภาพโอลิมปิกฤดูร้อนครั้งสุดท้ายก่อนโตเกียว 2020?",
+            "answer": "โตเกียวในปี 1964"
+        },
+        {
+            "idx": "14",
+            "question": "ชื่อยุคของญี่ปุ่นที่เริ่มเมื่อวันที่ 1 พฤษภาคม 2019 คืออะไร?",
+            "answer": "เรวะ"
+        },
+        {
+            "idx": "1",
+            "question": "เครื่องแต่งกายแบบดั้งเดิมของญี่ปุ่นเรียกว่าอะไร?",
+            "answer": "กิโมโน"
+        },
+        {
+            "idx": "143",
+            "question": "เมืองใดของญี่ปุ่นที่มีสวนกวางและพระพุทธรูปใหญ่ที่น่าประทับใจ?",
+            "answer": "นารา"
+        },
+        {
+            "idx": "163",
+            "question": "ศิลปะการเขียนพู่กันของญี่ปุ่นเรียกว่าอะไร?",
+            "answer": "โชโด"
+        },
+        {
+            "idx": "170",
+            "question": "จังหวัดใดของญี่ปุ่นที่มีวัดโบราณและเจ้าชายโชโตกุที่มีชื่อเสียงทางประวัติศาสตร์?",
+            "answer": "นารา"
+        },
+        {
+            "idx": "190",
+            "question": "คำศัพท์ภาษาญี่ปุ่นสำหรับปลาตกแต่งที่พบได้บ่อยในบ่อและสวนญี่ปุ่นคืออะไร?",
+            "answer": "โค่ย"
+        },
+        {
+            "idx": "215",
+            "question": "คำภาษาญี่ปุ่นสำหรับ 'การเปลี่ยนแปลงไปในทางที่ดีขึ้น' ที่หมายถึงการปรับปรุงกระบวนการหรือระบบใด ๆ คืออะไร?",
+            "answer": "ไคเซ็น"
+        },
+        {
+            "idx": "207",
+            "question": "คำศัพท์ภาษาญี่ปุ่นสำหรับพิธีชงชาเขียวแบบดั้งเดิมเรียกว่าอะไร?",
+            "answer": "ชะโด หรือ ซะโด"
+        },
+        {
+            "idx": "182",
+            "question": "ชื่อของเกาะที่ใหญ่ที่สุดและอยู่เหนือสุดของหมู่เกาะญี่ปุ่นคืออะไร?",
+            "answer": "ฮอกไกโด"
+        },
+        {
+            "idx": "224",
+            "question": "อาหารญี่ปุ่นที่ประกอบด้วยปลาหรือเนื้อดิบหั่นบาง ๆ เรียกว่าอะไร?",
+            "answer": "ซาชิมิ"
+        },
+        {
+            "idx": "226",
+            "question": "บทกวีญี่ปุ่นที่มีการอ้างอิงฤดูกาลและคำตัดตอนเรียกว่าอะไร?",
+            "answer": "ไฮกุ"
+        },
+        {
+            "idx": "9",
+            "question": "สนธิสัญญาฉบับใดที่ทำให้ความสัมพันธ์ทางการทูตระหว่างญี่ปุ่นและเกาหลีใต้เป็นปกติในปี 1965?",
+            "answer": "สนธิสัญญาความสัมพันธ์พื้นฐานระหว่างญี่ปุ่นและสาธารณรัฐเกาหลี"
+        },
+        {
+            "idx": "227",
+            "question": "เมืองใดของญี่ปุ่นที่มีเทศกาลกิองประจำปีซึ่งเป็นหนึ่งในเทศกาลที่มีชื่อเสียงที่สุดของญี่ปุ่น?",
+            "answer": "เกียวโต"
+        },
+        {
+            "idx": "55",
+            "question": "รูปแบบการเขียนแนวตั้งของญี่ปุ่นที่ใช้ในเอกสารทางการเรียกว่าอะไร?",
+            "answer": "ทาเตะกากิ"
+        },
+        {
+            "idx": "112",
+            "question": "เมืองใดของญี่ปุ่นเป็นเมืองที่สองที่ถูกโจมตีด้วยระเบิดปรมาณู?",
+            "answer": "นางาซากิ"
+        },
+        {
+            "idx": "115",
+            "question": "อาหารญี่ปุ่นที่ทำจากข้าวปรุงรสด้วยน้ำส้มสายชูและมีหน้าต่าง ๆ โดยเฉพาะปลาเรียกว่าอะไร?",
+            "answer": "ซูชิ"
+        },
+        {
+            "idx": "29",
+            "question": "เมืองใดของญี่ปุ่นที่มีปราสาทดำทางประวัติศาสตร์ที่รู้จักกันในชื่อ 'ปราสาทอีกา'?",
+            "answer": "มัตสึโมโตะ"
+        },
+        {
+            "idx": "123",
+            "question": "เมืองใดของญี่ปุ่นที่รู้จักกันในชื่อ 'ครัวของญี่ปุ่น'?",
+            "answer": "โอซาก้า"
+        },
+        {
+            "idx": "192",
+            "question": "ไวน์ข้าวแบบดั้งเดิมของญี่ปุ่นเรียกว่าอะไร?",
+            "answer": "สาเก"
+        },
+        {
+            "idx": "63",
+            "question": "ภูเขาใดที่ถือเป็นภูเขาศักดิ์สิทธิ์ในญี่ปุ่นและเป็นสถานที่แสวงบุญยอดนิยม?",
+            "answer": "ภูเขาไฟฟูจิ"
+        },
+        {
+            "idx": "177",
+            "question": "ชื่อทีมเบสบอลอาชีพของญี่ปุ่นที่ตั้งอยู่ในโอซาก้าคืออะไร?",
+            "answer": "ฮันชิน ไทเกอร์ส"
+        },
+        {
+            "idx": "206",
+            "question": "ภูมิภาคใดของญี่ปุ่นที่มีชื่อเสียงในการผลิตข้าวคุณภาพสูงที่สุด?",
+            "answer": "นีงาตะ"
+        },
+        {
+            "idx": "110",
+            "question": "ขลุ่ยไม้ยาวแคบแบบดั้งเดิมของญี่ปุ่นเรียกว่าอะไร?",
+            "answer": "ชะคุฮาจิ"
+        },
+        {
+            "idx": "61",
+            "question": "การซ่อมแซมเครื่องปั้นดินเผาที่แตกของญี่ปุ่นด้วยแลคเกอร์ทองหรือเงินเรียกว่าอะไร?",
+            "answer": "คินสึงิ"
+        },
+        {
+            "idx": "13",
+            "question": "ซุปแบบดั้งเดิมของญี่ปุ่นที่ทำจากเต้าเจี้ยวหมักเรียกว่าอะไร?",
+            "answer": "ซุปมิโสะ"
+        },
+        {
+            "idx": "51",
+            "question": "เมืองใดของญี่ปุ่นที่มีเขตพ่อค้าประวัติศาสตร์และย่านคลอง?",
+            "answer": "คุราชิกิ"
+        },
+        {
+            "idx": "104",
+            "question": "เมืองใดของญี่ปุ่นที่มีชื่อเสียงด้านอุตสาหกรรมเทคโนโลยีและปราสาทประวัติศาสตร์?",
+            "answer": "โอซาก้า"
+        },
+        {
+            "idx": "201",
+            "question": "จังหวัดใดของญี่ปุ่นที่มีต้นสนซีดาร์โบราณและเป็นมรดกโลกของยูเนสโก?",
+            "answer": "ยากุชิมะ"
+        },
+        {
+            "idx": "210",
+            "question": "เรียวกังคืออะไร?",
+            "answer": "เรียวกัง"
+        },
+        {
+            "idx": "116",
+            "question": "ชื่อของบริการรถไฟหัวกระสุนที่เชื่อมโตเกียวและโอซาก้าคืออะไร?",
+            "answer": "ชินคันเซ็น"
+        },
+        {
+            "idx": "147",
+            "question": "เทือกเขาใดที่พาดผ่านใจกลางของเกาะฮอนชู ประเทศญี่ปุ่น?",
+            "answer": "เทือกเขาแอลป์ญี่ปุ่น"
+        },
+        {
+            "idx": "37",
+            "question": "ไวน์ข้าวของญี่ปุ่นเรียกว่าอะไร?",
+            "answer": "สาเก"
+        },
+        {
+            "idx": "128",
+            "question": "เกาะใดในญี่ปุ่นที่ขึ้นชื่อเรื่องภูมิอากาศกึ่งร้อนชื้นและวัฒนธรรมริวกิวที่โดดเด่น?",
+            "answer": "โอกินาว่า"
+        },
+        {
+            "idx": "125",
+            "question": "เมืองใดของญี่ปุ่นที่ผลิตสาเกในประเทศส่วนใหญ่ของญี่ปุ่น?",
+            "answer": "โกเบ"
+        },
+        {
+            "idx": "151",
+            "question": "เรียวกังคืออะไร?",
+            "answer": "เรียวกัง"
+        },
+        {
+            "idx": "97",
+            "question": "คำภาษาญี่ปุ่นสำหรับชนชั้นนักรบในยุคกลางและยุคใหม่ตอนต้นของญี่ปุ่นคืออะไร?",
+            "answer": "ซามูไร"
+        },
+        {
+            "idx": "57",
+            "question": "เทศกาลทางพุทธศาสนาของญี่ปุ่นที่อุทิศให้กับดวงวิญญาณของบรรพบุรุษเรียกว่าอะไร?",
+            "answer": "โอบ้ง"
+        },
+        {
+            "idx": "17",
+            "question": "อาหารญี่ปุ่นที่เป็นหมูชุบเกล็ดขนมปังทอดเรียกว่าอะไร?",
+            "answer": "ทงคัตสึ"
+        },
+        {
+            "idx": "64",
+            "question": "เมืองใดของญี่ปุ่นที่มีชื่อเสียงเรื่องอนุสรณ์สันติภาพและโดมระเบิดปรมาณู?",
+            "answer": "ฮิโรชิมา"
+        },
+        {
+            "idx": "205",
+            "question": "เมืองใดของญี่ปุ่นที่มีชื่อเสียงในเรื่องเครื่องปั้นดินเผาและตลาดเซรามิกแบบดั้งเดิม?",
+            "answer": "มาชิโกะ"
+        },
+        {
+            "idx": "218",
+            "question": "คำภาษาญี่ปุ่นสำหรับเชือกตกแต่งที่ใช้รัดโอบิของกิโมโนเรียกว่าอะไร?",
+            "answer": "โอบิจิเมะ"
+        },
+        {
+            "idx": "79",
+            "question": "เกาะญี่ปุ่นใดที่ขึ้นชื่อเรื่องบ่อน้ำพุร้อนและการเล่นสกี?",
+            "answer": "ฮอกไกโด"
+        },
+        {
+            "idx": "231",
+            "question": "เมืองใดของญี่ปุ่นที่มีชื่อเสียงเรื่องป่าไผ่?",
+            "answer": "เกียวโต (อาราชิยามะ)"
+        },
+        {
+            "idx": "10",
+            "question": "เมืองใดของญี่ปุ่นที่มีชื่อเสียงเรื่องบ้านพักซามูไรโบราณ?",
+            "answer": "คาคุโนะดาเตะ"
+        },
+        {
+            "idx": "45",
+            "question": "เมืองใดของญี่ปุ่นที่มีความสำคัญทางประวัติศาสตร์ในฐานะเมืองหลวงแห่งแรกของญี่ปุ่น?",
+            "answer": "นารา"
+        },
+        {
+            "idx": "106",
+            "question": "ชื่อยุคของญี่ปุ่นที่สิ้นสุดในปี 2019 คืออะไร?",
+            "answer": "เฮเซ"
+        },
+        {
+            "idx": "77",
+            "question": "คำภาษาญี่ปุ่นสำหรับความงามในความไม่สมบูรณ์แบบคืออะไร?",
+            "answer": "วาบิ-ซาบิ"
+        },
+        {
+            "idx": "42",
+            "question": "เมืองใดของญี่ปุ่นที่มีชื่อเสียงในงานหัตถกรรมและศิลปะพื้นบ้าน รวมถึงงานแลคเกอร์?",
+            "answer": "คานาซาวะ"
+        },
+        {
+            "idx": "204",
+            "question": "เมืองใดของญี่ปุ่นที่มีชื่อเสียงในเทศกาลหิมะประจำปีที่มีประติมากรรมน้ำแข็งขนาดใหญ่?",
+            "answer": "ซัปโปโร"
+        },
+        {
+            "idx": "41",
+            "question": "ดาบญี่ปุ่นที่มีขนาดเล็กกว่าคาตานะแต่ใหญ่กว่าทันโตะเรียกว่าอะไร?",
+            "answer": "วากิซาชิ"
+        },
+        {
+            "idx": "83",
+            "question": "ปรัชญาญี่ปุ่นที่เน้นความงามในความไม่สมบูรณ์แบบเรียกว่าอะไร?",
+            "answer": "วาบิ-ซาบิ"
+        },
+        {
+            "idx": "111",
+            "question": "ชื่อแม่น้ำที่ยาวที่สุดในญี่ปุ่นคืออะไร?",
+            "answer": "แม่น้ำชินาโนะ"
+        },
+        {
+            "idx": "161",
+            "question": "ระบบการเขียนของญี่ปุ่นที่ใช้ตัวอักษรที่มีต้นกำเนิดจากจีนเรียกว่าอะไร?",
+            "answer": "คันจิ"
+        },
+        {
+            "idx": "68",
+            "question": "อาหารปีใหม่แบบดั้งเดิมของญี่ปุ่นเรียกว่าอะไร?",
+            "answer": "โอเซจิ"
+        },
+        {
+            "idx": "212",
+            "question": "เกาะญี่ปุ่นใดตั้งอยู่ใกล้แผ่นดินใหญ่เอเชียมากที่สุด?",
+            "answer": "คิวชู"
+        },
+        {
+            "idx": "237",
+            "question": "ชื่อของเกาะที่ใหญ่ที่สุดและมีประชากรมากที่สุดในญี่ปุ่นคืออะไร?",
+            "answer": "ฮอนชู"
+        },
+        {
+            "idx": "179",
+            "question": "เมืองใดของญี่ปุ่นที่มีชื่อเสียงเรื่องสถาปัตยกรรมสมัยใหม่และยูนิเวอร์แซลสตูดิโอ?",
+            "answer": "โอซาก้า"
+        },
+        {
+            "idx": "208",
+            "question": "เทศกาลใดในญี่ปุ่นที่มีการแสดงดอกไม้ไฟอย่างยิ่งใหญ่?",
+            "answer": "เทศกาลดอกไม้ไฟแม่น้ำสุมิดะ"
+        },
+        {
+            "idx": "120",
+            "question": "ศิลปะการต่อสู้ของญี่ปุ่นที่เน้นการต่อสู้ด้วยดาบเรียกว่าอะไร?",
+            "answer": "เคนโด"
+        },
+        {
+            "idx": "154",
+            "question": "รูปแบบละครเวทีญี่ปุ่นแบบดั้งเดิมที่มีการแต่งหน้าและเครื่องแต่งกายที่วิจิตรเรียกว่าอะไร?",
+            "answer": "คาบูกิ"
+        },
+        {
+            "idx": "230",
+            "question": "เมืองใดของญี่ปุ่นที่มีชื่อเสียงด้านการย้อมครามแบบดั้งเดิม?",
+            "answer": "โทคุชิมะ"
+        },
+        {
+            "idx": "191",
+            "question": "เกาะญี่ปุ่นใดที่มีภาษาถิ่นและเอกลักษณ์ทางวัฒนธรรมที่โดดเด่น?",
+            "answer": "คิวชู"
+        },
+        {
+            "idx": "113",
+            "question": "สนธิสัญญาฉบับใดที่ยุตินโยบายปิดประเทศของญี่ปุ่นในปี 1854?",
+            "answer": "สนธิสัญญาคานางาวะ"
+        },
+        {
+            "idx": "127",
+            "question": "อาคารรัฐสภาของญี่ปุ่นเรียกว่าอะไร?",
+            "answer": "อาคารไดเอทแห่งชาติ"
+        },
+        {
+            "idx": "66",
+            "question": "ศิลปะการดมธูปของญี่ปุ่นเรียกว่าอะไร?",
+            "answer": "โคโด"
+        },
+        {
+            "idx": "31",
+            "question": "แนวคิดญี่ปุ่นเกี่ยวกับการปรับปรุงอย่างต่อเนื่องเรียกว่าอะไร?",
+            "answer": "ไคเซ็น"
+        },
+        {
+            "idx": "47",
+            "question": "ปราสาทใดของญี่ปุ่นที่มีชื่อเสียงในด้านการออกแบบป้องกันที่ซับซ้อนและมีประสิทธิภาพ?",
+            "answer": "ปราสาทฮิเมจิ"
+        },
+        {
+            "idx": "89",
+            "question": "ศิลปะการพับกระดาษแบบดั้งเดิมของญี่ปุ่นเรียกว่าอะไร?",
+            "answer": "โอริกามิ"
+        },
+        {
+            "idx": "95",
+            "question": "เมืองใดของญี่ปุ่นที่มีความสำคัญทางประวัติศาสตร์ด้านการพัฒนาเครื่องเคลือบญี่ปุ่น?",
+            "answer": "อาริตะ"
+        },
+        {
+            "idx": "152",
+            "question": "ศาลเจ้าชินโตศักดิ์สิทธิ์ที่ตั้งอยู่ในอิเสะชื่อว่าอะไร?",
+            "answer": "ศาลเจ้าใหญ่อิเสะ"
+        },
+        {
+            "idx": "174",
+            "question": "บุคคลสำคัญทางประวัติศาสตร์ของญี่ปุ่นที่มีชื่อเสียงในการรวมประเทศในปลายศตวรรษที่ 16 คือใคร?",
+            "answer": "โอดะ โนบุนางะ"
+        },
+        {
+            "idx": "184",
+            "question": "จังหวัดใดของญี่ปุ่นที่ขึ้นชื่อเรื่องปะการังและวัฒนธรรมเกาะที่เป็นเอกลักษณ์?",
+            "answer": "โอกินาว่า"
+        },
+        {
+            "idx": "203",
+            "question": "ปรัชญาญี่ปุ่นที่เน้นการปรับปรุงอย่างต่อเนื่องเรียกว่าอะไร?",
+            "answer": "ไคเซ็น"
+        },
+        {
+            "idx": "76",
+            "question": "เมืองใดของญี่ปุ่นที่ขึ้นชื่อเรื่องเขตอิเล็กทรอนิกส์และวัฒนธรรมโอตาคุ?",
+            "answer": "อากิฮาบาระ"
+        },
+        {
+            "idx": "88",
+            "question": "รูปแบบมวยปล้ำแบบดั้งเดิมของญี่ปุ่นเรียกว่าอะไร?",
+            "answer": "ซูโม่"
+        },
+        {
+            "idx": "148",
+            "question": "รูปแบบละครเวทีญี่ปุ่นที่แสดงโดยนักแสดงชายล้วนเรียกว่าอะไร?",
+            "answer": "คาบูกิ"
+        },
+        {
+            "idx": "46",
+            "question": "ลีกฟุตบอลอาชีพของญี่ปุ่นชื่อว่าอะไร?",
+            "answer": "เจลีก"
+        },
+        {
+            "idx": "232",
+            "question": "คำภาษาญี่ปุ่นสำหรับ 'หนังสือการ์ตูน' หรือ 'นิยายภาพ' คืออะไร?",
+            "answer": "มังงะ"
+        },
+        {
+            "idx": "175",
+            "question": "เมืองใดของญี่ปุ่นที่มีปราสาทเก่าแก่ซึ่งเป็นหนึ่งในมรดกทางวัฒนธรรมที่ล้ำค่าที่สุดของประเทศ?",
+            "answer": "ฮิเมจิ"
+        },
+        {
+            "idx": "235",
+            "question": "เมืองใดของญี่ปุ่นที่มีพระพุทธรูปสำริดขนาดใหญ่ซึ่งเป็นหนึ่งในพระพุทธรูปที่ใหญ่ที่สุดในญี่ปุ่น?",
+            "answer": "คามากูระ"
+        },
+        {
+            "idx": "176",
+            "question": "จังหวัดใดของญี่ปุ่นที่ขึ้นชื่อเรื่องป่าโบราณและเส้นทางแสวงบุญ?",
+            "answer": "วากายามะ"
+        },
+        {
+            "idx": "23",
+            "question": "ชื่อของรถไฟแม่เหล็กความเร็วสูงของญี่ปุ่นที่อยู่ระหว่างการพัฒนาคืออะไร?",
+            "answer": "ชูโอ ชินคันเซ็น"
+        },
+        {
+            "idx": "16",
+            "question": "เกาะใดของญี่ปุ่นที่ใหญ่ที่สุด?",
+            "answer": "ฮอนชู"
+        },
+        {
+            "idx": "40",
+            "question": "คำภาษาญี่ปุ่นสำหรับการสังสรรค์หลังเลิกงานที่ช่วยสร้างความสัมพันธ์ระหว่างเพื่อนร่วมงานคืออะไร?",
+            "answer": "โนมิไก"
+        },
+        {
+            "idx": "73",
+            "question": "เทศกาลญี่ปุ่นใดที่มีการเต้นรำและตีกลองในฤดูร้อน?",
+            "answer": "เทศกาลบง (โอบ้ง)"
+        },
+        {
+            "idx": "102",
+            "question": "เครื่องแต่งกายแบบดั้งเดิมของญี่ปุ่นที่คล้ายเสื้อคลุมเรียกว่าอะไร?",
+            "answer": "กิโมโน"
+        },
+        {
+            "idx": "130",
+            "question": "พิธีชงชาแบบดั้งเดิมของญี่ปุ่นเรียกว่าอะไร?",
+            "answer": "ชะโนะยุ หรือ ซะโด"
+        },
+        {
+            "idx": "80",
+            "question": "ประตูเลื่อนแบบญี่ปุ่นที่ทำจากไม้และกระดาษเรียกว่าอะไร?",
+            "answer": "โชจิ"
+        },
+        {
+            "idx": "186",
+            "question": "เมืองใดของญี่ปุ่นที่เป็นฐานทัพเรือหลักและจุดที่พลเรือจัตวาเพอร์รีขึ้นฝั่ง?",
+            "answer": "โยโกสึกะ"
+        },
+        {
+            "idx": "138",
+            "question": "ศิลปะการต่อสู้ของญี่ปุ่นที่เน้นการปล้ำและการต่อสู้บนพื้นเรียกว่าอะไร?",
+            "answer": "ยูโด"
+        },
+        {
+            "idx": "103",
+            "question": "คำศัพท์ที่ใช้เรียกภาพยนตร์และรายการโทรทัศน์อนิเมชันของญี่ปุ่นคืออะไร?",
+            "answer": "อนิเมะ"
+        },
+        {
+            "idx": "7",
+            "question": "ดัชนีตลาดหุ้นญี่ปุ่นที่ติดตามผลประกอบการของบริษัทขนาดกลางชื่อว่าอะไร?",
+            "answer": "TOPIX"
+        },
+        {
+            "idx": "158",
+            "question": "เมืองใดของญี่ปุ่นที่มีเทศกาลภาพยนตร์นานาชาติที่เน้นภาพยนตร์เอเชีย?",
+            "answer": "โตเกียว"
+        },
+        {
+            "idx": "194",
+            "question": "อาหารหมักจากถั่วเหลืองแบบดั้งเดิมของญี่ปุ่นเรียกว่าอะไร?",
+            "answer": "นัตโตะ"
+        },
+        {
+            "idx": "181",
+            "question": "คำภาษาญี่ปุ่นสำหรับ 'ครู' ที่ใช้เรียกหรือพูดถึงครูและปรมาจารย์ในศิลปะการต่อสู้คืออะไร?",
+            "answer": "เซ็นเซ"
+        },
+        {
+            "idx": "38",
+            "question": "เกาะญี่ปุ่นใดที่ขึ้นชื่อเรื่องที่ตั้งห่างไกลและภูมิอากาศกึ่งร้อนชื้น?",
+            "answer": "โอกินาว่า"
+        },
+        {
+            "idx": "72",
+            "question": "ชื่อการเต้นรำแบบดั้งเดิมของชาวไอนุในญี่ปุ่นที่ได้รับการรับรองโดยยูเนสโกคืออะไร?",
+            "answer": "ระบำไอนุ"
+        },
+        {
+            "idx": "195",
+            "question": "คำภาษาญี่ปุ่นสำหรับความงามในความเรียบง่ายและความพอประมาณคืออะไร?",
+            "answer": "ชิบุอิ"
+        },
+        {
+            "idx": "69",
+            "question": "คำภาษาญี่ปุ่นสำหรับสภาที่ปรึกษาและนโยบายของจักรพรรดิเรียกว่าอะไร?",
+            "answer": "สภาสำนักพระราชวัง"
+        },
+        {
+            "idx": "8",
+            "question": "ศิลปะการพับกระดาษของญี่ปุ่นเพื่อสร้างรูปร่างและรูปทรงตกแต่งเรียกว่าอะไร?",
+            "answer": "โอริกามิ"
+        },
+        {
+            "idx": "140",
+            "question": "คำภาษาญี่ปุ่นสำหรับแผงกั้นห้องที่ใช้แบ่งพื้นที่ในห้องเรียกว่าอะไร?",
+            "answer": "ฟุซุมะ"
+        },
+        {
+            "idx": "144",
+            "question": "คำภาษาญี่ปุ่นสำหรับกระดาษตกแต่งที่ใช้ในงานฝีมือดั้งเดิม เช่น โอริกามิ คืออะไร?",
+            "answer": "วาชิ"
+        },
+        {
+            "idx": "36",
+            "question": "ระบบตัวอักษรของญี่ปุ่นที่ใช้สำหรับคำญี่ปุ่นพื้นเมืองเป็นหลักเรียกว่าอะไร?",
+            "answer": "ฮิรางานะ"
+        },
+        {
+            "idx": "60",
+            "question": "เทศกาลญี่ปุ่นที่เด็ก ๆ แต่งตัวด้วยหมวกซามูไรหรือกิโมโนเพื่อเฉลิมฉลองการเติบโตและความสุขเรียกว่าอะไร?",
+            "answer": "วันเด็ก"
+        },
+        {
+            "idx": "99",
+            "question": "เมืองใดในญี่ปุ่นที่ถูกโจมตีด้วยระเบิดปรมาณูเป็นแห่งแรก?",
+            "answer": "ฮิโรชิมา"
+        },
+        {
+            "idx": "166",
+            "question": "เมืองใดของญี่ปุ่นที่เป็นเจ้าภาพจัดพาราลิมปิกฤดูหนาวครั้งแรกในเอเชีย?",
+            "answer": "นากาโนะ"
+        },
+        {
+            "idx": "145",
+            "question": "ยุคที่ญี่ปุ่นอยู่ภายใต้การปกครองของจักรพรรดิและได้รับอิทธิพลตะวันตกอย่างมากเรียกว่าอะไร?",
+            "answer": "ยุคเมจิ"
+        },
+        {
+            "idx": "178",
+            "question": "ดาบญี่ปุ่นที่มีใบมีดโค้งเรียวและคมเดียวที่มีชื่อเสียงเรียกว่าอะไร?",
+            "answer": "คาตานะ"
+        },
+        {
+            "idx": "33",
+            "question": "พิธีชงชาญี่ปุ่นที่เน้นความเรียบง่ายและความสงบเรียกว่าอะไร?",
+            "answer": "ชะโนะยุ"
+        },
+        {
+            "idx": "150",
+            "question": "จังหวัดใดของญี่ปุ่นที่ขึ้นชื่อเรื่องศิลปะการต่อสู้โบราณ โอกินาวะคาราเต้?",
+            "answer": "โอกินาว่า"
+        },
+        {
+            "idx": "124",
+            "question": "ศิลปะการต่อสู้ของญี่ปุ่นที่เน้นการจับล็อกและการทุ่มคู่ต่อสู้เรียกว่าอะไร?",
+            "answer": "ไอคิโด"
+        },
+        {
+            "idx": "185",
+            "question": "เมืองใดของญี่ปุ่นที่เป็นผู้นำด้านการผลิตรถยนต์?",
+            "answer": "โตโยต้า"
+        },
+        {
+            "idx": "156",
+            "question": "อาหารหม้อไฟแบบดั้งเดิมของญี่ปุ่นที่ปรุงบนโต๊ะอาหารเรียกว่าอะไร?",
+            "answer": "สุกี้ยากี้"
+        },
+        {
+            "idx": "221",
+            "question": "ศิลปะการจัดดอกไม้ของญี่ปุ่นเรียกว่าอะไร?",
+            "answer": "อิเคบานะ"
+        },
+        {
+            "idx": "19",
+            "question": "เครื่องราชอิสริยาภรณ์ทางทหารสูงสุดของญี่ปุ่นเรียกว่าอะไร?",
+            "answer": "เครื่องราชอิสริยาภรณ์ว่าวทองคำ"
+        },
+        {
+            "idx": "26",
+            "question": "เมืองใดของญี่ปุ่นที่มีสวนกวางและวัดโทไดจิ?",
+            "answer": "นารา"
+        },
+        {
+            "idx": "12",
+            "question": "จังหวัดใดของญี่ปุ่นที่มีลิงหิมะอาบน้ำพุร้อนที่มีชื่อเสียง?",
+            "answer": "นากาโนะ"
+        },
+        {
+            "idx": "59",
+            "question": "เทือกเขาใดของญี่ปุ่นที่พาดผ่านใจกลางเกาะฮอนชู?",
+            "answer": "เทือกเขาแอลป์ญี่ปุ่น"
+        },
+        {
+            "idx": "84",
+            "question": "ดัชนีตลาดหุ้นของญี่ปุ่นชื่อว่าอะไร?",
+            "answer": "นิกเกอิ 225"
+        },
+        {
+            "idx": "93",
+            "question": "เมืองใดของญี่ปุ่นที่มีรูปปั้นสุนัขผู้ซื่อสัตย์ฮาจิโกะ?",
+            "answer": "โตเกียว"
+        },
+        {
+            "idx": "34",
+            "question": "ปราสาทญี่ปุ่นที่มีลักษณะภายนอกสีดำและตั้งอยู่ในเมืองชื่อเดียวกันคืออะไร?",
+            "answer": "ปราสาทคุมาโมโตะ"
+        },
+        {
+            "idx": "53",
+            "question": "โรงละครหุ่นเชิดแบบดั้งเดิมของญี่ปุ่นเรียกว่าอะไร?",
+            "answer": "บุนระคุ"
+        },
+        {
+            "idx": "21",
+            "question": "ชื่อยุคของญี่ปุ่นที่เริ่มในปี 1989 และสิ้นสุดในปี 2019 คืออะไร?",
+            "answer": "เฮเซ"
+        },
+        {
+            "idx": "118",
+            "question": "เครื่องดื่มแอลกอฮอล์ของญี่ปุ่นที่หมักด้วยเชื้อโคจิเรียกว่าอะไร?",
+            "answer": "สาเก"
+        },
+        {
+            "idx": "2",
+            "question": "การอาบป่าในญี่ปุ่นหรือการสัมผัสบรรยากาศป่าเพื่อการผ่อนคลายเรียกว่าอะไร?",
+            "answer": "ชินริน-โยคุ"
+        },
+        {
+            "idx": "94",
+            "question": "คำภาษาญี่ปุ่นสำหรับศิลปะการตีดาบคืออะไร?",
+            "answer": "โทโซกุ"
+        },
+        {
+            "idx": "6",
+            "question": "หมู่เกาะญี่ปุ่นใดที่มีภูมิอากาศแบบเขตร้อนและวัฒนธรรมเฉพาะตัว?",
+            "answer": "หมู่เกาะโอกินาว่า"
+        },
+        {
+            "idx": "121",
+            "question": "เกาะญี่ปุ่นใดที่มีภูเขาไฟและบ่อน้ำพุร้อนที่ยังคุกรุ่นอยู่?",
+            "answer": "คิวชู"
+        },
+        {
+            "idx": "131",
+            "question": "การตีกลองแบบดั้งเดิมของญี่ปุ่นเรียกว่าอะไร?",
+            "answer": "ไทโกะ"
+        },
+        {
+            "idx": "236",
+            "question": "เมืองใดในญี่ปุ่นที่ถูกโจมตีด้วยระเบิดปรมาณูเป็นแห่งแรกในสงครามโลกครั้งที่สอง?",
+            "answer": "ฮิโรชิมา"
+        },
+        {
+            "idx": "35",
+            "question": "เมืองใดของญี่ปุ่นที่มีปราสาทศตวรรษที่ 16 ที่มีรูปปั้นปลาโลมาสีทอง?",
+            "answer": "นาโกย่า"
+        },
+        {
+            "idx": "87",
+            "question": "คำภาษาญี่ปุ่นสำหรับนักเล่านิทานมืออาชีพในศิลปะการเล่านิทานตลกแบบดั้งเดิมของญี่ปุ่นคืออะไร?",
+            "answer": "ราคุโกะ"
+        },
+        {
+            "idx": "165",
+            "question": "เมืองใดของญี่ปุ่นที่มีชื่อเสียงเรื่องราเมงและย่านบันเทิงซูซูกิโนะ?",
+            "answer": "ซัปโปโร"
+        },
+        {
+            "idx": "188",
+            "question": "เมืองหลวงจังหวัดที่อยู่เหนือสุดของญี่ปุ่นซึ่งมีชื่อเสียงในเทศกาลหิมะคือเมืองใด?",
+            "answer": "ซัปโปโร"
+        },
+        {
+            "idx": "39",
+            "question": "เมืองใดในญี่ปุ่นที่เคยเป็นเมืองหลวงจักรวรรดิมากว่าหนึ่งพันปีก่อนโตเกียว?",
+            "answer": "เกียวโต"
+        },
+        {
+            "idx": "162",
+            "question": "ชื่อของจรรยาบรรณนักรบโบราณของญี่ปุ่นคืออะไร?",
+            "answer": "บุชิโด"
+        },
+        {
+            "idx": "137",
+            "question": "คำภาษาญี่ปุ่นสำหรับมื้ออาหารที่ประกอบด้วยอาหารจานเล็กหลายอย่างเพื่อรับประทานกับเครื่องดื่มแอลกอฮอล์คืออะไร?",
+            "answer": "อิซากายะ"
+        },
+        {
+            "idx": "15",
+            "question": "ศิลปะการต่อสู้ของญี่ปุ่นที่มีความหมายว่า 'วิถีแห่งดาบ' คืออะไร?",
+            "answer": "เคนโด"
+        },
+        {
+            "idx": "157",
+            "question": "ศาสนาหลักของญี่ปุ่นที่เน้นการเคารพบรรพบุรุษและวิญญาณธรรมชาติคืออะไร?",
+            "answer": "ชินโต"
+        },
+        {
+            "idx": "180",
+            "question": "ภูเขาใดถือเป็นภูเขาศักดิ์สิทธิ์และเป็นยอดเขาที่สูงที่สุดของญี่ปุ่น?",
+            "answer": "ภูเขาไฟฟูจิ"
+        },
+        {
+            "idx": "20",
+            "question": "ศิลปะการต่อสู้ของญี่ปุ่นที่ใช้เทคนิคการล็อกและการทุ่มเรียกว่าอะไร?",
+            "answer": "ยูยิตสู"
+        },
+        {
+            "idx": "187",
+            "question": "ชื่อของเกมไพ่ญี่ปุ่นที่ใช้ภาพวาดบนเปลือกหอยคืออะไร?",
+            "answer": "คารุตะ"
+        },
+        {
+            "idx": "22",
+            "question": "จังหวัดใดของญี่ปุ่นที่มีภูเขาสูงและหิมะตกหนัก?",
+            "answer": "นากาโนะ"
+        },
+        {
+            "idx": "108",
+            "question": "ชื่อของทะเลสาบที่ลึกที่สุดในญี่ปุ่นซึ่งขึ้นชื่อเรื่องน้ำใสคืออะไร?",
+            "answer": "ทะเลสาบบิวะ"
+        },
+        {
+            "idx": "222",
+            "question": "ยุคใดในประวัติศาสตร์ญี่ปุ่นที่ประเทศปิดตัวเองจากอิทธิพลต่างชาติเป็นส่วนใหญ่?",
+            "answer": "ซะโคคุ"
+        },
+        {
+            "idx": "65",
+            "question": "ปราสาทใดของญี่ปุ่นที่เรียกว่า 'ปราสาทนกกระสาขาว' เนื่องจากมีลักษณะขาวสง่างาม?",
+            "answer": "ปราสาทฮิเมจิ"
+        },
+        {
+            "idx": "74",
+            "question": "ยุคใดในประวัติศาสตร์ญี่ปุ่นที่กินเวลาตั้งแต่ปี 1603 ถึง 1868 และปกครองโดยโชกุนโทคุกาวะ?",
+            "answer": "ยุคเอโดะ"
+        },
+        {
+            "idx": "197",
+            "question": "ชื่อของประตูแบบดั้งเดิมของญี่ปุ่นที่มักพบที่ทางเข้าและในศาลเจ้าชินโตคืออะไร?",
+            "answer": "โทริอิ"
+        },
+        {
+            "idx": "54",
+            "question": "ภูเขาไฟที่ยังคุกรุ่นที่ใหญ่ที่สุดในญี่ปุ่นชื่อว่าอะไร?",
+            "answer": "ภูเขาไฟอาโสะ"
+        },
+        {
+            "idx": "199",
+            "question": "เมืองใดของญี่ปุ่นที่มีปราสาทประวัติศาสตร์ซึ่งเป็นมรดกโลกและมีฉายาว่า 'ปราสาทอีกา'?",
+            "answer": "มัตสึโมโตะ"
+        },
+        {
+            "idx": "91",
+            "question": "คำภาษาญี่ปุ่นสำหรับมื้ออาหารที่เสิร์ฟในกล่องเคลือบซึ่งมักประกอบด้วยข้าว ปลา และผักคืออะไร?",
+            "answer": "เบนโตะ"
+        },
+        {
+            "idx": "105",
+            "question": "คำภาษาญี่ปุ่นสำหรับผู้บัญชาการทหารที่กลายเป็นผู้ปกครองญี่ปุ่นโดยพฤตินัยตั้งแต่ศตวรรษที่ 12 ถึง 19 คืออะไร?",
+            "answer": "โชกุน"
+        },
+        {
+            "idx": "28",
+            "question": "เมืองใดของญี่ปุ่นที่มีสวนอนุสรณ์สันติภาพเพื่อรำลึกถึงเหยื่อระเบิดปรมาณู?",
+            "answer": "ฮิโรชิมา"
+        },
+        {
+            "idx": "71",
+            "question": "รูปแบบบทกวีแบบดั้งเดิมของญี่ปุ่นที่มีสามบรรทัดและสิบเจ็ดพยางค์เรียกว่าอะไร?",
+            "answer": "ไฮกุ"
+        },
+        {
+            "idx": "18",
+            "question": "ปรัชญาญี่ปุ่นที่เน้นความสำคัญของแต่ละขณะ กระตุ้นให้ใช้ชีวิตอย่างเต็มที่ในปัจจุบันเรียกว่าอะไร?",
+            "answer": "อิจิโกะ อิชิเอะ"
+        },
+        {
+            "idx": "117",
+            "question": "ชื่อของกลุ่มชาติพันธุ์พื้นเมืองของญี่ปุ่นที่อาศัยอยู่ในฮอกไกโดเป็นหลักคืออะไร?",
+            "answer": "ไอนุ"
+        },
+        {
+            "idx": "155",
+            "question": "เมืองใดของญี่ปุ่นที่มีเขตซามูไรโบราณและสวนที่มีสะพานชื่อดัง?",
+            "answer": "คานาซาวะ"
+        },
+        {
+            "idx": "81",
+            "question": "คำภาษาญี่ปุ่นสำหรับ 'ออร์เคสตราว่างเปล่า' ที่หมายถึงรูปแบบความบันเทิงแบบอินเตอร์แอคทีฟคืออะไร?",
+            "answer": "คาราโอเกะ"
+        },
+        {
+            "idx": "211",
+            "question": "ศิลปะการดมธูปของญี่ปุ่นเรียกว่าอะไร?",
+            "answer": "โคโด"
+        },
+        {
+            "idx": "107",
+            "question": "ระบบรถไฟหัวกระสุนของญี่ปุ่นที่มีชื่อเสียงไปทั่วโลกคืออะไร?",
+            "answer": "ชินคันเซ็น"
+        },
+        {
+            "idx": "11",
+            "question": "เทศกาลญี่ปุ่นใดที่เกี่ยวข้องกับการแบกศาลเจ้าขนาดเล็กไปตามถนน?",
+            "answer": "มัตสึริ"
+        },
+        {
+            "idx": "25",
+            "question": "เมืองใดของญี่ปุ่นที่มีปราสาทยุคศักดินาโบราณและต้นซากุระรอบ ๆ?",
+            "answer": "ฮิโรซากิ"
+        },
+        {
+            "idx": "234",
+            "question": "จักรพรรดิญี่ปุ่นที่สละราชสมบัติในปี 2019 ซึ่งเป็นครั้งแรกในรอบกว่าสองศตวรรษคือใคร?",
+            "answer": "จักรพรรดิอากิฮิโตะ"
+        },
+        {
+            "idx": "173",
+            "question": "ศิลปะการปลูกต้นไม้จิ๋วของญี่ปุ่นเรียกว่าอะไร?",
+            "answer": "บอนไซ"
+        }
+    ],
+    "fr": [
+        {
+            "idx": "167",
+            "question": "Quel est le nom de la pratique japonaise de bain dans l'atmosphère forestière à des fins thérapeutiques?",
+            "answer": "Shinrin-yoku"
+        },
+        {
+            "idx": "67",
+            "question": "Quel type de poterie japonaise, connu pour son aspect rustique, provient de la ville de Mashiko?",
+            "answer": "Mashiko-yaki"
+        },
+        {
+            "idx": "229",
+            "question": "Quel est l'art martial japonais qui signifie 'la voie douce'?",
+            "answer": "Judo"
+        },
+        {
+            "idx": "30",
+            "question": "Quelle préfecture japonaise est connue pour son étang bleu, une attraction touristique populaire en raison de sa couleur unique?",
+            "answer": "Hokkaido"
+        },
+        {
+            "idx": "213",
+            "question": "Quel est le nom du plat japonais composé d'une pâte d'œufs, de farine et de chou râpé, généralement garni de diverses sauces?",
+            "answer": "Okonomiyaki"
+        },
+        {
+            "idx": "159",
+            "question": "Quel est le terme japonais pour les êtres spirituels qui sont centraux dans la religion shintoïste?",
+            "answer": "Kami"
+        },
+        {
+            "idx": "169",
+            "question": "Qui a été le premier shogun du shogunat Tokugawa?",
+            "answer": "Tokugawa Ieyasu"
+        },
+        {
+            "idx": "100",
+            "question": "Quel est le nom du théâtre japonais traditionnel qui utilise des masques pour représenter les personnages?",
+            "answer": "Noh"
+        },
+        {
+            "idx": "239",
+            "question": "Quel est le nom de la technique japonaise de pêche utilisant des cormorans entraînés?",
+            "answer": "Ukai"
+        },
+        {
+            "idx": "209",
+            "question": "Quel est le nom du sport national japonais impliquant deux lutteurs dans un ring circulaire?",
+            "answer": "Sumo"
+        },
+        {
+            "idx": "164",
+            "question": "Quelle ville japonaise est connue pour son château et comme ancienne forteresse de samouraïs?",
+            "answer": "Himeji"
+        },
+        {
+            "idx": "189",
+            "question": "Quel est le nom de la philosophie japonaise qui se concentre sur la beauté dans la nature éphémère et transitoire de la vie?",
+            "answer": "Mono no aware"
+        },
+        {
+            "idx": "193",
+            "question": "Quel est le célèbre marché aux poissons de Tokyo?",
+            "answer": "Marché Tsukiji (maintenant Toyosu)"
+        },
+        {
+            "idx": "139",
+            "question": "Comment s'appelle le dîner japonais traditionnel à plusieurs plats?",
+            "answer": "Kaiseki"
+        },
+        {
+            "idx": "101",
+            "question": "Quelle ville japonaise est connue pour son château, l'un des douze châteaux originaux du Japon?",
+            "answer": "Hikone"
+        },
+        {
+            "idx": "98",
+            "question": "Quelle ville japonaise est connue pour son château du XVIe siècle appelé 'Château du Héron Blanc'?",
+            "answer": "Himeji"
+        },
+        {
+            "idx": "238",
+            "question": "Quel est le nom de l'art japonais de l'arrangement floral?",
+            "answer": "Ikebana"
+        },
+        {
+            "idx": "146",
+            "question": "Quel est le nom de l'esprit japonais fabriqué à partir de distillation de barley, patates douces ou riz?",
+            "answer": "Shochu"
+        },
+        {
+            "idx": "85",
+            "question": "Quel est le nom de la marionnette japonaise manipulée par plusieurs marionnettistes et impliquant de grandes marionnettes ornées?",
+            "answer": "Bunraku"
+        },
+        {
+            "idx": "183",
+            "question": "Quel est le nom de la mer qui borde le Japon à l'ouest?",
+            "answer": "Mer du Japon"
+        },
+        {
+            "idx": "48",
+            "question": "Quelle île japonaise est célèbre pour son rôle dans les lancements de satellites spatiaux?",
+            "answer": "Tanegashima"
+        },
+        {
+            "idx": "220",
+            "question": "Quelle ville japonaise est connue pour son district électronique Akihabara?",
+            "answer": "Tokyo"
+        },
+        {
+            "idx": "78",
+            "question": "Comment s'appelle l'organe législatif du Japon?",
+            "answer": "Le Parlement"
+        },
+        {
+            "idx": "225",
+            "question": "Quel est le nom de l'art martial japonais utilisant des épées en bambou?",
+            "answer": "Kendo"
+        },
+        {
+            "idx": "90",
+            "question": "Quel était le nom du projet pour le développement de la bombe atomique larguée sur Hiroshima?",
+            "answer": "Projet Manhattan"
+        },
+        {
+            "idx": "58",
+            "question": "Quelle île japonaise est connue pour sa culture unique d'Okinawa?",
+            "answer": "Okinawa"
+        },
+        {
+            "idx": "44",
+            "question": "Quel est le nom de la philosophie et de la pratique japonaise de l'amélioration continue au travail?",
+            "answer": "Kaizen"
+        },
+        {
+            "idx": "122",
+            "question": "Quelle ville japonaise est connue pour son Festival annuel de la neige à Sapporo?",
+            "answer": "Sapporo"
+        },
+        {
+            "idx": "172",
+            "question": "Quelle île japonaise est disputée et revendiquée à la fois par le Japon et la Russie?",
+            "answer": "Îles Kouriles"
+        },
+        {
+            "idx": "133",
+            "question": "Quel est le tapis traditionnel japonais en paille tissée utilisé dans la plupart des maisons japonaises?",
+            "answer": "Tatami"
+        },
+        {
+            "idx": "202",
+            "question": "Quelle ville japonaise est connue pour son importance historique en tant que centre de production de sabres fins et d'artisanat traditionnel?",
+            "answer": "Seki"
+        },
+        {
+            "idx": "119",
+            "question": "Quel est le nom du train à grande vitesse reliant Tokyo à Hakata?",
+            "answer": "Tokaido Shinkansen"
+        },
+        {
+            "idx": "223",
+            "question": "Quelle île japonaise est connue pour ses hivers rigoureux et ses glaces flottantes?",
+            "answer": "Hokkaido"
+        },
+        {
+            "idx": "132",
+            "question": "Quelle ville japonaise est connue pour son district en bord de mer rénové et son architecture moderne?",
+            "answer": "Yokohama"
+        },
+        {
+            "idx": "62",
+            "question": "Quel est le nom du style architectural japonais caractérisé par des structures en bois et légèrement surélevées?",
+            "answer": "Minka"
+        },
+        {
+            "idx": "233",
+            "question": "Quel est le terme japonais pour une femme artiste professionnelle formée aux arts traditionnels japonais?",
+            "answer": "Geisha"
+        },
+        {
+            "idx": "50",
+            "question": "Pendant quel festival les Japonais aiment-ils admirer les cerisiers en fleurs?",
+            "answer": "Hanami"
+        },
+        {
+            "idx": "196",
+            "question": "Quelle est la pratique artisanale japonaise consistant à recoudre des morceaux de tissu ensemble?",
+            "answer": "Sashiko"
+        },
+        {
+            "idx": "82",
+            "question": "Quel est le nom de la philosophie japonaise qui met l'accent sur l'amélioration continue en fabrication?",
+            "answer": "Kaizen"
+        },
+        {
+            "idx": "219",
+            "question": "Quel est le titre des dictateurs militaires du Japon durant la période féodale?",
+            "answer": "Shogun"
+        },
+        {
+            "idx": "216",
+            "question": "Quelle ville japonaise est connue pour ses temples historiques et comme ancienne capitale du Japon?",
+            "answer": "Kyoto"
+        },
+        {
+            "idx": "149",
+            "question": "Quel festival japonais est connu pour ses défilés élaborés et ses poupées mécaniques?",
+            "answer": "Gion Matsuri"
+        },
+        {
+            "idx": "5",
+            "question": "Quel est le nom du système parlementaire japonais composé de deux chambres?",
+            "answer": "Diète bicamérale"
+        },
+        {
+            "idx": "135",
+            "question": "Quelle ville japonaise a accueilli les Jeux Olympiques d'hiver de 1998?",
+            "answer": "Nagano"
+        },
+        {
+            "idx": "24",
+            "question": "Quel est le nom de la pratique japonaise de réparation de céramique avec de l'or ou de l'argent?",
+            "answer": "Kintsugi"
+        },
+        {
+            "idx": "4",
+            "question": "Quel est le concept japonais de mort par surcharge de travail?",
+            "answer": "Karoshi"
+        },
+        {
+            "idx": "70",
+            "question": "Dans la cuisine japonaise, qu'est-ce que le 'fugu'?",
+            "answer": "Fugu (poisson-globe)"
+        },
+        {
+            "idx": "142",
+            "question": "Quel est le terme pour un gouverneur ou une préfecture japonaise?",
+            "answer": "Gouverneur"
+        },
+        {
+            "idx": "171",
+            "question": "Quelle est la capitale du Japon?",
+            "answer": "Tokyo"
+        },
+        {
+            "idx": "43",
+            "question": "Quel traité, signé en 1951, a officiellement mis fin à la Seconde Guerre mondiale pour le Japon?",
+            "answer": "Traité de San Francisco"
+        },
+        {
+            "idx": "129",
+            "question": "Quel est le nom du théâtre japonais en bois traditionnel?",
+            "answer": "Noh"
+        },
+        {
+            "idx": "200",
+            "question": "Quel est le terme pour une artiste japonaise professionnelle qui danse et joue de la musique traditionnelle?",
+            "answer": "Geisha"
+        },
+        {
+            "idx": "3",
+            "question": "Quelle île japonaise est célèbre pour ses festivals de neige et sa culture distincte?",
+            "answer": "Hokkaido"
+        },
+        {
+            "idx": "198",
+            "question": "Quel est le nom de la boisson alcoolisée japonaise fabriquée par fermentation du riz?",
+            "answer": "Sake"
+        },
+        {
+            "idx": "96",
+            "question": "Quel festival japonais implique l'observation des cerisiers en fleurs?",
+            "answer": "Hanami"
+        },
+        {
+            "idx": "136",
+            "question": "Quel est le terme japonais pour le code militaire et administratif des samouraïs?",
+            "answer": "Bushido"
+        },
+        {
+            "idx": "49",
+            "question": "Quelle ville japonaise est célèbre pour son district de geishas Gion?",
+            "answer": "Kyoto"
+        },
+        {
+            "idx": "27",
+            "question": "Quelle préfecture japonaise est connue pour sa beauté scénique et sa vue emblématique du mont Fuji?",
+            "answer": "Yamanashi"
+        },
+        {
+            "idx": "109",
+            "question": "Quelle ville japonaise est connue pour son musée international du manga?",
+            "answer": "Kyoto"
+        },
+        {
+            "idx": "86",
+            "question": "Quel traité, signé en 1854, a ouvert le Japon au commerce avec les États-Unis?",
+            "answer": "Traité de Kanagawa"
+        },
+        {
+            "idx": "217",
+            "question": "Quelle ville japonaise est connue pour ses maisons de thé traditionnelles et son district de geishas?",
+            "answer": "Kyoto"
+        },
+        {
+            "idx": "52",
+            "question": "Quel est le mot japonais pour 'harmonie', qui est une valeur fondamentale dans la culture japonaise?",
+            "answer": "Wa"
+        },
+        {
+            "idx": "126",
+            "question": "Comment s'appelle l'architecture en bois traditionnelle japonaise sans clous?",
+            "answer": "Sashimono"
+        },
+        {
+            "idx": "32",
+            "question": "Quel est le nom de l'art japonais qui utilise de l'encre noire pour la peinture et la calligraphie?",
+            "answer": "Sumi-e"
+        },
+        {
+            "idx": "214",
+            "question": "Quelle est la discipline martiale japonaise qui se concentre sur la redirection de l'énergie de l'adversaire?",
+            "answer": "Aikido"
+        },
+        {
+            "idx": "168",
+            "question": "Quelle ville a été la capitale ancienne du Japon pendant plus de 1 000 ans?",
+            "answer": "Kyoto"
+        },
+        {
+            "idx": "228",
+            "question": "Quel est le nom du festival japonais qui célèbre l'étoile Vega et Altair?",
+            "answer": "Tanabata"
+        },
+        {
+            "idx": "92",
+            "question": "Quel est le nom de l'empereur japonais qui a régné pendant la Seconde Guerre mondiale?",
+            "answer": "Empereur Hirohito"
+        },
+        {
+            "idx": "134",
+            "question": "Quelle période historique au Japon a été caractérisée par l'émergence des samouraïs?",
+            "answer": "Période Kamakura"
+        },
+        {
+            "idx": "153",
+            "question": "Quel est le nom de la source chaude japonaise?",
+            "answer": "Onsen"
+        },
+        {
+            "idx": "75",
+            "question": "Quel festival japonais implique le port de sanctuaires portables dans les rues?",
+            "answer": "Matsuri"
+        },
+        {
+            "idx": "160",
+            "question": "Quelle ville japonaise est connue pour ses temples et sanctuaires historiques, dont Todai-ji qui abrite une statue géante de Bouddha?",
+            "answer": "Nara"
+        },
+        {
+            "idx": "141",
+            "question": "Quelle ville japonaise est célèbre pour son jardin du XVIIe siècle, Kenroku-en?",
+            "answer": "Kanazawa"
+        },
+        {
+            "idx": "56",
+            "question": "Comment s'appelle l'art japonais de la fabrication de sabres?",
+            "answer": "Fabrication de katana"
+        },
+        {
+            "idx": "114",
+            "question": "Quelle ville japonaise a été la dernière à accueillir les Jeux Olympiques d'été avant Tokyo 2020?",
+            "answer": "Tokyo en 1964"
+        },
+        {
+            "idx": "14",
+            "question": "Quel est le nom de l'ère japonaise qui a commencé le 1er mai 2019?",
+            "answer": "Reiwa"
+        },
+        {
+            "idx": "1",
+            "question": "Quel est le nom du vêtement traditionnel japonais?",
+            "answer": "Kimono"
+        },
+        {
+            "idx": "143",
+            "question": "Quelle ville japonaise est connue pour son parc de cerfs et sa statue géante de Bouddha?",
+            "answer": "Nara"
+        },
+        {
+            "idx": "163",
+            "question": "Comment s'appelle l'art japonais de la calligraphie?",
+            "answer": "Shodo"
+        },
+        {
+            "idx": "170",
+            "question": "Quelle préfecture japonaise est connue pour ses temples anciens et la figure historique du prince Shotoku?",
+            "answer": "Nara"
+        },
+        {
+            "idx": "190",
+            "question": "Quel est le terme japonais pour les poissons décoratifs, couramment présents dans les étangs et jardins d'eau?",
+            "answer": "Koi"
+        },
+        {
+            "idx": "215",
+            "question": "Quel est le mot japonais pour 'changer pour le mieux', faisant référence à une amélioration de tout processus ou système?",
+            "answer": "Kaizen"
+        },
+        {
+            "idx": "207",
+            "question": "Quel est le terme japonais pour la manière cérémonielle de préparer et de boire du thé vert?",
+            "answer": "Chado ou Sado"
+        },
+        {
+            "idx": "182",
+            "question": "Quel est le nom de la plus grande et la plus au nord des îles de l'archipel japonais?",
+            "answer": "Hokkaido"
+        },
+        {
+            "idx": "224",
+            "question": "Quel est le plat japonais composé de poisson ou de viande crue finement tranchée?",
+            "answer": "Sashimi"
+        },
+        {
+            "idx": "226",
+            "question": "Quelle est la forme de poésie japonaise qui inclut une référence saisonnière et un mot de coupe?",
+            "answer": "Haiku"
+        },
+        {
+            "idx": "9",
+            "question": "Quel traité, signé en 1965, a normalisé les relations diplomatiques entre le Japon et la Corée du Sud?",
+            "answer": "Traité de base entre le Japon et la République de Corée"
+        },
+        {
+            "idx": "227",
+            "question": "Quelle ville japonaise est connue pour son festival Gion annuel, l'un des festivals les plus célèbres du Japon?",
+            "answer": "Kyoto"
+        },
+        {
+            "idx": "55",
+            "question": "Quel est le nom du style d'écriture vertical japonais, traditionnellement utilisé dans les documents officiels?",
+            "answer": "Tategaki"
+        },
+        {
+            "idx": "112",
+            "question": "Quelle ville japonaise a été la deuxième à être attaquée avec une bombe atomique?",
+            "answer": "Nagasaki"
+        },
+        {
+            "idx": "115",
+            "question": "Quel est le nom du plat japonais composé de riz vinaigré avec diverses garnitures, généralement du poisson?",
+            "answer": "Sushi"
+        },
+        {
+            "idx": "29",
+            "question": "Quelle ville japonaise est connue pour son château noir historique, également appelé 'Château du Corbeau'?",
+            "answer": "Matsumoto"
+        },
+        {
+            "idx": "123",
+            "question": "Quelle ville japonaise est connue comme la 'cuisine du Japon'?",
+            "answer": "Osaka"
+        },
+        {
+            "idx": "192",
+            "question": "Quel est le nom du saké japonais traditionnel?",
+            "answer": "Sake"
+        },
+        {
+            "idx": "63",
+            "question": "Quelle montagne est considérée comme sacrée au Japon et un lieu de pèlerinage populaire?",
+            "answer": "Mont Fuji"
+        },
+        {
+            "idx": "177",
+            "question": "Quel est le nom de l'équipe de baseball professionnelle japonaise basée à Osaka?",
+            "answer": "Hanshin Tigers"
+        },
+        {
+            "idx": "206",
+            "question": "Quelle région japonaise est célèbre pour produire le riz de la plus haute qualité?",
+            "answer": "Niigata"
+        },
+        {
+            "idx": "110",
+            "question": "Quel est le nom de la flûte en bois longue et fine, traditionnelle dans la musique japonaise?",
+            "answer": "Shakuhachi"
+        },
+        {
+            "idx": "61",
+            "question": "Quel est le nom de la pratique japonaise de réparer la poterie cassée avec de la laque en or ou en argent?",
+            "answer": "Kintsugi"
+        },
+        {
+            "idx": "13",
+            "question": "Quelle est la soupe japonaise traditionnelle faite à partir de pâte de soja fermentée?",
+            "answer": "Miso soup"
+        },
+        {
+            "idx": "51",
+            "question": "Quelle ville japonaise est connue pour son ancien quartier commerçant et sa zone de canaux?",
+            "answer": "Kurashiki"
+        },
+        {
+            "idx": "104",
+            "question": "Quelle ville japonaise est connue pour ses industries technologiques et son château historique?",
+            "answer": "Osaka"
+        },
+        {
+            "idx": "201",
+            "question": "Quelle préfecture japonaise est connue pour ses anciens cèdres et est classée au patrimoine mondial de l'UNESCO?",
+            "answer": "Yakushima"
+        },
+        {
+            "idx": "210",
+            "question": "Quel est le nom de l'auberge japonaise traditionnelle?",
+            "answer": "Ryokan"
+        },
+        {
+            "idx": "116",
+            "question": "Quel est le nom du service de train à grande vitesse reliant Tokyo à Osaka?",
+            "answer": "Shinkansen"
+        },
+        {
+            "idx": "147",
+            "question": "Quelle chaîne de montagnes traverse la partie centrale de Honshu, au Japon?",
+            "answer": "Les Alpes japonaises"
+        },
+        {
+            "idx": "37",
+            "question": "Quel est le nom du saké japonais?",
+            "answer": "Sake"
+        },
+        {
+            "idx": "128",
+            "question": "Quelle île du Japon est connue pour son climat subtropical et sa culture Ryukyuan distincte?",
+            "answer": "Okinawa"
+        },
+        {
+            "idx": "125",
+            "question": "Quelle ville japonaise est connue pour produire la majorité du sake domestique du Japon?",
+            "answer": "Kobe"
+        },
+        {
+            "idx": "151",
+            "question": "Quel est le nom de l'auberge traditionnelle où les voyageurs peuvent séjourner tout en découvrant l'hospitalité japonaise?",
+            "answer": "Ryokan"
+        },
+        {
+            "idx": "97",
+            "question": "Quel est le terme japonais pour la noblesse militaire du Japon médiéval et de l'époque moderne?",
+            "answer": "Samurai"
+        },
+        {
+            "idx": "57",
+            "question": "Quel est le nom du festival bouddhiste japonais dédié aux esprits des ancêtres?",
+            "answer": "Obon"
+        },
+        {
+            "idx": "17",
+            "question": "Quel est le nom du plat japonais qui consiste en une côtelette de porc panée et frite?",
+            "answer": "Tonkatsu"
+        },
+        {
+            "idx": "64",
+            "question": "Quelle ville japonaise est célèbre pour son mémorial de la paix et son dôme de la bombe atomique?",
+            "answer": "Hiroshima"
+        },
+        {
+            "idx": "205",
+            "question": "Quelle ville japonaise est connue pour son marché traditionnel de poterie et de céramique?",
+            "answer": "Mashiko"
+        },
+        {
+            "idx": "218",
+            "question": "Quel est le terme japonais pour les nœuds décoratifs utilisés dans les obi (ceintures de kimono)?",
+            "answer": "Obijime"
+        },
+        {
+            "idx": "79",
+            "question": "Quelle île japonaise est connue pour ses sources chaudes et ses stations de ski?",
+            "answer": "Hokkaido"
+        },
+        {
+            "idx": "231",
+            "question": "Quelle ville japonaise est célèbre pour sa forêt de bambous?",
+            "answer": "Kyoto (Arashiyama)"
+        },
+        {
+            "idx": "10",
+            "question": "Quelle ville japonaise est connue pour ses résidences historiques de samouraïs?",
+            "answer": "Kakunodate"
+        },
+        {
+            "idx": "45",
+            "question": "Quelle ville japonaise est connue pour son importance historique en tant que première capitale du Japon?",
+            "answer": "Nara"
+        },
+        {
+            "idx": "106",
+            "question": "Quel est le nom de l'ère japonaise qui s'est terminée en 2019?",
+            "answer": "Heisei"
+        },
+        {
+            "idx": "77",
+            "question": "Quel est le terme japonais pour l'esthétique qui consiste à apprécier la beauté dans l'imperfection?",
+            "answer": "Wabi-sabi"
+        },
+        {
+            "idx": "42",
+            "question": "Quelle ville japonaise est connue pour ses artisanats traditionnels et son art populaire, y compris la laque?",
+            "answer": "Kanazawa"
+        },
+        {
+            "idx": "204",
+            "question": "Quelle ville japonaise est connue pour son festival annuel de la neige avec de grandes sculptures de glace?",
+            "answer": "Sapporo"
+        },
+        {
+            "idx": "41",
+            "question": "Quel est le nom du sabre japonais qui est plus petit qu'un katana mais plus grand qu'un tanto?",
+            "answer": "Wakizashi"
+        },
+        {
+            "idx": "83",
+            "question": "Comment s'appelle la philosophie japonaise qui consiste à trouver la beauté dans l'imperfection?",
+            "answer": "Wabi-sabi"
+        },
+        {
+            "idx": "111",
+            "question": "Quel est le nom du plus long fleuve du Japon?",
+            "answer": "Fleuve Shinano"
+        },
+        {
+            "idx": "161",
+            "question": "Quel est le nom du système d'écriture japonais utilisant des caractères dérivés du script chinois?",
+            "answer": "Kanji"
+        },
+        {
+            "idx": "68",
+            "question": "Comment s'appelle la nourriture traditionnelle du Nouvel An japonais?",
+            "answer": "Osechi"
+        },
+        {
+            "idx": "212",
+            "question": "Quelle île japonaise est la plus proche de l'Asie continentale?",
+            "answer": "Kyushu"
+        },
+        {
+            "idx": "237",
+            "question": "Quelle est la plus grande et la plus peuplée île du Japon?",
+            "answer": "Honshu"
+        },
+        {
+            "idx": "179",
+            "question": "Quelle ville japonaise est connue pour son architecture moderne et Universal Studios?",
+            "answer": "Osaka"
+        },
+        {
+            "idx": "208",
+            "question": "Quel festival au Japon est célèbre pour ses feux d'artifice spectaculaires?",
+            "answer": "Festival de feux d'artifice du fleuve Sumida"
+        },
+        {
+            "idx": "120",
+            "question": "Quelle est l'arts martiaux japonais connu pour sa concentration sur le combat à l'épée?",
+            "answer": "Kendo"
+        },
+        {
+            "idx": "154",
+            "question": "Quelle est la forme traditionnelle de théâtre japonais avec un maquillage élaboré et des costumes?",
+            "answer": "Kabuki"
+        },
+        {
+            "idx": "230",
+            "question": "Quelle ville japonaise est connue pour ses techniques traditionnelles de teinture indigo?",
+            "answer": "Tokushima"
+        },
+        {
+            "idx": "191",
+            "question": "Quelle île japonaise est connue pour son dialecte unique et son identité culturelle distincte?",
+            "answer": "Kyushu"
+        },
+        {
+            "idx": "113",
+            "question": "Quel traité a effectivement mis fin à la politique de sakoku (isolement) du Japon en 1854?",
+            "answer": "Traité de Kanagawa"
+        },
+        {
+            "idx": "127",
+            "question": "Quel est le nom du bâtiment du parlement japonais?",
+            "answer": "Palais du Parlement"
+        },
+        {
+            "idx": "66",
+            "question": "Comment s'appelle l'art japonais de l'appréciation de l'encens?",
+            "answer": "Kodo"
+        },
+        {
+            "idx": "31",
+            "question": "Comment s'appelle le concept japonais d'amélioration continue?",
+            "answer": "Kaizen"
+        },
+        {
+            "idx": "47",
+            "question": "Quel château japonais est connu pour sa conception défensive complexe et efficace?",
+            "answer": "Château de Himeji"
+        },
+        {
+            "idx": "89",
+            "question": "Comment s'appelle l'art traditionnel japonais du pliage de papier?",
+            "answer": "Origami"
+        },
+        {
+            "idx": "95",
+            "question": "Quelle ville japonaise est connue pour son importance historique dans le développement de la porcelaine japonaise?",
+            "answer": "Arita"
+        },
+        {
+            "idx": "152",
+            "question": "Quel est le nom du sanctuaire shinto sacré situé à Ise?",
+            "answer": "Grand sanctuaire d'Ise"
+        },
+        {
+            "idx": "174",
+            "question": "Quel personnage historique japonais est connu pour avoir unifié le pays à la fin du XVIe siècle?",
+            "answer": "Oda Nobunaga"
+        },
+        {
+            "idx": "184",
+            "question": "Quelle préfecture japonaise est connue pour ses récifs coralliens et sa culture insulaire unique?",
+            "answer": "Okinawa"
+        },
+        {
+            "idx": "203",
+            "question": "Quelle est la philosophie japonaise qui met l'accent sur l'amélioration continue?",
+            "answer": "Kaizen"
+        },
+        {
+            "idx": "76",
+            "question": "Quelle ville japonaise est connue pour son district électronique et sa culture otaku?",
+            "answer": "Akihabara"
+        },
+        {
+            "idx": "88",
+            "question": "Comment s'appelle la forme traditionnelle japonaise de lutte?",
+            "answer": "Sumo"
+        },
+        {
+            "idx": "148",
+            "question": "Quelle est la forme traditionnelle de théâtre japonais avec des castings entièrement masculins?",
+            "answer": "Kabuki"
+        },
+        {
+            "idx": "46",
+            "question": "Quel est le nom de la ligue professionnelle de football au Japon?",
+            "answer": "J.League"
+        },
+        {
+            "idx": "232",
+            "question": "Quel est le terme japonais pour 'bande dessinée' ou 'roman graphique'?",
+            "answer": "Manga"
+        },
+        {
+            "idx": "175",
+            "question": "Quelle ville japonaise est connue pour son château historique, considéré comme l'un des sites du patrimoine culturel les plus précieux du pays?",
+            "answer": "Himeji"
+        },
+        {
+            "idx": "235",
+            "question": "Quelle ville japonaise est connue pour sa statue géante du Bouddha en bronze, l'une des plus grandes du Japon?",
+            "answer": "Kamakura"
+        },
+        {
+            "idx": "176",
+            "question": "Quelle préfecture japonaise est connue pour ses forêts anciennes et ses routes de pèlerinage?",
+            "answer": "Wakayama"
+        },
+        {
+            "idx": "23",
+            "question": "Quel est le nom du train à grande vitesse maglev en développement au Japon?",
+            "answer": "Chuo Shinkansen"
+        },
+        {
+            "idx": "16",
+            "question": "Quelle île japonaise est la plus grande?",
+            "answer": "Honshu"
+        },
+        {
+            "idx": "40",
+            "question": "Comment s'appelle le terme japonais pour une séance de boisson après le travail qui sert de lien entre collègues?",
+            "answer": "Nomikai"
+        },
+        {
+            "idx": "73",
+            "question": "Quel festival japonais implique danse et tambours en été?",
+            "answer": "Festival Bon (Obon)"
+        },
+        {
+            "idx": "102",
+            "question": "Quel est le vêtement traditionnel japonais qui ressemble à une robe?",
+            "answer": "Kimono"
+        },
+        {
+            "idx": "130",
+            "question": "Comment s'appelle la cérémonie traditionnelle du thé japonais?",
+            "answer": "Chanoyu ou Sado"
+        },
+        {
+            "idx": "80",
+            "question": "Quelle est la porte coulissante japonaise traditionnelle faite de bois et de papier?",
+            "answer": "Shoji"
+        },
+        {
+            "idx": "186",
+            "question": "Quelle ville japonaise est connue pour son rôle en tant que grande base navale et site historique du débarquement du commodore Perry?",
+            "answer": "Yokosuka"
+        },
+        {
+            "idx": "138",
+            "question": "Quel est le art martial japonais qui se concentre sur la lutte et le combat au sol?",
+            "answer": "Judo"
+        },
+        {
+            "idx": "103",
+            "question": "Quel est le terme utilisé pour désigner les films et émissions de télévision animés japonais?",
+            "answer": "Anime"
+        },
+        {
+            "idx": "7",
+            "question": "Quel est le nom de l'indice boursier japonais qui suit la performance des entreprises de taille moyenne?",
+            "answer": "TOPIX"
+        },
+        {
+            "idx": "158",
+            "question": "Quelle ville japonaise est connue pour son festival international du film axé sur le cinéma asiatique?",
+            "answer": "Tokyo"
+        },
+        {
+            "idx": "194",
+            "question": "Quel est le nom du plat japonais fermenté à base de soja appelé?",
+            "answer": "Natto"
+        },
+        {
+            "idx": "181",
+            "question": "Quel est le mot japonais pour 'enseignant', souvent utilisé pour désigner ou s'adresser à des enseignants et maîtres en arts martiaux?",
+            "answer": "Sensei"
+        },
+        {
+            "idx": "38",
+            "question": "Quelle île japonaise est connue pour son éloignement et son climat subtropical?",
+            "answer": "Okinawa"
+        },
+        {
+            "idx": "72",
+            "question": "Quel est le nom de la danse traditionnelle indigène des Aïnous au Japon, reconnue par l'UNESCO?",
+            "answer": "Danse Ainu"
+        },
+        {
+            "idx": "195",
+            "question": "Quel est le terme japonais pour l'esthétique qui trouve la beauté dans la simplicité et la retenue?",
+            "answer": "Shibui"
+        },
+        {
+            "idx": "69",
+            "question": "Quel est le terme japonais pour le conseil et le comité de politique de l'empereur?",
+            "answer": "Conseil de la famille impériale"
+        },
+        {
+            "idx": "8",
+            "question": "Quel est le nom de l'art japonais du pliage de papier en formes décoratives?",
+            "answer": "Origami"
+        },
+        {
+            "idx": "140",
+            "question": "Quel est le terme japonais pour les panneaux de séparation utilisés pour diviser les espaces dans une pièce?",
+            "answer": "Fusuma"
+        },
+        {
+            "idx": "144",
+            "question": "Quel est le terme japonais pour le papier décoratif utilisé dans l'artisanat traditionnel comme l'origami?",
+            "answer": "Washi"
+        },
+        {
+            "idx": "36",
+            "question": "Quel est le nom du système japonais qui utilise principalement des caractères pour les mots japonais natifs?",
+            "answer": "Hiragana"
+        },
+        {
+            "idx": "60",
+            "question": "Quel est le festival japonais où les enfants portent des casques de samouraï ou des kimonos pour célébrer la croissance et le bonheur?",
+            "answer": "Fête des enfants"
+        },
+        {
+            "idx": "99",
+            "question": "Quelle ville du Japon a été la première à être attaquée par une bombe atomique?",
+            "answer": "Hiroshima"
+        },
+        {
+            "idx": "166",
+            "question": "Quelle ville japonaise est connue pour accueillir la première Paralympiade d'hiver en Asie?",
+            "answer": "Nagano"
+        },
+        {
+            "idx": "145",
+            "question": "Quel est le nom de la période durant laquelle le Japon était sous le règne de l'empereur et a connu une influence occidentale significative?",
+            "answer": "Période Meiji"
+        },
+        {
+            "idx": "178",
+            "question": "Quel est le nom du sabre japonais connu pour sa lame courbée, fine et à un seul tranchant?",
+            "answer": "Katana"
+        }
+    ]
+}
